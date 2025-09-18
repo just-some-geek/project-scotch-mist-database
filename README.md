@@ -31,6 +31,7 @@ is a letter designation describing the type of information contained in a file. 
 |   T   | Trinkets   | Files for items, objects, and unique tech.<br>E.g.: [[MetroKey]] and [[Sterling (currency)]]                                                                                                                                             |
 |   S   | Society    | Files for cultural practices, traditions, and belief systems.<br>E.g.: [[Memorial Day]] and [[Eikan honorifics]]                                                                                                                         |
 |   M   | Media      | Files for pieces of in-universe media, whether written, visual, or auditory.<br>E.g.: [[Why We Fight (film series)]] and [[Long Night of Silence (book)]]                                                                                |
+</br>
 These classifications are intended to guide team members in determining how to approach using the information in these files to best effect.
 
 Remember: our goal is to create a consistent, fleshed-out world for our audience to immerse themselves in. We are not here to lore-dump about the intricate details of Sterlian governance, the inner workings of a reprogrammable key card, or the endless anachronisms that our setting has. Use your best judgement in deciding when and how, or even if, this content is used.
