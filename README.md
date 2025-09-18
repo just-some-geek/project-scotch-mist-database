@@ -1,7 +1,7 @@
 # project-scotch-mist-database
 
 **An Introduction to the Scotch Mist Project Worldbuilding Wiki**
-*For Team Members' Eyes Only*
+</br>*For Team Members' Eyes Only*
 
 The following series of documents is a Wikipedia-style encyclopedia detailing the world built for the Scotch Mist Project. These are written to serve as a guide for the developers, artists, actors, musicians, and other team members in constructing a more immersive rendition of this world.
 
@@ -40,6 +40,6 @@ I wish you the best of luck, and hope that we can make something beautiful toget
 And for the love of all that is good, please refrain from info-dumping. (Ignore the fact that that is exactly what I am doing to you now.)
 
 ---
-Habagat
-Lead Worldbuilder
+Habagat</br>
+Lead Worldbuilder</br>
 Studio *Mooneater*
