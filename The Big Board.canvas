@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"bf7de348a35e30c2","type":"file","file":"Project SM Database/The Timeline/The Great War.md","x":-266,"y":-1160,"width":286,"height":111},
+		{"id":"2e64a327ba4a5e6e","type":"file","file":"Project SM Database/The Timeline/Foundation of the Commonwealth.md","x":-760,"y":-719,"width":313,"height":199},
+		{"id":"56db12865b52294e","type":"file","file":"Project SM Database/The Timeline/Kaigaishiman Crisis.md","x":-480,"y":480,"width":396,"height":111},
+		{"id":"cb8b92e7521e8329","type":"file","file":"Project SM Database/The Timeline/Parliamentary Crisis of 1953.md","x":-400,"y":-280,"width":400,"height":85},
+		{"id":"941b4c683aa3abbe","type":"file","file":"Project SM Database/The Timeline/Shenzhou War.md","x":20,"y":80,"width":300,"height":111}
+	],
+	"edges":[
+		{"id":"932568bc1448ba24","fromNode":"bf7de348a35e30c2","fromSide":"bottom","toNode":"2e64a327ba4a5e6e","toSide":"top"},
+		{"id":"94d399fefcd370da","fromNode":"2e64a327ba4a5e6e","fromSide":"bottom","toNode":"cb8b92e7521e8329","toSide":"top"},
+		{"id":"c103de9f9e2cf977","fromNode":"cb8b92e7521e8329","fromSide":"bottom","toNode":"941b4c683aa3abbe","toSide":"top"},
+		{"id":"82a20cce7a0d17f9","fromNode":"941b4c683aa3abbe","fromSide":"bottom","toNode":"56db12865b52294e","toSide":"top"}
+	]
+}

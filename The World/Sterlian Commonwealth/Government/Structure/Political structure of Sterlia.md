@@ -1,0 +1,1 @@
+The **political structure of the Sterlian Commonwealth** 
