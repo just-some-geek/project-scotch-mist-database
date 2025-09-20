@@ -4,7 +4,7 @@
 
 **Kaigaishima** is the largest and most populous island in the [[Chendai Archipelago]], serving as a major trade hub and the capital of the [[Far Eastern Territories]] of the [[Sterlian Commonwealth]].
 
-#Geography #Tier-1 
+#Tier-1 #Geography
 ## Table of Contents
 ---
 1) Etymology
@@ -22,9 +22,9 @@ The name "Kaigaishima" is an [[Eikan Empire|Eikan]] exonym meaning "foreign isla
 ---
 Major human presence in the [[Chendai Archipelago]] is first dated to about 6000 years ago, during the **Middle Neolithic**. The semi-coastal **Shen** people built the first settlements along the [[Shenzhou]] coast. Artifacts from the northern region of the island indicates rice cultivation and agriculture around this time as well.
 
-Around 200 BCE, the settlements on Kaigaishima were integrated into the **Shen Empire**, bringing it into the fold of the wider Shenzhou world. By the time of the **Zhou Dynasty**, the archipelago was under the control of a few prominent families.
+Around 200 BCE, the settlements on Kaigaishima were integrated into the **Shen Empire**, bringing it into the fold of the wider continental system. By the time of the **Zhou Dynasty**, the archipelago was under the control of a few prominent families.
 
-The earliest known Western visitors came in the early 1500s, when [[San Sebastian|Sebastiano]] explorer **Miguel de los Alvarez** met with a local king.
+The earliest known Western visitors came in the early 1500s, when [[San Sebastian|Sebastiano]] explorer **Miguel de los Alvarez** met with a local (*Chinese word for regional lord*).
 
 ## Geography
 ---
@@ -61,7 +61,9 @@ As one of the world's largest commercial ports and the main Sterlian financial c
 ---
 *Main Article: Population of Kaigaishima*
 
-The population of Kaigaishima is predominantly of Shenzhou descent, 
+The 1955 census of the 
+
+The population of Kaigaishima is predominantly of Shenzhou descent (, with a significant
 ## Culture
 ---
 *Main Article: Culture of Kaigaishima*
@@ -81,7 +83,7 @@ Kaigaishima is home to [[Imperial Broadcasting Service]] East,
 #### Sport and Recreation
 Despite its small area, the island is home to a variety of sports and recreational facilities.
 
-The **Albertine Valley Country Club** holds a near-monopoly over the island's legal gambling market, which generates over 370 million Sterlia every year. As casinos are banned on the island, the AVCC generates income through lotteries, sports betting, and horse racing. The annual **Prince Albert Stakes**, part of the Commonwealth Cup series, reportedly draws over 10,000 attendees.
+The **Albertine Valley Country Club** holds a near-monopoly over the island's legal gambling market, which generates over 370 million Sterling every year. As casinos are banned on the island, the AVCC generates income through lotteries, sports betting, and horse racing. The annual **Prince Albert Stakes**, part of the Commonwealth Cup series, reportedly draws over 10,000 attendees.
 
 The island also has an active nightlife scene. Many eateries and cafés in the **Lasky** district stay open until midnight to cater to students and office workers, and the density of nightclubs and motels in **Nemui** make it the largest red-light district in the Commonwealth.
 
@@ -92,9 +94,11 @@ Several historic facilities and locations are operated or regulated by the Sterl
 
 Education in Kaigaishima is largely modelled on that of the [[Sterlian Commonwealth]], particularly the **Sterlian System**. Children are required to attend school in two stages: primary education at age 6. and secondary education at age 18. Upon completion of secondary education, all students take the [[Sterlian Civil Service Examination]] and are certified for both tertiary education and government service.
 
-Mandatory education has resulted in the highest literacy rate in the Far East at 89.9%, though this number is diminished by the influx of refugees from the [[Shenzhou]] mainland as a result of the [[Shenzhou War]].
-
+Mandatory education on Kaigaishima has resulted in the highest literacy rate in the Far Eastern Territories at 89.9%, though this number is diminished by the influx of refugees from the [[Shenzhou]] mainland as a result of the [[Shenzhou War]].
 #### Medium of Instruction
+**Sterlian** is the official medium of instruction at all levels of education, keeping with the administration's "Common Language for the Commonwealth" policy.
+
+Secondary schools emphasize bi-literacy and multilingualism, encouraging
 
 #### Tertiary Education
 Kaigaishima has three universities. [[St. Ignatius University]] (SIU) was founded as the island's first institute of higher education during the early colonial period in 1859 by [[San Sebastian|Sebastiano]] missionaries. While initially a small private institution, it was eventually expanded and granted university status in 1898.

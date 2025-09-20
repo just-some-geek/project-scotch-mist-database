@@ -1,6 +1,6 @@
 The **Imperial Broadcasting Service** is a public service broadcaster operated by the [[Sterlian Commonwealth|Sterlian]] government and headquartered at the Herstford Palace north of The City. Originally established as the Sterlian Broadcasting Corporation, it was integrated into the government apparatus during the [[The Great War|Great War]]. As the oldest and largest global broadcaster, the IBS holds significant influence over the flow of information and culture across the globe.
 
-#Tier-2 
+#Tier-2 #Factions 
 ## Table of Contents
 ---
 1) History
