@@ -11,7 +11,7 @@ The **Imperial Broadcasting Service** is a public service broadcaster operated b
 #### Sterlian Broadcasting Corporation
 The IBS's predecessor, the Sterlian Broadcasting Corporation, was established in 1903 during the merger of **Sterlian Sound**, a major music production label, and **The Daily Courier**, the largest newspaper in the Home Isles. The SBC constituted the mass media arm of the **Media Trust** monopoly, which dominated the flow of information throughout the 1900s and 1910s.
 
-At the onset of the [[The Great War|Great War]], the Sterlian government gained control of the SBC through the [[DORA Act (1914)|DORA Act of 1914]]. While an official state media company already existed at the time, severe underfunding of the Ministry of Public Affairs (now the [[Ministry of Truth]]) forced the acquisition of the company to facilitate wartime censorship and information control measures.
+At the onset of the [[The Great War|Great War]], the Sterlian government gained control of the SBC through the [[DORA Act (1914)|DORA Act of 1914]]. While an official state media company already existed at the time, severe underfunding of the Ministry of Public Affairs (now the [[Ministry of Public Enlightenment and Propaganda]]) forced the acquisition of the company to facilitate wartime censorship and information control measures.
 
 #### Expansion of the IBS
 As the [[Sterlian Commonwealth|Sterlian Empire]] expanded its influence across the world, the IBS set up branch offices in Sterlian-controlled territories. These offices are listed below in the order of their establishment.

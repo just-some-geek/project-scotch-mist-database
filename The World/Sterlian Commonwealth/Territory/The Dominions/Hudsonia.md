@@ -2,6 +2,7 @@
 
 **Hudsonia** is a state within the [[Sterlian Commonwealth]] located in North {america continent}. Its 17 provinces cover the lands between {Ocean A} in the west, {Ocean B} in the east, and {Ocean C} in the north.
 
+#Tier-5 #Geography 
 ## Table of Contents
 ---
 1) Etymology

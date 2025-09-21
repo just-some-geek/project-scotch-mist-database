@@ -37,7 +37,11 @@ Kaigaishima has a humid subtropical climate, with long, hot, and humid summers c
 
 Due to the industrial development of the West region, as well as the recent proliferation of automobiles, air pollution is a significant issue on the island. Air quality indexes frequently reach upwards of 100 ppm of pollutants during peak hours in the spring.
 #### Architecture
-Kaigaishima's architecture, like its geography, is divided between the banks of the **North River**. The rural northern areas have mostly detatched single-family homes.
+Kaigaishima's architecture, like its geography, is divided along the banks of the **Twin Rivers**.
+
+The rural northern areas are littered with small villages built in the traditional Eikan style, 
+
+The southern island is dominated by large informal housing complexes built from wood, paper, and sheet metal.
 ## Government and Politics
 ---
 *See also:* [[Districts of Kaigaishima]]
@@ -70,7 +74,7 @@ The population of Kaigaishima is predominantly of Shenzhou descent (, with a sig
 
 Kaigaishiman culture is characterized by a hybrid of East and West. Traditional [[Culture of Shenzhou|Shenzhen]] and [[Culture of the Eikan Empire|Eikan]] values emphasizing higher education, spirituality, and the nuclear family are blended with [[Culture of the Sterlian Commonwealth|Sterlian]] ideals of individual liberties and the rule of law. The island's colonial history and strategic location, combined with immigration from the [[Far Eastern Territories]], has resulted in a distinct local identity.
 #### Cuisine
-
+Kaigaishiman cuisine is a fusion of the cuisines of its population groups.
 
 #### Language
 There are three main languages used in Kaigishima: Sterlian, Eikan, and Lower Shenzhen.

@@ -2,6 +2,7 @@
 
 The **Dominions** are self-governing states within the [[Sterlian Commonwealth|Sterlian Commonwealth]] characterized by advanced economic development, a centralized bureaucracy, and a great degree of political autonomy. These are effectively semi-independent nations aligned to the Commonwealth through cultural and economic ties, rather than active political control.
 
+#Tier-4 #General 
 ## List of Dominions
 ---
 As of 1957, four states of the Commonwealth have been granted Dominion status, listed below in chronological order.

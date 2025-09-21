@@ -1,5 +1,6 @@
 (lead section)
 
+#Tier-4 #Events
 ## Background
 ---
 The formation of the [[Sterlian Commonwealth|Sterlian Commonwealth]] is rooted in the Representation Movement of the late 1850s, wherein major colonies of the Sterlian Empire campaigned, in general, for a better position within it. These included calls for greater autonomy of the colonies, equal rights among its citizens, and political representation within [[Sterlian Parliament|Parliament]].

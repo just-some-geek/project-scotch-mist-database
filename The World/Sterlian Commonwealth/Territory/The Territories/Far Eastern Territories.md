@@ -2,6 +2,7 @@
 
 (header section)
 
+#Tier-3 #Geography 
 ## Table of Contents
 ---
 1) Body Section

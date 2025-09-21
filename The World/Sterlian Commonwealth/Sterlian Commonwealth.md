@@ -27,7 +27,7 @@ A parliamentary crisis in 1953 left the central government paralyzed,
 
 As of 1957, the Sterlian Commonwealth is at its territorial peak, directly or indirectly controlling almost a third of the world's population and land area. However, the rise of rival powers and independence movements threaten to rip the overstretched nation apart, especially in the outer territories.
 
-#Factions #Tier-1 
+#Tier-1 #Factions 
 
 ---
 ## History

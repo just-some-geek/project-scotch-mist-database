@@ -9,3 +9,8 @@ The [[Culture of the Eikan Empire]] is defined by its duality. Discipline, order
 Recent geopolitical conflict with the [[Sterlian Commonwealth]] has led to increased militarization in government and society, as well as international isolation. Its government has stated its intentions to "help free the peoples of the Far East from imperialist oppression" through national trade agreements, foreign investment, and alleged support for terrorist and revolutionary groups across the Far East.
 
 As of 1957, the Eikan Empire
+
+#Tier-2 #Factions 
+
+---
+A

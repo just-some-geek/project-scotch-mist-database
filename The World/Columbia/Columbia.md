@@ -2,8 +2,9 @@
 
 The **Columbian Federation**, also known colloquially as **Columbia**, is a country located primarily on the (insert) continent. 
 
+#Tier-3 #Factions 
 
-
+---
 
 
 
