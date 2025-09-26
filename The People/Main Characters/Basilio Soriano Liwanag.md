@@ -90,3 +90,26 @@ So being the main photographer of The Kingfisher, Willard decided to let Basilio
 With this newfound popularity, The Kingfisher expands its operations. Basilio’s point of no return is deciding with The Kingfishers whether or not to publish the Northwind papers, documents found by a government official Olivia Northwind. Documents that contained supposed proof that The Representation Referendum (A.P. 1080) is to be rigged towards a specific outcome.  
   
 His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup. Whether or not the Sterlians manage to push back the Eikan advance will be determined by other factors that Basilio may or may not influence.
+
+### Quotes
+---
+Self Introduction:  
+“Hm? Oh, my name is Basilio Liwanag. Yes, Liwanag. It’s okay if you can’t pronounce my name right away, most people don’t.”  
+
+On My Name:
+“My surname’s Liwanag. Lee-wah-nahg. Not Liwa-nag, not Lie-wa-nag. Li-wa-nag. It means ‘bright’, which is rather fitting if SIU had anything to say about it. Basilio on the other hand, I have no idea. You’ll get it eventually.”
+
+On Kaigaishima:  
+“The place is interesting, I will tell you that much. Coming from someone who had zero expectations of this island.”  
+  
+On SIU:  
+“I’m inclined to believe that it is the best university here, it’s just a shame that the most privileged are the ones here. Not that they’re undeserving, it’s clear that they’re intelligent. I just know many who deserve it who can’t be here because of factors out of their control.”  
+  
+On Those Who Came Before Me:  
+“Have you heard the Isaac Newton quote? ‘If I have seen further, it is by standing on the shoulders of giants?’ I feel that way a lot, but not really. It’s not giants I’m standing on, and it’s not seeing further, if that makes sense. I sit on the shoulders of a person who is sitting on the shoulders of another and so on. Down and down infinitely. I exist at all because of everyone before me, not just giants, not just the big important ones. The result of a million small things. When you look at the past, it’s humans all the way down. I’d change the quote to ‘If I exist at all, it's by resting on the hands of the dead’. Is that a stupid thing to say?”  
+  
+On Relationships:  
+“Socializing is exhausting. This isn’t coming from a lack of desire, don’t think that. They’re bridges that require constant maintenance, and it’s easier when both sides help with the upkeep.”  
+  
+On Proximity:  
+“The reason why friendships are born is because of closeness, but that doesn’t mean the two parties are actually friends. If they were truly friends, it would extend beyond the environment they’re forced to be in. Are you only friends because you’re coworkers, neighbors, classmates? Or is there something more?”

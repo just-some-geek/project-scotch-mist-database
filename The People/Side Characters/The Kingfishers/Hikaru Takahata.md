@@ -32,3 +32,17 @@ Height: 5'10
     
 
 Ambidexterous
+
+### Quotes
+---
+Self Introduction:  
+“Hikaru Takahata です. ああの... You know I don’t really know what else to say other than my name.”  
+  
+On Dreams:  
+“Sometimes I’d like to dream about pretty things, like other people!”  
+  
+On Loss:  
+“There are people I’ve lost, people I’ve loved. I’ve missed them a lot, but you can’t do anything about that anymore. I’ve dealt with it my way, everyone deals with it in their own way.”  
+  
+Goodbye :  
+“If at least one of us remembers this, I hope you’ll stretch your hand out like this and ask to be friends again.”

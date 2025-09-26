@@ -1,6 +1,6 @@
 **Secretary of the Royal Admiralty**
 
-**Olivia Armitage Northwind** is a secretary for the [[Sterlian Armed Forces]]
+**Olivia Armitage Northwind** is a secretary for the [[Sterlian Commonwealth Armed Forces]]
 
 #Tier-1 #Characters 
 
@@ -79,3 +79,20 @@ However, the more she gets involved with aspects such as policy and enforcement,
   
 
 Her story ends with whether or not she decides to stay and help the island or whether or not she flees.
+
+### Quotes
+---
+Self Introduction:
+“Do you need something? No? Well regardless, my name is Olivia Northwind. Yes, that Northwind.”
+
+On Admiral Northwind:
+“My dad’s been working here for 10 years or so by this point. You’d think he’d take a break at some point to spend some time with his daughter, but no, he just gives me more work.”  
+  
+On Change:  
+“‘Things change but stay the same’ sounds like an asinine saying, sadly I find it to be true. We’ll all have the same struggles, joys and situations, it will just have a different layer of paint on it. That’s what happens with people, we look different over the years but our nature is constant.”  
+  
+On The Faith:  
+“I wish I believed, it would make things a lot more simple.”  
+  
+On Joseph:  
+“He’s… earned my respect. I didn’t trust him at first but he’s shown time and time again that he is a capable man. I don’t know how he manages to keep going, would you believe me if I told you he played this ball game with Shenzhen kids in his spare time? The gall to be so carefree at a time like this.”

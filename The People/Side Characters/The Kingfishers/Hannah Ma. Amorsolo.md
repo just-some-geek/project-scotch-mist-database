@@ -27,3 +27,11 @@ Height: 5’1
 - Her first/current series is a romance story between two immigrants. When asked if this is inspired by real life events, she will vehemently deny the question.
     
 - Cathy from Until Then
+
+### Quotes
+---
+Self Introduction:  
+“Sorry Ma’am/Sir, were you looking for me? Hannah Amorsolo, did you need anything?”
+
+On Home Cooking
+“I agree that women belong in the kitchen, but only because most men who say that can’t cook for shit.”

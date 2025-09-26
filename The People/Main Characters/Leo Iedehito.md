@@ -58,3 +58,27 @@ Arriving at the university
 Joins the Kingfishers as a Photographer, really good at getting damn near anywhere.
 
 Point of No Return when sent on a suicide mission into a government meeting to confirm the Northwind leaks.
+
+### Quotes
+---
+Self Introduction:  
+“My name’s Leo. Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  
+  
+On Stress:  
+“People are so angry nowadays, all caught up in their routines and things. I just wish people would make some time, take it easy. Not all the time, just sometimes.”  
+  
+On Time and the Future:  
+“There was an old man who lived in the corner of the street I lived in. He was the kind of old man who would give you old man advice. When I was young he told me that there was no need to rush things. ‘The best is yet to come’.”  
+  
+On Learning Other Languages:  
+“As a kid my parents sent me to a foreign-language school and our neighborhood had a lot of traders from other countries. I learned quickly, but I’m not as good as you think I am.”  
+  
+On Basilio:  
+“Even though we go to different universities he’s been a huge help. I met him at a restaurant after we got into a fight with some fraternity guys.
+
+  
+On PMU:  
+“It’s great! It was scary at first but the campus is really pretty and I’m learning a lot. I just hope they don't, you know. Find out..”
+
+On National Pride:
+“It's a common sentiment where I'm from. Eikans should honor their nation for our empire is holy, the emperor holy. If you go against the nation, you go against your fellow man. I'm not here to talk about religion but I don't think the nation works for fellow men.”

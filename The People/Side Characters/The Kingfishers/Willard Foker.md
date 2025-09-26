@@ -33,3 +33,14 @@ Height: 5’7
 - Technically a big brother because he came out the womb first.
     
 - Design will be based off of young Damon Albarn
+
+### Quotes
+---
+Self Introduction:  
+“Willard, school photographer! That’s my name. Maya’s brother, older brother. By about 4 minutes!”  
+  
+On Youth:  
+“Everyone grows up at some point, physically at least. For me, I don’t know if people have always called me childish. I hope I’m still a child when I turn 25, 30, and then some.”  
+  
+On Winter:  
+“It doesn’t snow often here, but when it does? It’s basically Christmas for me. Well it is usually Christmas when it snows. You understand though right?”

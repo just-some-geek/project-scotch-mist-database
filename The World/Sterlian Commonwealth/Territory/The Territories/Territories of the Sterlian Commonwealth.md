@@ -8,5 +8,5 @@ The **Territories** are a type of administrative subdivision in the [[Sterlian C
 As of 1957, three areas of the Commonwealth are classified as Territories. These are listed below in chronological order of formation, plus primary reasons for their ineligibility for Dominionhood.
 
 - [[Kalifati Territory]]
-- [[North Alkebulan Territories]]
+- [[North Iffranikan Territories]]
 - [[Far Eastern Territories]]

@@ -73,3 +73,20 @@ A secret ending can be achieved by manipulating people on the inside of the Ster
 
   
 Epilogue is Mi Ultimo Adios
+
+### Quotes
+---
+Self Introduction:  
+“It’s a pleasure to meet you, my name is Li Zenghui. Although I’ve taken the name Joseph for now. Do you have business you wish to discuss?”  
+  
+On Faith:  
+“I have a lot of faith in God, who else am I supposed to put my faith in, people?”  
+  
+On Home:  
+“I have a lot of love for this island, because I owe much to it. My life, my upbringing, my education, my beliefs. So I will offer it my time, effort and happiness, until my people are happy too.”  
+  
+On Politics:  
+“As much as I would love to discuss this with you. Let’s not, at least not here. As the saying goes, these walls have eyes and ears. They have mouths too, and they’re quite the gossipers.”
+
+On What Comes After:  
+“I’m not afraid of death, because I think I’ll live forever.”

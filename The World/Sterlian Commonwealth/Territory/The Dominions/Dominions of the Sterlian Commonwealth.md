@@ -8,14 +8,14 @@ The **Dominions** are self-governing states within the [[Sterlian Commonwealth|S
 As of 1957, four states of the Commonwealth have been granted Dominion status, listed below in chronological order.
 
 - [[Hudsonia]] (1867)
-- [[Sinotistan]] (1877)
+- [[Sterlian Raj]] (1877)
 - [[Newstrynia]] (1901)
 - [[Kaapstaat]] (1910)
 
 Proposals to extend Dominion status to other states in the Commonwealth are common, with the most recent being the Representation Act of 1957. This bill proposes the promotion of the following territories, based on their level of development and importance to the Commonwealth:
 
 - [[Far Eastern Territories|Kaigaishima]] & the Shenzhou Territory
-- [[North Alkebulan Territories]]
+- [[North Iffranikan Territories]]
 - [[Kalifati Territory]]
 
 ## See Also

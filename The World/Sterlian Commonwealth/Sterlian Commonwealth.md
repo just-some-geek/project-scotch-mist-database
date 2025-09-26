@@ -21,7 +21,7 @@ Sterlia became the first industrialized country and was the world's foremost pow
 
 The passage of the [[Representation Act of 1933]] would transform the overstretched Empire into a "federation of equal states". While the act gave nominal autonomy to the populations of the [[Dominions of the Sterlian Commonwealth|Dominions]] and the outer [[Territories of the Sterlian Commonwealth|Territories]], most regions of the Commonwealth continue to be ruled by a minority government with retained colonial-era government structures and institutions.
 
-The outbreak of the [[The Great War]] was a two-sided affair for Sterlia. The devastating conflict caused a severe economic depression and a widespread immigration crisis, but also opportunities for reconstruction on a global scale. The ensuing [[Reclamation Wars]] saw the Commonwealth intervening in civil conflicts and revolutions across the globe to expand its influence.
+The outbreak of the [[Great War]] was a two-sided affair for Sterlia. The devastating conflict caused a severe economic depression and a widespread immigration crisis, but also opportunities for reconstruction on a global scale. The ensuing [[Reclamation Wars]] saw the Commonwealth intervening in civil conflicts and revolutions across the globe to expand its influence.
 
 A parliamentary crisis in 1953 left the central government paralyzed, 
 

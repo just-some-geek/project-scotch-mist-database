@@ -2,7 +2,7 @@
 
 The **Districts of Kaigaishima** are the current 39 subdivisions that form the **[[Kaigaishima]] Capital Region** of the [[Far Eastern Territories]]. These districts are grouped together into five regions: North, West, East, South, and Central.
 
-While most of the districts are administered by an elected council, a few are placed directly under the control of the [[Sterlian Armed Forces]] or the governor of the Far Eastern Territories.
+While most of the districts are administered by an elected council, a few are placed directly under the control of the [[Sterlian Commonwealth Armed Forces]] or the governor of the Far Eastern Territories.
 
 #Tier-2 #Geography 
 ### Map of Kaigaishima
@@ -50,7 +50,7 @@ The Central Region is the bustling heart of Kaigaishima and, by extension, the F
 
 - **Taylor** - A district dedicated to the fine arts, both ancient and upcoming. Local fine arts students frequently gather around the statue of art legend **Joshua Taylor** to hone their craft and hope for inspiration. The local branch of the Sterlian Museum, named the **Sterlian Museum of the East**, was built here to house artifacts too large to ship back to the Home Isles.
 
-- **Henshaw** - The district is largely built around the imposing **Admiralty Park**, a collection of buildings that serve as the headquarters for the [[Sterlian Armed Forces]] in the Far East. The small chapel sitting across the street houses a memorial to **Samantha Henshaw**, a field nurse from Kaigaishima who became famous for her life-saving work during the Great War.
+- **Henshaw** - The district is largely built around the imposing **Admiralty Park**, a collection of buildings that serve as the headquarters for the [[Sterlian Commonwealth Armed Forces]] in the Far East. The small chapel sitting across the street houses a memorial to **Samantha Henshaw**, a field nurse from Kaigaishima who became famous for her life-saving work during the [[Great War]].
 #### West Region
 The industrial West Region
 
@@ -69,7 +69,7 @@ The industrial West Region
 
 - **Xindian** -
 #### East Region
-The East Region is not under the direct control of the Kaigaishiman government, but rather the [[Sterlian Armed Forces]]. The area is the primary base of the SAF in the Far East, hosting a large naval, ground, and air contingent, as well as the families of the servicemen. It also includes a Special Economic Zone, wherein foreign companies operate without local restrictions.
+The East Region is not under the direct control of the Kaigaishiman government, but rather the [[Sterlian Commonwealth Armed Forces]]. The area is the primary base of the SAF in the Far East, hosting a large naval, ground, and air contingent, as well as the families of the servicemen. It also includes a Special Economic Zone, wherein foreign companies operate without local restrictions.
 
 - **Yamane** -
 
