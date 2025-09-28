@@ -19,4 +19,4 @@
 
 - [[Basilio Soriano Liwanag]] -> Falco “Falcon” Peregrine (Falco peregrinus) who joins the editorial section.
     
-- [[Leo Iedehito]] -> Stella “Grassbird” Davidson (Locustella davidi) who joins the photography/investigative side of things.
+- [[Yukio Yamada]] -> Stella “Grassbird” Davidson (Locustella davidi) who joins the photography/investigative side of things.

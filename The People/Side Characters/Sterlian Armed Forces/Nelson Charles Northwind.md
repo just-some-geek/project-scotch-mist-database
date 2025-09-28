@@ -1,6 +1,6 @@
-**Admiral of the Royal Navy**
+**Royal Navy Admiral**
 
-**Nelson Armitage Northwind**, OSC, is an Admiral of the Royal Navy.
+**Nelson Charles Northwind**, OSE, (born 30 April 1887) is an Admiral of the Royal Navy.
 
 #Tier-2 #Characters 
 

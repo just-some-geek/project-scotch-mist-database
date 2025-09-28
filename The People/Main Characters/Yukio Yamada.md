@@ -1,12 +1,18 @@
 **Paul Miki University student**
 
+**Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
+
+They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name, securing a scholarship at PMU and 
+
 #Tier-1 #Characters 
 
 ---
+### Dev Notes
+---
 Basic Information :  
   
-Full Name : Leo Iedehito  
-Nationality : Eikan  
+Full Name : Yukio Yamada
+Nationality : Eikan
 Pronouns (WOKE!!) : he/they  
 Age : 21  
 Height : 5’5  
@@ -41,7 +47,25 @@ Olivia - “I know she means well I know she means well but she has that look. I
   
 Joseph - “I don't really understand what he wants sometimes, he's got a lot going on.”  
   
-Character Arc :  
+### Character Arc
+---
+ACT I :  
+- Smuggles himself in the island from a cargo crate  
+- Navigates to PMU and meets Chorizo Joe and Artemis  
+- Befriends Father McKenzie  
+  
+ACT II :  
+- Meets Basilio and Willard at the Wildflour  
+- Joins the Kingfishers, does their dirty work  
+- Explores the island and gets into business he shouldn't be in  
+  
+ACT III :  
+- Tasked by the Kingfishers to retrieve crucial information  
+- Leaks the information  
+- GET THE FUCK OUT  
+  
+Ending : Escapes to the Isabelines on his own per Basilio's suggestion  
+Alternate Ending : Staying with Father McKenzie to do volunteer work on the island
   
 Leo never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   

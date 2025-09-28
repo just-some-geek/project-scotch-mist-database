@@ -4,6 +4,8 @@ views:
     order:
       - file.name
       - file.tags
-    sort: []
+    sort:
+      - property: file.tags
+        direction: ASC
     imageFit: contain
     imageAspectRatio: 0.25

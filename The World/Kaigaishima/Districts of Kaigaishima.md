@@ -50,7 +50,7 @@ The Central Region is the bustling heart of Kaigaishima and, by extension, the F
 
 - **Taylor** - A district dedicated to the fine arts, both ancient and upcoming. Local fine arts students frequently gather around the statue of art legend **Joshua Taylor** to hone their craft and hope for inspiration. The local branch of the Sterlian Museum, named the **Sterlian Museum of the East**, was built here to house artifacts too large to ship back to the Home Isles.
 
-- **Henshaw** - The district is largely built around the imposing **Admiralty Park**, a collection of buildings that serve as the headquarters for the [[Sterlian Commonwealth Armed Forces]] in the Far East. The small chapel sitting across the street houses a memorial to **Samantha Henshaw**, a field nurse from Kaigaishima who became famous for her life-saving work during the [[Great War]].
+- **Henshaw** - The district is largely built around the imposing [[Admiralty Park]], a collection of buildings that serve as the headquarters for the [[Sterlian Commonwealth Armed Forces]] in the Far East. The small chapel sitting across the street houses a memorial to **Samantha Henshaw**, a field nurse from Kaigaishima who became famous for her life-saving work during the [[Great War]].
 #### West Region
 The industrial West Region
 

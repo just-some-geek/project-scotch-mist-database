@@ -1,9 +1,15 @@
-**St. Ignatius University student**
+**Isabelino scholar and writer**
 
-**Basilio Soriano Liwanag** is a student at [[St. Ignatius University]] and editorial writer for [[The Kingfisher]].
+**Basilio Soriano Liwanag** (born 23 September 1935) is a [[The Isabelines|Isabelino]] student and writer. Born in the [[The Isabelines|Isabelines]], he travelled to [[Kaigaishima]] to pursue a degree in civil engineering.
+
+Liwanag is a skilled writer, serving as an editorial writer for the student-run newspaper [[The Kingfisher]]
 
 #Tier-1 #Characters
 
+---
+
+
+### Dev Notes
 ---
 Full Name : Basilio Soriano Liwanag  
 Nationality : Isabeliño  
@@ -76,8 +82,28 @@ Leo - “An interesting person, no other way to put it. He sees the world a lot 
   
 Joseph - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
   
+
+### Character Arc
+---
+ACT I :  
+- He arrives on the island with a civil engineering scholarship to SIU  
+- Gets familiar with the island, meets Leo and Willard at Wildflour  
+- Is recruited to join the Kingfisher newspaper team  
   
-Character Arc :  
+ACT II :  
+- Newspaper editorial training arc
+
+- Expansion of the Kingfishers’ publication and reach
+
+- Story leaks of government meddling  
+  
+ACT III :  
+- Respond to the declaration of Martial Law  
+- Events depend on player actions in Act I & II  
+- Escapes with the Kingfishers back to the Isabelines  
+  
+Ending : Escapes the island and dodges the draft  
+Alternate Ending : Gets conscripted to the Sterlian army
   
 Basilio has always been known as “the smartest person in the room” so it’s no surprise that he landed a scholarship to a prestigious university led by a collection of the smartest minds in the empire. St. Ignatius was a school a lot of people have heard about over recent years due to them producing some of the most talented minds responsible for many technological and philosophical innovations.  
   

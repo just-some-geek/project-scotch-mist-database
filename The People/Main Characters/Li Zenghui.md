@@ -1,9 +1,15 @@
-**Shenzhen revolutionary and entrepeneur**
+**Kaigaishiman nationalist, doctor, and writer**
 
-**Li Zenghui**, known by his alias **Joseph**, is a [[Shenzhou|Shenzhen]]
+**Li Zenghui**, known by his alias **Joseph Li**, (19 June 1927 - 9 April 1958) was a [[Kaigaishima|Kaigaishiman]] nationalist and polymath active during towards the end of Sterlian colonial period of Kaigaishima. A {*doctor*} by trade, Li became a key figure in the *{Kaigaishiman revolutionary movement?}*, which advocated for greater autonomy for the territory within the [[Sterlian Commonwealth]].
+
+He was executed by the Sterlian colonial government for the crime of *{domestic terrorism?}* after the outbreak of the [[Kaigaishiman Crisis]], which was inspired by his writings. While never closely associated with the revolution, his death was a primary motivator for the uprising and eventual **Kaigaishiman independence**.
+
+Li is widely considered to be one of the most influential figures of Kaigaishima and is an unofficial national hero. He penned the novels *{Legally Distinct Noli}* and *{Totally Not El Fili}*, alongside a series of letters, essays, and poems dedicated to his homeland.
 
 #Tier-1 #Characters 
 
+---
+### Dev Notes
 ---
 Basic Information :  
   
@@ -56,9 +62,25 @@ Olivia - “My most important priority is to get her to understand me. If I can 
 Leo  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
 
   
-Character Arc : 
-
+### Character Arc 
+---
+ACT I :  
+- Returns to the island after studying abroad for 9 years.  
+- Settles in and begins plans to open a school.  
+- Meets Olivia at a benefit.  
   
+ACT II :  
+- Uses Olivia to get funding and permits for the school.  
+- Goes around and helps the community.  
+- Meets Basilio and Leo at the Wildflour and has convos with them.  
+  
+ACT III :  
+- Gets falsely accused of pipe-bombing the Admiralty  
+- Sent to prison, Martial Law happens  
+- Fucking dies (Has a breakdown similar to the 10th Doctor)  
+  
+Ending : Executed by firing squad  
+Alternate Ending : Secretly survives the firing squad
 
 After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start highschool in the Southern Island to improve the education of his local community.  
   
@@ -90,3 +112,19 @@ On Politics:
 
 On What Comes After:  
 “I’m not afraid of death, because I think I’ll live forever.”
+### Early Life and Education
+---
+
+### Works and Writing
+---
+
+
+### Execution
+---
+
+### Reactions after death
+---
+
+### Legacy and Remembrance
+---
+

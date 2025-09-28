@@ -1,10 +1,8 @@
+**Sterlian national public service broadcaster**
+
 The **Imperial Broadcasting Service** is a public service broadcaster operated by the [[Sterlian Commonwealth|Sterlian]] government and headquartered at the Herstford Palace north of The City. Originally established as the Sterlian Broadcasting Corporation, it was integrated into the government apparatus during the [[Great War]]. As the oldest and largest global broadcaster, the IBS holds significant influence over the flow of information and culture across the globe.
 
 #Tier-2 #Factions 
-## Table of Contents
----
-1) History
-2) Structure
 ## History
 ---
 *Main Article: History of Sterlian Broadcasting; Timeline of the IBS* (articles unavailable)
@@ -12,7 +10,6 @@ The **Imperial Broadcasting Service** is a public service broadcaster operated b
 The IBS's predecessor, the Sterlian Broadcasting Corporation, was established in 1903 during the merger of **Sterlian Sound**, a major music production label, and **The Daily Courier**, the largest newspaper in the Home Isles. The SBC constituted the mass media arm of the **Media Trust** monopoly, which dominated the flow of information throughout the 1900s and 1910s.
 
 At the onset of the [[Great War]], the Sterlian government gained control of the SBC through the [[DORA Act (1914)|DORA Act of 1914]]. While an official state media company already existed at the time, severe underfunding of the Ministry of Public Affairs (now the [[Ministry of Public Enlightenment and Propaganda]]) forced the acquisition of the company to facilitate wartime censorship and information control measures.
-
 #### Expansion of the IBS
 As the [[Sterlian Commonwealth|Sterlian Empire]] expanded its influence across the world, the IBS set up branch offices in Sterlian-controlled territories. These offices are listed below in the order of their establishment.
 
@@ -20,7 +17,7 @@ As the [[Sterlian Commonwealth|Sterlian Empire]] expanded its influence across t
 
 - **Imperial Broadcasting Kaapstaat** (1921-Present; Active). IBS-K/A controls operations in [[Kaapstaat]] and the [[North Iffranikan Territories]].
 
-- **Imperial Broadcasting East** (1928-Present; Active). Operating out of **Fort Victoria** on [[Kaigaishima]], IBS-E controls operations throughout the [[Far Eastern Territories]], [[Newstrynia]], [[Shenzhou]], and the [[Eikan Empire]]. The branch expanded significantly after the outbreak of the [[Shenzhou War]], leading to numerous conspiracies about government involvement.
+- **Imperial Broadcasting East** (1928-Present; Active). Operating out of [[Fort Valkyrie]] on [[Kaigaishima]], IBS-E controls operations throughout the [[Far Eastern Territories]], [[Newstrynia]], [[Shenzhou]], and the [[Eikan Empire]]. The branch expanded significantly after the outbreak of the [[Shenzhou War]], leading to numerous conspiracies about government involvement.
 
 ## Structure
 ---

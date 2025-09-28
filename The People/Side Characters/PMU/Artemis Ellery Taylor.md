@@ -1,6 +1,8 @@
-**Paul Miki University student**
+**Sterlian chess prodigy**
 
-**Artemis Ellery Taylor** is a student at [[Paul Miki University]]. 
+**Artemis Ellery Taylor** (born 23 July 1934) is a [[Sterlian Commonwealth|Sterlian]] chess prodigy, political activist, and student at [[Paul Miki University]]. Her **FICA** rating of 2263, achieved in March 1956, is one of the highest ever achieved by a female player until it was surpassed in the mid 1960s.
+
+As of 1957, she is pursuing a degree at [[Paul Miki University]].
 
 #Tier-2 #Characters 
 
@@ -11,16 +13,12 @@ Pronouns (WOKE!!) : she/her
 Age : 24  
 Height : 5’7  
 Hair : Brown  
-  
 
 SHE’S LITERALLY FEMALE GARY KASPAROV TO RIVAL FISCHER
-
   
 Opinion On : 
-
   
 The Island - “I absolutely love this place! The food, the places, the people… It’s all just so fascinating. Definitely one of the top 2 places I’ve ever visited, and it’s not number 2 I’ll tell you that.”
-
   
 Herself [Regular] - “I’d say I’m pretty alright for the most part.”  
   

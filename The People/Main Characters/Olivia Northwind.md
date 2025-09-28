@@ -1,9 +1,14 @@
-**Secretary of the Royal Admiralty**
+**Sterlian government official
 
-**Olivia Armitage Northwind** is a secretary for the [[Sterlian Commonwealth Armed Forces]]
+**Olivia Armitage Northwind** (born 18 September 1931) is the Secretary to the Commander-in-Chief, Far Eastern Command. Born to [[Sterlian Commonwealth|Sterlian]] admiral [[Nelson Charles Northwind]], she grew up in the Sterlian [[The Home Isles|Home Isles]] in the suburbs around **The City**.
+
+She graduated from {*legally distinct Oxford*} at the top of her class in 1950, and achieved top marks in the [[Sterlian Civil Service Examination]] the same year. She quickly rose the ranks in the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]], eventually being transferred to [[Admiralty Park]] in [[Districts of Kaigaishima|Henshaw, Kaigaishima]] in 1957. Some attribute her rapid promotions to nepotism, however both she and the Admiral deny these claims.
 
 #Tier-1 #Characters 
 
+---
+
+### Dev Notes
 ---
 Full Name : Olivia Armitage Northwind  
 Nationality : Sterlian  
@@ -63,12 +68,27 @@ Leo - “I can’t stand to look that boy in the face, you just feel sad for som
   
 Joseph - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”  
   
-Character Arc : 
-
+### Character Arc
+---
+ACT I :  
+- Gets a job at the Admiralty to try and prove herself  
+- Takes up extra work that her dad can’t attend to  
+- Meets Joseph at a benefit  
   
+ACT II :  
+- Investigates rumors of Eikan/Columbian meddling  
+- Unearths a conspiracy to rig the outcome of the Referendum  
+- Decides if they remain loyalist or expose the plan  
+  
+ACT III :  
+- Dad's office gets hit by a false flag attack, Dad is injured  
+- Deal with the situation, Joseph might be a criminal?  
+- Cope with Joseph's death, deal with situation.  
+  
+Ending : Stays on the island in her dad's position and aids the island.  
+Alternate Ending : Leaves the island to fight for social reform in The City.
 
 Wants to prove herself to her peers.
-
   
 Olivia has always been a hardworking person, but her achievements always fall short in the eyes of her peers and superiors. In an effort to prove herself, she gets herself assigned to a secretary position in an office placed in the far eastern parts of the Commonwealth. However the fact that that office is her own fathers doesn’t help with what she’s trying to do.  
   
