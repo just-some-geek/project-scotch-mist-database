@@ -15,7 +15,7 @@
 - “Eagle” - Artist
 - “Dove” - On-site Reporter
 
-- If Basilio/Leo joins the Kingfisher, they get assigned a name as well:
+- If Basilio/Yukio joins the Kingfisher, they get assigned a name as well:
 
 - [[Basilio Soriano Liwanag]] -> Falco “Falcon” Peregrine (Falco peregrinus) who joins the editorial section.
     

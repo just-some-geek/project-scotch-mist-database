@@ -60,7 +60,7 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 Basilio - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
 
   
-Leo - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
+Yukio - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
 
   
   

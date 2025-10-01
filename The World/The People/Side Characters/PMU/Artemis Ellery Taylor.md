@@ -30,6 +30,6 @@ Basilio - “Oh Basilio? His name is quite hard to pronounce, don't you think? S
   
 Olivia - “Ms. Northwind is an odd person, she seems so caught up in her work. It’s hard to get to her. She spends more time with a cigarette in her hand than she does sleeping.”
 
-Leo - “He looks like he hasn’t seen a good wink of sleep in ages, you feel bad for him sometimes but he’s a very capable person. Incredibly sweet if you get to know the guy.”
+Yukio - “He looks like he hasn’t seen a good wink of sleep in ages, you feel bad for him sometimes but he’s a very capable person. Incredibly sweet if you get to know the guy.”
 
 Joseph - “Very well spoken and has people’s best interests at heart. I wish him the best in all of his endeavors, I really do.”

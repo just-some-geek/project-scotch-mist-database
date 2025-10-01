@@ -59,7 +59,7 @@ Basilio - “He reminds me of myself sometimes, just a bit younger. Surprisingly
 Olivia - “My most important priority is to get her to understand me. If I can get through to her, real change can begin.”
 
   
-Leo  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
+Yukio  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
 
   
 ### Character Arc 
@@ -72,7 +72,7 @@ ACT I :
 ACT II :  
 - Uses Olivia to get funding and permits for the school.  
 - Goes around and helps the community.  
-- Meets Basilio and Leo at the Wildflour and has convos with them.  
+- Meets Basilio and Yukio at the Wildflour and has convos with them.  
   
 ACT III :  
 - Gets falsely accused of pipe-bombing the Admiralty  

@@ -74,7 +74,7 @@ Himself - “I’m not that brilliant of a person, I do my best but I’m just o
 Olivia - “I normally don’t involve myself in political matters but Olivia I consider the exception. She makes the topic a lot less daunting when I talk to her about it.”
 
   
-Leo - “An interesting person, no other way to put it. He sees the world a lot differently than you or I do, not necessarily in a bad way. ”
+Yukio - “An interesting person, no other way to put it. He sees the world a lot differently than you or I do, not necessarily in a bad way. ”
 
   
   

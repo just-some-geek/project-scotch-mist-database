@@ -2,7 +2,7 @@
 
 **Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
 
-They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name, securing a scholarship at PMU and 
+They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name, securing a scholarship at PMU and establishing connections in the community.
 
 #Tier-1 #Characters 
 
@@ -25,9 +25,9 @@ College is a great place to reinvent yourself…
   
 Overview :  
   
-Leo Detahito is an illegal immigrant from Eiko who finds himself on a cargo ship en route to Kaigaishima. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
+Yukio Yamamda is an illegal immigrant from Eiko who finds himself on a cargo ship en route to Kaigaishima. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
   
-Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university PMU, granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend the real Leo Detahito, Leo Alpha allowed this Leo to take his name to use. His real name is unknown.  
+Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university PMU, granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend the real Yukio Yamada, Yukio Alpha allowed this Yukio to take his name to use. His real name is unknown.  
   
 Electrical engineering seemed difficult, but he had experience with fixing radio and other appliances in his community.  
   
@@ -67,7 +67,7 @@ ACT III :
 Ending : Escapes to the Isabelines on his own per Basilio's suggestion  
 Alternate Ending : Staying with Father McKenzie to do volunteer work on the island
   
-Leo never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
+Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   
 So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as Isabela/The Isabelines.  
   
@@ -86,7 +86,7 @@ Point of No Return when sent on a suicide mission into a government meeting to c
 ### Quotes
 ---
 Self Introduction:  
-“My name’s Leo. Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  
+“My name’s Yukio. Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  
   
 On Stress:  
 “People are so angry nowadays, all caught up in their routines and things. I just wish people would make some time, take it easy. Not all the time, just sometimes.”  

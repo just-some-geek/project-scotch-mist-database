@@ -37,7 +37,7 @@ Basilio - “He’s got a big mouth, let that shit run and someone will want to 
 Olivia - “Mama always told me to never hit a girl but she is testing my patience.”
 
   
-Leo  - “Leo’s a little confused but he’s got the right spirit. He’s not quite there yet but if he just had the right people he’ll be alright.”
+Yukio  - “Leo’s a little confused but he’s got the right spirit. He’s not quite there yet but if he just had the right people he’ll be alright.”
 
   
 Joseph - “That man is the motherfucking truth, he is the future. Maybe I shouldn’t be saying this cause my kind of business doesn’t bode well with his policy, but I know trailblazing when I see it.”  
