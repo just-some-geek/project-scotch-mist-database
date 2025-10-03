@@ -1,7 +1,7 @@
 # project-scotch-mist-database
 
 **An Introduction to the Scotch Mist Project Worldbuilding Wiki**
-</br>*For Team Members' Eyes Only*
+*For Team Members' Eyes Only*
 
 The following series of documents is a Wikipedia-style encyclopedia detailing the world built for the Scotch Mist Project. These are written to serve as a guide for the developers, artists, actors, musicians, and other team members in constructing a more immersive rendition of this world.
 
@@ -24,8 +24,8 @@ is a letter designation describing the type of information contained in a file. 
 | Class | Type       | Description                                                                                                                                                                                                                              |
 | :---: | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   A   | General    | Files that don't describe any specific thing, and therefore cannot be placed in any other category. These usually provide overviews of a specific topic.<br>E.g.: [[Political structure of Sterlia]] and [[Culture of the Eikan Empire]] |
-|   C   | Characters | Files for individuals with an impact on the world.<br>E.g.: [[Basilio Soriano Liwanag]] and [[Nelson Charles Northwind]]                                                                                                                              |
-|   F   | Faction    | Files for important organizations, institutions and groups.<br>E.g.: [[Imperial Broadcasting Service]] and [[The Kingfisher]]                                                                                                                |
+|   C   | Characters | Files for individuals with an impact on the world.<br>E.g.: [[Basilio Soriano Liwanag]] and [[Nelson Charles Northwind]]                                                                                                                 |
+|   F   | Faction    | Files for important organizations, institutions and groups.<br>E.g.: [[Imperial Broadcasting Service]] and [[The Kingfisher]]                                                                                                            |
 |   E   | Events     | Files for events that shaped history.<br>E.g.: [[Shenzhou War]] and [[Parliamentary Crisis of 1953]]                                                                                                                                     |
 |   G   | Geography  | Files for geographic areas of the world.<br>E.g.: [[Kaigaishima]] and [[Wildflour (bar)]]                                                                                                                                                |
 |   L   | Locations  | Files for specific locations within Kaigaishima.<br>E.g.: [[Wildflour (bar)]] and [[St. Ignatius University]]                                                                                                                            |
