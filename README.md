@@ -37,6 +37,10 @@ These classifications are intended to guide team members in determining how to a
 </br>
 Remember: our goal is to create a consistent, fleshed-out world for our audience to immerse themselves in. We are not here to lore-dump about the intricate details of Sterlian governance, the inner workings of a reprogrammable key card, or the endless anachronisms that our setting has. Use your best judgement in deciding when and how, or even if, this content is used.
 
+For further reading, I'd recommend looking at the following pages next:
+[[The World of Scotch Mist - An Overview]]
+[[Scotch Mist The Game - An Overview]]
+
 I wish you the best of luck, and hope that we can make something beautiful together.
 
 And for the love of all that is good, please refrain from info-dumping. (Ignore the fact that that is exactly what I am doing to you now.)
