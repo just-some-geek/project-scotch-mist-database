@@ -2,8 +2,7 @@
 
 The **Informational Deckbuilder**, henceforth referred to as "The System", is the core mechanic of the Scotch Mist game.
 
-#Tier-1 
-
+#Tier-1 #System
 ### Table of Contents
 ---
 1) Obtaining Information Cards

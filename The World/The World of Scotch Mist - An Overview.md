@@ -36,7 +36,6 @@ Along their journey they will meet the people of Kaigaishima, uncover far-reachi
 The game's timeline takes place between the dates of 1 June 1957 and 6 May 1958. Dates for the major events are generally pinned down, but the exact sequence and timing of events are dependent on a player's choices throughout the story.
 
 #### ACT 1: Cloud Watching
-
 The player characters arrive on the island on 1 June 1957, as [[Kaigaishima]] is preparing for the [[Summer Festival]] (23 June). The [[Sterlian Commonwealth Armed Forces|Sterlian military]] is scaling up conscription to support their operations in [[Shenzhou]], which involves a series of recruitment drives across the island through July and September.
 
 On 21 Sept., the government announces that a general referendum will be held on 9 January to break the political deadlock in [[Sterlian Parliament|Parliament]] over a bill granting more political representation to the colonies. This, along with a few other announcements (including an escalation in the Shenzhou War and a corresponding cut to public works on Kaigaishima), stir up controversy among the general public.
@@ -57,4 +56,5 @@ On 9 April, an anti-war protest at [[Paul Miki University]] is broken up when go
 
 With the fall of Chendai on 12 April, Eikan troops stationed in the city make their way across the strait to southwest Kaigaishima. They, along with Eikan-backed resistance cells, take control of the western and southern districts to "pacify the region". Commonwealth forces retreat into the richer eastern and northern districts, and begin negotiations for a full withdrawal from Kaigaishima. On 6 May 1958, the Sterlian Commonwealth, with assistance from the [[Columbia|Columbian Federation]], withdraws its government and military from Kaigaishima (ala Fall of Saigon).
 
+---
 Each player character will experience the story from their own perspective, and the full picture will only make sense though several playthoughs, careful attention to detail, and full immersion in the world of Scotch Mist.

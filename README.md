@@ -32,6 +32,8 @@ is a letter designation describing the type of information contained in a file. 
 |   T   | Trinkets   | Files for items, objects, and unique tech.<br>E.g.: [[MetroKey]] and [[Sterling (currency)]]                                                                                                                                             |
 |   S   | Society    | Files for cultural practices, traditions, and belief systems.<br>E.g.: [[Eikan honorifics]]                                                                                                                                              |
 |   M   | Media      | Files for pieces of in-universe media, whether written, visual, or auditory.<br>E.g.: [[Why We Fight (film series)]] and [[Sterlian Constitition]]                                                                                       |
+|   S   | System     | Files for game systems and mechanics.<br>E.g.: [[The Confidant System]] and [[The Informational Deckbuilder]]                                                                                                                            |
+
 </br>
 These classifications are intended to guide team members in determining how to approach using the information in these files to best effect.
 </br>
