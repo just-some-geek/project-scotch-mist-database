@@ -2,12 +2,9 @@
 
 **Olivia Armitage Northwind** (born 18 September 1931) is the Secretary to the Commander-in-Chief, Far Eastern Command. Born to [[Sterlian Commonwealth|Sterlian]] admiral [[Nelson Charles Northwind]], she grew up in the Sterlian [[The Home Isles|Home Isles]] in the suburbs around **The City**.
 
-She graduated from {*legally distinct Oxford*} at the top of her class in 1950, and achieved top marks in the [[Sterlian Civil Service Examination]] the same year. She quickly rose the ranks in the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]], eventually being transferred to [[Admiralty Park]] in [[Districts of Kaigaishima|Henshaw, Kaigaishima]] in 1957. Some attribute her rapid promotions to nepotism, however both she and the Admiral deny these claims.
+She graduated from **Avonforde University** at the top of her class in 1950, and achieved top marks in the [[Sterlian Civil Service Examination]] the same year. She quickly rose the ranks in the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]], eventually being transferred to [[Admiralty Park]] in [[Districts of Kaigaishima|Henshaw, Kaigaishima]] in 1957. Some attribute her rapid promotions to nepotism, however both she and the Admiral deny these claims.
 
 #Tier-1 #Characters 
-
----
-
 ### Dev Notes
 ---
 Full Name : Olivia Armitage Northwind  
@@ -15,59 +12,31 @@ Nationality : Sterlian
 Pronouns (WOKE!!) : she/her  
 Age : 27  
 Height : 5’7  
-Hair : Whatever this color is ->  
+Hair : Light brown
 
 Introductory Text :  
 On a mission to prove herself, her sense of duty has led her here.
-
 A compass doesn’t always point north…  
-  
 
 Overview : 
-
-  
-
 Olivia Northwind is a secretary/adviser working for The Commonwealth. Daughter of famed Lord Admiral Nelson Armitage Northwind, commander-in-chief of the Sterlian forces in the Eastern Territories. She has long lived under his shadow, though she never resented him for it.
 
-  
-
 Throughout her career she has been hit with an unfortunate combination of misogyny and accusations of nepotism. Despite these issues she has never given up. 
-
-  
 
 She herself requested to be transferred to Kaigaishima to prove herself to her peers in an unfamiliar environment. Kaigaishima has been known to be a delicate situation by The Commonwealth for a long time. She believes that if she could bring stability to the island, she’ll be able to show to her coworkers that she is capable.  
   
 Personality/Tidbits :  
-  
 She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
 She is an alcoholic, yet has no remorse with being one.
-
 Very insecure about herself, often believes she’s “not enough”.
-
   
-Opinion On : 
-
-  
+Opinion On :   
 The Island - “It’s like mixing unknown chemicals, while the results are interesting, they are most likely volatile.”
-
-  
 Herself - “I can handle things just fine, yet these fucks won’t believe me. I’ve got to get it through their thick heads somehow.”
-
-  
-  
-
-  
 Basilio - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
-
-  
 Yukio - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
+Joseph - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
-  
-  
-
-  
-Joseph - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”  
-  
 ### Character Arc
 ---
 ACT I :  
@@ -94,9 +63,7 @@ Olivia has always been a hardworking person, but her achievements always fall sh
   
 Kaigaishima has always been a contentious topic amongst parliament due to its distance from the mainland as well as its proximity to other rising powers in the area, most notably The Empire of Eiko. Currently it’s been one of the fastest developing parts of the Commonwealth but with it’s development comes a lot of growing pains. In Olivia’s mind, if she can manage to bring some sort of stability to the island and uphold Sterlian values such as liberty, equality and democracy, it’ll advance her career and break the ‘glass ceiling’.
 
-  
 However, the more she gets involved with aspects such as policy and enforcement, the more she realizes that the Sterlian Commonwealth itself doesn’t uphold its own values. Eventually coming to a head when she discovers that The Representation Referendum is planned to be rigged.  
-  
 
 Her story ends with whether or not she decides to stay and help the island or whether or not she flees.
 

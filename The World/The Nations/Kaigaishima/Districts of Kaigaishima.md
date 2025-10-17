@@ -24,7 +24,7 @@ The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], w
 
 - **Kusunoki** (楠木, *camphor tree*) - The area is known for its traditional medicine and cosmetics manufacturing, as well as the **Kusunoki Riverside** shopping street. The ancient camphorwood trees lend a refined elegance to the district and those who purchase its products.
 
-- **Takanabe** (高鍋, *high office*) - The district is home to the **Albertine Valley Country Club**, the monopolizing titan of Kaigaishima's gambling industry. The upper classes and the staff of the Admiralty are known to frequent the area, discretionarily spending on golf courses, pools, casinos, cricket, football, and horse racing.
+- **Takanabe** (高鍋, *high office*) - The district is home to the [[Albertine Valley Country Club]], the monopolizing titan of Kaigaishima's gambling industry. The upper classes and the staff of the Admiralty are known to frequent the area, discretionarily spending on golf courses, pools, casinos, cricket, football, and horse racing.
 
 - **Nemui** (眠い, *sleep*) - The largest red-light district in the Commonwealth, frequented by university students and faculty, businessmen, and high-profile politicians. The area's cafés serve decently filling meals at a fair price, though tips are expected for the excellent service.
 
