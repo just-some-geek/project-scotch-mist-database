@@ -34,20 +34,22 @@ is a letter designation describing the type of information contained in a file. 
 |   M   | Media      | Files for pieces of in-universe media, whether written, visual, or auditory.<br>E.g.: [[Why We Fight (film series)]] and [[Sterlian Constitition]]                                                                                       |
 |   S   | System     | Files for game systems and mechanics.<br>E.g.: [[The Confidant System]] and [[The Informational Deckbuilder]]                                                                                                                            |
 
-</br>
+
 These classifications are intended to guide team members in determining how to approach using the information in these files to best effect.
-</br>
+
 Remember: our goal is to create a consistent, fleshed-out world for our audience to immerse themselves in. We are not here to lore-dump about the intricate details of Sterlian governance, the inner workings of a reprogrammable key card, or the endless anachronisms that our setting has. Use your best judgement in deciding when and how, or even if, this content is used.
 
 For further reading, I'd recommend looking at the following pages next:
 [[The World of Scotch Mist - An Overview]]
 [[Scotch Mist The Game - An Overview]]
 
+You're also going to need to install the following Obsidian plugins:
+[Git](https://github.com/Vinzent03/obsidian-git)
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
+
 I wish you the best of luck, and hope that we can make something beautiful together.
 
-And for the love of all that is good, please refrain from info-dumping. (Ignore the fact that that is exactly what I am doing to you now.)
-
 ---
-Habagat</br>
-Lead Worldbuilder</br>
-Studio *Mooneater*
+Habagat
+Lead Worldbuilder
+*Studio Mooneater*

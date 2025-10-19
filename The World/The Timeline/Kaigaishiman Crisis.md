@@ -1,6 +1,6 @@
-**1958 uprising on Kaigaishima**
+**1958 anti-government protests on Kaigaishima**
 
-A
+The **Kaigaishiman Crisis**, also known as the **Kaigaishiman Rising** or the **Eastern Emergency** was
 
 #Tier-1 #Events 
 

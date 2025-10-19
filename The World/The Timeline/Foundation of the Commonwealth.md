@@ -1,4 +1,4 @@
-(lead section)
+The [[Sterlian Commonwealth]] was founded in 1933
 
 #Tier-4 #Events
 ## Background
