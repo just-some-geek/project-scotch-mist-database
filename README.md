@@ -43,9 +43,10 @@ For further reading, I'd recommend looking at the following pages next:
 [[The World of Scotch Mist - An Overview]]
 [[Scotch Mist The Game - An Overview]]
 
-You're also going to need to install the following Obsidian plugins:
-[Git](https://github.com/Vinzent03/obsidian-git)
-[Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
+You're also going to need to install the following Obsidian plugins/themes:
+[Git (Plugin)](https://github.com/Vinzent03/obsidian-git)
+[Style Settings (Plugin)](https://github.com/mgmeyers/obsidian-style-settings)
+[Wikipedia (Theme)](https://github.com/Bluemoondragon07/Wikipedia-Theme)
 
 I wish you the best of luck, and hope that we can make something beautiful together.
 
