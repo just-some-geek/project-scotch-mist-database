@@ -6,12 +6,12 @@
 >![[concept_Yukio.png]]
 ><center>Yamada in 1958</center>
 ><h6>Basic Information</h6>
->Full Name : Yukio Yamada
->Nationality : Eikan
->Pronouns: he/they  
->Age : 21  
->Height : 5’5  
->Hair : Black, but like ash  
+><b>Full Name:</b> Yukio Yamada</br>
+><b>Nationality:</b> Eikan</br>
+><b>Pronouns:</b> he/they</br>
+><b>Age:</b> 21</br>
+><b>Height:</b> 5’5</br>
+><b>Hair:</b> Black, but like ash
 
 **Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
 
