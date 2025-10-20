@@ -1,22 +1,27 @@
 **Paul Miki University student**
 
+>*The native form of this personal name is Yamada Yukio. This article uses Western naming order when mentioning individuals.*
+
+>[!info] Yukio Yamada</br><center>行雄 山田</center>
+>![[concept_Yukio.png]]
+><center>Yamada in 1958</center>
+><h6>Basic Information</h6>
+>Full Name : Yukio Yamada
+>Nationality : Eikan
+>Pronouns: he/they  
+>Age : 21  
+>Height : 5’5  
+>Hair : Black, but like ash  
+
 **Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
 
 They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name, securing a scholarship at PMU and establishing connections in the community.
 
-#Tier-1 #Characters 
-
----
-### Dev Notes
----
+#Tier-1 #Characters
+# Dev Notes
 Basic Information :  
   
-Full Name : Yukio Yamada
-Nationality : Eikan
-Pronouns (WOKE!!) : he/they  
-Age : 21  
-Height : 5’5  
-Hair : Black, but like ash  
+
   
 Introductory Text :  
 With no place to call their own, hope draws them here.
@@ -99,7 +104,6 @@ On Learning Other Languages:
   
 On Basilio:  
 “Even though we go to different universities he’s been a huge help. I met him at a restaurant after we got into a fight with some fraternity guys.
-
   
 On PMU:  
 “It’s great! It was scary at first but the campus is really pretty and I’m learning a lot. I just hope they don't, you know. Find out..”

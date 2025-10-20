@@ -8,8 +8,9 @@
 ></br><b>Government:</b> Parliamentary constitutional monarchy
 ></br>- <b>Monarch:</b> King Arthur III
 ></br>- <b>Prime Minister:</b> Anthony McCormick
-></br><b>Legislature:</b> Unicameral 
-></br>- Parliament
+></br><b>Legislature:</b> Parliament
+></br>- House of Lords
+></br>- House of Commons
 ></br><b>Formation:</b> 10 June 1933
 ></br><b>Currency:</b> Sterling
 
@@ -42,37 +43,51 @@ The Commonwealth espouses liberty, equality, and democracy, though in practice t
 The political deadlock in Parliament, as well as the merely ceremonial powers of the monarchy, means that no real changes can pass through the Commonwealth. This has led to thoughts of independence, or at least greater autonomy, in the Territories (especially Kaigaishima).
 # Politics
 
-## Administrative Divisions
+## Administrative Divisions and Devolution
 >*See also: [[Dominions of the Sterlian Commonwealth]] and [[Territories of the Sterlian Commonwealth]]*
 
-The Sterlian 
-## Devolution
+The Sterlian Commonwealth's territories are nominally divided into three classes: the [[Great Sterlia|core territories]] directly administered by the federal government, the semi-independent, self-governing [[Dominions of the Sterlian Commonwealth|Dominions]], and the colonial [[Territories of the Sterlian Commonwealth|Territories]]. The Commonwealth also exercises informal control over a number of smaller entities called the Periphery, primarily through economic dominance in the region.
 
+Constitutionally, all territories of the Commonwealth are  
 ## Foreign Relations
-
+The Sterlian Commonwealth is the leader of the **Council of Nations**, and a member of the **Europan Defence Initiative**, the **West Pacific Treaty Organization**, the **Europan Community**. It also maintains the **Crown Foundation**, an international organization specializing in cultural and educational opportunities. The Commonwealth, as a collective, remains a great power with considerable political, cultural, social, economic, and military influence.
 ## Law and Criminal Justice
+The Commonwealth does not have a single legal system, as Article 16 of the [[Sterlian Charter]] provided for the continuation of the separate legal systems of the federation's component nations. Due to the distinct cultural practices of different regions of the Commonwealth, the Sterlian legal code is divided into two: the **Codex Legalis Sterlianica** (CLS), which is the universal, civil-law-based foundation that local legal codes are built around. These regional changes are compiled and documented in the **Legal Code of the Sterlian Commonwealth**.
 
+Commonwealth labor laws establish employment rights including a minimum wage, a 48-hour work week, a minimum of 28 days of annual holiday, parental and sick leave, and a pension. However, other civil rights are less expansive: access to rationed goods (such as food, clothing, fuel, paper, soap, and other essential items) is severely restricted, homosexuality is criminalized, and citizens are banned from the possession of firearms, weapons, and drugs, though in the latter's case, morphine, cocaine, and cannabis are still available through medical prescriptions.
 ## Military
+>*Main Article: [[Sterlian Commonwealth Armed Forces]]*
 
+The Sterlian Commonwealth Armed Forces (SCAF) consist of three professional branches: the [[Sterlian Commonwealth Armed Forces#Royal Navy|Royal Navy]] and [[Sterlian Commonwealth Armed Forces#Royal Marines|Royal Marines]] (forming the Naval Service), the [[Sterlian Commonwealth Armed Forces#Sterlian Army|Sterlian Army]], and the [[Sterlian Commonwealth Armed Forces#Royal Air Force|Royal Air Force]]. The armed forces are managed by the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]] and swear allegiance to the [[Monarchy of Sterlia|Sterlian monarch]], who serves as their commander-in-chief.  
+
+According to the **Skålderborg Institute of Strategic Studies**, the nations of the Sterlian Commonwealth collectively maintain the largest military in the world, numbering some 50 million people in uniform. However, only about 10% of this force is part of the full-time professional force; the remaining 90% are reservists who serve in local defense units which are only deployed in the vicinity of the home nation.
+
+While the command structure of the SCAF is centralized at a federal level, individual units up to the regimental size are raised and replenished by a unit's home nation. That is to say, an SCAF field army in [[Shenzhou War|Shenzhou]] may be composed of regiments (or sometimes full divisions) from [[Newstrynia]], the [[Far Eastern Territories]], and the [[Sterlian Raj]], each one raised in their respective country and commanded by a field marshal from [[Great Sterlia]].
 # Economy
+The collective economy of the Sterlian Commonwealth is the largest in the world, with 3 of the union's component nations being part of the top 10 global economies ([[Great Sterlia]], [[Hudsonia]], and [[Newstrynia]]). Its currency, the [[Sterling (currency)|Sterling]], is the most widely circulated and traded currency in the world.
 
+The Sterlian Commonwealth has significant wealth inequality, with a notable wealth gap between sexes, ethnicities, and social classes.
 ## Industries and Services
 
 ## Science and Technology
-
+The Sterlian Empire has long been a dominant force in science and technology.
 ## Transport
 
 ## Energy
 
-## Water Supply and Sanitation
 # Demographics
-
 ## Ethnicity
 
 ## Language
+The **Sterlian** language is the *de facto* official language and the most widely spoken language in the Sterlian Commonwealth. The federal government encourages the use of the language internationally to build connections, understanding, and trust worldwide.
 
+Throughout the Commonwealth, the Sterlian language has diversified into a number of regional dialects with their own unique accents, most notably [[Newstrynia|Newstrynian]], [[Hudsonia|Hudsonian]], [[Sterlian Raj|Rajian]], [[Kaapstaat|Kaapstaater]], [[Columbia|Columbian]], and [[The Isabelines|Isabeline]]. Even within [[Great Sterlia]] itself, the density of regional accents and dialects is notable.
+
+Native languages of the outlying territories are given little attention in education except among scholars and academics. While they remain common in day-to-day use, sometimes more so than Sterlian itself, they are rarely taught outside of their home country, leading to the slow loss of the language as it hybridizes with Sterlian.
 ## Religion
+>*Main Article: [[Religion in the Sterlian Commonwealth]]*
 
+Christianity has dominated religious life in Great Sterlia for over 1400 years, 
 ## Migration
 
 ## Education

@@ -15,13 +15,13 @@ Since the outbreak of the Great War in 1914, elements of the SCAF have been depl
 ### History
 ---
 #### Sterlian Empire
-During the late 17th to 18th century, the Sterlian Empire sought to contain the expansion of rival powers through military, diplomatic, and commercial means. This saw the Sterlian military engaged in a number of conflicts over colonial possessions and trade access with [[San Sebastian]] and [[Gallia]], most notably the **Seven Years' War** (1756-1763), the **Gallian Revolutionary War** (1792-1802), and the **Bonapartic Wars** (1803-1815). The Royal Navy's victory at the **Battle of Cadizo** (1905) earned the Sterlian Empire total supremacy over the world's oceans, paving the way for an era of peace known as the ***Pax Sterlia***.
+During the late 17th to 18th century, the Sterlian Empire sought to contain the expansion of rival powers through military, diplomatic, and commercial means. This saw the Sterlian military engaged in a number of conflicts over colonial possessions and trade access with [[San Sebastian]] and [[Gallia]], most notably the **Seven Years' War** (1756-1763), the **Gallian Revolutionary War** (1792-1802), and the **Bonapartic Wars** (1803-1815). The Royal Navy's victory at the **Battle of Cadizo** (1905) earned the Sterlian Empire total supremacy over the world's oceans, paving the way for an era of peace known as the ***Pax Sterlinica***.
 
 The 19th century saw the expansion of the Empire's holdings in Iffranika and Ostesia, as well as conflict with new rivals in the Far East. This period saw Sterlia engage in numerous counter-insurgency campaigns such as the **Mysuti Mutiny** (1840), the **Malouine Insurgency** (1845), and the **Kaapkrieg** (1880), as well as interventions in regional conflicts such as the **Chendai Expedition** (1883), the **Azovian Intervention** (1854-1856), and the **Boxer Expedition** (1900).
 #### The Great War
 In the early 20th century, the Sterlian Empire was engaged in an arms race with the rest of the Continental powers. 
 
-#### The Reclamation Wars
+#### The [[Reclamation Wars]]
 In the aftermath of the Great War, the remnants of the Sterlian Empire's military forces were scattered across the world. 
 
 ### Branches
