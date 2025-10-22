@@ -5,8 +5,8 @@
 She graduated from **Avonforde University** at the top of her class in 1950, and achieved top marks in the [[Sterlian Civil Service Examination]] the same year. She quickly rose the ranks in the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]], eventually being transferred to [[Admiralty Park]] in [[Districts of Kaigaishima#**Henshaw**|Henshaw, Kaigaishima]] in 1957. Some attribute her rapid promotions to nepotism, however both she and the Admiral deny these claims.
 
 #Tier-1 #Characters 
-### Dev Notes
----
+# Dev Notes
+
 Full Name : Olivia Armitage Northwind  
 Nationality : Sterlian  
 Pronouns (WOKE!!) : she/her  

@@ -6,21 +6,13 @@
 
 ---
 Name: Maya Foker, a.k.a. Montgomery “Sparrow” Passerine -> Monty Passerine
-
 - From the Eurasian tree sparrow (Passer montanus), known in the Philippines as “Mayang simbahan”
-    
-
-Occupation: Editorial Writer and Editor for The Kingfisher
-
-Nationality: Sterlian/Kaigaishiman
-
-Pronouns (WOKE!): She/her
-
-Age: 20
-
-Height: 5’6
-
   
+Occupation: Editorial Writer and Editor for The Kingfisher
+Nationality: Sterlian/Kaigaishiman
+Pronouns (WOKE!): She/her
+Age: 20
+Height: 5’6
 
 - Known for her aggressive and harsh criticisms of multiple institutions on occasion. Has been repeatedly told by Fischer to reel it back.
     

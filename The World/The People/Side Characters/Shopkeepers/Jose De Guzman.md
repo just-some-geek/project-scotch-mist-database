@@ -13,26 +13,17 @@ Height : 5’6
 Hair : Brown-Black
 
 Song : Pizza Tower Theme  
-  
 
 Introductory Text :  
-  
 
 Chorizo Joe, businessman, emigré, and de facto uncle of the Kaigai-Sabelinyo community. Local health services advise tourists to locate the nearest bathroom before consuming the spicier flavors of Joe’s Chorizo.  
-  
 Left-handed  
   
 Looks like the guy from Pizza Tower.
 
-  
-
 Overview : 
 
-  
-
 NPC. Owner of the Chorizo Joe’s chain of eateries.
-
-  
 
 “Have you ever eaten my chorizo before?”
 

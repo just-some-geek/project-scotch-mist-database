@@ -5,12 +5,8 @@
 Liwanag is a skilled writer, serving as an editorial writer for the student-run newspaper [[The Kingfisher]]
 
 #Tier-1 #Characters
+# Dev Notes
 
----
-
-
-### Dev Notes
----
 Full Name : Basilio Soriano Liwanag  
 Nationality : Isabeliño  
 Pronouns (WOKE!!) : he/him  

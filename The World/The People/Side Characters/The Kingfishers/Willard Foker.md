@@ -6,21 +6,13 @@
 
 ---
 Name: Willard Foker, a.k.a. Rebecca “Robin” Erithacus
-
 - From the European Robin (Erithacus rubecula)
-    
-
-Occupation: Head Photographer for The Kingfisher
-
-Nationality: Sterlian/Kaigaishiman
-
-Pronouns (WOKE!):  He/him
-
-Age: 20
-
-Height: 5’7
-
   
+Occupation: Head Photographer for The Kingfisher
+Nationality: Sterlian/Kaigaishiman
+Pronouns (WOKE!):  He/him
+Age: 20
+Height: 5’7
 
 - Despite being a part of The Kingfisher, he is ignorant to many social issues. Just takes photos for the love of the craft when asked to do so.
     

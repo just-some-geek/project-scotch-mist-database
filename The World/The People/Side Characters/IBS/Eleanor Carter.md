@@ -7,7 +7,7 @@
 ---
 Full Name : Eleanor “Rigby” Carter  
 Nationality : Kaigaishiman (1st Gen Sterlian Immigrant)  
-Pronouns (WOKE!!) : he/they  
+Pronouns : she/they  
 Age : 28  
 Height : 5’3  
 Hair : Black
