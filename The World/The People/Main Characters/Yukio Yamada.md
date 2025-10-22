@@ -11,7 +11,7 @@
 ><b>Pronouns:</b> he/they</br>
 ><b>Age:</b> 21</br>
 ><b>Height:</b> 5’5</br>
-><b>Hair:</b> Black, but like ash
+><b>Hair:</b> White, but like ash
 
 **Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
 
