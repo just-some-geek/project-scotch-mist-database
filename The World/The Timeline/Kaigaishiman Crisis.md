@@ -1,10 +1,14 @@
 **1958 anti-government protests on Kaigaishima**
+>[!info] <center>Kaigaishiman Crisis</center>
+>![[EDSA1.png]]
+><center>Protesters gather on McCormick Avenue</center>
+><h6>Basic Information</h6>
+>Date
 
-The **Kaigaishiman Crisis**, also known as the **Kaigaishiman Rising** or the **Eastern Emergency** was
+The **Kaigaishiman Crisis**, also known as the **Kaigaishiman Rising** or the **Eastern Emergency**, were a series of popular demonstrations on [[Kaigaishima]] from 9 April to 6 May 1958. There was a sustained campaign of civil resistance against regime violence and electoral fraud. The protests escalated violently in response to the [[Paul Miki University Massacre]], eventually resulting the the [[Operation Divine Wind|evacuation of the Sterlian government]] and occupation of the island by the [[Eikan Empire]].
 
 #Tier-1 #Events 
-
----
+# Background and History
 Getting Your Bearings (June 1st 1957 – June 23rd 1957)
 
 •All 4 main characters arrive on the island and get acquainted/reacquainted with it.
@@ -22,8 +26,6 @@ The Summer Festival ( June 23rd 1957 – September 21st 1957)
 local universities and organizations for the festival.
 
 •Planning and construction begins for a new public high school in the Yilan district.
-
-•
 
 The Referendum and Military Announcements (September 21st 1957 – September 23rd 1957)
 
@@ -63,13 +65,13 @@ Delay, Deny, Defer  (January 1st 1958 – April 9th 1958)
 •People are so upset about this shit man what the fuck.
 
 •Riots break out on the Feast of St. Paul Miki on the 6th of February.
-
-The Paul Miki University Massacre (April 9th 1958 –  April 12th 1958)
-
-•Gov’t cracks down on the riots, and multiple PMU students are shot.
+# Events
+## The [[Paul Miki University Massacre]]
+On 9th April 1958, the students of [[Paul Miki University]] rally in protest of the [[Sterlian Commonwealth Armed Forces|Sterlian military's]] war crimes in [[Shenzhou War|Shenzhou]] and the alleged electoral fraud in the [[Representation Referendum of 1958]], both of which were exposed in the [[Northwind Papers]]. A military contingent is sent to break up the demonstration, but the deployment results in the shooting and deaths of 4 students and wounding of 19 others.
 
 •An outrage spurs across the island and multiple institutional buildings are attacked by rioters.
 
+## Eikan Intervention
 •The Eikans use this as an opportunity to “liberate” the island.
 
 The Collapse (April 12th 1958 – May 6th 1958)
@@ -83,3 +85,6 @@ The Collapse (April 12th 1958 – May 6th 1958)
 •Columbia evacuates their guys + loyalists (Fall of Saigon style)
 
 Players either stay and help or try to escape
+# Aftermath
+With the island of Kaigaishima falling under Eikan control, Sterlian support to South Shenzhou
+# See Also

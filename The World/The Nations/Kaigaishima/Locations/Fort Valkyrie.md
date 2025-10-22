@@ -1,6 +1,6 @@
 **Bonapartic-era bastion fortress**
 
-**Fort Valkyrie** is a castle and historical stronghold in [[Districts of Kaigaishima|Yilan, Kaigaishima]]. Situated atop **Valkyrie Peak**, the fortress once served as the main base for the [[Sterlian Commonwealth Armed Forces|Sterlian garrison]] on [[Kaigaishima]]. After the end of the [[Great War]], control of the fort was transferred to the [[Imperial Broadcasting Service]] Eastern Division, which is now headquartered within.
+**Fort Valkyrie** is a castle and historical stronghold in [[Districts of Kaigaishima#**Yilan**|Yilan, Kaigaishima]]. Situated atop **Valkyrie Peak**, the fortress once served as the main base for the [[Sterlian Commonwealth Armed Forces|Sterlian garrison]] on [[Kaigaishima]]. After the end of the [[Great War]], control of the fort was transferred to the [[Imperial Broadcasting Service]] Eastern Division, which is now headquartered within.
 
 #Tier-3 #Locations 
 
