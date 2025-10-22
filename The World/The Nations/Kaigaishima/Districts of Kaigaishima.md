@@ -60,11 +60,12 @@ The industrial West Region
 
 - **Kolbe** - The former district is named after Maximillian Kolbe, Catholic saint who sacrificed himself in the Holocaust for 13 other men. A lot of business.
 
-- **Zhonghe** -
+- **Zhonghe** - 
 
 - **Miyamura** - Short for **Miyamura Aviation and Shipping Enterprises** (M.A.S.E.), this district is home to the main shipyards on the island. 
 
-- **Vernon** - 
+- **Vernon** - main shipping port of the island, this region sees many products being imported and exported blah blah
+
 - **Yorke** - Named after Thom Yorke, frontman of Radiohead. It has the beginning of McCormick Avenue, which stretches across the entire Central Region. It breaches Lasky, St. Ignatius, Ajisaki, Tsuno, then St. Paul Miki.
 
 - **Xindian** -
@@ -88,7 +89,9 @@ The East Region is not under the direct control of the Kaigaishiman government, 
 The
 
 - **Neihu** -
+
 - **Taishan** -
+
 - **Taoyuan** -
 
 - **Yilan** - The district is towered over by the **Valkyrie Peak**, a large hill offering views of Kaigaishima Harbor and the South, West, and Central regions. Informal housing runs up the slopes until culminating in **Fort Valkyrie**, a walled-in star fortress housing the headquarters of the [[Imperial Broadcasting Service|Imperial Broadcasting Service Eastern Division]]. 
