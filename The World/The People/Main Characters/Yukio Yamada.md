@@ -13,7 +13,7 @@
 ><b>Height:</b> 5’5</br>
 ><b>Hair:</b> Black, but like ash
 
-**Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
+**Yukio Yamada** (行雄 山田, *Yamada Yukio*; born 1937) is an [[Eikan Empire|Eikan]]-born student at [[Paul Miki University]] in [[Districts of Kaigaishima#**St. Paul**|St. Paul, Kaigaishima]]. Not much is known about their early life, education, or family history.
 
 They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name, securing a scholarship at PMU and establishing connections in the community.
 

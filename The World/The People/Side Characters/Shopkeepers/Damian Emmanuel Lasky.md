@@ -1,6 +1,6 @@
 **Bartender of the Wildflour**
 
-**Damian Emmanuel Lasky** (born 4 December 1929) is the owner and bartender of the [[Wildflour (bar)|Wildflour]] bar in [[Districts of Kaigaishima|Lasky]].
+**Damian Emmanuel Lasky** (born 4 December 1929) is the owner and bartender of the [[Wildflour (bar)|Wildflour]] bar in [[Districts of Kaigaishima#**Lasky**|Lasky]].
 
 #Tier-3 #Characters 
 
