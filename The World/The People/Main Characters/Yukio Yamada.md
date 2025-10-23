@@ -23,11 +23,17 @@ They emigrated to [[Kaigaishima]] to escape the rising tensions in their homelan
 With no place to call their own, hope draws them here.
 College is a great place to reinvent yourself…  
 
-Yukio Yamamda is an illegal immigrant from Eiko who finds himself on a cargo ship en route to Kaigaishima. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
+Yukio Yamada is an illegal immigrant from Eiko who finds himself on a cargo ship en route to Kaigaishima. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
 
-Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university PMU, granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend the real Yukio Yamada, Yukio Alpha allowed this Yukio to take his name to use. His real name is unknown.  
+Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university PMU, granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name as well as his friend's name is unknown.  
   
 Electrical engineering seemed difficult, but he had experience with fixing radio and other appliances in his community.  
+
+### Personality / Tidbits 
+___
+-  Initially named Leo Detahito, changed for aesthetics sake.
+-  Very shy despite seeming approachable.
+-  When in a new situation, can take a while to adjust as their mind is defensive and prioritizes survival.
   
 ### Opinions
 ___
@@ -36,24 +42,15 @@ The Island - “I need a place to be, this feels like a good spot.”
 
 Themselves - “I’m unsure, have you ever been unsure before? There’s a lot more I need to figure out first before I can answer that, sorry.”
   
-Basilio - “He explained to me how the trains worked here. He speaks like he’s the smartest person in the room, but not in a cocky way. I often go to him when I need to know things.”
+[[Basilio Soriano Liwanag]] - “He explained to me how the trains worked here. He speaks like he’s the smartest person in the room, but not in a cocky way. I often go to him when I need to know things.”
   
-Olivia - “I know she means well I know she means well but she has that look. I don't know if I'm getting pity or what, but she doesn't feel right.”
+[[Olivia Northwind]] - “I know she means well I know she means well but she has that look. I don't know if I'm getting pity or what, but she doesn't feel right.”
   
-Joseph - “I don't really understand what he wants sometimes, he's got a lot going on.”  
+[[Li Zenghui]] - “I don't really understand what he wants sometimes, he's got a lot going on.”  
   
 ### Character Arc
 ---
-ACT I :  
-- Smuggles himself in the island from a cargo crate  
-- Navigates to PMU and meets Chorizo Joe and Artemis  
-- Befriends Father McKenzie  
-  
-ACT II :  
-- Meets Basilio and Willard at the Wildflour  
-- Joins the Kingfishers, does their dirty work  
-- Explores the island and gets into business he shouldn't be in  
-  
+
 ACT III :  
 - Tasked by the Kingfishers to retrieve crucial information  
 - Leaks the information  
@@ -64,17 +61,23 @@ Alternate Ending : Staying with Father McKenzie to do volunteer work on the isla
   
 Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   
-So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as Isabela/The Isabelines.  
+So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as [[The Isabelines]].  
   
 The plan was to hide themselves in an empty wooden crate that had holes in them and ship himself on his way to Kaigaishima. He had also obtained documents through undisclosed sources that made him a scholar to the University of Paul Miki. This allowed him a safe place to live for the foreseeable years, as well as an education to give him job opportunities down the line. Granted he’d have to succeed in class, but the degree was for electrical engineering, something he felt confident in as he was his community's handyman for electrical appliances. 
 
 He could be accompanied by a friend or two he wants to save, whether they end up on Kaigaishima with him or accidentally get shipped off somewhere else is to be determined.  
-  
-Arriving at the university  
 
-Joins the Kingfishers as a Photographer, really good at getting damn near anywhere.
+Arriving at the university he gets himself acclimated with the place, as well as forming connections and friendships with a diverse cast of people. Including [[Artemis Ellery Taylor]] a fellow student at PMU who has lived on the island for a bit longer than he has and introduces him to the university and shows him around. [[Rev. Thomas McKenzie]] residing parish priest of the university and [[Jose De Guzman]] owner of [[Chorizo Joe's Karinderia]], to whom Yukio chooses to confide in from time to time. 
 
-Point of No Return when sent on a suicide mission into a government meeting to confirm the Northwind leaks.
+Sometime later, they also meet a man by the name of Basilio, when going out to the [[Wildflour (bar)|Wildflour]] a bar owned by [[Damian Emmanuel Lasky|Damian Lasky]]. The two become quick friends and they meet frequently at the bar to chat, given their seemingly similar situations. Although Yukio lies about his side of the story when it's brought up.
+
+After meeting each other, both are approached by a certain [[Willard Foker]], a friend of Basilio from his school [[St. Ignatius University]]. Willard proposes that Basilio joins [[The Kingfisher]] as a writer, Basilio agrees on the condition that Yukio comes along and given a role as well. From there they're given an investigative / photographer role, since the members of the Kingfisher noticed Yukio's ability to seemingly get around and sneak into areas without suspicion. Over his time working at The Kingfisher, they gain in popularity partly thanks to his work as well as Basilio's new role as a writer. 
+
+Nearing the end of the year, The Kingfisher are then contacted by one Olivia Northwind, a government official. She brings to them evidence of government corruption, use of illegal chemical weapons in the [[Shenzhou War]], as well as a plan to rig the [[Representation Referendum of 1958|Referendum Vote]]. However the team is hesitant to accept Northwind's offer. To confirm her information they send out Yukio to "borrow" some documents from key government buildings, as well as record a meeting being held in the [[Albertine Valley Country Club]] between select military officials of the Commonwealth. 
+
+After confirming that Northwind is in fact telling the truth, they scramble to collect enough documents and transcripts from her as well as organizing them in a way that's presentable to the public. As well as coordinating with [[Eleanor Carter|someone from within the Imperial Broadcasting Service]], to release it on December 19th. However a week after releasing the papers, a terrorist attack hits multiple government buildings on Christmas, shifting the public's attention away from [[The Northwind Papers]]. Additionally, as a response the government declared Martial Law, which was to be implemented at the start of the year. 
+
+
 
 ### Quotes
 ---

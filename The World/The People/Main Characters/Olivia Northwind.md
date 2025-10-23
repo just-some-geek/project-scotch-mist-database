@@ -39,10 +39,14 @@ ___
 ___
 
 The Island - “It’s like mixing unknown chemicals, while the results are interesting, they are most likely volatile.”
+
 Herself - “I can handle things just fine, yet these fucks won’t believe me. I’ve got to get it through their thick heads somehow.”
-Basilio - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
-Yukio - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
-Joseph - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
+
+[[Basilio Soriano Liwanag]] - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
+
+[[Yukio Yamada]] - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
+
+[[Li Zenghui]] - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
 ### Character Arc
 ---

@@ -74,9 +74,11 @@ The population of Kaigaishima is predominantly of Shenzhou descent (, with a sig
 
 Kaigaishiman culture is characterized by a hybrid of East and West. Traditional [[Culture of Shenzhou|Shenzhen]] and [[Culture of the Eikan Empire|Eikan]] values emphasizing higher education, spirituality, and the nuclear family are blended with [[Culture of the Sterlian Commonwealth|Sterlian]] ideals of individual liberties and the rule of law. The island's colonial history and strategic location, combined with immigration from the [[Far Eastern Territories]], has resulted in a distinct local identity.
 #### Cuisine
+
 Kaigaishiman cuisine is a fusion of the cuisines of its population groups.
 
 #### Language
+
 There are three main languages used in Kaigishima: Sterlian, Eikan, and Lower Shenzhen.
 
 #### Media
@@ -85,6 +87,7 @@ Kaigaishima is home to [[Imperial Broadcasting Service]] East,
 
 
 #### Sport and Recreation
+
 Despite its small area, the island is home to a variety of sports and recreational facilities.
 
 The **Albertine Valley Country Club** holds a near-monopoly over the island's legal gambling market, which generates over 370 million Sterling every year. As casinos are banned on the island, the AVCC generates income through lotteries, sports betting, and horse racing. The annual **Prince Albert Stakes**, part of the Commonwealth Cup series, reportedly draws over 10,000 attendees.

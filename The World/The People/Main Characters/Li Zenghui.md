@@ -8,7 +8,7 @@
 ><b>Nationality:</b> Kaigaishiman</br>
 ><b>Pronouns:</b> he/him</br>
 ><b>Age:</b> 29</br>
-><b>Height:</b> 5’19</br>
+><b>Height:</b> 5’9</br>
 ><b>Hair:</b> Black
 
 
@@ -36,21 +36,16 @@ ___
   
 ### Opinions 
 ---
-
   
 The Island - “Such a beautiful place filled with different yet like-minded persons. It hurts to see it in such disarray.”
-
   
 Himself - “No one else seems to agree with my ideas, I’ve got a lot of work to do.”
 
-  
-Basilio - “He reminds me of myself sometimes, just a bit younger. Surprisingly athletic too.”
+[[Basilio Soriano Liwanag]] - “He reminds me of myself sometimes, just a bit younger. Surprisingly athletic too.”
 
+[[Olivia Northwind]] - “My most important priority is to get her to understand me. If I can get through to her, real change can begin.”
   
-Olivia - “My most important priority is to get her to understand me. If I can get through to her, real change can begin.”
-
-  
-Yukio  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
+[[Yukio Yamada]]  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
 
   
 ### Character Arc 
