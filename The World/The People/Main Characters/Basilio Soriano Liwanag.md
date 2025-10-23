@@ -54,7 +54,7 @@ Yukio - “An interesting person, no other way to put it. He sees the world a lo
 Joseph - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
   
 
-### Character Arc
+### Character Story
 ---
 ACT I :  
 - He arrives on the island with a civil engineering scholarship to SIU  

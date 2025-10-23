@@ -48,7 +48,7 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 
 [[Li Zenghui]] - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
-### Character Arc
+### Character Story
 ---
 ACT I :  
 - Gets a job at the Admiralty to try and prove herself  

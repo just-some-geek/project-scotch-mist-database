@@ -48,7 +48,7 @@ Himself - “No one else seems to agree with my ideas, I’ve got a lot of work 
 [[Yukio Yamada]]  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
 
   
-### Character Arc 
+### Character Story 
 ---
 ACT I :  
 - Returns to the island after studying abroad for 9 years.  

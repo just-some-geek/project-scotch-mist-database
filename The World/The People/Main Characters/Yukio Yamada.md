@@ -48,17 +48,9 @@ Themselves - “I’m unsure, have you ever been unsure before? There’s a lot 
   
 [[Li Zenghui]] - “I don't really understand what he wants sometimes, he's got a lot going on.”  
   
-### Character Arc
+### Character Story
 ---
 
-ACT III :  
-- Tasked by the Kingfishers to retrieve crucial information  
-- Leaks the information  
-- GET THE FUCK OUT  
-  
-Ending : Escapes to the Isabelines on his own per Basilio's suggestion  
-Alternate Ending : Staying with Father McKenzie to do volunteer work on the island
-  
 Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   
 So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as [[The Isabelines]].  
@@ -77,7 +69,11 @@ Nearing the end of the year, The Kingfisher are then contacted by one Olivia Nor
 
 After confirming that Northwind is in fact telling the truth, they scramble to collect enough documents and transcripts from her as well as organizing them in a way that's presentable to the public. As well as coordinating with [[Eleanor Carter|someone from within the Imperial Broadcasting Service]], to release it on December 19th. However a week after releasing the papers, a terrorist attack hits multiple government buildings on Christmas, shifting the public's attention away from [[The Northwind Papers]]. Additionally, as a response the government declared Martial Law, which was to be implemented at the start of the year. 
 
+Due to both The Northwind Papers, the delay of the Referendum results as well as the declaration of Martial Law, protests and riots begin in and around PMU on the feast day of St. Paul Miki, the 6th of February 1958. These protests continue and slowly escalate in size and activity throughout the following months, The Kingfisher continues it's operations covering news from across the island during this time of uncertainty and unrest. Artemis also becomes a frequent attendee to these protests, despite raising safety concerns from many of her friends most of all Yukio.
 
+It all comes to a head when on the 12th of April, a particularly unruly protest was cracked down on by police / military forces. Multiple students were shot and / or killed. This can include Artemis depending on the player's actions. This event sparks much outrage across the entire island as multiple institutional buildings are attacked by rioters, as well as the Eikan military arriving to help "liberate the island" after waiting for the opportunity to do so. All the while Yukio has yet to find his lost friend.
+
+Faced with a tough decision, Yukio can either decide to flee to the Isabelines on his own per Basilio's suggestion, or stay with Father McKenzie and/or Artemis to aid the island.
 
 ### Quotes
 ---
