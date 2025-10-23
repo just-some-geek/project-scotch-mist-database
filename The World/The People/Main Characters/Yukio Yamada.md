@@ -31,9 +31,12 @@ Electrical engineering seemed difficult, but he had experience with fixing radio
 
 ### Personality / Tidbits 
 ___
+
 -  Initially named Leo Detahito, changed for aesthetics sake.
 -  Very shy despite seeming approachable.
 -  When in a new situation, can take a while to adjust as their mind is defensive and prioritizes survival.
+-  Very inconspicuous and can blend in a crowd really well.
+-  Light on their feet and very dexterous.
   
 ### Opinions
 ___
