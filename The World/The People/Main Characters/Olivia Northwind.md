@@ -1,18 +1,23 @@
 **Sterlian government official
 
+>[!info] Olivia Northwind</br>
+>![[concept_Olivia.png]]
+><center>Olivia in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Olivia Armitage Northwind</br>
+><b>Nationality:</b> Sterlian</br>
+><b>Pronouns:</b> she/her</br>
+><b>Age:</b> 27</br>
+><b>Height:</b> 5’7</br>
+><b>Hair:</b> Silver
+
+
 **Olivia Armitage Northwind** (born 18 September 1931) is the Secretary to the Commander-in-Chief, Far Eastern Command. Born to [[Sterlian Commonwealth|Sterlian]] admiral [[Nelson Charles Northwind]], she grew up in the Sterlian [[Great Sterlia|Home Isles]] in the suburbs around **The City**.
 
 She graduated from **Avonforde University** at the top of her class in 1950, and achieved top marks in the [[Sterlian Civil Service Examination]] the same year. She quickly rose the ranks in the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]], eventually being transferred to [[Admiralty Park]] in [[Districts of Kaigaishima#**Henshaw**|Henshaw, Kaigaishima]] in 1957. Some attribute her rapid promotions to nepotism, however both she and the Admiral deny these claims.
 
 #Tier-1 #Characters 
 # Dev Notes
-
-Full Name : Olivia Armitage Northwind  
-Nationality : Sterlian  
-Pronouns (WOKE!!) : she/her  
-Age : 27  
-Height : 5’7  
-Hair : Light brown
 
 Introductory Text :  
 On a mission to prove herself, her sense of duty has led her here.

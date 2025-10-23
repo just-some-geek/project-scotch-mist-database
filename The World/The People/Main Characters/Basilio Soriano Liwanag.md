@@ -1,18 +1,25 @@
 **Isabelino scholar and writer**
 
+>[!info] Basilio Liwanag</br><center>ᜊᜐᜒᜎᜒᜂ / ᜐᜓᜇᜒᜀᜈᜓ / ᜎᜒᜏᜈᜄ᜔</center>
+>![[concept_Basilio.png]]
+><center>Basilio in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Basilio Liwanag</br>
+><b>Nationality:</b> Isabeliño</br>
+><b>Pronouns:</b> he/him</br>
+><b>Age:</b> 22</br>
+><b>Height:</b> 5’10</br>
+><b>Hair:</b> Black
+
+
+
+
 **Basilio Soriano Liwanag** (born 23 September 1935) is a [[The Isabelines|Isabelino]] student and writer. Born in the [[The Isabelines|Isabelines]], he travelled to [[Kaigaishima]] to pursue a degree in civil engineering.
 
 Liwanag is a skilled writer, serving as an editorial writer for the student-run newspaper [[The Kingfisher]]
 
 #Tier-1 #Characters
 # Dev Notes
-
-Full Name : Basilio Soriano Liwanag  
-Nationality : Isabeliño  
-Pronouns (WOKE!!) : he/him  
-Age : 22  
-Height : 5’10  
-Hair : Black  
 
 Introductory Text :  
 With a curious mind, his knack of learning has led him to seek education on this island.
@@ -22,23 +29,13 @@ Some things must never be known…
 
 Overview : 
 
-  
-
 Basilio is a scholar from the Isabelines who's pursuing an electrical engineering degree in Kaigaishima's biggest university SIU. He's a very intelligent and well rounded person whose only noticeable struggles can be seen in social situations. Yet even then it was never much of an issue for him.
-
-  
 
 Now while he had the opportunity to study in any school in the country due to his academic standing, he chose to leave for a scholarship opportunity abroad. Ask him, he complains about how his country handles education, saying that he wanted to see other nation's ways and perspectives.
 
-  
-
 It was lucky that he managed to land in Kaigaishima, probably the best place to learn different viewpoints, due to the island's diverse population.
 
-  
-
 Personality/Tidbits :
-
-  
 
 He is not passionate about politics
 
@@ -52,30 +49,16 @@ Often bikes to places.
 
 He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
 
-  
-  
-
 Opinion On : 
 
-  
 The Island - “It’s interesting to see how such different people can coexist in the same city. There’s a lot to be learned from cultures that aren’t your own.”
 
-  
 Himself - “I’m not that brilliant of a person, I do my best but I’m just one of the lucky ones.”
 
-  
-  
-
-  
 Olivia - “I normally don’t involve myself in political matters but Olivia I consider the exception. She makes the topic a lot less daunting when I talk to her about it.”
 
-  
 Yukio - “An interesting person, no other way to put it. He sees the world a lot differently than you or I do, not necessarily in a bad way. ”
 
-  
-  
-
-  
 Joseph - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
   
 
