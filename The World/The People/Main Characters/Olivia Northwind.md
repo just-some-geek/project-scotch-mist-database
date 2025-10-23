@@ -19,23 +19,25 @@ She graduated from **Avonforde University** at the top of her class in 1950, and
 #Tier-1 #Characters 
 # Dev Notes
 
-Introductory Text :  
 On a mission to prove herself, her sense of duty has led her here.
 A compass doesn’t always point north…  
 
-Overview : 
 Olivia Northwind is a secretary/adviser working for The Commonwealth. Daughter of famed Lord Admiral Nelson Armitage Northwind, commander-in-chief of the Sterlian forces in the Eastern Territories. She has long lived under his shadow, though she never resented him for it.
 
 Throughout her career she has been hit with an unfortunate combination of misogyny and accusations of nepotism. Despite these issues she has never given up. 
 
 She herself requested to be transferred to Kaigaishima to prove herself to her peers in an unfamiliar environment. Kaigaishima has been known to be a delicate situation by The Commonwealth for a long time. She believes that if she could bring stability to the island, she’ll be able to show to her coworkers that she is capable.  
   
-Personality/Tidbits :  
-She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
-She is an alcoholic, yet has no remorse with being one.
-Very insecure about herself, often believes she’s “not enough”.
+### Personality / Tidbits 
+___
+
+-  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
+-  She is an alcoholic, yet has no remorse with being one.
+-  Very insecure about herself, often believes she’s “not enough”.
   
-Opinion On :   
+### Opinions 
+___
+
 The Island - “It’s like mixing unknown chemicals, while the results are interesting, they are most likely volatile.”
 Herself - “I can handle things just fine, yet these fucks won’t believe me. I’ve got to get it through their thick heads somehow.”
 Basilio - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
