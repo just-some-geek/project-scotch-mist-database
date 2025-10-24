@@ -45,7 +45,7 @@ You're going to need to install the following Obsidian plugins/themes:
 [Style Settings (Plugin)](https://github.com/mgmeyers/obsidian-style-settings)
 [Wikipedia (Theme)](https://github.com/Bluemoondragon07/Wikipedia-Theme)
 
-If you don't have one already, you're also going to need a [Baybayin](https://en.wikipedia.org/wiki/Baybayin) font, since some articles contain the script. I'd recommend [Niwang Uno](https://filipeanut.gumroad.com/l/baybayinfontniwanguno), but any Baybayin font should work.
+If you don't have one already, you're also going to need a [Baybayin](https://en.wikipedia.org/wiki/Baybayin) font, since some articles contain the script. I'd recommend [Niwang Uno](https://filipeanut.gumroad.com/l/baybayinfontniwanguno) by Filipeanut, but any Baybayin font should work.
 
 Remember: our goal is to create a consistent, fleshed-out world for our audience to immerse themselves in. We are not here to lore-dump about the intricate details of Sterlian governance, the inner workings of a reprogrammable key card, or the endless anachronisms that our setting has. Use your best judgement in deciding when and how, or even if, this content is used.
 
