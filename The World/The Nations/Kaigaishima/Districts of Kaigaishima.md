@@ -8,7 +8,7 @@ While most of the districts are administered by an elected council, a few are pl
 >[!callout]+ Map of Kaigaishima
 >![[train_station_mapped.png]]
 # Districts By Region
----
+
 ## North Region
 The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], with small villages nestled in the Hoshiyama mountain range and along the coastline, as well as large palace-estates for the [[Sterlian Commonwealth|Sterlian]] and [[Eikan Empire|Eikan]] aristocracy. The region is primarily residential, though some commercial hubs exists towards the eastern parts of the region.
 ##### **Sakamoto**
@@ -97,11 +97,13 @@ The East Region is not under the direct control of the Kaigaishiman government, 
 - 二門市, *two-gate city*
 - A
 ##### **Gosling**
+- Named after Ryan Gosling, yes that Ryan Gosling.
 - 
 ##### **Foster**
 - 
 ##### **Buckley**
--  
+-  Named after Jeff Buckley.
+- 
 ## South Region
 The South Region is the oldest
 ##### **Neihu** 

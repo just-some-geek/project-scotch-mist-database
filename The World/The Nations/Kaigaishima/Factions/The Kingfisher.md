@@ -17,6 +17,6 @@
 
 - If Basilio/Yukio joins the Kingfisher, they get assigned a name as well:
 
-- [[Basilio Soriano Liwanag]] -> Falco “Falcon” Peregrine (Falco peregrinus) who joins the editorial section.
+- [[Basilio Liwanag]] -> Falco “Falcon” Peregrine (Falco peregrinus) who joins the editorial section.
     
 - [[Yukio Yamada]] -> Stella “Grassbird” Davidson (Locustella davidi) who joins the photography/investigative side of things.
