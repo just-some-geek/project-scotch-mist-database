@@ -6,7 +6,6 @@
 The following series of documents is a Wikipedia-style encyclopedia detailing the world built for the Scotch Mist Project. These are written to serve as a guide for the developers, artists, actors, musicians, and other team members in constructing a more immersive rendition of this world.
 
 All files are written to be an unbiased and accurate summary of events, people, and places relevant to the story. Any inaccuracies in transposing the content into the game and other media should be done with intention to reinforce the game's core themes of diversity in perspectives. Any inconsistencies in information between files is probably a mistake on the writer's end or an artefact of a previous version that has yet to be updated.
-
 ## Class-Tier File Designation System
 ---
 For convenience, files are sorted using an alphanumeric Class-Tier system, detailed below:
@@ -43,6 +42,7 @@ These classifications are intended to guide team members in determining how to a
 You're going to need to install the following Obsidian plugins/themes:
 [Git (Plugin)](https://github.com/Vinzent03/obsidian-git)
 [Style Settings (Plugin)](https://github.com/mgmeyers/obsidian-style-settings)
+
 [Wikipedia (Theme)](https://github.com/Bluemoondragon07/Wikipedia-Theme)
 
 If you don't have one already, you're also going to need a [Baybayin](https://en.wikipedia.org/wiki/Baybayin) font, since some articles contain the script. I'd recommend [Niwang Uno](https://filipeanut.gumroad.com/l/baybayinfontniwanguno) by Filipeanut, but any Baybayin font should work.
