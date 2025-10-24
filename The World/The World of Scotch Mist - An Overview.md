@@ -13,7 +13,7 @@ At its core, Scotch Mist is a game about human stories from tumultuous times, se
 ---
 Scotch Mist takes place on [[Kaigaishima]] (legally distinct Hong Kong/Singapore), a distant colony of the [[Sterlian Commonwealth]] (legally distinct British Empire). The island is a cultural hot-pot, with significant populations from mainland [[Shenzhou]] (China), [[Eikan Empire|Eiko]] (Japan), [[The Isabelines]] (UY PHILIPPINES), and the rest of the Commonwealth and the Far East.
 
-The outbreak of the [[Shenzhou War]] between the communist [[South Shenzhou]] and the "democratic" warlord-state coalition of [[North Shenzhou]] has dragged the overstretched Commonwealth into a long war of attrition against the red tide. An increasingly desperate Parliament has been taking drastic measures to try to win, but have only succeeded in angering the under-represented populations of frontline Commonwealth states, especially Kaigaishima.
+The outbreak of the [[Shenzhou War]] between the communist [[South Shenzhou]] and the "democratic" warlord-state coalition of [[North Shenzhou]] has dragged the overstretched Commonwealth into a long war of attrition against the red tide. An increasingly desperate [[Sterlian Parliament|Parliament]] has been taking drastic measures to try to win, but have only succeeded in angering the under-represented populations of frontline Commonwealth states, especially Kaigaishima.
 
 The social, economic, and political tensions in the island are ready to boil over into the wider world, and there are many groups who are poised to take advantage of the weakened state of the Commonwealth. All they need to do is wait...
 ### The People
@@ -47,7 +47,7 @@ On 19 Dec. a [[Olivia Northwind|whistleblower]] within the Sterlian government l
 
 On 25 Dec., Christmas Day, a series of terrorist bombings hit government-related buildings across Kaigaishima, including the Navy headquarters at [[Admiralty Park]], the officer's club at the [[Albertine Valley Country Club]], the [[Imperial Broadcasting Service]] complex at [[Fort Valkyrie]], and the government offices at [[City Hall]]. In response, the government launches an investigation and locks down the island, with Martial Law to take effect on 1 Jan. 1958.
 
-### ACT 3: Crisis Imminent
+#### ACT 3: Crisis Imminent
 Despite the restrictions, the Representation Referendum still takes place on 9 Jan. Several "issues" delay the vote counting and stalls out the release of the results for almost a month. On 6 Feb., the results of the referendum came out an overwhelming "no". This is hotly contested by parts of the general public, and protests break out across Kaigaishima in violation of martial law restrictions. The Sterlian military cracks down hard on the protesters, arrests and detains several dozen, and temporarily puts a halt to dissident activity.
 
 For the next month and a half, the situation on Kaigaishima and the wider Far East continues to deteriorate. The Sterlian military is slowly surrounded in [[Chendai]], Eikan collaborators organize resistance groups against the government, and an unhappy populace gears up for another round of protests to bring the Shenzhou War to an end.

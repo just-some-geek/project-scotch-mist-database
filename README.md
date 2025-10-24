@@ -7,6 +7,8 @@ The following series of documents is a Wikipedia-style encyclopedia detailing th
 
 All files are written to be an unbiased and accurate summary of events, people, and places relevant to the story. Any inaccuracies in transposing the content into the game and other media should be done with intention to reinforce the game's core themes of diversity in perspectives. Any inconsistencies in information between files is probably a mistake on the writer's end or an artefact of a previous version that has yet to be updated.
 
+## Class-Tier File Designation System
+---
 For convenience, files are sorted using an alphanumeric Class-Tier system, detailed below:
 #### Tier
 is a numeric designation that indicating a file's importance or relevance to the story.
@@ -34,8 +36,16 @@ is a letter designation describing the type of information contained in a file. 
 |   M   | Media      | Files for pieces of in-universe media, whether written, visual, or auditory.<br>E.g.: [[Why We Fight (film series)]] and [[Sterlian Charter]]                                                                                       |
 |   S   | System     | Files for game systems and mechanics.<br>E.g.: [[The Confidant System]] and [[The Informational Deckbuilder]]                                                                                                                            |
 
-
 These classifications are intended to guide team members in determining how to approach using the information in these files to best effect.
+
+## Things You'll Need
+---
+You're going to need to install the following Obsidian plugins/themes:
+[Git (Plugin)](https://github.com/Vinzent03/obsidian-git)
+[Style Settings (Plugin)](https://github.com/mgmeyers/obsidian-style-settings)
+[Wikipedia (Theme)](https://github.com/Bluemoondragon07/Wikipedia-Theme)
+
+If you don't have one already, you're also going to need a [Baybayin](https://en.wikipedia.org/wiki/Baybayin) font, since some articles contain the script. I'd recommend [Niwang Uno](https://filipeanut.gumroad.com/l/baybayinfontniwanguno) by Filipeanut, but any Baybayin font should work.
 
 Remember: our goal is to create a consistent, fleshed-out world for our audience to immerse themselves in. We are not here to lore-dump about the intricate details of Sterlian governance, the inner workings of a reprogrammable key card, or the endless anachronisms that our setting has. Use your best judgement in deciding when and how, or even if, this content is used.
 
@@ -47,6 +57,8 @@ You're also going to need to install Obsidian and the following plugins/themes:
 [Git (Plugin)](https://github.com/Vinzent03/obsidian-git)
 [Style Settings (Plugin)](https://github.com/mgmeyers/obsidian-style-settings)
 [Wikipedia (Theme)](https://github.com/Bluemoondragon07/Wikipedia-Theme)
+
+=======
 
 I wish you the best of luck, and hope that we can make something beautiful together.
 
