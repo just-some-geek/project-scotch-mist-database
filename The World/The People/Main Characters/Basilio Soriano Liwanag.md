@@ -21,13 +21,8 @@ Liwanag is a skilled writer, serving as an editorial writer for the student-run 
 #Tier-1 #Characters
 # Dev Notes
 
-Introductory Text :  
 With a curious mind, his knack of learning has led him to seek education on this island.
-
 Some things must never be known…  
-  
-
-Overview : 
 
 Basilio is a scholar from the Isabelines who's pursuing an electrical engineering degree in Kaigaishima's biggest university SIU. He's a very intelligent and well rounded person whose only noticeable struggles can be seen in social situations. Yet even then it was never much of an issue for him.
 
@@ -35,21 +30,18 @@ Now while he had the opportunity to study in any school in the country due to hi
 
 It was lucky that he managed to land in Kaigaishima, probably the best place to learn different viewpoints, due to the island's diverse population.
 
-Personality/Tidbits :
+### Personality / Tidbits 
+___
 
-He is not passionate about politics
+-  He is not passionate about politics.
+-  He can articulate his political opinion extremely well.
+-  Too honest for his own good.
+-  Eager to make friends and is quite sociable, despite seeming shy.
+-  Often bikes to places.
+-  He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
 
-He can articulate his political opinion extremely well.
-
-Too honest for his own good.
-
-Eager to make friends, despite seeming shy.
-
-Often bikes to places.
-
-He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
-
-Opinion On : 
+### Opinions 
+---
 
 The Island - “It’s interesting to see how such different people can coexist in the same city. There’s a lot to be learned from cultures that aren’t your own.”
 
@@ -62,7 +54,7 @@ Yukio - “An interesting person, no other way to put it. He sees the world a lo
 Joseph - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
   
 
-### Character Arc
+### Character Story
 ---
 ACT I :  
 - He arrives on the island with a civil engineering scholarship to SIU  
@@ -71,9 +63,7 @@ ACT I :
   
 ACT II :  
 - Newspaper editorial training arc
-
 - Expansion of the Kingfishers’ publication and reach
-
 - Story leaks of government meddling  
   
 ACT III :  
@@ -111,7 +101,7 @@ On SIU:
 “I’m inclined to believe that it is the best university here, it’s just a shame that the most privileged are the ones here. Not that they’re undeserving, it’s clear that they’re intelligent. I just know many who deserve it who can’t be here because of factors out of their control.”  
   
 On Those Who Came Before Me:  
-“Have you heard the Isaac Newton quote? ‘If I have seen further, it is by standing on the shoulders of giants?’ I feel that way a lot, but not really. It’s not giants I’m standing on, and it’s not seeing further, if that makes sense. I sit on the shoulders of a person who is sitting on the shoulders of another and so on. Down and down infinitely. I exist at all because of everyone before me, not just giants, not just the big important ones. The result of a million small things. When you look at the past, it’s humans all the way down. I’d change the quote to ‘If I exist at all, it's by resting on the hands of the dead’. Is that a stupid thing to say?”  
+“Have you heard the quote? ‘If I have seen further, it is by standing on the shoulders of giants?’ I feel that way a lot, but not really. It’s not giants I’m standing on, and it’s not seeing further, if that makes sense. I sit on the shoulders of a person who is sitting on the shoulders of another and so on. Down and down infinitely. I exist at all because of everyone before me, not just giants, not just the big important ones. The result of a million small things. When you look at the past, it’s peoples all the way down. I’d change the quote to ‘If I exist at all, it's by resting on the hands of the dead’. Is that a stupid thing to say?”  
   
 On Relationships:  
 “Socializing is exhausting. This isn’t coming from a lack of desire, don’t think that. They’re bridges that require constant maintenance, and it’s easier when both sides help with the upkeep.”  

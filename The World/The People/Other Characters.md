@@ -12,10 +12,10 @@ Sophie Martin - Bank teller at Yoshida bank, Lasky district.
 Anastasia Michel - English elementary teacher, married to William Michel.  
 William Michel - Construction worker, works on tall buildings in the Taylor district.  
 Charlie Selway - Police officer, Wanhua district.  
-Hayato Greenwoode - Student at PMU, has an Eikan mother who insisted on the name.  
+Hayato Greenwoode - Student at [[Paul Miki University]], has an Eikan mother who insisted on the name.  
 Mary Godrich - Prostitute who works at a brothel in the Nemui district.  
-Geordie Hugo - Student at SIU, father is a professor, actual nepotism baby.  
-Caroline Shelby - Student at SIU, first year art major.  
+Geordie Hugo - Student at [[St. Ignatius University]], father is a professor, actual nepotism baby.  
+Caroline Shelby - Student at [[St. Ignatius University]], first year art major.  
   
 Shenzhen (family name first) :  
   
@@ -29,7 +29,7 @@ Eikan (given name first) :
   
 Shinji Satoh - Construction worker, works on tall buildings in the Taylor district.  
 Denji Kadokawa - Electrician who operates in the South region.  
-Chizuko Fujimoto - Street vendor who sells rice meals in Ajisaki.  
+Chizuko Fujimoto - Street vendor who sells rice meals in Ajisaka.  
 Masato Takahata - Student at SIU, son of local cafe owner, Hikaru’s cousin.  
 Makoto Taniguchi - Street sweeper assigned to Eastwood and Westwood.  
 Ichiko Michel - Student at PMU, adoptive daughter of Anastasia and William.  
@@ -44,7 +44,7 @@ Dorothy Waters - Famous actor filming a movie in the North region.
 Wesley Kaufman - Director of the movie being filmed in the North region.  
 Annabelle Bird - Old woman who moved here before the war, respected by the locals.  
 Andrew Bird - Violin prodigy, grandson of Annabelle, lives in Yilan.  
-Josephine Tenenbaum - Head librarian at the James Kisai Library, PMU.  
+Josephine Tenenbaum - Head librarian at the James Kisai Library, [[Paul Miki University]].  
 Benjamin ‘Benji’ Lewin - Store owner, Uehara district.  
 Stephanie “Steph” Lewin - Store owner, Uehara district.
 
