@@ -45,7 +45,7 @@ The Island - “I need a place to be, this feels like a good spot.”
 
 Themselves - “I’m unsure, have you ever been unsure before? There’s a lot more I need to figure out first before I can answer that, sorry.”
   
-[[Basilio Soriano Liwanag]] - “He explained to me how the trains worked here. He speaks like he’s the smartest person in the room, but not in a cocky way. I often go to him when I need to know things.”
+[[Basilio Liwanag]] - “He explained to me how the trains worked here. He speaks like he’s the smartest person in the room, but not in a cocky way. I often go to him when I need to know things.”
   
 [[Olivia Northwind]] - “I know she means well I know she means well but she has that look. I don't know if I'm getting pity or what, but she doesn't feel right.”
   

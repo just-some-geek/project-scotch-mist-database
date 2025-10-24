@@ -42,7 +42,7 @@ The Island - “It’s like mixing unknown chemicals, while the results are inte
 
 Herself - “I can handle things just fine, yet these fucks won’t believe me. I’ve got to get it through their thick heads somehow.”
 
-[[Basilio Soriano Liwanag]] - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
+[[Basilio Liwanag]] - “Much more capable than he believes himself to be, hell I’d give him my position in a heartbeat.”
 
 [[Yukio Yamada]] - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
 

@@ -4,7 +4,7 @@
 >![[concept_Basilio.png]]
 ><center>Basilio in 1958</center>
 ><h6>Basic Information</h6>
-><b>Full Name:</b> Basilio Liwanag</br>
+><b>Full Name:</b> Basilio Soriano Liwanag</br>
 ><b>Nationality:</b> Isabeliño</br>
 ><b>Pronouns:</b> he/him</br>
 ><b>Age:</b> 22</br>
@@ -47,11 +47,11 @@ The Island - “It’s interesting to see how such different people can coexist 
 
 Himself - “I’m not that brilliant of a person, I do my best but I’m just one of the lucky ones.”
 
-Olivia - “I normally don’t involve myself in political matters but Olivia I consider the exception. She makes the topic a lot less daunting when I talk to her about it.”
+[[Olivia Northwind]] - “I normally don’t involve myself in political matters but Olivia I consider the exception. She makes the topic a lot less daunting when I talk to her about it.”
 
-Yukio - “An interesting person, no other way to put it. He sees the world a lot differently than you or I do, not necessarily in a bad way. ”
+[[Yukio Yamada]] - “An interesting person, no other way to put it. He sees the world a lot differently than you or I do, not necessarily in a bad way. ”
 
-Joseph - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
+[[Li Zenghui]] - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
   
 
 ### Character Story

@@ -41,7 +41,7 @@ The Island - “Such a beautiful place filled with different yet like-minded per
   
 Himself - “No one else seems to agree with my ideas, I’ve got a lot of work to do.”
 
-[[Basilio Soriano Liwanag]] - “He reminds me of myself sometimes, just a bit younger. Surprisingly athletic too.”
+[[Basilio Liwanag]] - “He reminds me of myself sometimes, just a bit younger. Surprisingly athletic too.”
 
 [[Olivia Northwind]] - “My most important priority is to get her to understand me. If I can get through to her, real change can begin.”
   
