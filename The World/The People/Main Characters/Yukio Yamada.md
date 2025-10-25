@@ -23,14 +23,13 @@ They emigrated to [[Kaigaishima]] to escape the rising tensions in their homelan
 With no place to call their own, hope draws them here.
 College is a great place to reinvent yourself…  
 
-Yukio Yamada is an illegal immigrant from Eiko who finds himself on a cargo ship en route to Kaigaishima. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
+Yukio Yamada is an illegal immigrant from [[Eikan Empire|Eiko]] who finds himself on a cargo ship en route to [[Kaigaishima]]. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
 
-Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university PMU, granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name as well as his friend's name is unknown.  
+Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university, [[Paul Miki University|PMU]], granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name as well as his friend's name is unknown.  
   
 Electrical engineering seemed difficult, but he had experience with fixing radio and other appliances in his community.  
 
-### Personality / Tidbits 
-___
+# Personality / Tidbits 
 
 -  Initially named Leo Detahito, changed for aesthetics sake.
 -  Very shy despite seeming approachable.
@@ -38,9 +37,8 @@ ___
 -  Very inconspicuous and can blend in a crowd really well.
 -  Light on their feet and very dexterous.
   
-### Opinions
-___
-  
+# Opinions
+
 The Island - “I need a place to be, this feels like a good spot.”
 
 Themselves - “I’m unsure, have you ever been unsure before? There’s a lot more I need to figure out first before I can answer that, sorry.”
@@ -51,8 +49,7 @@ Themselves - “I’m unsure, have you ever been unsure before? There’s a lot 
   
 [[Li Zenghui]] - “I don't really understand what he wants sometimes, he's got a lot going on.”  
   
-### Character Story
----
+# Character Story
 
 Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   
@@ -62,7 +59,7 @@ The plan was to hide themselves in an empty wooden crate that had holes in them 
 
 He could be accompanied by a friend or two he wants to save, whether they end up on Kaigaishima with him or accidentally get shipped off somewhere else is to be determined.  
 
-Arriving at the university he gets himself acclimated with the place, as well as forming connections and friendships with a diverse cast of people. Including [[Artemis Ellery Taylor]] a fellow student at PMU who has lived on the island for a bit longer than he has and introduces him to the university and shows him around. [[Rev. Thomas McKenzie]] residing parish priest of the university and [[Jose De Guzman]] owner of [[Chorizo Joe's Karinderia]], to whom Yukio chooses to confide in from time to time. 
+Arriving at the university he gets himself acclimated with the place, as well as forming connections and friendships with a diverse cast of people. Including [[Artemis Ellery Taylor]], a fellow student at PMU who has lived on the island for a bit longer than he has and introduces him to the university and shows him around. [[Rev. Thomas McKenzie]] residing parish priest of the university and [[Jose De Guzman]] owner of [[Chorizo Joe's Karinderia]], to whom Yukio chooses to confide in from time to time. 
 
 Sometime later, they also meet a man by the name of Basilio, when going out to the [[Wildflour (bar)|Wildflour]] a bar owned by [[Damian Emmanuel Lasky|Damian Lasky]]. The two become quick friends and they meet frequently at the bar to chat, given their seemingly similar situations. Although Yukio lies about his side of the story when it's brought up.
 
@@ -74,12 +71,12 @@ After confirming that Northwind is in fact telling the truth, they scramble to c
 
 Due to both The Northwind Papers, the delay of the Referendum results as well as the declaration of Martial Law, protests and riots begin in and around PMU on the feast day of St. Paul Miki, the 6th of February 1958. These protests continue and slowly escalate in size and activity throughout the following months, The Kingfisher continues it's operations covering news from across the island during this time of uncertainty and unrest. Artemis also becomes a frequent attendee to these protests, despite raising safety concerns from many of her friends most of all Yukio.
 
-It all comes to a head when on the 12th of April, a particularly unruly protest was cracked down on by police / military forces. Multiple students were shot and / or killed. This can include Artemis depending on the player's actions. This event sparks much outrage across the entire island as multiple institutional buildings are attacked by rioters, as well as the Eikan military arriving to help "liberate the island" after waiting for the opportunity to do so. All the while Yukio has yet to find his lost friend.
+It all comes to a head when on the 12th of April, a [[Paul Miki University Massacre|particularly unruly protest]] was cracked down on by police / military forces. Multiple students were shot and / or killed. This can include Artemis depending on the player's actions. This event sparks much outrage across the entire island as multiple institutional buildings are attacked by rioters, as well as the [[Operation Divine Wind|Eikan military arriving]] to help "liberate the island" after waiting for the opportunity to do so. All the while Yukio has yet to find his lost friend.
 
 Faced with a tough decision, Yukio can either decide to flee to the Isabelines on his own per Basilio's suggestion, or stay with Father McKenzie and/or Artemis to aid the island.
 
-### Quotes
----
+# Quotes
+
 Self Introduction:  
 “My name’s Yukio. Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  
   
