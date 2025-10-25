@@ -1,6 +1,6 @@
 **Isabelino scholar and writer**
 
->[!info] Basilio Liwanag</br><center>ᜊᜐᜒᜎᜒᜂ / ᜐᜓᜇᜒᜀᜈᜓ / ᜎᜒᜏᜈᜄ᜔</center>
+>[!info] Basilio Liwanag</br>
 >![[concept_Basilio.png]]
 ><center>Basilio in 1958</center>
 ><h6>Basic Information</h6>
