@@ -36,7 +36,7 @@ The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], w
 - 平成, *achieving peace*
 - The area's tall beacon tower has helped Eikan sailors navigate to Kaigaishima's port since time immemorial. Recently, the tower was integrated into the newly-built **Heisei Stadium**, which serves as a key waypoint in many Eikan League baseball team's careers.
 ## Central Region
-The Central Region is the bustling heart of Kaigaishima and, by extension, the Far Eastern Territories. Its expansive commercial and business districts account for a significant
+The Central Region is the bustling heart of Kaigaishima and, by extension, the Far Eastern Territories. Its expansive commercial and business districts account for a significant portion of the island's economic power.
 ##### **St. Paul**
 - The district is one of the two college towns on Kaigaishima, housing the government-run [[Paul Miki University|Paul Miki University (PMU)]]. The large university has had an outsized influence in the city center, to the point that the Constabulary regularly pulls 24-hour shifts to keep politically active students from rioting.
 ##### **St. Ignatius**
