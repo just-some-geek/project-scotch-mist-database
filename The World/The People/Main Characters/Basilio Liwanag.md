@@ -1,6 +1,6 @@
 **Isabelino scholar and writer**
 
->[!info] Basilio Liwanag</br><center>ᜊᜐᜒᜎᜒᜂ / ᜐᜓᜇᜒᜀᜈᜓ / ᜎᜒᜏᜈᜄ᜔</center>
+>[!info] Basilio Liwanag</br>
 >![[concept_Basilio.png]]
 ><center>Basilio in 1958</center>
 ><h6>Basic Information</h6>
@@ -24,7 +24,7 @@ Liwanag is a skilled writer, serving as an editorial writer for the student-run 
 With a curious mind, his knack of learning has led him to seek education on this island.
 Some things must never be known…  
 
-Basilio is a scholar from the Isabelines who's pursuing an electrical engineering degree in Kaigaishima's biggest university SIU. He's a very intelligent and well rounded person whose only noticeable struggles can be seen in social situations. Yet even then it was never much of an issue for him.
+Basilio is a scholar from the Isabelines who's pursuing an electrical engineering degree in Kaigaishima's biggest university [[St. Ignatius University]]. He's a very intelligent and well rounded person whose only noticeable struggles can be seen in social situations. Yet even then it was never much of an issue for him.
 
 Now while he had the opportunity to study in any school in the country due to his academic standing, he chose to leave for a scholarship opportunity abroad. Ask him, he complains about how his country handles education, saying that he wanted to see other nation's ways and perspectives.
 
