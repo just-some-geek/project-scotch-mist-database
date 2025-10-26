@@ -39,5 +39,5 @@ On Mythology:
 On Isabeline Cuisine:  
 “I find it a shame that so many people haven't tasted sinigang or adobo. The closest people have here are Chorizo Joe's longanisa. I would sell food myself, but I pour better than I cook.”  
 
-On Eleanor:  
+On [[Eleanor Carter]]:  
 “The loneliest person I know, well she seems lonely. I don’t know her, but she frequents here enough on off days alone, so I can only guess.”
