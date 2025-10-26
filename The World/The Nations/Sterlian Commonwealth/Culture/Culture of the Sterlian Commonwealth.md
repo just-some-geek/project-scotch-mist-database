@@ -2,7 +2,7 @@ The **Culture of the Sterlian Commonwealth** is influenced by the history and cu
 
 Sterlian literature is particularly esteemed, due to their development of many literary techniques used in the Western world.
 
-#Tier-3 #General
+#Tier-3 #Culture
 
 ---
 A
