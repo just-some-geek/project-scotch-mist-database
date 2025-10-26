@@ -67,7 +67,8 @@ Delay, Deny, Defer  (January 1st 1958 – April 9th 1958)
 •Riots break out on the Feast of St. Paul Miki on the 6th of February.
 # Events
 ## The [[Paul Miki University Massacre]]
-On 9th April 1958, the students of [[Paul Miki University]] rally in protest of the [[Sterlian Commonwealth Armed Forces|Sterlian military's]] war crimes in [[Shenzhou War|Shenzhou]] and the alleged electoral fraud in the [[Representation Referendum of 1958]], both of which were exposed in the [[Northwind Papers]]. A military contingent is sent to break up the demonstration, but the deployment results in the shooting and deaths of 4 students and wounding of 19 others.
+
+On 9th April 1958, the students of [[Paul Miki University]] rally in protest of the [[Sterlian Commonwealth Armed Forces|Sterlian military's]] war crimes in [[Shenzhou War|Shenzhou]] and the alleged electoral fraud in the [[Representation Referendum of 1958]], both of which were exposed in [[The Northwind Papers]]. A military contingent is sent to break up the demonstration, but the deployment results in the shooting and deaths of 4 students and wounding of 19 others.
 
 •An outrage spurs across the island and multiple institutional buildings are attacked by rioters.
 

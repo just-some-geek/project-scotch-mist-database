@@ -10,6 +10,7 @@ While most of the districts are administered by an elected council, a few are pl
 # Districts By Region
 
 ## North Region
+
 The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], with small villages nestled in the Hoshiyama mountain range and along the coastline, as well as large palace-estates for the [[Sterlian Commonwealth|Sterlian]] and [[Eikan Empire|Eikan]] aristocracy. The region is primarily residential, though some commercial hubs exists towards the eastern parts of the region.
 ##### **Sakamoto**
 - 坂本, *base of the hill*
@@ -36,6 +37,7 @@ The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], w
 - 平成, *achieving peace*
 - The area's tall beacon tower has helped Eikan sailors navigate to Kaigaishima's port since time immemorial. Recently, the tower was integrated into the newly-built **Heisei Stadium**, which serves as a key waypoint in many Eikan League baseball team's careers.
 ## Central Region
+
 The Central Region is the bustling heart of Kaigaishima and, by extension, the Far Eastern Territories. Its expansive commercial and business districts account for a significant
 ##### **St. Paul**
 - The district is one of the two college towns on Kaigaishima, housing the government-run [[Paul Miki University|Paul Miki University (PMU)]]. The large university has had an outsized influence in the city center, to the point that the Constabulary regularly pulls 24-hour shifts to keep politically active students from rioting.
@@ -63,6 +65,7 @@ The Central Region is the bustling heart of Kaigaishima and, by extension, the F
 ##### **Henshaw**
 - The district is largely built around the imposing [[Admiralty Park]], a collection of buildings that serve as the headquarters for the [[Sterlian Commonwealth Armed Forces]] in the Far East. The small chapel sitting across the street houses a memorial to **Samantha Henshaw**, a field nurse from Kaigaishima who became famous for her life-saving work during the [[Great War]].
 ## West Region
+
 Encompassing the [[Port of Kaigaishima]] and its neighboring industrial parks, as well as the residential Woods districts neighboring the [[Hoshiyama Nature Reserve]], the West Region is the great artery that supplies the Far East with the luxuries of Commonwealth life.
 ##### **Eastwood** 
 - Once the eastern half of the Great Woods district, this sprawling residential area is filled with detatched single-family homes climbing the steep western slope of [[Hoshiyama Nature Reserve#Mt. Hoshi|Mt. Hoshi]]. Residents of the district, as well as neighboring Westwood, are given large discounts on rides on the [[Kaigai Metro]].
@@ -83,6 +86,7 @@ Encompassing the [[Port of Kaigaishima]] and its neighboring industrial parks, a
 ##### **Xindian**
 - A
 ## East Region
+
 The East Region is not under the direct control of the Kaigaishiman government, but rather the [[Sterlian Commonwealth Armed Forces]]. The area is the primary base of the SCAF in the Far East, hosting a large naval, ground, and air contingent, as well as the families of the servicemen. It also includes a Special Economic Zone, wherein foreign companies operate without local restrictions.
 ##### **Yamane** 
 - 山根, *mountain root*
@@ -125,6 +129,7 @@ The South Region is the oldest
 - 信義, *righteous faith* 
 - The southernmost district of the island is known for the **South Point Lighthouse**, a historic landmark that has guided ships into Kaigaishima's harbors for 200 years. Nowadays, the lighthouse barely peeks over the scrapyard settlements of Shenzhen refugees.
 ## [[Hoshiyama Nature Reserve]]
+
 Named after the Star Mountain which dominates its view, this historic park spans the north-northwest of Kaigaishima.
 
 - Hoshiyama Observatory

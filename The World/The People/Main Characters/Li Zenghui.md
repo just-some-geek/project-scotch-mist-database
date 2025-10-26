@@ -19,7 +19,8 @@ He was executed by the Sterlian colonial government for the crime of *{domestic 
 Li is widely considered to be one of the most influential figures of Kaigaishima and is an unofficial national hero. He penned the novels *{Legally Distinct Noli}* and *{Totally Not El Fili}*, alongside a series of letters, essays, and poems dedicated to his homeland.
 
 #Tier-1 #Characters 
-# Dev Notes
+### Dev Notes
+___
 
 A son of the island returns home with dreams of a brighter future.
 Hell hath no fury like a wronged man.  

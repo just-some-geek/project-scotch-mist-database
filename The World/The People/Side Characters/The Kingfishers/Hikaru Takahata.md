@@ -1,25 +1,35 @@
 **Reporter for the Kingfisher**
 
-**Hikaru Takahata**, known by his pen name **Janith Columbus**, is an on-site reporter for the student newspaper [[The Kingfisher]].
+>[!info] Hikaru Takahata</br>
+>![[concept_Hikaru.png]]
+><center>Takahata in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Hikaru Takahata </br>
+><b>Nationality:</b> Eikan-Kaigaishiman </br>
+><b>Pronouns:</b> they/he  </br>
+><b>Age:</b> 22 </br>
+><b>Height:</b> 5'10 </br>
+><b>Hair:</b> White
+
+**Hikaru Takahata**, known by his pen name **Janith "Dove" Columbus**, is an on-site reporter for the student newspaper [[The Kingfisher]].
 
 #Tier-2 #Characters 
 
+### Dev Notes
 ---
-Name: Hikaru Takahata, a.k.a. Janith “Dove” Columbus
-- From the Japanese wood pigeon (Columba janthina)
-- Tangent: Pigeons and doves are technically the same family, with only size differentiating the two in common language.
-  
-Occupation: On-site reporter for the Kingfisher
-Nationality: Eikan/Kaigaishiman
-Pronouns :  They/he
-Age: 22
-Height: 5'10
+
+Lorem ipsum et dolor.
+
+### Personality / Tidbits
+___
 
 - Suggested the idea of picking opposite-gendered pen names to further obscure their identity.
 - Quite charismatic and empathetic.
-- Ambidextrous
+- Ambidextrous.
 - Traumatized by the death of his neighbour, who incidentally is the same person that inspired Elisabeth to start the Kingfisher.  
-- Named after Hikaru Nakamura and Isao Takahata
+- Named after Hikaru Nakamura and Isao Takahata.
+- Pen name named after the Japanese wood pigeon (Columba janthina)
+- Tangent: Pigeons and doves are technically the same family, with only size differentiating the two in common language.
 
 ### Quotes
 ---

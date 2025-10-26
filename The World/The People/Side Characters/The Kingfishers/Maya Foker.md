@@ -1,5 +1,7 @@
 **Editorial writer for the Kingfisher**
 
+
+
 **Maya Foker**, known by her pen name **Montgomery "Sparrow" Passerine**, is an editorial writer and editor for the student newspaper [[The Kingfisher]].
 
 #Tier-2 #Characters 

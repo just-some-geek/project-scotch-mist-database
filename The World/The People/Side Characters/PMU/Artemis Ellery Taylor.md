@@ -20,7 +20,12 @@ As of 1957, she is pursuing a degree at [[Paul Miki University]].
 ### Dev Notes
 ---
 
-SHE’S LITERALLY FEMALE GARY KASPAROV TO RIVAL FISCHER
+Lorem ipsum et dolor
+
+### Personality / Tidbits 
+___
+
+-  "SHE’S LITERALLY FEMALE GARY KASPAROV TO RIVAL FISCHER" - Habagat
   
 ### Opinions 
 ___

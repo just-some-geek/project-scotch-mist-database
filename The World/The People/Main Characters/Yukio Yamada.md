@@ -18,7 +18,8 @@
 They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name, securing a scholarship at PMU and establishing connections in the community.
 
 #Tier-1 #Characters
-# Dev Notes
+### Dev Notes
+___
 
 With no place to call their own, hope draws them here.
 College is a great place to reinvent yourself…  
@@ -29,7 +30,8 @@ Luckily for him, he managed to nab the documents necessary to apply for scholars
   
 Electrical engineering seemed difficult, but he had experience with fixing radio and other appliances in his community.  
 
-# Personality / Tidbits 
+### Personality / Tidbits 
+___
 
 -  Initially named Leo Detahito, changed for aesthetics sake.
 -  Very shy despite seeming approachable.
@@ -37,7 +39,8 @@ Electrical engineering seemed difficult, but he had experience with fixing radio
 -  Very inconspicuous and can blend in a crowd really well.
 -  Light on their feet and very dexterous.
   
-# Opinions
+### Opinions
+___
 
 The Island - “I need a place to be, this feels like a good spot.”
 
@@ -49,7 +52,8 @@ Themselves - “I’m unsure, have you ever been unsure before? There’s a lot 
   
 [[Li Zenghui]] - “I don't really understand what he wants sometimes, he's got a lot going on.”  
   
-# Character Story
+### Character Story
+___ 
 
 Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   
@@ -75,7 +79,8 @@ It all comes to a head when on the 12th of April, a [[Paul Miki University Massa
 
 Faced with a tough decision, Yukio can either decide to flee to the Isabelines on his own per Basilio's suggestion, or stay with Father McKenzie and/or Artemis to aid the island.
 
-# Quotes
+### Quotes
+___
 
 Self Introduction:  
 “My name’s Yukio. Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  

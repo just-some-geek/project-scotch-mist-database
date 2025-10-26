@@ -1,22 +1,31 @@
 **Editor-in-Chief of the Kingfisher**
 
-**Elisabeth Todir Macleay**, known by her pen name **Robert Fischer**, is the editor-in-chief of [[The Kingfisher]]. Operating out of [[St. Ignatius University]], she founded The Kingfisher after the death of {name},
+>[!info] Elisabeth Macleay</br>
+>![[concept_Elisabeth.png]]
+><center>Macleay in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Elisabeth Todir Macleay </br>
+><b>Nationality:</b> Sterlian-Kaigaishiman </br>
+><b>Pronouns:</b> she/they  </br>
+><b>Age:</b> 21 </br>
+><b>Height:</b> 5'5 </br>
+><b>Hair:</b> Brown-red
+
+**Elisabeth Todir Macleay**, known by her pen name **Robert Fischer**, is the editor-in-chief of [[The Kingfisher]]. Operating out of [[St. Ignatius University]], she founded The Kingfisher after the death of a student.
 
 #Tier-2 #Characters 
 
 ### Dev Notes
 ---
-Name: Elisabeth Todir Macleay, a.k.a. Robert “Fischer”
-- From the Blue/Forest Kingfisher (Todiramphus macleayii elisabeth)
-  
-Occupation: Head of The Kingfisher
-Nationality: Sterlian/Kaigaishiman
-Pronouns (WOKE!): She/they
-Age: 21
-Height: 5’5
 
-- Began the Kingfisher because she was dissatisfied with how the media covered the death of a student. Ignoring the seemingly apparent prejudice, motive and background of the killer.
-- Has managed to keep the identities of the group a secret despite The Kingfisher's increasing popularity.
+Elisabeth is a hardworking student born and raised in Kaigaishima, who is currently pursuing a degree in St. Ignatius University. She began the Kingfisher because she was dissatisfied with how the media covered the death of a student. Ignoring the seemingly apparent prejudice, motive and background of the killer. She has managed to keep the identities of the group a secret despite The Kingfisher's increasing popularity.
+
+### Personality / Tidbits 
+___
+
+-  Named after The Blue / Forest Kingfisher (Todiramphus macleayii elisabeth)
+-  Is incredibly skilled at the game of chess despite never formally participating in any official tournament. 
+  
 ### Quotes
 ---
 Self-Introduction:

@@ -17,7 +17,8 @@
 She graduated from **Avonforde University** at the top of her class in 1950, and achieved top marks in the [[Sterlian Civil Service Examination]] the same year. She quickly rose the ranks in the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]], eventually being transferred to [[Admiralty Park]] in [[Districts of Kaigaishima#**Henshaw**|Henshaw, Kaigaishima]] in 1957. Some attribute her rapid promotions to nepotism, however both she and the Admiral deny these claims.
 
 #Tier-1 #Characters 
-# Dev Notes
+### Dev Notes
+___
 
 On a mission to prove herself, her sense of duty has led her here.
 A compass doesn’t always point north…  
@@ -28,12 +29,14 @@ Throughout her career she has been hit with an unfortunate combination of misogy
 
 She herself requested to be transferred to Kaigaishima to prove herself to her peers in an unfamiliar environment. Kaigaishima has been known to be a delicate situation by The Commonwealth for a long time. She believes that if she could bring stability to the island, she’ll be able to show to her coworkers that she is capable.  
   
-# Personality / Tidbits 
+### Personality / Tidbits 
+___
 
 -  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
 -  She is an alcoholic, yet has no remorse with being one.
 -  Very insecure about herself, often believes she’s “not enough”.
-# Opinions 
+### Opinions 
+___ 
 
 The Island - “It’s like mixing unknown chemicals, while the results are interesting, they are most likely volatile.”
 
@@ -45,7 +48,8 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 
 [[Li Zenghui]] - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
-# Character Story
+### Character Story
+___
 
 ACT I :  
 - Gets a job at the Admiralty to try and prove herself  
