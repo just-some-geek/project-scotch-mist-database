@@ -10,6 +10,7 @@
 ><b>Nationality:</b> Eikan</br>
 ><b>Pronouns:</b> he/they</br>
 ><b>Age:</b> 21</br>
+><b>Date of birth:</b> Unknown, 1937 </br>
 ><b>Height:</b> 5’5</br>
 ><b>Hair:</b> White, but like ash
 

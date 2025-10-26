@@ -27,18 +27,12 @@ ___
 -  Left handed.  
 ### Opinions
 ___
-
-The Island - “You’d think such a different place would be more kind to strangers.”
-  
-Himself - “I just got to get it right once, and it’s smooth sailing. I know I can do it.”
-  
-[[Basilio Liwanag]]- “He’s got a big mouth, let that shit run and someone will want to beat him up for something.”
-  
+ 
 [[Olivia Northwind]] - “Mama always told me to never hit a girl but she is testing my patience.”
   
-[[Yukio Yamada]] - “Leo’s a little confused but he’s got the right spirit. He’s not quite there yet but if he just had the right people he’ll be alright.”
-  
-[[Li Zenghui]] - “That man is the motherfucking truth, he is the future. Maybe I shouldn’t be saying this cause my kind of business doesn’t bode well with his policy, but I know trailblazing when I see it.”  
+[[Li Zenghui]] - “Maybe I shouldn’t be saying this cause my kind of business doesn’t bode well with his policy, but I know trailblazing when I see it.”  
+
+[[Nikolai Valentine]] - "Shut up."
 
 ### Quotes 
 ___

@@ -8,11 +8,13 @@
 ><b>Nationality:</b> Kaigaishiman</br>
 ><b>Pronouns:</b> he/him</br>
 ><b>Age:</b> 29</br>
+><b>Date of birth:</b> June 19, 1929 </br>
+  <b>Date of death:</b> April 9, 1958 </br>
 ><b>Height:</b> 5’9</br>
 ><b>Hair:</b> Black
 
 
-**Li Zenghui**, known by his alias **Joseph Li**, (19 June 1927 - 9 April 1958) was a [[Kaigaishima|Kaigaishiman]] nationalist and polymath active during towards the end of Sterlian colonial period of Kaigaishima. A {*doctor*} by trade, Li became a key figure in the *{Kaigaishiman revolutionary movement?}*, which advocated for greater autonomy for the territory within the [[Sterlian Commonwealth]].
+**Li Zenghui**, known by his alias **Joseph Li**, (19 June 1929 - 9 April 1958) was a [[Kaigaishima|Kaigaishiman]] nationalist and polymath active during towards the end of Sterlian colonial period of Kaigaishima. A {*doctor*} by trade, Li became a key figure in the *{Kaigaishiman revolutionary movement?}*, which advocated for greater autonomy for the territory within the [[Sterlian Commonwealth]].
 
 He was executed by the Sterlian colonial government for the crime of *{domestic terrorism?}* after the outbreak of the [[Kaigaishiman Crisis]], which was inspired by his writings. While never closely associated with the revolution, his death was a primary motivator for the uprising and eventual **Kaigaishiman independence**.
 

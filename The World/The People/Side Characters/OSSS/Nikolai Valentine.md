@@ -26,14 +26,14 @@ ___
 -  Wears an eye mask with blue ‘eyelids’ on it.
 -  Only has one glove on his left hand – never seen with a right glove.
 -  Almost never seen without his black fedora. 
--  He is a Columbian citizen but is [[Gallia|half-Gallian]], and claims to be the rightful heir to the Gallian throne.
+-  He is a Columbian citizen but is [[Gallia|half-Gallian]], and claims to be the rightful heir to the Gallian throne despite Gallia not having a monarchy.
 -  Claims that he is the descendant of the last Gallian king.
 
 ### Quotes 
 ___
 
 On Cover Names : 
-“What even is the point of a pseudonym? Surely no one will recognize your name there.”
+“What even is the point of a pseudonym? Surely no one will recognize your name there. Ah, cLassic O3S and their rules...”
 
 On The Potentiality of his Cover being blown : 
 “You never know who you might run into… I would rather not let mY identity be known in unfamiliar territoRY. *ahem*”

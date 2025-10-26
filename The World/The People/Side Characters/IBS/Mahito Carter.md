@@ -7,7 +7,8 @@
 ><b>Full Name:</b> Mahito Yamaguchi Carter</br>
 ><b>Nationality:</b> Eikan </br>
 ><b>Pronouns:</b> they/she  </br>
-><b>Age:</b> 20</br>
+><b>Age:</b> 19</br>
+><b>Date of birth:</b> Unknown, 1938 </br>
 ><b>Height:</b> 5’4</br>
 ><b>Hair:</b> Black
 
@@ -28,9 +29,9 @@ Eleanor who took a liking to Mahito after hearing about their situation, allowed
 ### Personality / Tidbits
 ___
 
--  Fate unknown.
--  Design unknown.
--  Inspired by Mahito from The Boy & The Heron
+-  Falls in love with eggs benedict after being introduced.
+-  Design inspired by Kiriko from The Boy & The Heron.
+-  Inspired by Mahito from The Boy & The Heron.
 
 ### Opinions
 ___
@@ -45,4 +46,13 @@ Eleanor - "I owe her very much, she gave me work, and a place to stay."
 ---
 
 Self-introduction: 
-"..."
+"... oh? You're talking to me? Uhm, it's Mahito, Mahito Carter. I know that sounds weird but don't worry about it too much alright?"
+
+On Fate and Superstition: 
+"Everybody's going to believe in something, whether that's the stars, palm lines, where the flowers turn you name it. What? Don't look at me! I'm not going to give you some bomb of truth, I'm just an idiot on a hill."
+
+On The Sterlian Language: 
+"I don't like being good at it, but it's what makes the business happen."
+
+On Worrying About The Future: 
+"Ah like I care much, tomorrow never knows anyways, because by the time it's tomorrow, it's today!"

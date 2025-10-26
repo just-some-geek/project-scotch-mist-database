@@ -8,6 +8,7 @@
 ><b>Nationality:</b> Isabeliño</br>
 ><b>Pronouns:</b> he/him</br>
 ><b>Age:</b> 22</br>
+><b>Date of birth:</b> September 23, 1935 </br>
 ><b>Height:</b> 5’10</br>
 ><b>Hair:</b> Black
 
