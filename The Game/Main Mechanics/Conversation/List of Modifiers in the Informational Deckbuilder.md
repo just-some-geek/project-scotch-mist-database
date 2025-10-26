@@ -14,16 +14,16 @@ The following is a list of modifiers that impact [[The Informational Deckbuilder
 
 ### Personality Traits
 ---
-**Personality Traits** are modifiers that reflect a character's innate behaviors and thought patterns, as well as important l
+**Personality Traits** are modifiers that reflect a character's innate behaviours and thought patterns, as well as important l
 
-The four main characters have a unique trait reflecting their 
+The four main characters have a unique trait reflecting their personal goals and ambitions.
 
-| Name                     | Description                                                                                | Effect  | How to Get             |
-| ------------------------ | ------------------------------------------------------------------------------------------ | ------- | ---------------------- |
-| In the Name of My Father | "The long shadow of an esteemed career hangs over you. You've got some big shoes to fill." | idk man | Olivia's unique trait  |
-| The Future of the Nation | "A wise man once said: 'Ang kabataan ay ang kinabukasan ng ating bayan'."                  |         | Basilio's unique trait |
-| Hope is All We've Got    | "No place to call home, no friends to turn to, no chains to hold you back."                |         | Yukio's unique trait   |
-|                          |                                                                                            |         | Zenghui's unique trait |
+| Name                        | Description                                                                                | Effect | How to Get             |
+| --------------------------- | ------------------------------------------------------------------------------------------ | ------ | ---------------------- |
+| In the Name of My Father    | "The long shadow of an esteemed career hangs over you. You've got some big shoes to fill." | +3 RES | Olivia's unique trait  |
+| The Future of the Nation    | "A wise man once said: 'Ang kabataan ay ang kinabukasan ng ating bayan'."                  | +3 WIS | Basilio's unique trait |
+| Hope is All We've Got       | "No place to call home, no friends to turn to, no chains to hold you back."                | +3 CON | Yukio's unique trait   |
+| Nostalgia Is A Strong Thing | "You feel that? That feels like home."                                                     | +3 PRO | Zenghui's unique trait |
 
 
 ### Biases
