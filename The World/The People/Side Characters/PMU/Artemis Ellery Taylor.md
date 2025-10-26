@@ -8,6 +8,7 @@
 ><b>Nationality:</b> Sterlian </br>
 ><b>Pronouns:</b> she/her  </br>
 ><b>Age:</b> 23 </br>
+><b>Date of birth:</b> July 23, 1934 </br>
 ><b>Height:</b> 5'6 </br>
 ><b>Hair:</b> Brown
 
