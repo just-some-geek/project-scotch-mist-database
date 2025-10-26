@@ -25,7 +25,7 @@ College is a great place to reinvent yourself…
 
 Yukio Yamada is an illegal immigrant from [[Eikan Empire|Eiko]] who finds himself on a cargo ship en route to [[Kaigaishima]]. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
 
-Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university, [[Paul Miki University|PMU]], granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name as well as his friend's name is unknown.  
+Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university, [[Paul Miki University|PMU]], granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name as well as his friend's name is unknown to him.
   
 Electrical engineering seemed difficult, but he had experience with fixing radio and other appliances in his community.  
 
