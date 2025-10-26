@@ -79,7 +79,8 @@ However, the more she gets involved with aspects such as policy and enforcement,
 
 Her story ends with whether or not she decides to stay and help the island or whether or not she flees.
 
-# Quotes
+### Quotes
+___
 
 Self Introduction:
 “Do you need something? No? Well regardless, my name is Olivia Northwind. Yes, that Northwind.”

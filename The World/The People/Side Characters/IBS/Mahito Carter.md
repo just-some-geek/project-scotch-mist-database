@@ -1,4 +1,4 @@
-**Intern at the Imperial Broadcasting Service**
+**Repairman, intern and resident of Fort Valkyrie**
 
 >[!info] Mahito Carter</br>
 >![[concept_Mahito.png]]
@@ -12,7 +12,7 @@
 ><b>Hair:</b> Black
 
 
-**Mahito Carter** is an intern / tower repairman for the [[Imperial Broadcasting Service]] East and adoptive sister of [[Eleanor Carter]]. Not much is known about their early life, education, or family history.
+**Mahito Carter** is an intern / tower repairman for the [[Imperial Broadcasting Service]] East and adoptive sibling of [[Eleanor Carter]]. Not much is known about their early life, education, or family history.
 
 They emigrated to [[Kaigaishima]] to escape the rising tensions in their homeland under an assumed name.
 
@@ -21,14 +21,28 @@ They emigrated to [[Kaigaishima]] to escape the rising tensions in their homelan
 ### Dev Notes
 ___ 
 
-Mahito Carter is an illegal immigrant from [[Eikan Empire|Eiko]] who finds themselves on a cargo ship en-route to [[Kaigaishima]]. They had grown tired of his nation's rampant xenophobia and imperialism, so they decided to take themselves elsewhere, along with a friend who assumed the name [[Yukio Yamada|Yamada]] according to the passport they gave him.
+Mahito Carter is an illegal immigrant from [[Eikan Empire|Eiko]] who finds themselves on a flight en-route to [[Kaigaishima]]. They had grown tired of his nation's rampant xenophobia and imperialism, so they decided to take themselves elsewhere, along with a friend who assumed the name [[Yukio Yamada|Yamada]] according to the passport they gave him. After landing in [[Districts of Kaigaishima#**Horikoshi**|Horikoshi Airport]], they navigated their way to [[Fort Valkyrie]] where they were found by Eleanor Carter.
 
+Eleanor who took a liking to Mahito after hearing about their situation, allowed them to live within Fort Valkyrie. Here they used their mechanical talents which they picked up from their time working in an electrical repair shop back in Eiko, to become an efficient repairman for the Imperial Broadcasting Service.
 
 ### Personality / Tidbits
 ___
 
 -  Fate unknown.
 -  Design unknown.
+-  Inspired by Mahito from The Boy & The Heron
+
+### Opinions
+___
+
+The island - "This place is weird weird weird, but it's a lot better than [[Eikan Empire|that place]]."
+
+Yukio - "The strongest person I know, stronger than me, stronger than he knows."
+
+Eleanor - "I owe her very much, she gave me work, and a place to stay."
 
 ### Quotes
 ---
+
+Self-introduction: 
+"..."
