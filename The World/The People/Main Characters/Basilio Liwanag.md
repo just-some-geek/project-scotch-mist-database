@@ -30,8 +30,7 @@ Now while he had the opportunity to study in any school in the country due to hi
 
 It was lucky that he managed to land in Kaigaishima, probably the best place to learn different viewpoints, due to the island's diverse population.
 
-### Personality / Tidbits 
-___
+# Personality / Tidbits 
 
 -  He is not passionate about politics.
 -  He can articulate his political opinion extremely well.
@@ -40,8 +39,7 @@ ___
 -  Often bikes to places.
 -  He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
 
-### Opinions 
----
+# Opinions 
 
 The Island - “It’s interesting to see how such different people can coexist in the same city. There’s a lot to be learned from cultures that aren’t your own.”
 
@@ -52,10 +50,9 @@ Himself - “I’m not that brilliant of a person, I do my best but I’m just o
 [[Yukio Yamada]] - “An interesting person, no other way to put it. He sees the world a lot differently than you or I do, not necessarily in a bad way. ”
 
 [[Li Zenghui]] - “He wishes for change and is confident in his ideas for change. Now while I agree with the man, I can’t help but play devil’s advocate sometimes.”  
-  
 
-### Character Story
----
+# Character Story
+
 ACT I :  
 - He arrives on the island with a civil engineering scholarship to SIU  
 - Gets familiar with the island, meets Leo and Willard at Wildflour  
@@ -74,15 +71,17 @@ ACT III :
 Ending : Escapes the island and dodges the draft  
 Alternate Ending : Gets conscripted to the Sterlian army
   
-Basilio has always been known as “the smartest person in the room” so it’s no surprise that he landed a scholarship to a prestigious university led by a collection of the smartest minds in the empire. St. Ignatius was a school a lot of people have heard about over recent years due to them producing some of the most talented minds responsible for many technological and philosophical innovations.  
+Basilio has always been known as “the smartest person in the room” so it’s no surprise that he landed a scholarship to a prestigious university led by a collection of the smartest minds in the empire. St. Ignatius was a school a lot of people have heard about over recent years due to them producing some of the most talented minds responsible for many technological and philosophical innovations. He takes up a civil engineering degree there in hopes to prove that he is worthy of all the praise he receives. 
+
+As while he recognizes his own intelligence, he admits that a lot of it came from his position of privilege. His family is well off enough to send him off to the best schools. If he can use his diligence and intelligence to survive in an environment where he has no help from his family, only then could he see himself as "worthy". Additionally he believes that learning how different cultures approach education, could show him some insight on how to better his own country's education system, as he believes it to be less than adequate for a developing nation.
   
-However in this school, he finds a different purpose, as one of his fellow dormers, a man named Willard Foker, took interest in his viewpoints regarding social issues. Willard noticed how well articulated his arguments were about every news topic Basilio happened to read on The Kingfisher, a local student newspaper.  
+He gets the blessing of his parents and arrives at Kaigaishima on the 1st of June, a few weeks before the start of the semester, which would begin around the [[Summer Festival]]. He gets acclimated to the island, experiencing much of what it has to offer, and is enjoying his time at school. Meeting new people and making friends as one does, most of them at [[Wildflour (bar)|Wildflour]] a bar owned by [[Damian Emmanuel Lasky|a fellow Isabelino]] in the middle of the island. Here he finds a person who he takes great interest in, [[Yukio Yamada]] an [[Eikan Empire|Eikan]] student at the rival [[Paul Miki University]]. They bond quickly over their shared experience such as their desire to leave home, them both taking engineering degrees and much more. Overall, while a bit hectic Basilio finds himself enjoying his time at Kaigaishima.
+
+However here he finds a different purpose, as one of his fellow dormers [[Willard Foker]] took interest in his viewpoints regarding social issues. Willard noticed how well articulated his arguments were about every news topic Basilio happened to read on [[The Kingfisher]], a local student newspaper. Often then conversations would come up when they drank at Wildflour, as that’s the only time Basilio would ever decide to speak his mind on social matters. If that’s how he talked drunk, how well could he debate sober?  
   
-Often then conversations would come up when they drank at The Wildflour, a bar located in the center of the island, as that’s the only time Basilio would ever decide to speak his mind. If that’s how he talked drunk, how well could he debate sober?  
+So being the main photographer of The Kingfisher, Willard decided to let Basilio into their operation, and not surprisingly Willard’s (Sparrow’s) intuition was spot on. Basilio soon became an editorial writer for The Kingfisher under the name Falco Peregrine, as well as the writer of an advice panel. All of this was under the wing and guidance of both [[Elisabeth Todir Macleay]] and [[Maya Foker]], the two other writers for the Kingfisher. Soon with the addition of Basilio, The Kingfisher skyrockets in popularity not only in the campus but across the island as well despite them only releasing every 2 weeks.
   
-So being the main photographer of The Kingfisher, Willard decided to let Basilio into their operation, and not surprisingly Willard’s (Sparrow’s) intuition was spot on. Basilio soon became an editorial writer for The Kingfisher under the name Falco Peregrine, as well as the writer of an advice panel. Soon with the addition of Basilio, The Kingfisher skyrockets in popularity not only in the campus but across the island as well.  
-  
-With this newfound popularity, The Kingfisher expands its operations. Basilio’s point of no return is deciding with The Kingfishers whether or not to publish the Northwind papers, documents found by a government official Olivia Northwind. Documents that contained supposed proof that The Representation Referendum (A.P. 1080) is to be rigged towards a specific outcome.  
+With this newfound popularity, The Kingfisher expands its operations. Basilio’s point of no return is deciding with The Kingfishers whether or not to publish the [[The Northwind Papers]], documents found by a government official [[Olivia Northwind]]. Documents that contained supposed proof that [[Representation Referendum of 1958|The Representation Referendum (A.P. 1080)]] is to be rigged towards a specific outcome.  
   
 His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup. Whether or not the Sterlians manage to push back the Eikan advance will be determined by other factors that Basilio may or may not influence.
 

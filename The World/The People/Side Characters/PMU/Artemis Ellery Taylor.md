@@ -20,9 +20,9 @@ Opinion On : 
   
 The Island - “I absolutely love this place! The food, the places, the people… It’s all just so fascinating. Definitely one of the top 2 places I’ve ever visited, and it’s not number 2 I’ll tell you that.”
   
-Herself [Regular] - “I’d say I’m pretty alright for the most part.”  
+Herself (Regular) - “I’d say I’m pretty alright for the most part.”  
   
-Herself [Honest] - “Just someone who doesn’t really know where she’s going honestly. I tried living in the capital but it just wasn’t for me, you know?”
+Herself (Honest) - “Just someone who doesn’t really know where she’s going honestly. I tried living in the capital but it just wasn’t for me, you know?”
 
 Basilio - “Oh Basilio? His name is quite hard to pronounce, don't you think? So many syllables so quickly. He’s quite the pleasant presence to be around, however he can be so quiet sometimes.”
   

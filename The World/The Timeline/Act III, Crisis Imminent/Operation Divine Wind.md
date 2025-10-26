@@ -1,5 +1,5 @@
 **1958 Eikan military intervention in Kaigaishima**
-
+#tier-1 #events
 >[!info] Operation Divine Wind</br>
 ><center>Part of the Kaigaishiman Crisis and the Shenzhou War</center>
 >

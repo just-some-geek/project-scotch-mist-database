@@ -13,7 +13,7 @@ Getting Your Bearings (June 1st 1957 – June 23rd 1957)
 
 •All 4 main characters arrive on the island and get acquainted/reacquainted with it.
 
-•There are currently rumors going around about a ration system being implemented  
+•There are currently rumours going around about a ration system being implemented  
 in the near future.
 
 •People in the island are currently preparing for festival for the summer solstice.
