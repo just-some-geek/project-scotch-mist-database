@@ -1,5 +1,16 @@
 **Founder of Chorizo Joe's Karinderia**
 
+>[!info] José De Guzman </br>
+>![[concept_deGuzman.png]]
+><center>de Guzman in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> José de Guzman </br>
+><b>Nationality:</b> Kaigaishiman (1st Gen Isabeliño Immigrant)   </br>
+><b>Pronouns:</b> he/him  </br>
+><b>Age:</b> 28 </br>
+><b>Height:</b> 5'6 </br>
+><b>Hair:</b> Brown-Black
+
 Jose De Guzman, also known as **Chorizo Joe**, is the founder and owner of the [[Chorizo Joe's Karinderia]] restaurant chain. He emigrated to Kaigaishima in 192X.
 
 #Tier-2 #Characters 

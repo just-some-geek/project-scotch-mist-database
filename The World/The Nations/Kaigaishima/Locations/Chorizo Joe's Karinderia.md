@@ -7,4 +7,4 @@
 ### History
 ---
 #### Founding
-The chain was founded by [[Jose De Guzman]], who emigrated to Kaigaishima in 192X. De Guzman, a notable chef in his homeland,
+The chain was founded by [[José De Guzman]], who emigrated to Kaigaishima in 192X. De Guzman, a notable chef in his homeland,

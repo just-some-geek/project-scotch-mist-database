@@ -1,24 +1,32 @@
 **Parish priest of Paul Miki University**
 
+>[!info] Rev. Thomas McKenzie</br>
+>![[concept_McKenzie.png]]
+><center>Rev. McKenzie in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Thomas Yu McKenzie </br>
+><b>Nationality:</b> Shenzen </br>
+><b>Pronouns:</b> he/him  </br>
+><b>Age:</b> 56 </br>
+><b>Height:</b> 5'8 </br>
+><b>Hair:</b> Gray
+
 **Rev. Thomas McKenzie** is the residing parish priest of [[Paul Miki University]]. He served in the [[Sterlian Commonwealth Armed Forces]] during the [[Great War]] as a military chaplain in the Eastern Theatre.
 
 #Tier-2 #Characters 
 
+### Dev Notes
 ---
-Name: Father Thomas “Tommy” McKenzie
-Nationality: Shenzhen
-Pronouns: he/him
-Age: 56
-Height: 5’8
-Hair: Gray
 
-Overview :  
+Residing parish priest and professor for PMU. A military chaplain during the Great War, who received numerous awards for his contributions to soldier morale during several campaigns in the Eastern Theatre. A calming person who opens his doors to all people, an exemplary man. Uses his position to speak up on issues of state, often holds his sermon over the local broadcasting service. Despite the concept of separating church and state.  
   
-Residing parish priest and professor for PMU. A military chaplain during the Great War, who received numerous awards for his contributions to soldier morale during several campaigns in the Eastern Theatre. A calming person who opens his doors to all people, an exemplary man. Uses his position to speak up on issues of state, often holds his sermon over the local broadcasting service.  Despite the concept of separating church and state.  
-  
-Will take the role of Cardinal Sin, EDSA.  
+### Personality / Tidbits 
+___
 
-“Happiness has to be fought for.”
+-  Inspired by Cardinal Sin
+-  His favourite non-Gospel book of the bible is Exodus
+- 
+
 ### Quotes
 ---
 Self-Introduction:
