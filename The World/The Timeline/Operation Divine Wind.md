@@ -13,7 +13,15 @@
 
 #Tier-2 #Events 
 # Background
-Ever since the island taken over by the Commonwealth, 
+Ever since the island was acquired by the Commonwealth, Kaigaishima has served as a forward base for the [[Sterlian Commonwealth Armed Forces]] for deployments in the Far East. Its strategic position along the Eiko-Shenzhou-Isabeline trade route and between the Sterlian allies of [[North Shenzhou]] and [[The Isabelines]] ensures that any attempt to drive the Sterlians out of the Far East would necessitate the capture or isolation of Kaigaishima from the rest of the Far East.
+
+The initial draft of Divine Wind was created in late 1910, when the Sterlian-Eikan Agreement expired. While the two nations would remain nominal allies during the [[Great War]], disagreements over the post-war order and [[Reclamation Wars|Sterlian expansionism]] would inspire Eikan commanders to plan for an "inevitable" conflict with the Commonwealth. The plan would continue to be updated as new technology became available, but the core idea remained: a single, decisive strike to knock the Commonwealth out of the fight.
+
+The Eikan Empire would invade the {*Central-Powers*}-aligned Shenzhou in 1916 and force their surrender by late 1921, whereupon the nation was divided among the Sterlian and Eikan spheres of influence. The outbreak of the [[Shenzhou War]] between the Eikan-aligned [[South Shenzhou]] and the Sterlian-backed [[North Shenzhou]] in 1926, while not triggering an immediate intervention from either Eiko or Sterlia, severely strained relations between them.
+
+The Commonwealth would launch their military intervention in Shenzhou in April 1943, using Kaigaishima as the main route for supplies and troops heading into the conflict area. The Eikan Empire would intervene 2 months later, and the ensuing stalemate would force both sides to escalate the conflict.
+
+By 1957, Eikan commanders considered implementing Divine Wind in order to break the Sterlian defensive lines in the heavily fortified northern coast. To this end, the Eikans concentrated their efforts in capturing the city of [[Chendai]], from which the invasion of Kaigaishima would be staged.
 # Invasion
 >*Main Article: [[Fall of Kaigaishima]]*
 
@@ -25,7 +33,6 @@ Operation Rainfall comprised the air campaign against Sterlian military bases on
 ## Phase 3: Tsunami
 Operation Tidal Wave was the 
 # Occupation
-
 In the hours following the evacuation of the Kaigaishiman government, the advancing Eikan forces 
 # Notes
 Article based on [Operation Desert Storm](https://en.wikipedia.org/wiki/Gulf_War_air_campaign)
