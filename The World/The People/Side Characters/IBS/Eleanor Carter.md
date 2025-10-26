@@ -1,24 +1,32 @@
 **Sterlian radio host**
 
+>[!info] Eleanor Carter</br>
+>![[concept_Eleanor.png]]
+><center>Carter in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Eleanor "Rigby" Carter</br>
+><b>Nationality:</b> Kaigaishiman (1st Gen Sterlian Immigrant) </br>
+><b>Pronouns:</b> she/they  </br>
+><b>Age:</b> 28</br>
+><b>Height:</b> 5’3</br>
+><b>Hair:</b> Brown (caramel)
+
+
 **Eleanor "Rigby" Carter** is a radio host for the [[Imperial Broadcasting Service]] East.
 
 #Tier-3 #Characters 
 
----
-Full Name : Eleanor “Rigby” Carter  
-Nationality : Kaigaishiman (1st Gen Sterlian Immigrant)  
-Pronouns : she/they  
-Age : 28  
-Height : 5’3  
-Hair : Black
+### Dev Notes
+___ 
 
-Overview : 
+Runner of the local broadcasting service and radio, who may or may not have a partnership with the Kingfishers to report out their stories on air. Grew up in unfortunate circumstances but has made a career for herself out of sheer determination and will. Has a charismatic personality on air and with strangers to put up a friendly façade for the sake of being nice, but in reality is quite troubled.
 
-Runner of the local broadcasting service and radio, who may or may not have a partnership with the Kingfishers to report out their stories on air. Grew up in unfortunate circumstances but has made a career for herself out of sheer determination and will. Has a charismatic personality on air and with strangers to put up a friendly facade for the sake of being nice, but in reality is quite troubled.
+There is an optional task to give her Damian’s vinyl records to play on air, which can now be accessed via radio stations across the island.
 
-Equal parts girlboss and girlypop
+### Personality / Tidbits
+___
 
-An optional task to give her Damian’s vinyls to play on air, which can now be accessed via radio stations across the island.
+- Equal parts girlboss and girlypop
 
 ### Quotes
 ---

@@ -90,4 +90,5 @@ On Relationships:
 “Socializing is exhausting. This isn’t coming from a lack of desire, don’t think that. They’re bridges that require constant maintenance, and it’s easier when both sides help with the upkeep.”  
   
 On Proximity:  
-“The reason why friendships are born is because of closeness, but that doesn’t mean the two parties are actually friends. If they were truly friends, it would extend beyond the environment they’re forced to be in. Are you only friends because you’re coworkers, neighbors, classmates? Or is there something more?”
+“The reason why friendships are born is because of closeness, but that doesn’t mean the two parties are actually friends. If they were truly friends, it would extend beyond the environment they’re forced to be in. Are you only friends because you’re coworkers, neighbours, classmates? Or is there something more?”
+
