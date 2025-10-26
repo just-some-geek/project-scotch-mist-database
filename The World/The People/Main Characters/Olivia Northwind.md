@@ -27,7 +27,7 @@ Olivia Northwind is a secretary/adviser working for The Commonwealth. Daughter o
 
 Throughout her career she has been hit with an unfortunate combination of misogyny and accusations of nepotism. Despite these issues she has never given up. 
 
-She herself requested to be transferred to Kaigaishima to prove herself to her peers in an unfamiliar environment. Kaigaishima has been known to be a delicate situation by The Commonwealth for a long time. She believes that if she could bring stability to the island, she’ll be able to show to her coworkers that she is capable.  
+She herself requested to be transferred to Kaigaishima to prove herself to her peers in an unfamiliar environment. Kaigaishima has been known to be a delicate situation by The Commonwealth for a long time. She believes that if she could bring stability to the island, she’ll be able to show to her co-workers that she is capable.  
   
 ### Personality / Tidbits 
 ___
@@ -57,7 +57,7 @@ ACT I :
 - Meets Joseph at a benefit  
   
 ACT II :  
-- Investigates rumors of Eikan/Columbian meddling  
+- Investigates rumours of Eikan/Columbian meddling  
 - Unearths a conspiracy to rig the outcome of the Referendum  
 - Decides if they remain loyalist or expose the plan  
   
