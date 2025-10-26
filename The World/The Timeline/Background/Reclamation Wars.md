@@ -1,4 +1,5 @@
 **20th century Sterlian colonial wars**
+#Tier-3 #Events
 >[!info] Reclamation Wars
 >Part of the post-[[Great War]] era
 >(photos here)

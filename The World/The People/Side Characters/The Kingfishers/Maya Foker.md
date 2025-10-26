@@ -15,11 +15,8 @@ Age: 20
 Height: 5’6
 
 - Known for her aggressive and harsh criticisms of multiple institutions on occasion. Has been repeatedly told by Fischer to reel it back.
-    
 - The most passionate about the island's issues 2nd to Elizabeth.
-    
 - If Basilio joins, she becomes jealous as he eventually gets placed as the head editorial writer. Due to his calmer approach in discussing social issues.
-    
 - Design will be based off of Mithrun from Dunmeshi
 
 ### Quotes

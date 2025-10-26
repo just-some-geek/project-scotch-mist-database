@@ -16,12 +16,10 @@ Age: 22
 Height: 5'10
 
 - Suggested the idea of picking opposite-gendered pen names to further obscure their identity.
-    
 - Quite charismatic and empathetic.
-  
 - Ambidextrous
-    
 - Traumatized by the death of his neighbour, who incidentally is the same person that inspired Elisabeth to start the Kingfisher.  
+- Named after Hikaru Nakamura and Isao Takahata
 
 ### Quotes
 ---

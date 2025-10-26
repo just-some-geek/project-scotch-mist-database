@@ -53,24 +53,6 @@ Himself - “I’m not that brilliant of a person, I do my best but I’m just o
 
 # Character Story
 
-ACT I :  
-- He arrives on the island with a civil engineering scholarship to SIU  
-- Gets familiar with the island, meets Leo and Willard at Wildflour  
-- Is recruited to join the Kingfisher newspaper team  
-  
-ACT II :  
-- Newspaper editorial training arc
-- Expansion of the Kingfishers’ publication and reach
-- Story leaks of government meddling  
-  
-ACT III :  
-- Respond to the declaration of Martial Law  
-- Events depend on player actions in Act I & II  
-- Escapes with the Kingfishers back to the Isabelines  
-  
-Ending : Escapes the island and dodges the draft  
-Alternate Ending : Gets conscripted to the Sterlian army
-  
 Basilio has always been known as “the smartest person in the room” so it’s no surprise that he landed a scholarship to a prestigious university led by a collection of the smartest minds in the empire. St. Ignatius was a school a lot of people have heard about over recent years due to them producing some of the most talented minds responsible for many technological and philosophical innovations. He takes up a civil engineering degree there in hopes to prove that he is worthy of all the praise he receives. 
 
 As while he recognizes his own intelligence, he admits that a lot of it came from his position of privilege. His family is well off enough to send him off to the best schools. If he can use his diligence and intelligence to survive in an environment where he has no help from his family, only then could he see himself as "worthy". Additionally he believes that learning how different cultures approach education, could show him some insight on how to better his own country's education system, as he believes it to be less than adequate for a developing nation.
@@ -81,9 +63,11 @@ However here he finds a different purpose, as one of his fellow dormers [[Willar
   
 So being the main photographer of The Kingfisher, Willard decided to let Basilio into their operation, and not surprisingly Willard’s (Sparrow’s) intuition was spot on. Basilio soon became an editorial writer for The Kingfisher under the name Falco Peregrine, as well as the writer of an advice panel. All of this was under the wing and guidance of both [[Elisabeth Todir Macleay]] and [[Maya Foker]], the two other writers for the Kingfisher. Soon with the addition of Basilio, The Kingfisher skyrockets in popularity not only in the campus but across the island as well despite them only releasing every 2 weeks.
   
-With this newfound popularity, The Kingfisher expands its operations. Basilio’s point of no return is deciding with The Kingfishers whether or not to publish the [[The Northwind Papers]], documents found by a government official [[Olivia Northwind]]. Documents that contained supposed proof that [[Representation Referendum of 1958|The Representation Referendum (A.P. 1080)]] is to be rigged towards a specific outcome.  
+With this newfound popularity, The Kingfisher expands its operations including collaborating with [[Eleanor Carter]], the radio host for the [[Imperial Broadcasting Service]]. Basilio’s point of no return is deciding with The Kingfishers whether or not to publish the [[The Northwind Papers]], documents found by a government official [[Olivia Northwind]]. Documents that contained supposed proof that [[Representation Referendum of 1958|The Representation Referendum (A.P. 1080)]] is to be rigged towards a specific outcome. When they do decide to release the papers on the 19th of December, the media attention it should've received went to terrorist attacks that occurred on the 25th, an event known as [[Red Christmas]]. In response [[Declaration of Martial Law|the government declares Martial Law]] to be implemented on the dawn of the '58, forcing The Kingfisher to move their operations underground. 
   
-His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup. Whether or not the Sterlians manage to push back the Eikan advance will be determined by other factors that Basilio may or may not influence.
+During this period of Martial Law, Basilio and those close to him spend their time evading capture from the police and the government. As students have been especially targeted for "investigation" due to the string of protests that have started around Paul Miki University. All the while he, including Yukio and the others use their best efforts to keep The Kingfisher running and distributing, exposing the government for their capture and torture of political enemies and civilians. They end up collaborating with certain institutions they can trust to distribute their leaflets, including but not limited to [[Chorizo Joe's Karinderia]], Wildflour, and the [[Paul Miki Parish]]. 
+
+This continues until the situation escalates after the [[Paul Miki University Massacre]], which triggers riots across the entire island as well as the Eikan military's [[Operation Divine Wind]]. His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup, however at any point Basilio might be caught and conscripted into the [[Shenzhou War]] which would be his alternative ending. Whether or not the Sterlians manage to push back the Eikan advance will be determined by other factors that Basilio may or may not influence.
 
 ### Quotes
 ---

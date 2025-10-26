@@ -15,13 +15,10 @@ Age: 23
 Height: 5’1  
 
 - Initially joined at the request of Willard and Maya
-    
 - Basically The Kingfisher is the equivalent to Shonen Jump and she is the equivalent to a mangaka
-    
 - Her first/current series is a romance story between two immigrants. When asked if this is inspired by real life events, she will vehemently deny the question.
-    
-- Cathy from Until Then
-
+- Design will be based off of Cathy from Until Then
+- Named after the Filipino national artist of the same last name.
 ### Quotes
 ---
 Self Introduction:  
