@@ -1,24 +1,32 @@
 **Editorial writer for the Kingfisher**
 
-
+>[!info] Maya Foker </br>
+>![[concept_Maya.png]]
+><center>Maya Foker in 1958</center>
+><h6>Basic Information</h6>
+><b>Full Name:</b> Maya Hadrian Foker </br>
+><b>Nationality:</b> Sterlian-Kaigaishiman </br>
+><b>Pronouns:</b> she/her  </br>
+><b>Age:</b> 20 </br>
+><b>Height:</b> 5'6 </br>
+><b>Hair:</b> White
 
 **Maya Foker**, known by her pen name **Montgomery "Sparrow" Passerine**, is an editorial writer and editor for the student newspaper [[The Kingfisher]].
 
 #Tier-2 #Characters 
 
+### Dev Notes
 ---
-Name: Maya Foker, a.k.a. Montgomery “Sparrow” Passerine -> Monty Passerine
-- From the Eurasian tree sparrow (Passer montanus), known in the Philippines as “Mayang simbahan”
-  
-Occupation: Editorial Writer and Editor for The Kingfisher
-Nationality: Sterlian/Kaigaishiman
-Pronouns (WOKE!): She/her
-Age: 20
-Height: 5’6
+
+Lorem ipsum et dolor.
+
+### Personality / Tidbits
+___
 
 - Known for her aggressive and harsh criticisms of multiple institutions on occasion. Has been repeatedly told by Fischer to reel it back.
 - The most passionate about the island's issues 2nd to Elizabeth.
 - If Basilio joins, she becomes jealous as he eventually gets placed as the head editorial writer. Due to his calmer approach in discussing social issues.
+- Pen name named after the Eurasian tree sparrow (Passer montanus), known in the Philippines as “Mayang simbahan”
 - Design will be based off of Mithrun from Dunmeshi
 
 ### Quotes
@@ -35,5 +43,5 @@ On Conversation:
 On Birds and Names:  
 “It’s a childish thought. If I were to become a bird, I would be a sparrow, that’s what Elisabeth told me when we were picking pen names. We were inspired by a novella, Jonathan Lvingston Seagull. Never finished the thing, but the idea of flight. It enamors me. How high could a bird ever-fly?”  
   
-On Basilio:  
+On [[Basilio Liwanag]]:  
 “The transferee student? He’s interesting, I will tell you that much. He’s so particular about things, particular and articulate. Tall and lanky, but he acts smaller than he is. I personally find it strange, very strange.”
