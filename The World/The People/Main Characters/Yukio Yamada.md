@@ -90,7 +90,7 @@ On Learning Other Languages:
 “As a kid my parents sent me to a foreign-language school and our neighbourhood had a lot of traders from other countries. I learned quickly, but I’m not as good as you think I am.”  
   
 On Basilio:  
-“Even though we go to different universities he’s been a huge help. I met him at a restaurant after we got into a fight with some fraternity guys.
+“Even though we go to different universities he’s been a huge help. I met him at a restaurant after we got into a fight with some fraternity guys."
   
 On PMU:  
 “It’s great! It was scary at first but the campus is really pretty and I’m learning a lot. I just hope they don't, you know. Find out... which they never will! That's the point of lying!”
