@@ -11,6 +11,7 @@ The IBS's predecessor, the Sterlian Broadcasting Corporation, was established in
 
 At the onset of the [[Great War]], the Sterlian government gained control of the SBC through the [[DORA Act (1914)|DORA Act of 1914]]. While an official state media company already existed at the time, severe underfunding of the Ministry of Public Affairs (now the [[Ministry of Public Enlightenment and Propaganda]]) forced the acquisition of the company to facilitate wartime censorship and information control measures.
 #### Expansion of the IBS
+
 As the [[Sterlian Commonwealth|Sterlian Empire]] expanded its influence across the world, the IBS set up branch offices in Sterlian-controlled territories. These offices are listed below in the order of their establishment.
 
 - **Imperial Broadcasting Hudson-Columbia** (1921-Present; Active). Originally operating as *Imperial Broadcasting West* within the [[Hudsonia|Hudson Bay Territory]], IBS-H/C now controls all IBS operations on the North Columbian continent, including broadcasts in [[Hudsonia]] and [[Columbia]].

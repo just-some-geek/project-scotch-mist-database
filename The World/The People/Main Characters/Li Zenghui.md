@@ -37,6 +37,7 @@ His ideas can be seen as radical by some, but needless to say he is confident in
 ___
   
 -  Named after a member of the band Omnipotent Youth Society
+-  Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
   
 ### Opinions 
 ---
@@ -72,7 +73,9 @@ ACT III :
 Ending : Executed by firing squad  
 Alternate Ending : Secretly survives the firing squad
 
-After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start highschool in the Southern Island to improve the education of his local community.  
+Li Zenghui was a man who always pursued greatness where-ever he went. Born into Kaigaishima's wealthier classes he could be seen as a part of the intelligentsia, the well educated university man who sought to reform through "a more equitable arrangement of both political and economic power". A secondary school graduate of the institution that was and is [[St. Ignatius University]] he was a jack of many trades, and even a master of a few. He was a prolific poet, writer, painter as well as an aspiring doctor who pursued pulmonology. 
+
+After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start high school in the Southern Island to improve the education of his local community.  
   
 During the process, he comes to know Olivia during a fancy dinner to commemorate the opening of Saint Florence Hospital in Wanhua district. They end up next to each other on the arranged seating and have a very “productive” conversation about the state of the island. From there Olivia becomes a frequent correspondent of Joseph from which he asks permits to get the high school off the ground. As well as general community upliftment, despite it going against government policy. On the side he spends a lot of time with the local community doing his best to help out.  
   
@@ -100,6 +103,7 @@ On Politics:
 
 On What Comes After:  
 “I’m not afraid of death, because I think I’ll live forever.”
+
 ### Early Life and Education
 ---
 
