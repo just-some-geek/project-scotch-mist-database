@@ -34,7 +34,7 @@ ___
 ### Quotes
 ---
 Self Introduction:  
-“Hikaru Takahata です. ああの... You know I don’t really know what else to say other than my name.”  
+“Hikaru Takahata です. ああの... You know, I don’t really know what else to say other than my name.”  
   
 On Dreams:  
 “Sometimes I’d like to dream about pretty things, like other people!”  
