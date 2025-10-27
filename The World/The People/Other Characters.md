@@ -34,7 +34,8 @@ Masato Takahata - Student at SIU, son of local cafe owner, Hikaru’s cousin.
 Makoto Taniguchi - Street sweeper assigned to Eastwood and Westwood.  
 Ichiko Michel - Student at PMU, adoptive daughter of Anastasia and William.  
 Laura Satsuma - Sterlian mother, fan of the character Laura Hunt from the 1944 film.  
-Ryuji Ayase - Central island taxi driver.  
+Ryuji Ayase - Central island taxi driver.
+Sara Kono - Government worker, suspected Eikan spy, and Terminator reference
   
 Columbian :  
   
