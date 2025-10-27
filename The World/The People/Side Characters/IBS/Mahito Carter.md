@@ -30,7 +30,7 @@ Eleanor who took a liking to Mahito after hearing about their situation, allowed
 ___
 
 -  Falls in love with eggs benedict after being introduced.
--  Design inspired by Kiriko from The Boy & The Heron.
+-  Design inspired by young Kiriko from The Boy & The Heron.
 -  Inspired by Mahito from The Boy & The Heron.
 
 ### Opinions
