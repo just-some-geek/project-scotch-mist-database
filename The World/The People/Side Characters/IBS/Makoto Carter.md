@@ -33,6 +33,7 @@ ___
 -  Design inspired by young Kiriko from The Boy & The Heron.
 -  Inspired by Mahito from The Boy & The Heron.
 -  Is affectionately called "Koto" by Eleanor, despite how much they hate the name they don't mind it.
+- 
 ### Opinions
 ___
 
