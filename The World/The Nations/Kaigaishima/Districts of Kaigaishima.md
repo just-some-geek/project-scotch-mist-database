@@ -8,7 +8,7 @@ While most of the districts are administered by an elected council, a few are pl
 >[!callout]+ Map of Kaigaishima
 >![[train_station_mapped.png]]
 # Districts By Region
----
+
 ## North Region
 The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], with small villages nestled in the Hoshiyama mountain range and along the coastline, as well as large palace-estates for the [[Sterlian Commonwealth|Sterlian]] and [[Eikan Empire|Eikan]] aristocracy. The region is primarily residential, though some commercial hubs exists towards the eastern parts of the region.
 ##### **Sakamoto**
@@ -36,7 +36,7 @@ The North Region largely resembles the rural regions of [[Eikan Empire|Eiko]], w
 - 平成, *achieving peace*
 - The area's tall beacon tower has helped Eikan sailors navigate to Kaigaishima's port since time immemorial. Recently, the tower was integrated into the newly-built **Heisei Stadium**, which serves as a key waypoint in many Eikan League baseball team's careers.
 ## Central Region
-The Central Region is the bustling heart of Kaigaishima and, by extension, the Far Eastern Territories. Its expansive commercial and business districts account for a significant
+The Central Region is the bustling heart of Kaigaishima and, by extension, the Far Eastern Territories. Its expansive commercial and business districts account for a significant portion of the island's economic power.
 ##### **St. Paul**
 - The district is one of the two college towns on Kaigaishima, housing the government-run [[Paul Miki University|Paul Miki University (PMU)]]. The large university has had an outsized influence in the city center, to the point that the Constabulary regularly pulls 24-hour shifts to keep politically active students from rioting.
 ##### **St. Ignatius**
@@ -97,11 +97,13 @@ The East Region is not under the direct control of the Kaigaishiman government, 
 - 二門市, *two-gate city*
 - A
 ##### **Gosling**
+- Named after Ryan Gosling, yes that Ryan Gosling.
 - 
 ##### **Foster**
 - 
 ##### **Buckley**
--  
+-  Named after Jeff Buckley.
+- 
 ## South Region
 The South Region is the oldest
 ##### **Neihu** 

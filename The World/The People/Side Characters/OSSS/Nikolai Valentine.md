@@ -19,11 +19,7 @@ Hair: White
 
 Notable features: Eye mask with blue ‘eyelids’ on it. Almost never seen without his black fedora. Only has one glove on his left hand– never seen with a right glove.
 
-  
-
 Though the OSS has far more competent (or at least more focused) agents in the region, by some twist of fate Mr. Valentine was the one sent in to “cover up” Harland’s “screwups”. In practice, his hilarious hijinks are likely doing more to hurt Columbian interests than advance them.
-
-  
 
 “What even is the point of a pseudonym? Surely no one will recognize your name there.”
 

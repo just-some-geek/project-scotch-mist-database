@@ -44,7 +44,7 @@ Putting the Pieces Together (September 23rd 1957 – November 11th 1957)
 
 •Due to the increased involvement in the war, many local and projects have either been reduced or cut all together.
 
-The Northwind Papers (November 112h 1957 – December 19th 1957)
+The Northwind Papers (November 12th 1957 – December 19th 1957)
 
 •A whistleblower from inside the administration is coordinating with multiple media outlets to expose some information regarding the Commonwealth.
 

@@ -2,6 +2,17 @@
 
 >**Kaigaishima** redirects here. For the administrative territory in the Sterlian Commonwealth which contains the island, see [[Far Eastern Territories]].
 
+>[!info] Kaigaishima</br>
+>![[train_station_mapped.png]]
+><center>Map of Kaigaishima</center>
+><h6>Basic Information</h6>
+><b>Part of:</b> Sterlian Commonwealth</br>
+><b>Administrative Center:</b> Muramatsu</br>
+><b>Largest District (by pop.):</b> Taishan</br>
+><b>Official Languages:</b></br>- Sterlian</br>- Shenzhen</br>
+><b>Ethnic groups:</b></br>- 65.7% Shenzhen</br>- 15.7% Eikan</br>- 12.3% Isabeliño</br>- 5.7% White</br>- 0.6% Other</br>
+><b>Demonyms:</b> Kaigaishiman
+
 **Kaigaishima** is the largest and most populous island in the [[Chendai Archipelago]], serving as a major trade hub and the capital of the [[Far Eastern Territories]] of the [[Sterlian Commonwealth]].
 
 #Tier-1 #Geography
@@ -28,14 +39,16 @@ The earliest known Western visitors came in the early 1500s, when [[San Sebastia
 
 ## Geography
 ---
-Kaigaishima is the largest, central island of the [[Chendai Archipelago]], surrounded on all sides by the {Name Sea}. 
+Kaigaishima is the largest, central island of the [[Chendai Archipelago]], surrounded on all sides by the South Shenzhou Sea. Laying 88 km (55 mi) from the city of [[Chendai]] on the mainland, 
 
-Urban development on the island is highly concentrated in the south, central, and western regions, with the north and east being more suburban or rural.
+The island is divided East-West by the **Twin Rivers**, 
+
+Urban development on the island is highly concentrated in the south, central, and western regions, with the north and east being more suburban or rural. A significant amount of territory is built on reclaimed land, especially around the [[Port of Kaigaishima]], [[Districts of Kaigaishima#**Ikime**|Ikime]], and the [[Districts of Kaigaishima#**Horikoshi**|Horikoshi Airport]].
 
 #### Climate
 Kaigaishima has a humid subtropical climate, with long, hot, and humid summers capped by the June-August monsoon season. The island is frequently hit by typhoons, which cause landslides and flooding. Winters are short and mild, with snowfall being an extremely rare occurence. Cold fronts from the mainland will sometimes cause extremely chilly and foggy weather, known locally as the "scotch mist".
 
-Due to the industrial development of the West region, as well as the recent proliferation of automobiles, air pollution is a significant issue on the island. Air quality indexes frequently reach upwards of 100 ppm of pollutants during peak hours in the spring.
+Due to the industrial development of the [[Districts of Kaigaishima#West Region|West Region]], as well as the recent proliferation of automobiles, air pollution is a significant issue on the island. Air quality indexes frequently reach upwards of 100 ppm of pollutants during peak hours in the spring.
 #### Architecture
 Kaigaishima's architecture, like its geography, is divided along the banks of the **Twin Rivers**.
 
@@ -74,9 +87,11 @@ The population of Kaigaishima is predominantly of Shenzhou descent (, with a sig
 
 Kaigaishiman culture is characterized by a hybrid of East and West. Traditional [[Culture of Shenzhou|Shenzhen]] and [[Culture of the Eikan Empire|Eikan]] values emphasizing higher education, spirituality, and the nuclear family are blended with [[Culture of the Sterlian Commonwealth|Sterlian]] ideals of individual liberties and the rule of law. The island's colonial history and strategic location, combined with immigration from the [[Far Eastern Territories]], has resulted in a distinct local identity.
 #### Cuisine
+
 Kaigaishiman cuisine is a fusion of the cuisines of its population groups.
 
 #### Language
+
 There are three main languages used in Kaigishima: Sterlian, Eikan, and Lower Shenzhen.
 
 #### Media
@@ -85,6 +100,7 @@ Kaigaishima is home to [[Imperial Broadcasting Service]] East,
 
 
 #### Sport and Recreation
+
 Despite its small area, the island is home to a variety of sports and recreational facilities.
 
 The **Albertine Valley Country Club** holds a near-monopoly over the island's legal gambling market, which generates over 370 million Sterling every year. As casinos are banned on the island, the AVCC generates income through lotteries, sports betting, and horse racing. The annual **Prince Albert Stakes**, part of the Commonwealth Cup series, reportedly draws over 10,000 attendees.

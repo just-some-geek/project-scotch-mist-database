@@ -1,24 +1,18 @@
+**Artist for the Kingfisher**
+
 **Hannah Maria Amorsolo**, known by her pen name **Jeffery "Eagle" Copha**, is an artist for the student newspaper [[The Kingfisher]].
 
 #Tier-2 #Characters 
 
 ---
 Name: Hannah Ma. Amorsolo, a.k.a. Jeffery “Eagle” Copha
-
 - From the Philippine Eagle (Pithecophaga jefferyi)
-    
-
-Occupation: Artist for The Kingfisher
-
-Nationality: Isabeliño/Kaigaishiman
-
-Pronouns (WOKE!): Any (they don't give a fuck)
-
-Age: 23
-
-Height: 5’1
-
   
+Occupation: Artist for The Kingfisher
+Nationality: Isabeliño/Kaigaishiman
+Pronouns : Any (they don't really care)
+Age: 23
+Height: 5’1  
 
 - Initially joined at the request of Willard and Maya
     

@@ -6,32 +6,22 @@
 
 ---
 Name: Hikaru Takahata, a.k.a. Janith “Dove” Columbus
-
 - From the Japanese wood pigeon (Columba janthina)
-    
 - Tangent: Pigeons and doves are technically the same family, with only size differentiating the two in common language.
-    
-
-Occupation: On-site reporter for the Kingfisher
-
-Nationality: Eikan/Kaigaishiman
-
-Pronouns (WOKE!):  They/he
-
-Age: 22
-
-Height: 5'10
-
   
+Occupation: On-site reporter for the Kingfisher
+Nationality: Eikan/Kaigaishiman
+Pronouns :  They/he
+Age: 22
+Height: 5'10
 
 - Suggested the idea of picking opposite-gendered pen names to further obscure their identity.
     
 - Quite charismatic and empathetic.
+  
+- Ambidextrous
     
-- Traumatized by the death of his neighbor, who incidentally is the same person that inspired Elisabeth to start the Kingfisher.
-    
-
-Ambidexterous
+- Traumatized by the death of his neighbour, who incidentally is the same person that inspired Elisabeth to start the Kingfisher.  
 
 ### Quotes
 ---

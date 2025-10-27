@@ -9,7 +9,7 @@ As of 1957, she is pursuing a degree at [[Paul Miki University]].
 ---
 Full Name : Artemis Ellery Taylor  
 Nationality : Sterlian  
-Pronouns (WOKE!!) : she/her  
+Pronouns : she/her  
 Age : 24  
 Height : 5’7  
 Hair : Brown  
@@ -24,9 +24,7 @@ Herself [Regular] - “I’d say I’m pretty alright for the most part.”
   
 Herself [Honest] - “Just someone who doesn’t really know where she’s going honestly. I tried living in the capital but it just wasn’t for me, you know?”
 
-  
 Basilio - “Oh Basilio? His name is quite hard to pronounce, don't you think? So many syllables so quickly. He’s quite the pleasant presence to be around, however he can be so quiet sometimes.”
-
   
 Olivia - “Ms. Northwind is an odd person, she seems so caught up in her work. It’s hard to get to her. She spends more time with a cigarette in her hand than she does sleeping.”
 
