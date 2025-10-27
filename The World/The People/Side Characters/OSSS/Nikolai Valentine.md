@@ -33,7 +33,7 @@ ___
 ___
 
 On Cover Names : 
-“What even is the point of a pseudonym? Surely no one will recognize your name there. Ah, cLassic O3S and their rules...”
+“What even is the point of a pseudonym? Surely no one will recognize your name there. Ah, cLassic OS3 and their rules...”
 
 On The Potentiality of his Cover being blown : 
 “You never know who you might run into… I would rather not let mY identity be known in unfamiliar territoRY. *ahem*”
