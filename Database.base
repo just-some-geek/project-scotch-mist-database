@@ -1,6 +1,9 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.tags.containsAny("tier-1", "tier-2", "tier-3", "tier-4", "tier-5")
     order:
       - file.name
       - file.tags
