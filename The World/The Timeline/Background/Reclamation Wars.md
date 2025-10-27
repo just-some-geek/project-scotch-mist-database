@@ -8,7 +8,7 @@
 ><b>Date:</b> (length)</br>
 ><b>Location:</b> Globally, but mainly Iffranika, the Middle East, and Ostasia</br>
 ><b>Result:</b> Inconclusive</br>
-><b>Outcome:</b> The [[Sterlian Commonwealth]] expands territorially, tensions increase with neighboring powers</br>
+><b>Outcome:</b> The Sterlian Commonwealth expands territorially, tensions increase with neighboring powers</br>
 ><h6>Belligerents</h6>
 ><b>Main Countries:</b></br>
 >- Sterlian Commonwealth</br>
