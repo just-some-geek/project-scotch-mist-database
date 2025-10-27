@@ -28,6 +28,7 @@ ___
 -  Almost never seen without his black fedora. 
 -  He is a Columbian citizen but is [[Gallia|half-Gallian]], and claims to be the rightful heir to the Gallian throne despite Gallia not having a monarchy.
 -  Claims that he is the descendant of the last Gallian king.
+-  May or may not have tuberculosis.
 
 ### Quotes 
 ___

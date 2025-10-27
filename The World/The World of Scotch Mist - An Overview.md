@@ -24,7 +24,7 @@ The game is an account of the [[Kaigaishiman Crisis]] from the perspectives of f
 
 - [[Li Zenghui]], a Shenzhou-Kaigai expatriate returning to his homeland. He's travelled all over the world, gathering knowledge and contacts to help him achieve his dream: opening a school in his hometown. He's active in promoting social, political, and economic reforms that benefit the general population, but seems to have associated himself with a rather radical crowd...
 
-- [[Basilio Liwanag]], a Sabelinyo scholar who came to Kaigaishima to pursue a degree in civil engineering. He wants to become successful in the academic world, make his family and country proud, and give back to the people that raised him. Despite all that he's gotten in life so far, he's still unsure how much of these achievements are his own...
+- [[Basilio Liwanag]], a Sabelinyo scholar who came to Kaigaishima to pursue a degree in civil engineering at [[St. Ignatius University]]. He wants to become successful in the academic world, make his family and country proud, and give back to the people that raised him. Despite all that he's gotten in life so far, he's still unsure how much of these achievements are his own...
 
 - [[Yukio Yamada]], an Eikan refugee who fled to Kaigaishima to escape the stiff, militaristic culture of his homeland. After partially assuming a false identity via his missing friend, he nabs a scholarship at [[Paul Miki University]] and the chance to finally find a place to call home. However, Kaigaishima isn't quite the bastion of freedom he and his friend dreamed of...
 
@@ -43,7 +43,7 @@ On 21 Sept., the government announces that a general referendum will be held on 
 #### ACT 2: Cold Front
 On 11 Nov., [[Remembrance Day]], the Sterlian military launches a mass offensive in Shenzhou, hoping to break the communist frontline. However, the rapid failure of the offensive prompts an investigation into corruption and/or treason within the military and government. Additionally, particularly active political groups on Kaigaishima are placed under surveillance for potential collaboration with the [[Eikan Empire]].
 
-On 19 Dec. a [[Olivia Northwind|whistleblower]] within the Sterlian government leaks information regarding the Commonwealth's corruption and war crimes in Shenzhou. This includes budget cuts to public works and humanitarian aid, the use of chemical weapons, and intentional targeting of civilian centers. The government denies these allegations and states they will "investigate the matter and bring these monsters to justice."
+On 19 Dec. a [[Olivia Northwind|whistleblower]] within the Sterlian government leaks information regarding the Commonwealth's corruption and war crimes in Shenzhou. This includes budget cuts to public works and humanitarian aid, the use of chemical weapons, and intentional targeting of civilian centres. The government denies these allegations and states they will "investigate the matter and bring these monsters to justice."
 
 On 25 Dec., Christmas Day, a series of terrorist bombings hit government-related buildings across Kaigaishima, including the Navy headquarters at [[Admiralty Park]], the officer's club at the [[Albertine Valley Country Club]], the [[Imperial Broadcasting Service]] complex at [[Fort Valkyrie]], and the government offices at [[City Hall]]. In response, the government launches an investigation and locks down the island, with Martial Law to take effect on 1 Jan. 1958.
 
