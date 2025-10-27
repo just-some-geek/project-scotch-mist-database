@@ -22,7 +22,7 @@ They emigrated to [[Kaigaishima]] to escape the rising tensions in their homelan
 ### Dev Notes
 ___ 
 
-Mahito Carter is an illegal immigrant from [[Eikan Empire|Eiko]] who finds themselves on a flight en-route to [[Kaigaishima]]. They had grown tired of his nation's rampant xenophobia and imperialism, so they decided to take themselves elsewhere, along with a friend who assumed the name [[Yukio Yamada|Yamada]] according to the passport they gave him. After landing in [[Districts of Kaigaishima#**Horikoshi**|Horikoshi Airport]], they navigated their way to [[Fort Valkyrie]] where they were found by Eleanor Carter.
+Mahito Carter is an illegal immigrant from [[Eikan Empire|Eiko]] who finds themselves on a flight en-route to [[Kaigaishima]]. They had grown tired of his nation's rampant xenophobia and imperialism, so they decided to take themselves elsewhere, along with a friend who assumed the name [[Yukio Yamada|Yamada]] according to the passport they gave him. After landing in [[Horikoshi Airport]], they navigated their way to [[Fort Valkyrie]] where they were found by Eleanor Carter.
 
 Eleanor who took a liking to Mahito after hearing about their situation, allowed them to live within Fort Valkyrie. Here they used their mechanical talents which they picked up from their time working in an electrical repair shop back in Eiko, to become an efficient repairman for the Imperial Broadcasting Service.
 

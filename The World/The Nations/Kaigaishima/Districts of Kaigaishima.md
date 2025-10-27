@@ -93,7 +93,7 @@ The East Region is not under the direct control of the Kaigaishiman government, 
 - A
 ##### **Horikoshi**
 - 堀越, *moat crossing*
-- The **Horikoshi Airport**, named for Eikan aeronautics designer **Rei Horikoshi** and more formally known as [[Sterlian Commonwealth Armed Forces#Royal Air Force|RAF]] Horikoshi, is a dual-purpose civilian transportation hub and Royal Air Force installation. While the demand for civilian air travel on Kaigaishima is already high, the escalation of Sterlian involvement the [[Shenzhou War]] has led to most flights in and out to be stopovers for deployed forces.
+- The **[[Horikoshi Airport]]**, named for Eikan aeronautics designer **Rei Horikoshi** and more formally known as [[Sterlian Commonwealth Armed Forces#Royal Air Force|RAF]] Horikoshi, is a dual-purpose civilian transportation hub and Royal Air Force installation. While the demand for civilian air travel on Kaigaishima is already high, the escalation of Sterlian involvement the [[Shenzhou War]] has led to most flights in and out to be stopovers for deployed forces.
 ##### **Fujiro**
 - 藤浪, *abundance of flowers*
 - A

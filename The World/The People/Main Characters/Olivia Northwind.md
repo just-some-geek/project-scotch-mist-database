@@ -36,7 +36,8 @@ ___
 -  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
 -  She is an alcoholic, yet has no remorse with being one, frequents the [[Wildflour (bar)|Wildflour]].
 -  Very insecure about herself, often believes she’s “not enough”.
--  Can barely pass the Bechdel Test
+-  Can barely pass the Bechdel Test.
+-  Named Olivia after the Fear and Hunger character of the same name.
   
 ### Opinions 
 ___ 
@@ -54,10 +55,6 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 ### Character Story
 ___
 
-ACT I :  
-- Gets a job at the Admiralty to try and prove herself  
-- Takes up extra work that her dad can’t attend to  
-- Meets Joseph at a benefit  
   
 ACT II :  
 - Investigates rumours of Eikan/Columbian meddling  
@@ -76,9 +73,12 @@ Olivia has always been a hardworking person, but her achievements always fall sh
 
 It got even worse when she aced the SCSE's and landed a cushy job at the Ministry of Defence. Often used have conversations with her mother over breakfast about a multitude of things, about what she would do to improve the Commonwealth, which had just been established when she was 2-3 years old. These are convictions she has held for years but she can't push any of them into action because she keeps getting denied access to papers, events and meetings for illogical reasons. 
 
-In an effort to prove herself, she gets herself assigned to a secretary position in an office placed in the far eastern parts of the Commonwealth. However the fact that that office is her own fathers doesn’t help with what she’s trying to do.  
-  
-Kaigaishima has always been a contentious topic amongst parliament due to its distance from the mainland as well as its proximity to other rising powers in the area, most notably The Empire of Eiko. Currently it’s been one of the fastest developing parts of the Commonwealth but with it’s development comes a lot of growing pains. In Olivia’s mind, if she can manage to bring some sort of stability to the island and uphold Sterlian values such as liberty, equality and democracy, it’ll advance her career and break the ‘glass ceiling’.
+So, in an effort to prove herself, she gets herself assigned to a secretary position in an office placed in the far eastern parts of the Commonwealth. However the fact that that office is her own fathers doesn’t help with what she’s trying to do, though she will have all of her father's administrative duties due to him being busy on the frontlines. Kaigaishima has always been a contentious topic amongst parliament due to its distance from the mainland as well as its proximity to other rising powers in the area, most notably [[Eikan Empire|the Eikan Empire]]. Currently it’s been one of the fastest developing parts of the Commonwealth but with it’s development comes a lot of growing pains. In Olivia’s mind, if she can manage to bring some sort of stability to the island, in the midst of the on-going [[Shenzhou War|war in Shenzhou]], and uphold Sterlian values such as liberty, equality and democracy, it’ll advance her career.
+
+Landing in Kaigaishima on the 1st of June, she realizes she has her work cut out for her. She takes up all of her fathers administrative duties, the things he considers "boring". Filing all of his paperwork, making executive decisions in his behalf, and attending parties that he was supposed to go to if not for his involvement in the war. During one of these parties at [[Fort Valkyrie]], celebrating the [[Summer Festival]] she strikes up some small talk with the person sat next to her. A man by the name of [[Li Zenghui]], but he calls himself Joseph to make things easier for people, a Kaigaishiman doctor / author returning after years studying abroad. Over the course of the night he explains that he wishes to build a school in Yilan, his home province, but he can't acquire the building permits or resources to do so. 
+
+Intrigued by his story, and respecting his mission of giving higher quality education for his homeland, she agrees to negotiate some favours and papers for him. Over the course of multiple months she juggles this and continuing her work. Olivia pushes herself deeper into the weeds of things which surprisingly actually gains her respect amongst the people around her, however as this happens she also gains access to confidential pieces of information that she does not take well. Now she knows of war and it's many horrors, but for some reason she could not foresee having to sign off of the use of [[Agent Crimson|illegal chemical agents]], the torture of civilians, 
+
 
 However, the more she gets involved with aspects such as policy and enforcement, the more she realizes that the Sterlian Commonwealth itself doesn’t uphold its own values. Eventually coming to a head when she discovers that The Representation Referendum is planned to be rigged.  
 

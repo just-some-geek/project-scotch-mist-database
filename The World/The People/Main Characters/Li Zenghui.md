@@ -36,6 +36,7 @@ His ideas can be seen as radical by some, but needless to say he is confident in
 ### Personality / Tidbits 
 ___
   
+-  Named after a member of the band Omnipotent Youth Society
   
 ### Opinions 
 ---

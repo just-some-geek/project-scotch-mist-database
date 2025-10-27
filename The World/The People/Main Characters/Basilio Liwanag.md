@@ -41,6 +41,7 @@ ___
 -  Eager to make friends and is quite sociable, despite seeming shy.
 -  Often bikes to places.
 -  He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
+-  Named after the El Filibusterismo character of the same name.
 
 ### Opinions 
 ___

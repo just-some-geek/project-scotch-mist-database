@@ -2,7 +2,7 @@
 
 **Chorizo Joe's Karinderia** (Sterlian: Chorizo Joe's Eatery) is a [[Kaigaishima|Kaigaishiman]] restaurant chain with 6 locations around the island. The menu consists mainly of home-style [[The Isabelines|Sabelinyo]] food made in the traditional style.
 
-#Tier-4 #Locations 
+#Tier-3 #Locations 
 
 ### History
 ---

@@ -18,7 +18,7 @@
 ### Dev Notes
 ---
 
-Residing parish priest and professor for PMU. A military chaplain during the Great War, who received numerous awards for his contributions to soldier morale during several campaigns in the Eastern Theatre. A calming person who opens his doors to all people, an exemplary man. Uses his position to speak up on issues of state, often holds his sermon over the local broadcasting service. Despite the concept of separating church and state.  
+Residing parish priest of the [[Paul Miki Parish]] and professor for Paul Miki University. A military chaplain during the Great War, who received numerous awards for his contributions to soldier morale during several campaigns in the Eastern Theatre. A calming person who opens his doors to all people, an exemplary man. Uses his position to speak up on issues of state, often holds his sermon over the local broadcasting service. Despite the concept of separating church and state.  
   
 ### Personality / Tidbits 
 ___
