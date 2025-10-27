@@ -57,23 +57,9 @@ Himself - “No one else seems to agree with my ideas, I’ve got a lot of work 
 ### Character Story 
 ---
 
- 
-ACT II :  
-- Uses Olivia to get funding and permits for the school.  
-- Goes around and helps the community.  
-- Meets Basilio and Yukio at the Wildflour and has convos with them.  
-  
-ACT III :  
-- Gets falsely accused of pipe-bombing the Admiralty  
-- Sent to prison, Martial Law happens  
-- Fucking dies (Has a breakdown similar to the 10th Doctor)  
-  
-Ending : Executed by firing squad  
-Alternate Ending : Secretly survives the firing squad
-
 Li Zenghui was a man who always pursued greatness where-ever he went. Born into Kaigaishima's wealthier classes he could be seen as a part of the intelligentsia, the well educated university man who sought to reform through "a more equitable arrangement of both political and economic power". A secondary school graduate of the institution that was and is [[St. Ignatius University]] he was a jack of many trades, and even a master of some. Too enumerate all of the field's Li's shows expertise in would clog the following paragraph so I will list the ones relevant to the story. He was a prolific poet, writer, painter as well as an aspiring doctor who pursued pulmonology. He gained all of this during his decade long pursuit of education, travelling to many places including but not limited to the capitol of the Commonwealth, [[Gallia]] and [[San Sebastian]]. Without the knowledge nor the consent of his parents and secretly paid for by his professor Benjamin Harper, he travelled alone. 
 
-After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start high school in the Southern Island to improve the education of his local community. During the process, he comes to know Olivia during a fancy dinner to commemorate the opening of [[Saint Florence Hospital]] in the [[Districts of Kaigaishima#**Wanhua**|Wanhua]] district. They end up next to each other on the arranged seating and have a very “productive” conversation about the state of the island. From there Olivia becomes a frequent correspondent of Joseph from which he asks permits to get the high school off the ground. As well as general community upliftment, despite it going against government policy. On the side he spends a lot of time with the local community doing his best to help out.  
+After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start high school in the Southern Island to improve the education of his local community. During the process, he comes to know Olivia during a fancy dinner around the time of the [[Summer Festival]] to commemorate the opening of [[Saint Florence Hospital]] in the [[Districts of Kaigaishima#**Wanhua**|Wanhua]] district. They end up next to each other on the arranged seating and have a very “productive” conversation about the state of the island. From there Olivia becomes a frequent correspondent of Joseph from which he asks permits to get the high school off the ground. As well as general community upliftment, despite it going against government policy. On the side he spends a lot of time with the local community doing his best to help out.  
   
 This in turn gains him notoriety with many organizations within the island which open up new opportunities for him. Such as interviews with a [[The Kingfisher|student newspaper from his alma mater]] to publish his letters and poems, he'd have frequent meetings some of the writers at [[Wildflour (bar)|a bar in Lasky]], including a student named Basilio Liwanag and a student named [[Elisabeth Todir Macleay]]. He also gained some bad attention from high ranking government officials and surprisingly the [[Office of Special and Strategic Services (Columbia)|Columbian secret service]]. There are some obstacles such as funding being cut due to the Commonwealth's increasing involvement in the [[Shenzhou War]], but nothing some favours with Olivia could fix. 
   
@@ -91,7 +77,7 @@ Self Introduction:
 “It’s a pleasure to meet you, my name is Li Zenghui. Although I’ve taken the name Joseph for now. Do you have business you wish to discuss?”  
   
 On Faith:  
-“I have a lot of faith in God, who else am I supposed to put my faith in, people?”  
+“I have a lot of faith in God, who else am I supposed to put my faith in, people? I bet you'll find more inspiration from [[Rev. Thomas McKenzie|that priest]].”  
   
 On Home:  
 “I have a lot of love for this island, because I owe much to it. My life, my upbringing, my education, my beliefs. So I will offer it my time, effort and happiness, until my people are happy too.”  
