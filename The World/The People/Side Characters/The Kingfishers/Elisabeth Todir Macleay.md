@@ -25,6 +25,7 @@ ___
 
 -  Named after The Blue / Forest Kingfisher (Todiramphus macleayii elisabeth)
 -  Is incredibly skilled at the game of chess despite never formally participating in any official tournament. 
+-  Inspired by YouTuber Jordan Shanks (friendlyjeordies) and character Joven Hernando from the Bayaniverse
   
 ### Quotes
 ---

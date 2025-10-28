@@ -29,7 +29,7 @@ Hell hath no fury like a wronged man.
 
 Li Joseph Zenghui is a native to Kaigaishima who is returning after studying/working abroad. He returns to the island hoping to bring social and political change to better the people there. Granted the opportunity to study abroad via a scholarship from the Commonwealth he gladly took it. Since then he’s been on a grand tour of Europa studying and working between universities.  
   
-After a well spent 5 years he’s learnt a lot on his travels, be it biology, physics, but more importantly philosophy and economic theories. He still thought about his homeland throughout those years and he figured that some of the knowledge he’s acquired could be useful back home.  
+After a well spent 9 years he’s learnt a lot on his travels, be it biology, physics, but more importantly philosophy and economic theories. He still thought about his homeland throughout those years and he figured that some of the knowledge he’s acquired could be useful back home.  
   
 His ideas can be seen as radical by some, but needless to say he is confident in what he believes in.  
   
@@ -37,6 +37,8 @@ His ideas can be seen as radical by some, but needless to say he is confident in
 ___
   
 -  Named after a member of the band Omnipotent Youth Society
+-  Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
+-  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
   
 ### Opinions 
 ---
@@ -54,35 +56,20 @@ Himself - “No one else seems to agree with my ideas, I’ve got a lot of work 
   
 ### Character Story 
 ---
-ACT I :  
-- Returns to the island after studying abroad for 9 years.  
-- Settles in and begins plans to open a school.  
-- Meets Olivia at a benefit.  
-  
-ACT II :  
-- Uses Olivia to get funding and permits for the school.  
-- Goes around and helps the community.  
-- Meets Basilio and Yukio at the Wildflour and has convos with them.  
-  
-ACT III :  
-- Gets falsely accused of pipe-bombing the Admiralty  
-- Sent to prison, Martial Law happens  
-- Fucking dies (Has a breakdown similar to the 10th Doctor)  
-  
-Ending : Executed by firing squad  
-Alternate Ending : Secretly survives the firing squad
 
-After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start highschool in the Southern Island to improve the education of his local community.  
+Li Zenghui was a man who always pursued greatness where-ever he went. Born into Kaigaishima's wealthier classes he could be seen as a part of the intelligentsia, the well educated university man who sought to reform through "a more equitable arrangement of both political and economic power". A secondary school graduate of the institution that was and is [[St. Ignatius University]] he was a jack of many trades, and even a master of some. Too enumerate all of the field's Li's shows expertise in would clog the following paragraph so I will list the ones relevant to the story. He was a prolific poet, writer, painter as well as an aspiring doctor who pursued pulmonology. He gained all of this during his decade long pursuit of education, travelling to many places including but not limited to the capitol of the Commonwealth, [[Gallia]] and [[San Sebastian]]. Without the knowledge nor the consent of his parents and secretly paid for by his professor Benjamin Harper, he travelled alone. 
+
+After studying abroad for 10 years, Li Zenghui, who went by the name of Joseph Li, returns to his home island of Kaigaishima. He still uses the name Joseph around people who might not be able to pronounce Zenghui. His intentions are to use his connections back home to start high school in the Southern Island to improve the education of his local community. During the process, he comes to know Olivia during a fancy dinner around the time of the [[Summer Festival]] to commemorate the opening of [[Saint Florence Hospital]] in the [[Districts of Kaigaishima#**Wanhua**|Wanhua]] district. They end up next to each other on the arranged seating and have a very “productive” conversation about the state of the island. From there Olivia becomes a frequent correspondent of Joseph from which he asks permits to get the high school off the ground. As well as general community upliftment, despite it going against government policy. On the side he spends a lot of time with the local community doing his best to help out.  
   
-During the process, he comes to know Olivia during a fancy dinner to commemorate the opening of Saint Florence Hospital in Wanhua district. They end up next to each other on the arranged seating and have a very “productive” conversation about the state of the island. From there Olivia becomes a frequent correspondent of Joseph from which he asks permits to get the high school off the ground. As well as general community upliftment, despite it going against government policy. On the side he spends a lot of time with the local community doing his best to help out.  
+This in turn gains him notoriety with many organizations within the island which open up new opportunities for him. Such as interviews with a [[The Kingfisher|student newspaper from his alma mater]] to publish his letters and poems, he'd have frequent meetings some of the writers at [[Wildflour (bar)|a bar in Lasky]], including a student named Basilio Liwanag and a student named [[Elisabeth Todir Macleay]]. He also gained some bad attention from high ranking government officials and surprisingly the [[Office of Special and Strategic Services (Columbia)|Columbian secret service]]. There are some obstacles such as funding being cut due to the Commonwealth's increasing involvement in the [[Shenzhou War]], but nothing some favours with Olivia could fix. 
   
-This in turn gains him notoriety with many organizations within the island which open up new opportunities for him.  
-  
-However a pipe bomb is sent to the admiralty’s office and Joseph’s name was placed as the sender. Obviously he didn’t fucking do it, but he is then arrested for 14 days until he is executed by firing squad. His epilogue is a funeral scene held somewhere far away, with a man saying a eulogy in his honor.  
-  
-A secret ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. Absolutely not canon, but it’s funny as hell.
-  
-Epilogue is essentially Mi Ultimo Adios, a letter written by Jose Rizal, but rewritten to fit the context of the game.
+However things change when a few days after [[The Northwind Papers|an exposé]] is released about corruption within the Admiralty, [[Red Christmas|a terrorist attack]] hits the admiralty's office. This causes progress on his proposed high school to come to a halt as the government declares [[Declaration of Martial Law|Martial Law]] starting on the 1st of January 1958. During this time he is put under increasing levels of suspicion from the Commonwealth as he continues to publish more of his writings via the Kingfisher, eventually culminating in two novels and 4 additional letters to be released weekly after a date they forgot to set. 
+
+After the printing and publication of his first novel, he was arrested by the police for supposedly orchestrating Red Christmas as well as inciting revolution via his writings. He is imprisoned for a month before finally being executed on the 9th of April. Leaving his final words in a 5th and final letter that was hidden within his shoe before his execution, as he gave instructions to The Kingfisher as to what they should do during if he were to ever die. 
+
+The final scene to be played, is a funeral scene held somewhere far away, with a man reading out the 5th letter in his honour. 
+
+However, an ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. The canonicity of this ending is left up to interpretation. 
 
 ### Quotes
 ---
@@ -90,7 +77,7 @@ Self Introduction:
 “It’s a pleasure to meet you, my name is Li Zenghui. Although I’ve taken the name Joseph for now. Do you have business you wish to discuss?”  
   
 On Faith:  
-“I have a lot of faith in God, who else am I supposed to put my faith in, people?”  
+“I have a lot of faith in God, who else am I supposed to put my faith in, people? I bet you'll find more inspiration from [[Rev. Thomas McKenzie|that priest]].”  
   
 On Home:  
 “I have a lot of love for this island, because I owe much to it. My life, my upbringing, my education, my beliefs. So I will offer it my time, effort and happiness, until my people are happy too.”  
@@ -98,8 +85,12 @@ On Home:
 On Politics:  
 “As much as I would love to discuss this with you. Let’s not, at least not here. As the saying goes, these walls have eyes and ears. They have mouths too, and they’re quite the gossipers.”
 
+On the Sterlian Language: 
+"I am quite good in many languages, it's just that this one is the one that seems to get my point across best to these people."
+
 On What Comes After:  
 “I’m not afraid of death, because I think I’ll live forever.”
+
 ### Early Life and Education
 ---
 
