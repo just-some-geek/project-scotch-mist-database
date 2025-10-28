@@ -20,7 +20,7 @@
 		{"id":"cfc0f38cf40cc822","type":"text","text":"## Vibes","x":-525,"y":1280,"width":250,"height":60,"color":"1"},
 		{"id":"33f261d5b7a33cb9","type":"text","text":"## Technology","x":1040,"y":1280,"width":250,"height":60,"color":"1"},
 		{"id":"9379eae6c4ed96db","type":"file","file":"SM/Images & Videos/Canvas/General Board/PDP-8.png","x":1040,"y":1380,"width":400,"height":334},
-		{"id":"45332af0d1fa651e","x":-525,"y":1380,"width":594,"height":334,"type":"file","file":"SM/Images & Videos/Canvas/General Board/The morning horizon.mp4"}
+		{"id":"45332af0d1fa651e","type":"file","file":"SM/Images & Videos/Canvas/General Board/The morning horizon.mp4","x":-525,"y":1380,"width":594,"height":334}
 	],
 	"edges":[]
 }

@@ -66,7 +66,7 @@
 		{"id":"95b3cfed84db9b94","type":"file","file":"SM/Images & Videos/Canvas/Character Art/hiiragirame1.png","x":-840,"y":-515,"width":300,"height":400},
 		{"id":"15af907f9c2908ee","type":"file","file":"SM/Images & Videos/Canvas/Character Art/hiiragirame2.png","x":2280,"y":-2707,"width":359,"height":347},
 		{"id":"61321d2e1ed91494","type":"file","file":"SM/Images & Videos/Canvas/Character Art/osamu_dazaiAnelfchay.jpg","x":-551,"y":-2180,"width":340,"height":340},
-		{"id":"1087b4b320115504","x":2280,"y":-1678,"width":306,"height":400,"type":"file","file":"SM/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg"}
+		{"id":"1087b4b320115504","type":"file","file":"SM/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400}
 	],
 	"edges":[]
 }
