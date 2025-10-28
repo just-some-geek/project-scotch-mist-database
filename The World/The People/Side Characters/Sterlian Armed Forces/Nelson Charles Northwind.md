@@ -1,7 +1,7 @@
 **Royal Navy admiral**
 
 >[!info] Admiral Nelson Northwind </br>
->![[concept_NelsonNorthwind.png]]
+>![[concept_AdmiralNorthwind.png]]
 ><center>Admiral Northwind in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Nelson Charles Northwind </br>
