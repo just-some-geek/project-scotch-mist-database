@@ -21,7 +21,7 @@ As of 1957, she is pursuing a degree at [[Paul Miki University]].
 ### Dev Notes
 ---
 
-Lorem ipsum et dolor
+A very cheery individual who tends to naively look at the bright side of things, Artemis was a chess prodigy born and raised in The Sterlian capitol before moving to Kaigaishima as a student as a means of "getting a fresh start". 
 
 ### Personality / Tidbits 
 ___

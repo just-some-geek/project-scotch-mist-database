@@ -25,7 +25,7 @@ There is an optional task to give her Damian’s vinyl records to play on air, w
 ### Personality / Tidbits
 ___
 
-- Equal parts girlboss and girlypop
+- "Equal parts girlboss and girlypop" - Habagat
 
 ### Quotes
 ---
