@@ -29,7 +29,7 @@ Hell hath no fury like a wronged man.
 
 Li Joseph Zenghui is a native to Kaigaishima who is returning after studying/working abroad. He returns to the island hoping to bring social and political change to better the people there. Granted the opportunity to study abroad via a scholarship from the Commonwealth he gladly took it. Since then he’s been on a grand tour of Europa studying and working between universities.  
   
-After a well spent 9 years he’s learnt a lot on his travels, be it biology, physics, but more importantly philosophy and economic theories. He still thought about his homeland throughout those years and he figured that some of the knowledge he’s acquired could be useful back home.  
+After a well spent 10 years he’s learnt a lot on his travels, be it biology, physics, but more importantly philosophy and economic theories. He still thought about his homeland throughout those years and he figured that some of the knowledge he’s acquired could be useful back home.  
   
 His ideas can be seen as radical by some, but needless to say he is confident in what he believes in.  
   

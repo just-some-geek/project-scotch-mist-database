@@ -1,6 +1,6 @@
 **A letter of acceptance to Saint Ignatius University
 
-
+**Letter of Acceptance (1956)** is a letter of acceptance to Saint Ignatius University, addressed to [[Basilio Liwanag]].
 #Tier-3 #Media
 
 	Dear Mr. Liwanag,
