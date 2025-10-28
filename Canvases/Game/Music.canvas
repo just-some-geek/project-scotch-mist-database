@@ -5,7 +5,8 @@
 		{"id":"40852f7df6f2e9c7","type":"text","text":"Artist's I'd love to collaborate with","x":-500,"y":300,"width":335,"height":50,"color":"1"},
 		{"id":"9473da2112d62064","type":"text","text":"Albums I want the soundtrack to sound like","x":-500,"y":-420,"width":380,"height":60,"color":"1"},
 		{"id":"b34bd6d94a7ad4e9","type":"file","file":"SM/Images & Videos/Canvas/Music/dyl_youtube.png","x":-500,"y":380,"width":399,"height":148},
-		{"id":"22bc5a20818c3f67","type":"file","file":"SM/Images & Videos/Canvas/Music/racingmountpleasant_spotify.png","x":-80,"y":380,"width":400,"height":199}
+		{"id":"22bc5a20818c3f67","type":"file","file":"SM/Images & Videos/Canvas/Music/racingmountpleasant_spotify.png","x":-80,"y":380,"width":400,"height":199},
+		{"id":"e95e2de192ef7027","x":720,"y":56,"width":400,"height":225,"type":"file","file":"SM/Images & Videos/Canvas/Music/thesmile_wallofeyes.jpg"}
 	],
 	"edges":[]
 }
