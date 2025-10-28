@@ -17,7 +17,8 @@
 		{"id":"d2924ef2deda10da","type":"file","file":"SM/Images & Videos/Canvas/General Board/the_wind_rises.png","x":-220,"y":801,"width":542,"height":425},
 		{"id":"7837bff504e87b99","type":"text","text":"## History","x":1040,"y":730,"width":250,"height":60,"color":"1"},
 		{"id":"2d7c11613f140b2e","type":"file","file":"SM/Images & Videos/Canvas/General Board/ferdinand_marcos.jpg","x":1039,"y":851,"width":441,"height":248},
-		{"id":"cfc0f38cf40cc822","type":"text","text":"## Vibes","x":-525,"y":1280,"width":250,"height":60,"color":"1"}
+		{"id":"cfc0f38cf40cc822","type":"text","text":"## Vibes","x":-525,"y":1280,"width":250,"height":60,"color":"1"},
+		{"id":"33f261d5b7a33cb9","type":"text","text":"## Technology","x":1040,"y":1280,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[]
 }
