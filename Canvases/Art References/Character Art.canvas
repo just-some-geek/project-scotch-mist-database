@@ -3,7 +3,10 @@
 		{"id":"f6704a0358fd8ef8","type":"file","file":"SM/The World/The People/Main Characters/Basilio Liwanag.md","x":-440,"y":-1120,"width":1080,"height":940},
 		{"id":"d2b52fb20c3e5bfe","type":"text","text":"Basilio Design Inspiration","x":660,"y":-1120,"width":250,"height":60},
 		{"id":"8c2b624d39109824","type":"file","file":"SM/Images & Videos/Canvas/kabru_dunmeshi.jpg","x":660,"y":-1020,"width":326,"height":308},
-		{"id":"a3dc892570537a32","x":660,"y":-680,"width":160,"height":160,"type":"file","file":"SM/Images & Videos/Canvas/kabru_dunmeshi2.jpg"}
+		{"id":"a3dc892570537a32","type":"file","file":"SM/Images & Videos/Canvas/kabru_dunmeshi2.jpg","x":660,"y":-680,"width":160,"height":160},
+		{"id":"e622166c4a005b05","x":850,"y":-580,"width":273,"height":400,"type":"file","file":"SM/Images & Videos/Canvas/gregorio_del_pilar.webp"},
+		{"id":"8e7e088c20e05af9","type":"file","file":"SM/The World/The People/Main Characters/Yukio Yamada.md","x":-440,"y":-2120,"width":1080,"height":940},
+		{"id":"e1a61a2ccabb6953","type":"text","text":"Yukio Design Inspiration","x":660,"y":-2120,"width":250,"height":60}
 	],
 	"edges":[]
 }

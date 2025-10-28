@@ -4,7 +4,7 @@
 >![[concept_Maya.png]]
 ><center>Maya Foker in 1958</center>
 ><h6>Basic Information</h6>
-><b>Full Name:</b> Maya Hadrian Foker </br>
+><b>Full Name:</b> Maya Wilson Foker </br>
 ><b>Nationality:</b> Sterlian-Kaigaishiman </br>
 ><b>Pronouns:</b> she/her  </br>
 ><b>Age:</b> 20 </br>
