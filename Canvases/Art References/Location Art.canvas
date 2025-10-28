@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"e084a6de2490f350","type":"file","file":"SM/The World/The Nations/Kaigaishima/Locations/Hoshiyama Nature Reserve.md","x":0,"y":0,"width":400,"height":400},
-		{"id":"cf070d5be9110414","type":"file","file":"SM/Images & Videos/Canvas/hoshiyama_reference1.jpg","x":420,"y":0,"width":380,"height":284},
+		{"id":"cf070d5be9110414","type":"file","file":"SM/Images & Videos/Canvas/Location Art/hoshiyama_reference1.jpg","x":420,"y":0,"width":380,"height":284},
 		{"id":"82268b2848fc1dff","type":"file","file":"SM/The World/The Nations/Kaigaishima/Locations/Central Region/Paul Miki University.md","x":0,"y":440,"width":400,"height":400},
-		{"id":"65eac51e795fdb20","type":"file","file":"SM/Images & Videos/Canvas/paulmikiparish_reference1.png","x":420,"y":440,"width":421,"height":280},
-		{"id":"75031fa197a99bf4","type":"file","file":"SM/Images & Videos/Canvas/paulmikiparish_reference2.png","x":860,"y":440,"width":268,"height":400}
+		{"id":"65eac51e795fdb20","type":"file","file":"SM/Images & Videos/Canvas/Location Art/paulmikiparish_reference1.png","x":420,"y":440,"width":421,"height":280},
+		{"id":"75031fa197a99bf4","type":"file","file":"SM/Images & Videos/Canvas/Location Art/paulmikiparish_reference2.png","x":860,"y":440,"width":268,"height":400}
 	],
 	"edges":[]
 }
