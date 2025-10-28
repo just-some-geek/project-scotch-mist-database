@@ -4,19 +4,20 @@
 		{"id":"8e7e088c20e05af9","type":"file","file":"SM/The World/The People/Main Characters/Yukio Yamada.md","x":-440,"y":-2120,"width":900,"height":940},
 		{"id":"a3dc892570537a32","type":"file","file":"SM/Images & Videos/Canvas/kabru_dunmeshi2.jpg","x":839,"y":-1020,"width":160,"height":160},
 		{"id":"e622166c4a005b05","type":"file","file":"SM/Images & Videos/Canvas/gregorio_del_pilar.webp","x":839,"y":-742,"width":273,"height":400},
-		{"id":"e1a61a2ccabb6953","type":"text","text":"Yukio Design Inspiration","x":480,"y":-2120,"width":250,"height":60},
+		{"id":"e1a61a2ccabb6953","type":"text","text":"### Yukio Design Inspiration","x":480,"y":-2120,"width":295,"height":60},
 		{"id":"00cf3de2f8510928","type":"file","file":"SM/Images & Videos/Canvas/osamu_dazaiBSD.jpg","x":480,"y":-2020,"width":520,"height":260},
-		{"id":"d2b52fb20c3e5bfe","type":"text","text":"Basilio Design Inspiration","x":480,"y":-1120,"width":250,"height":60},
+		{"id":"d2b52fb20c3e5bfe","type":"text","text":"### Basilio Design Inspiration","x":480,"y":-1120,"width":295,"height":60},
 		{"id":"8c2b624d39109824","type":"file","file":"SM/Images & Videos/Canvas/kabru_dunmeshi.jpg","x":480,"y":-1020,"width":326,"height":308},
 		{"id":"a5a4bbf2d8acadea","type":"file","file":"SM/Images & Videos/Canvas/basilio_crow.png","x":480,"y":-633,"width":326,"height":291},
 		{"id":"643d13fe217aa5d1","type":"file","file":"SM/Images & Videos/Canvas/yukio_souka.png","x":480,"y":-1720,"width":295,"height":359},
 		{"id":"272f58df87a5fc96","type":"file","file":"SM/The World/The People/Main Characters/Olivia Northwind.md","x":1120,"y":-2120,"width":900,"height":940},
-		{"id":"46ac27752f8832b8","type":"file","file":"SM/The World/The People/Main Characters/Li Zenghui.md","x":1120,"y":-1090,"width":900,"height":940},
-		{"id":"03f7966b9f7df76a","type":"text","text":"Li Zenghui Design Inspiration","x":2040,"y":-1090,"width":280,"height":50},
-		{"id":"f27b527ebe2dbba7","type":"file","file":"SM/Images & Videos/Canvas/osamu_dazai.webp","x":2040,"y":-988,"width":326,"height":338},
-		{"id":"451ebbbb2e122848","type":"file","file":"SM/Images & Videos/Canvas/la_solaridad.jpg","x":2040,"y":-588,"width":326,"height":438},
-		{"id":"41cc0f0720d1fd65","type":"text","text":"Olivia Design Inspiration","x":2040,"y":-2120,"width":250,"height":60},
-		{"id":"deb257e651081360","type":"file","file":"SM/Images & Videos/Canvas/olivia_reference1.png","x":2040,"y":-2020,"width":326,"height":328}
+		{"id":"41cc0f0720d1fd65","type":"text","text":"### Olivia Design Inspiration","x":2040,"y":-2120,"width":326,"height":60},
+		{"id":"deb257e651081360","type":"file","file":"SM/Images & Videos/Canvas/olivia_reference1.png","x":2040,"y":-2020,"width":326,"height":328},
+		{"id":"03f7966b9f7df76a","type":"text","text":"### Li Zenghui Design Inspiration","x":2040,"y":-1122,"width":326,"height":50},
+		{"id":"f27b527ebe2dbba7","type":"file","file":"SM/Images & Videos/Canvas/osamu_dazai.webp","x":2040,"y":-1020,"width":326,"height":338},
+		{"id":"451ebbbb2e122848","type":"file","file":"SM/Images & Videos/Canvas/la_solaridad.jpg","x":2040,"y":-620,"width":326,"height":438},
+		{"id":"46ac27752f8832b8","type":"file","file":"SM/The World/The People/Main Characters/Li Zenghui.md","x":1120,"y":-1120,"width":900,"height":940},
+		{"id":"99b6c37259fa428b","x":-440,"y":-2240,"width":260,"height":60,"color":"1","type":"text","text":"# Main Characters"}
 	],
 	"edges":[]
 }
