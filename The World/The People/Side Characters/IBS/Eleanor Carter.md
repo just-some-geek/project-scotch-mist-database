@@ -1,16 +1,15 @@
 **Sterlian radio host**
 
->[!info] Eleanor Carter</br>
+ >[!info] Eleanor Carter</br>
 >![[concept_Eleanor.png]]
-><center>Carter in 1958</center>
+><center>Eleanor in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Eleanor "Rigby" Carter</br>
-><b>Nationality:</b> Kaigaishiman (1st Gen Sterlian Immigrant) </br>
-><b>Pronouns:</b> she/they  </br>
+><b>Nationality:</b> Sterlian </br>
+><b>Pronouns:</b> she/her  </br>
 ><b>Age:</b> 28</br>
-><b>Height:</b> 5’3</br>
-><b>Hair:</b> Brown (caramel)
-
+><b>Height:</b> 5’5</br>
+><b>Hair:</b> Brown (dark)
 
 **Eleanor "Rigby" Carter** is a radio host for the [[Imperial Broadcasting Service]] East.
 

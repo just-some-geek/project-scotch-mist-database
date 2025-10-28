@@ -62,7 +62,8 @@
 		{"id":"71ea9cf8816a5a6e","type":"file","file":"SM/Images & Videos/Canvas/Character Art/tommy_mckenzieYoung.png","x":3840,"y":-1678,"width":311,"height":400},
 		{"id":"3de509f0b3991b2a","type":"file","file":"SM/Images & Videos/Canvas/Character Art/gojo.png","x":3848,"y":520,"width":399,"height":221},
 		{"id":"3c0423a92a7d5ed8","type":"file","file":"SM/Images & Videos/Canvas/Character Art/damianlasky_colors.png","x":2288,"y":204,"width":399,"height":166},
-		{"id":"c8f816c78cf5500c","type":"file","file":"SM/Images & Videos/Canvas/Character Art/andrew_bird.png","x":2288,"y":-515,"width":400,"height":271}
+		{"id":"c8f816c78cf5500c","type":"file","file":"SM/Images & Videos/Canvas/Character Art/andrew_bird.png","x":2288,"y":-515,"width":400,"height":271},
+		{"id":"95b3cfed84db9b94","x":-840,"y":-515,"width":300,"height":400,"type":"file","file":"SM/Images & Videos/Canvas/Character Art/hiiragirame1.png"}
 	],
 	"edges":[]
 }
