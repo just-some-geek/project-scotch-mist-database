@@ -4,8 +4,8 @@
 		{"id":"bc873d90fedef25b","type":"file","file":"SM/Images & Videos/Canvas/album4x4.png","x":100,"y":-320,"width":600,"height":602},
 		{"id":"40852f7df6f2e9c7","type":"text","text":"Artist's I'd love to collaborate with","x":-500,"y":300,"width":335,"height":50,"color":"1"},
 		{"id":"9473da2112d62064","type":"text","text":"Albums I want the soundtrack to sound like","x":-500,"y":-420,"width":380,"height":60,"color":"1"},
-		{"id":"b34bd6d94a7ad4e9","type":"file","file":"SM/Images & Videos/Canvas/dyl_youtube.png","x":-500,"y":380,"width":400,"height":148},
-		{"id":"22bc5a20818c3f67","x":-80,"y":380,"width":400,"height":199,"type":"file","file":"SM/Images & Videos/Canvas/racingmountpleasant_spotify.png"}
+		{"id":"b34bd6d94a7ad4e9","type":"file","file":"SM/Images & Videos/Canvas/dyl_youtube.png","x":-500,"y":380,"width":399,"height":148},
+		{"id":"22bc5a20818c3f67","type":"file","file":"SM/Images & Videos/Canvas/racingmountpleasant_spotify.png","x":-80,"y":380,"width":400,"height":199}
 	],
 	"edges":[]
 }
