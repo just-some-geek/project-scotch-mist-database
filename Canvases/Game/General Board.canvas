@@ -13,10 +13,11 @@
 		{"id":"34668297f51d503e","type":"text","text":"## Video Games","x":1040,"y":-180,"width":250,"height":60,"color":"1"},
 		{"id":"34841e00d07a8c52","type":"file","file":"SM/Images & Videos/Canvas/General Board/fnh2.png","x":1040,"y":360,"width":399,"height":317},
 		{"id":"f4a68c7b1a952bae","type":"file","file":"SM/Images & Videos/Canvas/General Board/persona5.jpg","x":1480,"y":-77,"width":400,"height":400},
-		{"id":"7d6b78069b557474","x":-526,"y":801,"width":283,"height":425,"type":"file","file":"SM/Images & Videos/Canvas/General Board/high_and_low.jpg"},
-		{"id":"d2924ef2deda10da","x":-220,"y":801,"width":542,"height":425,"type":"file","file":"SM/Images & Videos/Canvas/General Board/the_wind_rises.png"},
+		{"id":"7d6b78069b557474","type":"file","file":"SM/Images & Videos/Canvas/General Board/high_and_low.jpg","x":-526,"y":801,"width":283,"height":425},
+		{"id":"d2924ef2deda10da","type":"file","file":"SM/Images & Videos/Canvas/General Board/the_wind_rises.png","x":-220,"y":801,"width":542,"height":425},
 		{"id":"7837bff504e87b99","type":"text","text":"## History","x":1040,"y":730,"width":250,"height":60,"color":"1"},
-		{"id":"2d7c11613f140b2e","x":1039,"y":851,"width":441,"height":248,"type":"file","file":"SM/Images & Videos/Canvas/General Board/ferdinand_marcos.jpg"}
+		{"id":"2d7c11613f140b2e","type":"file","file":"SM/Images & Videos/Canvas/General Board/ferdinand_marcos.jpg","x":1039,"y":851,"width":441,"height":248},
+		{"id":"cfc0f38cf40cc822","type":"text","text":"## Vibes","x":-525,"y":1280,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[]
 }
