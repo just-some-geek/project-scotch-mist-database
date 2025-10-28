@@ -1,5 +1,4 @@
 **20th century Sterlian colonial wars**
-#Tier-3 #Events
 >[!info] Reclamation Wars
 >Part of the post-[[Great War]] era
 >(photos here)
@@ -24,7 +23,7 @@ The **Reclamation Wars** were a series of colonial conflicts and interventions f
 
 While support for the "war on anarchy" was high among the Sterlian public during its initial years, it had become deeply unpopular by the late 1930s. Controversy over the war has focused on its morality, casualties, and continuity, with critics questioning government measures that infringed civil liberties and human rights.
 
-#Tier-4 #Events 
+#Tier-3 #Events 
 
 ---
 A

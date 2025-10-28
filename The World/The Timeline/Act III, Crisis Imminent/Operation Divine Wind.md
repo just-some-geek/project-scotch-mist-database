@@ -1,5 +1,4 @@
 **1958 Eikan military intervention in Kaigaishima**
-#tier-1 #events
 >[!info] Operation Divine Wind</br>
 ><center>Part of the Kaigaishiman Crisis and the Shenzhou War</center>
 >
@@ -11,7 +10,7 @@
 
 **Operation Divine Wind** (Eikan: 神風作戦, *Kamikaze Sasuken*) was the [[Eikan Empire|Eikan]] invasion and occupation of [[Kaigaishima]] as part of their [[1958 spring offensive]]. Following the fall of [[Chendai]] on the Shenzhen mainland, a section of the Eikan military would be diverted to secure the rest of the [[Chendai Archipelago]], up to and including the nominally neutral territory of [[Sterlian Commonwealth|Sterlian]]-controlled Kaigaishima.
 
-#Tier-2 #Events 
+#Tier-1 #Events 
 # Background
 Ever since the island was acquired by the Commonwealth, Kaigaishima has served as a forward base for the [[Sterlian Commonwealth Armed Forces]] for deployments in the Far East. Its strategic position along the Eiko-Shenzhou-Isabeline trade route and between the Sterlian allies of [[North Shenzhou]] and [[The Isabelines]] ensures that any attempt to drive the Sterlians out of the Far East would necessitate the capture or isolation of Kaigaishima from the rest of the Far East.
 
