@@ -27,6 +27,7 @@ A hard-line loyalist to the Crown, the Lord Admiral has served a long and distin
 ___
 
 -  When not on duty (which is basically never), he likes to attend horse races at the [[Albertine Valley Country Club]] or go drinking at the bar down the street from the Royal Admiralty.
+-  Design inspired by Ferdinand Blumentritt
 
 ### Quotes 
 ___
