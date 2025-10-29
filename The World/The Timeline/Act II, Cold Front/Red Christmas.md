@@ -19,5 +19,8 @@ At 8:26 a.m. local time, a car bomb smashed through the gate of the Admiralty Pa
 ## [[Albertine Valley Country Club]]
 At 8:46 a.m., a second satchel bomb detonates in an upstairs ballroom, causing the roof to collapse and destroying a significant portion of the east wing. A total of 19 people are reported dead, injured, or missing as a result, most of whom were janitorial staff and visitors.
 ## [[City Hall]]
-The final attack hits City Hall at 9:03 a.m., 
+The final attack hits City Hall at 9:03 a.m., when a car bomb rams into the front lobby of the building and detonates, causing the collapse of the front section and starting a fire. 
 # Aftermath
+In the immediate wake of the attacks, the Kaigaishiman government ordered all government buildings to be evacuated and for all employees to stay home for fear of further attacks.
+
+At 10:30 a.m., Mayor [[Takatsugu Sasaki]] declared a state of emergency on Kaigaishima

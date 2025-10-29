@@ -54,7 +54,7 @@ The Central Region is the bustling heart of Kaigaishima and, by extension, the F
 - The district is renowned as Kaigaishima's international quarter, housing the embassies and consulates of several countries. The grand plaza in the center of the district is infamous for hosting incessant rallies protesting Sterlia's involvement in foreign affairs.
 ##### **Muramatsu**
 - 村松, *pine village*
-- Under Mayor Takatsugu Sasaki, the **City Hall** complex has seen the construction of an additional wing to house the staff of the Sterlian Expeditionary Forces. The nearby **Marnie Park** provides a place for administrative staff to enjoy their limited time off.
+- Under Mayor [[Takatsugu Sasaki]], the **City Hall** complex has seen the construction of an additional wing to house the staff of the Sterlian Expeditionary Forces. The nearby **Marnie Park** provides a place for administrative staff to enjoy their limited time off.
 ##### **Isoichi**
 - 磯市, *beach town*
 - The coastal district is home to ludicrously expensive beachfront properties and high rises and very little else. The high cost of living in the district means that the citizens who live here are either the new-blooded upper class or the people who work directly for them.
