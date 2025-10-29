@@ -57,7 +57,7 @@ Rafael “Chito” Manalo -
 Miguel Avilar II -  
 Derrick Tadeo Yu -  
 Elroy Buenaventura -  
-Nicole Montemayor -  
+Nicole Montemayor -  Student, [[Paul Miki University]]
 Maria Violago - Small-time musician, playing gigs at local bars and restos  
 Digoy Naval -  
 Annika Delos Reyes -  

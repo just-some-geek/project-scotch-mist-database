@@ -23,4 +23,6 @@ The final attack hits City Hall at 9:03 a.m., when a car bomb rams into the fron
 # Aftermath
 In the immediate wake of the attacks, the Kaigaishiman government ordered all government buildings to be evacuated and for all employees to stay home for fear of further attacks.
 
-At 10:30 a.m., Mayor [[Takatsugu Sasaki]] declared a state of emergency on Kaigaishima
+At 10:30 a.m., Governor [[Takatsugu Sasaki-Newman|Newman]] declared a state of emergency on Kaigaishima, ordering police units to begin patrols and enforce a curfew. In the same announcement, the governor publicly requested the help of the [[Sterlian Commonwealth Armed Forces|Sterlian military]] stationed in the [[Districts of Kaigaishima#East Region|East Region]] to assist in "returning security to Kaigaishima." The garrison would begin deployments in the afternoon, even without orders to do so from higher command.
+
+On December 26, the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]] would authorize the transfer of units from the frontline in Shenzhou in order to properly secure the island. Gov. Newman would later address the people of Kaigaishima in a [[Declaration of Martial Law|radio broadcast]] at 5:00 p.m., announcing that the island would go under [[Martial Law in Kaigaishima|martial law]] for an indefinite amount of time, starting at midnight on 1 January 1958.
