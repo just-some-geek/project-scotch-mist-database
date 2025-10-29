@@ -25,7 +25,7 @@ Lu Yuhan - Student at SIU, psychology major, she likes to garden.
 Lin Zhen - Well known butcher in Taishan, known as The Queen of Limbs.  
 Wang Haoyu - Businessman.
   
-[[eikan empire|Eikan]] (given name first) :  
+[[Eikan Empire|Eikan]] (given name first) :  
   
 Shinji Satoh - Construction worker, works on tall buildings in the Taylor district.  
 Denji Kadokawa - Electrician who operates in the South region.  
