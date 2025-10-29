@@ -58,6 +58,8 @@ You're also going to need to install Obsidian and the following plugins/themes:
 [Style Settings (Plugin)](https://github.com/mgmeyers/obsidian-style-settings)
 [Wikipedia (Theme)](https://github.com/Bluemoondragon07/Wikipedia-Theme)
 
+When cloning the repository into Obsidian, name the folder PSM-DB to ensure that all of the canvas files work.
+
 =======
 
 I wish you the best of luck, and hope that we can make something beautiful together.
