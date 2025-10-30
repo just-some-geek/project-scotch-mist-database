@@ -61,7 +61,7 @@
 		{"id":"95b3cfed84db9b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame1.png","x":-840,"y":-515,"width":300,"height":400},
 		{"id":"15af907f9c2908ee","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame2.png","x":2280,"y":-2707,"width":359,"height":347},
 		{"id":"1087b4b320115504","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400},
-		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1340,"width":268,"height":360},
+		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1340,"width":220,"height":296},
 		{"id":"5361a6a8c7c22c37","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cardinal_jaimesin.webp","x":3840,"y":-1300,"width":263,"height":362},
 		{"id":"06239e2ba5d64172","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jonathan_L_seagull.jpg","x":1080,"y":-2700,"width":261,"height":340},
 		{"id":"3c599849725fbc1f","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/blue_period1.jpg","x":-840,"y":527,"width":281,"height":400},
@@ -75,7 +75,11 @@
 		{"id":"b22bb9aa34fa7f53","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/olivia_reference2.jpg","x":720,"y":-2321,"width":287,"height":400},
 		{"id":"e622166c4a005b05","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gregorio_del_pilar.webp","x":-481,"y":-1440,"width":273,"height":400},
 		{"id":"5660103daf8b9761","x":-834,"y":-1320,"width":320,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg"},
-		{"id":"a5a4bbf2d8acadea","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_crow.png","x":-481,"y":-1013,"width":249,"height":223}
+		{"id":"a5a4bbf2d8acadea","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_crow.png","x":-481,"y":-1013,"width":249,"height":223},
+		{"id":"21f4df66de8c657b","x":-540,"y":527,"width":300,"height":464,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ginkohs_mushishi.jpg"},
+		{"id":"ab6ddfb3cc6bb9ff","x":-840,"y":1009,"width":400,"height":244,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/EchoGate_.jpg"},
+		{"id":"67d8105e17737b94","x":975,"y":-1193,"width":356,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ajzren_li.jpg"},
+		{"id":"2b316e17fef01ae1","x":3840,"y":-2707,"width":316,"height":595,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/asenliyyy_artemis.jpg"}
 	],
 	"edges":[]
 }
