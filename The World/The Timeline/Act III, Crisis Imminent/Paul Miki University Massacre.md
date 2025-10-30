@@ -22,7 +22,7 @@ The students of Paul Miki University are known to be very politically active, ta
 As the [[Shenzhou War]] escalated throughout 1957, the Sterlian government would drop numerous draft exemptions. 
 
 ## Increasing discontent
-On 1 January 1958, Governor [[Takatsugu Sasaki-Newman|Newman]] banned all public gatherings and demonstrations as part of the [[Declaration of Martial Law]]. This effectively ended the use of rallies and protests in Kaigaishima, and dissent would increasingly be expressed through underground methods going forward.
+On 1 January 1958, Governor [[Takatsugu Sasaki-Newman|Newman]] banned all public gatherings and demonstrations as part of the [[Martial Law in Kaigaishima#Declaration|Declaration of Martial Law]]. This effectively ended the use of rallies and protests in Kaigaishima, and dissent would increasingly be expressed through underground methods going forward.
 
 On 6 February, in defiance of the ban, the students of PMU would hold a rally on-campus to protest the results of the [[Representation Referendum of 1958]]. The rally was coordinated through the underground student newspaper [[The Kingfisher]]. Government forces were quick to crack down on the demonstration, dispersing the students with tear gas and baton charges.
 
