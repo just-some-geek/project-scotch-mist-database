@@ -91,6 +91,9 @@ On Politics:
 On the Sterlian Language: 
 "I am quite good in many languages, it's just that this one is the one that seems to get my point across best to these people."
 
+On Perception:
+"Perception, is everything. It's a sad truth my friend, but you have to put on the mask and play the game if you want people to treat you seriously."
+
 On What Comes After:  
 “I’m not afraid of death, because I think I’ll live forever.”
 
