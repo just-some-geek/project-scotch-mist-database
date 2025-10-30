@@ -16,8 +16,7 @@
 		{"id":"81b1fb1e4cb334d3","type":"file","file":"PSM-DB/The World/The People/Main Characters/Li Zenghui.md","x":-200,"y":-1762,"width":900,"height":972},
 		{"id":"03f7966b9f7df76a","type":"text","text":"### Li Zenghui Design Inspiration","x":720,"y":-1760,"width":632,"height":50},
 		{"id":"a3dc892570537a32","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/kabru_dunmeshi2.jpg","x":-481,"y":-1660,"width":160,"height":160},
-		{"id":"f27b527ebe2dbba7","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazai.webp","x":720,"y":-1660,"width":326,"height":338},
-		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1260,"width":326,"height":438},
+		{"id":"f27b527ebe2dbba7","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazai.webp","x":720,"y":-1660,"width":268,"height":278},
 		{"id":"306521052cebc6cc","type":"file","file":"PSM-DB/The World/The People/Side Characters/The Kingfishers/Maya Foker.md","x":-200,"y":-600,"width":900,"height":970},
 		{"id":"97a69aee4ab10ddc","type":"text","text":"### Maya Foker Design Inspiration","x":720,"y":-600,"width":632,"height":50},
 		{"id":"c2a961d57d91d025","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mithrun_dunmeshi.png","x":720,"y":-515,"width":298,"height":400},
@@ -66,7 +65,8 @@
 		{"id":"95b3cfed84db9b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame1.png","x":-840,"y":-515,"width":300,"height":400},
 		{"id":"15af907f9c2908ee","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame2.png","x":2280,"y":-2707,"width":359,"height":347},
 		{"id":"61321d2e1ed91494","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazaiAnelfchay.jpg","x":-551,"y":-2180,"width":340,"height":340},
-		{"id":"1087b4b320115504","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400}
+		{"id":"1087b4b320115504","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400},
+		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1340,"width":268,"height":360}
 	],
 	"edges":[]
 }
