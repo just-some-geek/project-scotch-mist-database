@@ -10,9 +10,7 @@
 		{"id":"deb257e651081360","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/olivia_reference1.png","x":720,"y":-2700,"width":338,"height":340},
 		{"id":"d2b52fb20c3e5bfe","type":"text","text":"### Basilio Design Inspiration","x":-840,"y":-1760,"width":632,"height":50},
 		{"id":"5cb7994e61438e89","type":"text","text":"# The Kingfisher","x":-1760,"y":-720,"width":260,"height":60,"color":"1"},
-		{"id":"e622166c4a005b05","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gregorio_del_pilar.webp","x":-481,"y":-1382,"width":273,"height":400},
 		{"id":"8c2b624d39109824","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/kabru_dunmeshi.jpg","x":-840,"y":-1660,"width":326,"height":308},
-		{"id":"a5a4bbf2d8acadea","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_crow.png","x":-840,"y":-1273,"width":326,"height":291},
 		{"id":"81b1fb1e4cb334d3","type":"file","file":"PSM-DB/The World/The People/Main Characters/Li Zenghui.md","x":-200,"y":-1762,"width":900,"height":972},
 		{"id":"03f7966b9f7df76a","type":"text","text":"### Li Zenghui Design Inspiration","x":720,"y":-1760,"width":632,"height":50},
 		{"id":"a3dc892570537a32","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/kabru_dunmeshi2.jpg","x":-481,"y":-1660,"width":200,"height":200},
@@ -62,7 +60,6 @@
 		{"id":"c8f816c78cf5500c","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/andrew_bird.png","x":2288,"y":-515,"width":400,"height":271},
 		{"id":"95b3cfed84db9b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame1.png","x":-840,"y":-515,"width":300,"height":400},
 		{"id":"15af907f9c2908ee","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame2.png","x":2280,"y":-2707,"width":359,"height":347},
-		{"id":"61321d2e1ed91494","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazaiAnelfchay.jpg","x":-551,"y":-2180,"width":340,"height":340},
 		{"id":"1087b4b320115504","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400},
 		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1340,"width":268,"height":360},
 		{"id":"5361a6a8c7c22c37","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cardinal_jaimesin.webp","x":3840,"y":-1300,"width":263,"height":362},
@@ -71,8 +68,14 @@
 		{"id":"74c7eac9b52f6c55","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jericho_rosales.webp","x":1020,"y":-1660,"width":265,"height":400},
 		{"id":"7fbc1328880f90c9","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jacob_wysocki.webp","x":2288,"y":541,"width":255,"height":400},
 		{"id":"3bdc12e35db0b881","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/lolo_and_the_kid.jpg","x":2288,"y":960,"width":400,"height":225},
-		{"id":"ccba7ab7aa9147fb","x":2600,"y":-1678,"width":282,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hime_mononoke.png"},
-		{"id":"455463643a10d620","x":2280,"y":-1240,"width":360,"height":450,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/nausicaa1.webp"}
+		{"id":"ccba7ab7aa9147fb","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hime_mononoke.png","x":2600,"y":-1678,"width":282,"height":400},
+		{"id":"455463643a10d620","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/nausicaa1.webp","x":2280,"y":-1240,"width":360,"height":450},
+		{"id":"b547a865204f51e4","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazaiAnelfchay.jpg","x":-551,"y":-2400,"width":340,"height":340},
+		{"id":"733b4aee01889220","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cognacbear.jpg","x":-840,"y":-2029,"width":279,"height":188},
+		{"id":"b22bb9aa34fa7f53","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/olivia_reference2.jpg","x":720,"y":-2321,"width":287,"height":400},
+		{"id":"e622166c4a005b05","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gregorio_del_pilar.webp","x":-481,"y":-1440,"width":273,"height":400},
+		{"id":"5660103daf8b9761","x":-834,"y":-1320,"width":320,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg"},
+		{"id":"a5a4bbf2d8acadea","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_crow.png","x":-481,"y":-1013,"width":249,"height":223}
 	],
 	"edges":[]
 }
