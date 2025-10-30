@@ -15,7 +15,7 @@
 		{"id":"a5a4bbf2d8acadea","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_crow.png","x":-840,"y":-1273,"width":326,"height":291},
 		{"id":"81b1fb1e4cb334d3","type":"file","file":"PSM-DB/The World/The People/Main Characters/Li Zenghui.md","x":-200,"y":-1762,"width":900,"height":972},
 		{"id":"03f7966b9f7df76a","type":"text","text":"### Li Zenghui Design Inspiration","x":720,"y":-1760,"width":632,"height":50},
-		{"id":"a3dc892570537a32","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/kabru_dunmeshi2.jpg","x":-481,"y":-1660,"width":160,"height":160},
+		{"id":"a3dc892570537a32","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/kabru_dunmeshi2.jpg","x":-481,"y":-1660,"width":200,"height":200},
 		{"id":"f27b527ebe2dbba7","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazai.webp","x":720,"y":-1660,"width":268,"height":278},
 		{"id":"306521052cebc6cc","type":"file","file":"PSM-DB/The World/The People/Side Characters/The Kingfishers/Maya Foker.md","x":-200,"y":-600,"width":900,"height":970},
 		{"id":"97a69aee4ab10ddc","type":"text","text":"### Maya Foker Design Inspiration","x":720,"y":-600,"width":632,"height":50},
@@ -58,16 +58,21 @@
 		{"id":"665d1d2f9c2a8e9a","type":"text","text":"# SAF","x":4480,"y":-2923,"width":260,"height":60,"color":"1"},
 		{"id":"71ea9cf8816a5a6e","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/tommy_mckenzieYoung.png","x":3840,"y":-1678,"width":263,"height":338},
 		{"id":"3de509f0b3991b2a","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gojo.png","x":3848,"y":520,"width":399,"height":221},
-		{"id":"3c0423a92a7d5ed8","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/damianlasky_colors.png","x":2288,"y":239,"width":316,"height":131},
+		{"id":"3c0423a92a7d5ed8","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/damianlasky_colors.png","x":2288,"y":239,"width":315,"height":131},
 		{"id":"c8f816c78cf5500c","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/andrew_bird.png","x":2288,"y":-515,"width":400,"height":271},
 		{"id":"95b3cfed84db9b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame1.png","x":-840,"y":-515,"width":300,"height":400},
 		{"id":"15af907f9c2908ee","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame2.png","x":2280,"y":-2707,"width":359,"height":347},
 		{"id":"61321d2e1ed91494","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazaiAnelfchay.jpg","x":-551,"y":-2180,"width":340,"height":340},
 		{"id":"1087b4b320115504","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400},
 		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1340,"width":268,"height":360},
-		{"id":"5361a6a8c7c22c37","x":3840,"y":-1300,"width":263,"height":362,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cardinal_jaimesin.webp"},
+		{"id":"5361a6a8c7c22c37","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cardinal_jaimesin.webp","x":3840,"y":-1300,"width":263,"height":362},
 		{"id":"06239e2ba5d64172","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jonathan_L_seagull.jpg","x":1080,"y":-2700,"width":261,"height":340},
-		{"id":"3c599849725fbc1f","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/blue_period1.jpg","x":-840,"y":527,"width":281,"height":400}
+		{"id":"3c599849725fbc1f","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/blue_period1.jpg","x":-840,"y":527,"width":281,"height":400},
+		{"id":"74c7eac9b52f6c55","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jericho_rosales.webp","x":1020,"y":-1660,"width":265,"height":400},
+		{"id":"7fbc1328880f90c9","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jacob_wysocki.webp","x":2288,"y":541,"width":255,"height":400},
+		{"id":"3bdc12e35db0b881","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/lolo_and_the_kid.jpg","x":2288,"y":960,"width":400,"height":225},
+		{"id":"ccba7ab7aa9147fb","x":2600,"y":-1678,"width":282,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hime_mononoke.png"},
+		{"id":"455463643a10d620","x":2280,"y":-1240,"width":360,"height":450,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/nausicaa1.webp"}
 	],
 	"edges":[]
 }
