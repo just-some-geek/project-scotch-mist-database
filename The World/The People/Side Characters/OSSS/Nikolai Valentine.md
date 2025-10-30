@@ -9,7 +9,7 @@
 ><b>Pronouns:</b> any  </br>
 ><b>Age:</b> Mid-20s </br>
 ><b>Height:</b> 179 cm</br>
-><b>Hair:</b> White
+><b>Hair:</b> White or Blonde
 
 **Nikolai Valentine** is an [[Office of Special and Strategic Services (Columbia)|OSSS]] agent deployed to Kaigaishima alongside his partner, [[Isaiah Harland]].
 
