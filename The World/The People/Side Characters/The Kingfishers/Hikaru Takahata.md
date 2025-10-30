@@ -1,4 +1,4 @@
-**Reporter for the Kingfisher**
+ **Reporter for the Kingfisher**
 
 >[!info] Hikaru Takahata</br>
 >![[concept_Hikaru.png]]
