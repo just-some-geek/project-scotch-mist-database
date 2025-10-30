@@ -72,14 +72,14 @@
 		{"id":"455463643a10d620","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/nausicaa1.webp","x":2280,"y":-1240,"width":360,"height":450},
 		{"id":"b547a865204f51e4","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazaiAnelfchay.jpg","x":-551,"y":-2400,"width":340,"height":340},
 		{"id":"733b4aee01889220","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cognacbear.jpg","x":-840,"y":-2029,"width":279,"height":188},
-		{"id":"b22bb9aa34fa7f53","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/olivia_reference2.jpg","x":720,"y":-2321,"width":287,"height":400},
+		{"id":"b22bb9aa34fa7f53","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/olivia_reference2.jpg","x":720,"y":-2321,"width":287,"height":399},
 		{"id":"e622166c4a005b05","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gregorio_del_pilar.webp","x":-481,"y":-1440,"width":273,"height":400},
-		{"id":"5660103daf8b9761","x":-834,"y":-1320,"width":320,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg"},
+		{"id":"5660103daf8b9761","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg","x":-834,"y":-1320,"width":320,"height":400},
 		{"id":"a5a4bbf2d8acadea","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_crow.png","x":-481,"y":-1013,"width":249,"height":223},
-		{"id":"21f4df66de8c657b","x":-540,"y":527,"width":300,"height":464,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ginkohs_mushishi.jpg"},
-		{"id":"ab6ddfb3cc6bb9ff","x":-840,"y":1009,"width":400,"height":244,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/EchoGate_.jpg"},
-		{"id":"67d8105e17737b94","x":975,"y":-1193,"width":356,"height":400,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ajzren_li.jpg"},
-		{"id":"2b316e17fef01ae1","x":3840,"y":-2707,"width":316,"height":595,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/asenliyyy_artemis.jpg"}
+		{"id":"21f4df66de8c657b","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ginkohs_mushishi.jpg","x":-540,"y":527,"width":300,"height":464},
+		{"id":"ab6ddfb3cc6bb9ff","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/EchoGate_.jpg","x":-840,"y":1009,"width":399,"height":244},
+		{"id":"67d8105e17737b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ajzren_li.jpg","x":975,"y":-1193,"width":356,"height":400},
+		{"id":"2b316e17fef01ae1","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/asenliyyy_artemis.jpg","x":3840,"y":-2707,"width":316,"height":595}
 	],
 	"edges":[]
 }
