@@ -39,7 +39,7 @@ ___
 -  Named after a member of the band Omnipotent Youth Society
 -  Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
 -  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
-- Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
+-  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
   
 ### Opinions 
 ---
