@@ -11,14 +11,14 @@
 ><b>Height:</b> 5'7 </br>
 ><b>Hair:</b> Dirty-blonde
 
-**Willard Foker**, known by his pen name **Rebecca "Robin" Erithacus**, is a photographer for the student newspaper [[The Kingfisher]].
+**Willard Foker**, known by his pen name **Rebecca "Robin" Erithacus**, is a photographer for the student newspaper [[The Kingfisher]], and the twin brother of [[Maya Foker]]
 
 #Tier-2 #Characters 
 
 ### Dev Notes
 ---
 
-Lorem ipsum et dolor.
+Willard is a student pursuing a degree at [[St. Ignatius University]], who is wrapped up in The Kingfisher's business at the suggestion of his sister Maya, given his photography skills. 
 
 ### Personality / Tidbits
 ___ 

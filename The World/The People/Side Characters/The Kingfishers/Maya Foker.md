@@ -11,14 +11,14 @@
 ><b>Height:</b> 5'6 </br>
 ><b>Hair:</b> White
 
-**Maya Foker**, known by her pen name **Montgomery "Sparrow" Passerine**, is an editorial writer and editor for the student newspaper [[The Kingfisher]].
+**Maya Foker**, known by her pen name **Montgomery "Sparrow" Passerine**, is an editorial writer and editor for the student newspaper [[The Kingfisher]] and the twin sister of [[Willard Foker]].
 
 #Tier-2 #Characters 
 
 ### Dev Notes
 ---
 
-Lorem ipsum et dolor.
+Maya Foker is a politically active student studying at [[St. Ignatius University]], who is brought onto the Kingfisher by her friend [[Elisabeth Todir Macleay]].
 
 ### Personality / Tidbits
 ___

@@ -17,7 +17,7 @@ idk make something up
 ## Capture
 >*Main Article: [[Battle of Chendai]]*
 
-Chendai was the main target of the South's [[1958 spring offensive]], as severing the  
+Chendai was the main target of the South's [[The Spring Offensive (1958)|1958 spring offensive]], as severing the  
 # Geography
 The city is divided north-south by the **Pearl River**, 
 
