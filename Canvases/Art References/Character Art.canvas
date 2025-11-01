@@ -84,7 +84,9 @@
 		{"id":"99c5d74a345442ec","x":3848,"y":-264,"width":232,"height":341,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/rush_hour.png"},
 		{"id":"f2496ca5bcf2f302","x":3847,"y":740,"width":353,"height":263,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/johan_liebert.webp"},
 		{"id":"3cb633daae843b61","x":4225,"y":520,"width":255,"height":316,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/fortsy_yvesone3.jpg"},
-		{"id":"313a8ede83f0867b","x":1036,"y":-515,"width":316,"height":316,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mithrun_dunmeshi2.webp"}
+		{"id":"313a8ede83f0867b","x":1036,"y":-515,"width":316,"height":316,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mithrun_dunmeshi2.webp"},
+		{"id":"644d5f9c2b18fd65","x":5400,"y":-2707,"width":320,"height":427,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/blumentritt.jpg"},
+		{"id":"6e27dbf6c41aa38f","x":5760,"y":-2707,"width":272,"height":442,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/blumentritt2.jpeg"}
 	],
 	"edges":[]
 }
