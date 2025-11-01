@@ -89,6 +89,9 @@ On Change:
   
 On The Faith:  
 “I wish I believed, it would make things a lot more simple.”  
+
+On Columbia:
+"I'm not fucking scared of them, or their silly [[Office of Special and Strategic Services (Columbia)|OSSS]]."
   
 On Joseph:  
-“He’s… earned my respect. I didn’t trust him at first but he’s shown time and time again that he is a capable man. I don’t know how he manages to keep going, would you believe me if I told you he played this ball game with Shenzhen kids in his spare time? The gall to be so carefree at a time like this. I've read [[Chasing Starry Mountain (1954)|his novel]] though, compelling read.”
+“He’s… earned my respect. I didn’t trust him at first but he’s shown time and time again that he is a capable man. I don’t know how he manages to keep going, would you believe me if I told you he played this ball game with Shenzhen kids in his spare time? The gall to be so carefree at a time like this. I've read [[Chasing Starry Mountain (1954)|his novel]] though, compelling read. Heard he's writing [[Crossing The River (1958)|a second one]]...”
