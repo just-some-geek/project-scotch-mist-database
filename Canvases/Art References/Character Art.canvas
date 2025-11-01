@@ -55,7 +55,7 @@
 		{"id":"700ef82dbbb8e0d0","type":"text","text":"### Nelson Charles Northwind Design Inspiration","x":5400,"y":-2803,"width":632,"height":60},
 		{"id":"665d1d2f9c2a8e9a","type":"text","text":"# SAF","x":4480,"y":-2923,"width":260,"height":60,"color":"1"},
 		{"id":"71ea9cf8816a5a6e","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/tommy_mckenzieYoung.png","x":3840,"y":-1678,"width":263,"height":338},
-		{"id":"3de509f0b3991b2a","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gojo.png","x":3848,"y":520,"width":399,"height":221},
+		{"id":"3de509f0b3991b2a","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/gojo.png","x":3848,"y":520,"width":352,"height":195},
 		{"id":"3c0423a92a7d5ed8","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/damianlasky_colors.png","x":2288,"y":239,"width":315,"height":131},
 		{"id":"c8f816c78cf5500c","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/andrew_bird.png","x":2288,"y":-515,"width":400,"height":271},
 		{"id":"95b3cfed84db9b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/hiiragirame1.png","x":-840,"y":-515,"width":300,"height":400},
@@ -81,7 +81,9 @@
 		{"id":"67d8105e17737b94","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/ajzren_li.jpg","x":975,"y":-1193,"width":356,"height":400},
 		{"id":"2b316e17fef01ae1","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/asenliyyy_artemis.jpg","x":3840,"y":-2707,"width":316,"height":595},
 		{"id":"8f4cc51ba498b995","x":3848,"y":-520,"width":400,"height":225,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/edi_gathegi.webp"},
-		{"id":"99c5d74a345442ec","x":3848,"y":-264,"width":232,"height":341,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/rush_hour.png"}
+		{"id":"99c5d74a345442ec","x":3848,"y":-264,"width":232,"height":341,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/rush_hour.png"},
+		{"id":"f2496ca5bcf2f302","x":3847,"y":740,"width":353,"height":263,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/johan_liebert.webp"},
+		{"id":"3cb633daae843b61","x":4225,"y":520,"width":255,"height":316,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/fortsy_yvesone3.jpg"}
 	],
 	"edges":[]
 }
