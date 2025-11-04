@@ -23,7 +23,7 @@ Willard is a student pursuing a degree at [[St. Ignatius University]], who is wr
 ### Personality / Tidbits
 ___ 
 
-- Despite being a part of The Kingfisher, he is ignorant to many social issues. Just takes photos for the love of the craft when asked to do so.
+- Despite being a part of The Kingfisher, he is ignorant to many social issues, just takes photos for the love of the craft when asked to do so.
 - The one social issue he advocates for is the reduction of traffic, as he hates driving.
 - Has been experimenting with coloured photography, says it's “game-changing”.
 - A beginner guitar player, an amazing song-writer.
