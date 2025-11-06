@@ -3,15 +3,13 @@
 The **Informational Deckbuilder**, henceforth referred to as "The System", is the core mechanic of the Scotch Mist game.
 
 #Tier-1 #System
-### Table of Contents
----
+# Table of Contents
 1) Obtaining Information Cards
 2) Engaging in Conversation
 3) Stats, Skills, and Overcharge
 4) Stress and Biases
 5) Ending the Conversation
-### Obtaining Information Cards
----
+# Obtaining Information Cards
 **Information Cards** are items that represent data about a particular topic of conversation, whether it be a person, location, event, idea, or any number of other things. These aren't physical objects the player can hold, but rather "files" which appear during conversational encounters in the dedicated menu.
 
 Generally speaking, information can be obtained in three ways:
@@ -20,14 +18,13 @@ Generally speaking, information can be obtained in three ways:
 3) Consuming in-universe media.
 
 All obtained information cards can be accessed at any time through the menu.
-### Engaging in Conversation
----
+# Engaging in Conversation
 Certain story-important dialogue throughout the game will be represented by **Conversation Encounters**. These are puzzle like scenarios 
 
 Information cards carry a certain point value that contributes to the score, but repeated use reduces its effectiveness for the rest of the conversation.
-### Stats, Skills, and Overcharge
----
-The System uses six statistics, each representing a different characteristic important in conversations. In general, these are used to give the last push you need to convince a person
+# Stats, Skills, and Overcharge
+## Stats
+The System uses six statistics, each representing a different characteristic important in conversations. In general, these are used to give the last push you need to push you message past the finish line.
 
 | Stat | Name        | Represents                                                         |
 | ---- | ----------- | ------------------------------------------------------------------ |
@@ -37,9 +34,14 @@ The System uses six statistics, each representing a different characteristic imp
 | PRO  | Proficiency | Technical skill, practical applications, and reflexes              |
 | RES  | Resolve     | Physical presence, mental fortitude, and sheer aura                |
 | COM  | Composure   | Professionalism, courage, and commitment to the bit                |
+Of these six statistics, WIS, CHA, PER, and PRO are actively us
+
+RES and COM are passive statistics that represent a character's 
+## Skills
+**Skills** are how the active statistics are used in an encounter. 
+## Overcharge
 A
-### Stress and Biases
----
+# Stress and Biases
 **Biases** are modifiers representing a character's personality, making them more receptive or resistant to certain styles of communication. 
 
 A comprehensive list of Biases can be found [[List of Modifiers in the Informational Deckbuilder|here]].
