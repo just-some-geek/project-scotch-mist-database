@@ -26,7 +26,7 @@ In the immediate wake of the attacks, the Kaigaishiman government ordered all go
 
 At 10:30 a.m., Governor [[Takatsugu Sasaki-Newman|Newman]] declared a state of emergency on Kaigaishima, ordering police units to begin patrols and enforce a curfew. In the same announcement, the governor publicly requested the help of the [[Sterlian Commonwealth Armed Forces|Sterlian military]] stationed in the [[Districts of Kaigaishima#East Region|East Region]] to assist in "returning security to Kaigaishima." The garrison would begin deployments in the afternoon, even without orders to do so from higher command.
 
-On December 26, the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]] would authorize the transfer of units from the frontline in Shenzhou in order to properly secure the island. Gov. Newman would later address the people of Kaigaishima in a [[Declaration of Martial Law|radio broadcast]] at 5:00 p.m., announcing that the island would go under [[Martial Law in Kaigaishima|martial law]] for an indefinite amount of time, starting at midnight on 1 January 1958.
+On December 26, the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]] would authorize the transfer of units from the frontline in Shenzhou in order to properly secure the island. Gov. Newman would later address the people of Kaigaishima in a [[Martial Law in Kaigaishima#Declaration|radio broadcast]] at 5:00 p.m., announcing that the island would go under [[Martial Law in Kaigaishima|martial law]] for an indefinite amount of time, starting at midnight on 1 January 1958.
 ## Investigation
 
 # Responsibility for the attack
@@ -37,3 +37,4 @@ This is the official stance taken by the Sterlian government.
 Internally, Sterlian security agencies believe that the Eikan military had some involvement, direct or indirect, in the attacks.
 ## Sterlian government
 Some speculate that the Red Christmas attacks were perpetrated by a rogue faction within the Sterlian government and military, citing the unusual circumstances leading up to and immediately after the attacks.
+

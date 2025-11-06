@@ -18,7 +18,7 @@
 ### Dev Notes
 ---
 
-Lorem ipsum et dolor.
+Hannah Amorsolo is a student pursuing a degree at [[St. Ignatius University]], who was brought onto the Kingfisher by her friend [[Maya Foker]].
 
 ### Personality / Tidbits
 ___

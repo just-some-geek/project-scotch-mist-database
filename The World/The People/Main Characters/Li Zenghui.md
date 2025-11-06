@@ -102,7 +102,7 @@ On What Comes After:
 
 ### Works and Writing
 ---
-
+> *Main Articles : [[Li's Leaving Letters (1958)]], [[Chasing Starry Mountain (1954)]], [[Crossing The River (1958)]]*
 
 ### Execution
 ---

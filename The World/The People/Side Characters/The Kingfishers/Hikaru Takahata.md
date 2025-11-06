@@ -18,7 +18,7 @@
 ### Dev Notes
 ---
 
-Lorem ipsum et dolor.
+Hikaru Takahata is a student currently pursuing a degree at [[St. Ignatius University]], who was brought onto The Kingfisher by his friends [[Willard Foker]] and [[Hannah Ma. Amorsolo]].
 
 ### Personality / Tidbits
 ___
