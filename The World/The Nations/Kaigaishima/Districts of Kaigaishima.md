@@ -106,7 +106,7 @@ The East Region is not under the direct control of the Kaigaishiman government, 
 -  Named after Jeff Buckley.
 - 
 ## South Region
-The South Region is the oldest
+The South Region is the oldest populated region of Kaigaishima, 
 ##### **Neihu** 
 - 內湖, *inner lake*
 - A
