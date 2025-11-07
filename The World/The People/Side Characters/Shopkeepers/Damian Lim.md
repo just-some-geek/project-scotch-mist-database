@@ -1,24 +1,24 @@
 **Bartender of the Wildflour**
 
->[!info] "Damian Lasky" </br>
+>[!info] "Damian Lim" </br>
 >![[concept_Damian.png]]
-><center>Lasky in 1958</center>
+><center>Lim in 1958</center>
 ><h6>Basic Information</h6>
-><b>Full Name:</b> Damian Emmanuel Lasky </br>
+><b>Full Name:</b> Damian Emmanuel Lim </br>
 ><b>Nationality:</b> Kaigaishiman (1st Gen Isabeliño Immigrant)   </br>
 ><b>Pronouns:</b> he/they  </br>
 ><b>Age:</b> 28 </br>
 ><b>Height:</b> 5'11 </br>
 ><b>Hair:</b> Black
 
-**Damian Emmanuel Lasky** (born 4 December 1929) is the owner and bartender of the [[Wildflour (bar)|Wildflour]] bar in [[Districts of Kaigaishima#**Lasky**|Lasky]].
+**Damian Emmanuel Lim** (born 4 December 1929) is the owner and bartender of the [[Wildflour (bar)|Wildflour]] bar in [[Districts of Kaigaishima#**Lasky**|Lasky]].
 
 #Tier-3 #Characters 
 
 ### Dev Notes
 ---
 
-Damian Emmanuel Lasky, known mostly as the owner of the bar Wildflour in the Lasky district. He's a mysterious character who seems to know things he shouldn't. They say Lasky isn't even his last name, but that he chose it because his bar is set up in the district of the same name.
+Damian Emmanuel Lim known mostly as the owner of the bar Wildflour in the Lasky district. He's a mysterious character who seems to know things he shouldn't.
 
 A mostly non-essential NPC, who functions as a stand-in for myself. He'll offer to chat with the character's and give them fun lore drops and 4th wall breaks. In his bar, he will offer you to play music from his vinyl collection saying he feels the music he listens to is “relevant” and “of the times”. He will also offer you pieces of lore and hints for special collectibles you can find around the island. Implied that he is the an omnipotent watcher of this world.
 
