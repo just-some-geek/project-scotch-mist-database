@@ -118,7 +118,7 @@ The South Region is the oldest populated region of Kaigaishima,
 - A
 ##### **Yilan**
 - 宜蘭, *great orchid*
-- The district is towered over by the **Valkyrie Peak**, a large hill offering views of Kaigaishima Harbor and the South, West, and Central regions. Informal housing runs up the slopes until culminating in **Fort Valkyrie**, a walled-in star fortress housing the headquarters of the [[Imperial Broadcasting Service|Imperial Broadcasting Service Eastern Division]].
+- The district is towered over by the **Valkyrie Peak**, a large hill offering views of Kaigaishima Harbor and the South, West, and Central regions. Informal housing runs up the slopes until culminating in [[Fort Valkyrie]], a walled-in star fortress housing the headquarters of the [[Imperial Broadcasting Service|Imperial Broadcasting Service Eastern Division]].
 ##### **Wanhua** 
 - 艋舺, *outrigger canoe*
 - 
