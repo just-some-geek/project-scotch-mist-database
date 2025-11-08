@@ -14,6 +14,7 @@ The game takes place between the dates of 1 June 1957 and 6 May 1958. Every day 
 | Phase          | Midnight    | Early Morning | Morning     | Noon        | Afternoon   | Evening     |
 | -------------- | ----------- | ------------- | ----------- | ----------- | ----------- | ----------- |
 | **Time (24H)** | 2200 - 0159 | 0200 - 0559   | 0600 - 0959 | 1000 - 1359 | 1400 - 1759 | 1800 - 2159 |
+Certain actions (or combinations thereof) will advance the day from one phase to another. For example, going out for lunch with another character during the "Noon" phase will advance time to the "Afternoon" phase, then a trip to the shopping district advances it to the "Evening" phase, and finally sleeping will skip ahead to "Early Morning" or "Morning".
 ### Confidant
 ---
 > *Main Article: [[The Confidant System]]*
