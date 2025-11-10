@@ -11,4 +11,4 @@
 
 **The Cenotaphs of Kaigaishima** is a war memorial in [[Districts of Kaigaishima#**Muramatsu**|Muramatsu, Kaigaishima]] honoring the soldiers of the Sterlian Empire (and later the Commonwealth) who fought in the [[Great War]] and the succeeding [[Reclamation Wars]]. The site is a to-scale replica of the Cenotaph Memorial in The City, Great Sterlia. It consists of seven columns arranged in a semicircle
 >[!info]
->![[concept_Cenotaph.png]]<center>Schematic of the Cenotaphs</center>
+>![[concept_Cenotaphs1.png]]<center>Schematic of the Cenotaphs</center>
