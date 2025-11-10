@@ -26,12 +26,16 @@ By 1957, Eikan commanders considered implementing Divine Wind in order to break 
 
 The plans for the invasion stage of the operation were divided into three distinct phases: Operations Kumori (曇, "cloud" or "overcast"), Kousui (降水, "rainfall") , and Tsunami (津波, "tidal wave"). Each one represented an escalation of force against the Commonwealth, from gray-zone operations to open conflict.
 ## Phase 1: Kumori
-The first phase of Operation Divine Wind, named Operation Overcast, involved the infiltration of the upper echelons of Kaigaishiman society and government.
+The first phase of Operation Divine Wind, named Operation Overcast, involved the infiltration of the upper echelons of Kaigaishiman society and government. While the full extent of the infiltration remains unclear, evidence points to a deep and extensive network of anti-Sterlian operatives.
 ## Phase 2: Kousui
-Operation Rainfall comprised the air campaign against Sterlian military bases on Kaigaishima, including [[Districts of Kaigaishima#**Horikoshi**|RAF Horikoshi]], [[Districts of Kaigaishima#**Miyamura**|Naval Station Miyamura]], and the bases in the [[Districts of Kaigaishima#East Region|East Region]].
+Operation Rainfall comprised the air campaign against Sterlian assets and military bases on Kaigaishima, including [[Districts of Kaigaishima#**Horikoshi**|RAF Horikoshi]], [[Districts of Kaigaishima#**Miyamura**|Naval Station Miyamura]], and the bases in the [[Districts of Kaigaishima#East Region|East Region]].
+
+
+
+Incidentally, the execution of Rainfall coincided with the arrival of Royal Navy **Task Force Z** to Kaigaishima, resulting in the latter also being attacked and sunk.
 ## Phase 3: Tsunami
 Operation Tidal Wave was the 
 # Occupation
-In the hours following the evacuation of the Kaigaishiman government, the advancing Eikan forces 
+In the hours following the evacuation of the Kaigaishiman government, Eikan forces would quickly disarm the remaining Sterlian forces and occupy roadblocks and 
 # Notes
 Article based on [Operation Desert Storm](https://en.wikipedia.org/wiki/Gulf_War_air_campaign)
