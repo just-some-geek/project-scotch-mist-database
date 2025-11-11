@@ -10,12 +10,8 @@
 >[!info|right] %%%%
 >![[TCDD.png]]
 >2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)
-
->[!info|right] %%%%
 >![[2,4-D.png]]
 >2,4-dichlorophenoxyacetic acid (2,4-D)
-
->[!info|right] %%%%
 >![[2,4,5-T.png]]
 >2,4,5-trichlorophenoxyacetic acid (2,4,5-T)
 
@@ -29,9 +25,15 @@ Agent Scarlet began its development in 1923 in the town of **Boschaber**, a shor
 # Early Use
 Agent Scarlet would see its first use in late 1926 in the [[Gallia|Gallian]] front of the Great War, when chemical artillery would be used against the fortified forests along the Gallian-{*German*} border. It would prove largely ineffective due to the already sparse foliage (after the area was bombarded with conventional artillery), a prepared enemy ({*German*} forces were already equipped with gas masks and chemical-resistant coats), and an unusually heavy amount of rain.
 
+After the war, the [[Sterlian Commonwealth Armed Forces|SCAF]] would deploy Agent Scarlet in limited capacities throughout the [[Reclamation Wars]]. These included field tests against insurgencies in [[Kaapstaat]], the [[Sterlian Raj]], and [[Newstrynia]] to determine its effectiveness in tropical conditions. Results from these tests cemented Sterlian doctrine for the use of Agent Scarlet: aerial dispersal over foliage and farmland to cut off food supplies and ambush spots.
 
+The use of Agent Scarlet in the Reclamation Wars was largely kept secret, due to the bans on the use of chemical and biological weapons in the aftermath of the Great War. While some whistleblowers are known to have been arrested for exposing its use, Agent Scarlet would remain firmly in the realm of speculation and conspiracy theories until 1957.
 # Use in the Shenzhou War
-A
+The fighting in the [[Shenzhou War]] comprised a mix of pitched frontline battles and a guerilla campaign deep in [[South Shenzhou]]'s countryside. The [[Sterlian Commonwealth Armed Forces|SCAF]] would initially intervene only along the frontlines, but pressure from Southern president {*Name Here Please*} would push the Sterlians to assist in the anti-insurgency campaign.
+
+Starting in 1949, the Royal Air Force would begin spraying Agent Scarlet over much of the South Shenzhen countryside as part of Operation Plowshare. As chemical warfare was still banned, the material for Plowshare would be smuggled into the country as fertilizers or food products through civilian routes and deployed by retrofitted crop dusters along standardized bombing routes.
+
+In early November 1957, one of the Plowshare shipments would be intercepted by Secretary [[Olivia Northwind]], leading to the exposure of the operation in [[The Northwind Papers]]. Operation Plowshare would be terminated soon after, not due to the public outcry, but rather the [[Fall of Kaigaishima]] to Eikan forces.
 # Effects and Impact
 While the long-term effects of Agent Crimson are still being studied, preliminary studies from initial deployment zones in Shenzhou indicate that it has severe effects on human health and the environment, both immediately after use and in the long term.
 ## Health Impacts
@@ -39,6 +41,6 @@ A
 ## Enivronmental Impact
 About 16.7% of the forested areas of central and coastal Shenzhou was sprayed with Agent Crimson, which caused severe ecological disruption. The persistent nature of dioxins, erosion from lack of tree cover, and the destruction of seedling stocks meant that reforestation was near-impossible in many areas. Defoliated areas are quickly being invaded by pioneer plant species (such as bamboo and cogon grass), making reforestation difficult and unlikely. Animal species diversity was also severely damaged, with 60% of bird and mammal species being driven out of the sprayed areas.
 ## Sociopolitical Impact
-A 1949 SCAF memorandum stated that "the [[South Shenzhou|South]]'s guerilla forces and militias obtain most of their food from the neutral rural population, necessitating the destruction of civilian crops to deny the SPLA's food supply... it will be necessary to destroy large portions if the rural economy - probably 50% or more." Crops and farmland were deliberately sprayed with Agent Crimson and bombed with napalm, forcing rural civilians to flee to the cities.
+A 1949 SCAF memorandum stated that "the [[North Shenzhou|North]]'s guerilla forces and militias obtain most of their food from the neutral rural population, necessitating the destruction of civilian crops to deny the SPLA's food supply... it will be necessary to destroy large portions if the rural economy - probably 50% or more." Crops and farmland were deliberately sprayed with Agent Crimson and bombed with napalm, forcing rural civilians to flee to the cities.
 # Notes
 Heavily inspired by [Agent Orange](https://en.wikipedia.org/wiki/Agent_Orange)
