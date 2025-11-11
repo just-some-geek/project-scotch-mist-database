@@ -23,9 +23,13 @@ The active ingredient of Agent Crimson was an equal mixture of two [phenoxy herb
 
 TCDD is the most toxic of the dioxins and is classified as a human carcinogen by the [[Ministry of Health (Sterlian Commonwealth)|Sterlian Ministry of Health]]. The fat-soluble nature of TCDD causes it to accumulate in the food chain, entering the body through physical contact or ingestion. Agent Crimson is said to dry quickly after spraying and breaks down after a few hours of exposure to sunlight, but early ecological surveys from initial test sites indicate otherwise.
 # Development
-Several herbicides were developed by the [[Sterlian Commonwealth]] and [[Columbia]] for use during the [[Great War]].
+Several herbicides were developed by the [[Sterlian Commonwealth]] and [[Columbia]] for use as industrial defoliants for clearing out farmland in the densely vegetated Iffranikan and Ostasian jungles. Many of these herbicides, and other chemicals such as pesticides and crowd control agents, would eventually be used on the battlefields of the [[Great War]].
+
+Agent Scarlet began its development in 1923 in the town of **Boschaber**, a short distance away from **Avonforde University** in [[Great Sterlia]]. Initially designed as a fertilizer and growth enhancer, researchers found that high concentrations would defoliate the plants it was used on. These findings resulted a plan for disrupting enemy food supplies through the use of Agent Scarlet.
 # Early Use
-A
+Agent Scarlet would see its first use in late 1926 in the [[Gallia|Gallian]] front of the Great War, when chemical artillery would be used against the fortified forests along the Gallian-{*German*} border. It would prove largely ineffective due to the already sparse foliage (after the area was bombarded with conventional artillery), a prepared enemy ({*German*} forces were already equipped with gas masks and chemical-resistant coats), and an unusually heavy amount of rain.
+
+
 # Use in the Shenzhou War
 A
 # Effects and Impact

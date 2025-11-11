@@ -2,13 +2,20 @@
 >[!info] The Cenotaphs
 ><center>Muramatsu, Kaigaishima</center>
 >
->![[]]<center>Schematic of the memorial</center>
+>![[concept_Cenotaphs2.png]]<center>View of the central column</center>
 ><h6>Basic Information</h6>
 ><b>Unveiled:</b> 11 November 1944</br>
 ><b>Location:</b> Greathall cor. McCormick Ave., Muramatsu, Kaigaishima</br>
 ><b>Designed by:</b> Edward Lutjens</br>
 ><h6>WE WILL REMEMBER THEM</h6>
 
-**The Cenotaphs of Kaigaishima** is a war memorial in [[Districts of Kaigaishima#**Muramatsu**|Muramatsu, Kaigaishima]] honoring the soldiers of the Sterlian Empire (and later the Commonwealth) who fought in the [[Great War]] and the succeeding [[Reclamation Wars]]. The site is a to-scale replica of the Cenotaph Memorial in The City, Great Sterlia. It consists of seven columns arranged in a semicircle
->[!info]
+**The Cenotaphs of Kaigaishima** is a war memorial in [[Districts of Kaigaishima#**Muramatsu**|Muramatsu, Kaigaishima]] honoring the soldiers of the Sterlian Empire (and later the Commonwealth) who fought in the [[Great War]] and the succeeding [[Reclamation Wars]]. The site is a to-scale replica of the Cenotaph Memorial in The City, Great Sterlia. It consists of seven columns made from Portland stone arranged in a semicircle and a wall of names immediately behind them.
+
+#Tier-4 #Locations 
+# History
+>[!info] %%%%
 >![[concept_Cenotaphs1.png]]<center>Schematic of the Cenotaphs</center>
+
+A
+# Design
+A
