@@ -21,3 +21,6 @@ The conflict saw fighting in all continents, but mainly in {*Europe*}, {*the Mid
 •Incl. parts of Shenzhou & the Far East
 •Everybody except the Sterlians is mad about this
 •Resistance movements spring up all over
+
+## Shenzhou
+A
