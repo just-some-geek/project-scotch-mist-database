@@ -27,7 +27,7 @@ A very cheery individual who tends to naively look at the bright side of things,
 ___
 
 -  "SHE’S LITERALLY FEMALE GARY KASPAROV TO RIVAL FISCHER" - Habagat
--  Banned from [[San Sebastian]] for kicking a chess tournament opponent in the nuts.
+-  Banned from [[Dinerio]] for kicking a chess tournament opponent in the nuts.
   
 ### Opinions 
 ___

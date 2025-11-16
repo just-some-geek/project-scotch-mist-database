@@ -35,7 +35,7 @@ Major human presence in the [[Chendai Archipelago]] is first dated to about 6000
 
 Around 200 BCE, the settlements on Kaigaishima were integrated into the **Shen Empire**, bringing it into the fold of the wider continental system. By the time of the **Zhou Dynasty**, the archipelago was under the control of a few prominent families.
 
-The earliest known Western visitors came in the early 1500s, when [[San Sebastian|Sebastiano]] explorer **Miguel de los Alvarez** met with a local (*Chinese word for regional lord*).
+The earliest known Western visitors came in the early 1500s, when [[Dinerio|Dineriono]] explorer **Miguel de los Alvarez** met with a local (*Chinese word for regional lord*).
 
 ## Geography
 ---
@@ -121,7 +121,7 @@ Mandatory education on Kaigaishima has resulted in the highest literacy rate in 
 Secondary schools emphasize bi-literacy and multilingualism, encouraging
 
 #### Tertiary Education
-Kaigaishima has three universities. [[St. Ignatius University]] (SIU) was founded as the island's first institute of higher education during the early colonial period in 1859 by [[San Sebastian|Sebastiano]] missionaries. While initially a small private institution, it was eventually expanded and granted university status in 1898.
+Kaigaishima has three universities. [[St. Ignatius University]] (SIU) was founded as the island's first institute of higher education during the early colonial period in 1859 by [[Dinerio|Dineriono]] missionaries. While initially a small private institution, it was eventually expanded and granted university status in 1898.
 
 [[Paul Miki University]] (PMU) was established in 1908 to provide higher education to the general public, using Shenzhen as its primary language of instruction. It, alongside the **Imperial University of the Far East**, provides access to affordable higher education to the masses.
 

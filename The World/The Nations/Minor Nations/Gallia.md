@@ -1,8 +1,9 @@
 **Country in {Continent}**
 
-**Gallia**
+The Republic of **Livrea** is the 
 
 #Tier-5 #Geography 
 
----
-A
+# Dev Notes
+The following section convers most of the details about Livrea 
+## Etymology

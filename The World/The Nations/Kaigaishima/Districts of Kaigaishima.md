@@ -40,7 +40,7 @@ The Central Region is the bustling heart of Kaigaishima and, by extension, the F
 ##### **St. Paul**
 - The district is one of the two college towns on Kaigaishima, housing the government-run [[Paul Miki University|Paul Miki University (PMU)]]. The large university has had an outsized influence in the city center, to the point that the Constabulary regularly pulls 24-hour shifts to keep politically active students from rioting.
 ##### **St. Ignatius**
-- Missionaries from [[San Sebastian]] constructed the St. Ignatius Cathedral and the attached [[St. Ignatius University]] in this area during the early colonial period to educate the children of the newly-formed aristocracy. The university has undergone some secularization in recent years, and its students have become more politically active as spurred on by their rival, PMU.
+- Missionaries from [[Dinerio]] constructed the St. Ignatius Cathedral and the attached [[St. Ignatius University]] in this area during the early colonial period to educate the children of the newly-formed aristocracy. The university has undergone some secularization in recent years, and its students have become more politically active as spurred on by their rival, PMU.
 ##### **Tsuno**
 - 都濃, *dense capital*
 - The district is known to locals as "Little Lasky" due to its resemblance to the city center, housing a large park and shrine on its northern island, as well as a large shopping complex and the second-largest train station on Kaigaishima. Despite this, tourists still prefer staying in Lasky due to the more central location and lower cost of living.
