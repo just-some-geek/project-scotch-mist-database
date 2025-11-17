@@ -29,8 +29,9 @@ The Great War is generally accepted to have ended on [[Remembrance Day|11 Novemb
 ## West Europa
 The West Europan front, known colloquially as the **Western Front**
 ## East Europa
-
+The East Europan front, commonly referred to as the **Eastern Front**, 
 ## North Iffranika
+
 ## Central and South Iiffranika
 
 ## Shenzhou
