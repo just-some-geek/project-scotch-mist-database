@@ -1,6 +1,6 @@
 **Country in {Continent}**
 
-The Republic of **Livrea** is the 
+The Republic of **Livrons** is the 
 
 #Tier-5 #Geography 
 
