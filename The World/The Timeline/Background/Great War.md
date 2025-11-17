@@ -1,7 +1,8 @@
 **1914-1928 global conflict**
 >[!info] The Great War
 
-The **Great War**, also known as the **War That Ended All Wars** (28 July 1914 - 11 November 1928) was a global conflict involving two Great Power coalitions: the **Entente** and {***Legally Distinct Central Powers***}.
+The **Great War**, also known as the **War That Ended All Wars** (28 July 1914 - 11 November 1928) was a global conflict involving two Great Power coalitions: the **Entente** and the **Pakt**.
+
 The conflict saw fighting in all continents, but mainly in {*Europe*}, {*the Middle East*}, Iffranika, and Ostasia. One of the deadliest wars in history, an estimated 85 to 90 million people died as a result of the conflict, of which more than half were civilians. 
 
 (more )
