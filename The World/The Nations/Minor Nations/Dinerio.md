@@ -10,6 +10,8 @@ As the former colonial overlord of Las Islas Isabeliñas, better known as the Is
 
 It’s also part of the longest-standing defense alliance in the world with the Sterlian Commonwealth.
 
+The People's Republic of **Dinerio** is a nation in southwestern Europa and a former Great Power. A former monarchy
+
 #Tier-4 #Geography 
 
 ---
