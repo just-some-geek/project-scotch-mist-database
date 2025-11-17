@@ -26,7 +26,7 @@ ___
 -  Wears an eye mask with blue ‘eyelids’ on it.
 -  Only has one glove on his left hand – never seen with a right glove.
 -  Almost never seen without his black fedora. 
--  He is a Columbian citizen but is [[Livrons|half-Gallian]], and claims to be the rightful heir to the Gallian throne despite Gallia not having a monarchy.
+-  He is a Columbian citizen but is [[Livron|half-Gallian]], and claims to be the rightful heir to the Gallian throne despite Gallia not having a monarchy.
 -  Claims that he is the descendant of the last Gallian king.
 -  May or may not have tuberculosis.
 
