@@ -5,7 +5,7 @@
 ><center>Agent Valentine in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Unknown </br>
-><b>Nationality:</b> Gallian-Columbian </br>
+><b>Nationality:</b> Livronnaise-Columbian </br>
 ><b>Pronouns:</b> any  </br>
 ><b>Age:</b> Mid-20s </br>
 ><b>Height:</b> 179 cm</br>
@@ -26,8 +26,8 @@ ___
 -  Wears an eye mask with blue ‘eyelids’ on it.
 -  Only has one glove on his left hand – never seen with a right glove.
 -  Almost never seen without his black fedora. 
--  He is a Columbian citizen but is [[Livron|half-Gallian]], and claims to be the rightful heir to the Gallian throne despite Gallia not having a monarchy.
--  Claims that he is the descendant of the last Gallian king.
+-  He is a Columbian citizen but is [[Livron|half-Livronnaise]], and claims to be the rightful heir to the Livronnaise throne despite Livron not having a monarchy.
+-  Claims that he is the descendant of the last Livronnaise king.
 -  May or may not have tuberculosis.
 
 ### Quotes 
