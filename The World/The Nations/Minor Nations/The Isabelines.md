@@ -1,4 +1,4 @@
-A tropical archipelago in the South Eastern Seas named after Queen Isabella of San Sebastian. Over the last 500 years it’s passed through the hands of many colonizers, including San Sebastian, Sterlia, and Columbia, only gaining its independence 70 years ago after a bloody guerilla war and a tenuous partnership with the Columbias.
+A tropical archipelago in the South Eastern Seas named after Queen Isabella of Dinerio. Over the last 500 years it’s passed through the hands of many colonizers, including Dinerio, Sterlia, and Columbia, only gaining its independence 70 years ago after a bloody guerilla war and a tenuous partnership with the Columbias.
 
   
 
