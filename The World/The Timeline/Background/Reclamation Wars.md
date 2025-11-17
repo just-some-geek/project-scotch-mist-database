@@ -25,5 +25,5 @@ While support for the "war on anarchy" was high among the Sterlian public during
 
 #Tier-3 #Events 
 
----
-A
+# List of conflicts
+## Dineric Civil War
