@@ -5,4 +5,5 @@
 ><b>Demonym:</b></br>- Kopeccyan</br>
 >- Kopeck</br>
 
+#Tier-5 #Geography 
 The **Kopetsian Empire**, known commonly as **Kopeccya**, is a nation spanning the eastern border of Europa in the west and the Eikan Sea in the east.
