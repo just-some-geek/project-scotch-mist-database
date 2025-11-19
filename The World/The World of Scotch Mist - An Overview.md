@@ -31,7 +31,8 @@ The game is an account of the [[Kaigaishiman Crisis]] from the perspectives of f
 Along their journey they will meet the people of Kaigaishima, uncover far-reaching conspiracies, fight for civil rights, and taste the greatest chorizo of their lives. 
 ### The Story
 ---
->*Main Article: [[Kaigaishiman Crisis|The Kaigaishiman Crisis]]*
+>*Main Article: [[Kaigaishiman Crisis|The Kaigaishiman Crisis]]
+>See Also: [[Timeline of the Scotch Mist World]]*
 
 The game's timeline takes place between the dates of 1 June 1957 and 6 May 1958. Dates for the major events are generally pinned down, but the exact sequence and timing of events are dependent on a player's choices throughout the story.
 

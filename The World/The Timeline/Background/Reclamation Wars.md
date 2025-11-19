@@ -26,10 +26,8 @@ While support for the "war on anarchy" was high among the Sterlian public during
 #Tier-3 #Events 
 # List of conflicts
 The Reclamation Wars, as a term, generally refers to all conflict between the start of the Great War (28 July 1914) to the end of the [[Shenzhou War]] (7 December 1958) wherein the [[Sterlian Commonwealth]] and its allies would intervene militarily, diplomatically, or economically.
+## Révolution Livronnaise (1929)
+In late 1928, several divisions of the [[Livron|Armeé Livronnaise]] would 
 ## Dineric Civil War (1936)
-The Re
+The [[Dinerio|Kingdom of Dinerio]] was in the process of minor democratic reforms before the outbreak of the Great War. However, this process was hamstrung by the 
 
-## Shenzhou War (1946)
-> *Main Article: [[Shenzhou War]]*
-
-The Shenzhou War
