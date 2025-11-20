@@ -13,7 +13,7 @@ At its core, Scotch Mist is a game about human stories from tumultuous times, se
 ---
 Scotch Mist takes place on [[Kaigaishima]] (legally distinct Hong Kong/Singapore), a distant colony of the [[Sterlian Commonwealth]] (legally distinct British Empire). The island is a cultural hot-pot, with significant populations from mainland [[Shenzhou]] (China), [[Eikan Empire|Eiko]] (Japan), [[The Isabelines]] (UY PHILIPPINES), and the rest of the Commonwealth and the Far East.
 
-The outbreak of the [[Shenzhou War]] between the communist [[South Shenzhou]] and the "democratic" warlord-state coalition of [[North Shenzhou]] has dragged the overstretched Commonwealth into a long war of attrition against the red tide. An increasingly desperate [[Sterlian Parliament|Parliament]] has been taking drastic measures to try to win, but have only succeeded in angering the under-represented populations of frontline Commonwealth states, especially Kaigaishima.
+The outbreak of the [[Shenzhou War]] between the communist [[North Shenzhou]] and the "democratic" warlord-state coalition of [[South Shenzhou]] has dragged the overstretched Commonwealth into a long war of attrition against the red tide. An increasingly desperate [[Sterlian Parliament|Parliament]] has been taking drastic measures to try to win, but have only succeeded in angering the under-represented populations of frontline Commonwealth states, especially Kaigaishima.
 
 The social, economic, and political tensions in the island are ready to boil over into the wider world, and there are many groups who are poised to take advantage of the weakened state of the Commonwealth. All they need to do is wait...
 ### The People
