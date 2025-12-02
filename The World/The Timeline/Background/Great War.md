@@ -7,25 +7,14 @@ The conflict saw fighting in all continents, but mainly in {*Europe*}, {*the Mid
 
 (more )
 
-The Great War is generally accepted to have ended on [[Remembrance Day|11 November 1928]], with the signing of the Continental Armistice and the end of hostilities on the Europan continent..
+The Great War is generally accepted to have ended on [[Remembrance Day|11 November 1928]], with the signing of the Continental Armistice and the end of hostilities on the Europan continent. However, sporadic fighting would continue after the Armistice in other fronts, much of which bled over into the [[Reclamation Wars]].
 
 #Tier-2 #Events 
-
----
-•What if WW1 lasted for 14 years instead of 4?
-•Leadup is mostly the same as OTL
-•Ends on November 15, 1928
-
-•The War that Ended All Wars
-•The last industrialized inter-Great Power war
-•Cause all of them (except Sterlia) to collapse
-
-•The Sterlian Empire obtain the following territories :
-•Whole bunch of other people’s colonies
-•Incl. parts of Shenzhou & the Far East
-•Everybody except the Sterlians is mad about this
-•Resistance movements spring up all over
-
+# Background
+## The Two Coalitions
+A
+## The July Crisis
+On 22 July 1914, Archduke Fritz von Kanzler, heir apparent of the [[Thalerland|Thalerreich]], was set to speak at a pro
 # Major campaigns of the war
 ## West Europa
 The West Europan front, known colloquially as the **Western Front**
@@ -37,3 +26,9 @@ The East Europan front, commonly referred to as the **Eastern Front**,
 
 ## Shenzhou
 A
+# Aftermath
+•The Sterlian Empire obtain the following territories :
+•Whole bunch of other people’s colonies
+•Incl. parts of Shenzhou & the Far East
+•Everybody except the Sterlians is mad about this
+•Resistance movements spring up all over

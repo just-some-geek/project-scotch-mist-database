@@ -33,7 +33,7 @@ The fighting in the [[Shenzhou War]] comprised a mix of pitched frontline battle
 
 Starting in 1949, the Royal Air Force would begin spraying Agent Scarlet over much of the South Shenzhen countryside as part of Operation Plowshare. As chemical warfare was still banned, the material for Plowshare would be smuggled into the country as fertilizers or food products through civilian routes and deployed by retrofitted crop dusters along standardized bombing routes.
 
-In early November 1957, one of the Plowshare shipments would be intercepted by Secretary [[Olivia Northwind]], leading to the exposure of the operation in [[The Northwind Papers]]. Operation Plowshare would be terminated soon after, not due to the public outcry, but rather the [[Fall of Kaigaishima]] to Eikan forces.
+In early November 1957, one of the Plowshare shipments would be intercepted by Secretary [[Olivia Northwind]], leading to the exposure of the operation in the [[Northwind Papers]]. Operation Plowshare would be terminated soon after, not due to the public outcry, but rather the [[Fall of Kaigaishima]] to Eikan forces.
 # Effects and Impact
 While the long-term effects of Agent Crimson are still being studied, preliminary studies from initial deployment zones in Shenzhou indicate that it has severe effects on human health and the environment, both immediately after use and in the long term.
 ## Health Impacts

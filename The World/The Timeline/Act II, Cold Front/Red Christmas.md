@@ -7,7 +7,7 @@
 
 The **Red Christmas** attacks of 25 December 1958 were four coordinated bombings across the island of Kaigaishima, perpetrated by an "unknown terrorist organization". Four locations were hit, all of which were government-operated or affiliated. These were [[Admiralty Park]], [[Fort Valkyrie]], the [[Albertine Valley Country Club]], and [[City Hall]].
 
-In total, the attacks killed 00 people and injured 000 more and caused at least 00 million sterling in property and infrastructure damage.
+In total, the attacks killed 59 people and injured 137 more and caused at least 47 million Sterling in property and infrastructure damage.
 
 #Tier-1 #Events
 # Background
@@ -32,9 +32,11 @@ On December 26, the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of De
 # Responsibility for the attack
 There is no consensus regrading which person or group(s) is responsible for the Red Christmas attacks, though many experts agree on at least one of three:
 ## Kaigaishiman terrorists
-This is the official stance taken by the Sterlian government.
+This is the official stance taken by the Sterlian government. The public press release
 ## Eikan special operations
 Internally, Sterlian security agencies believe that the Eikan military had some involvement, direct or indirect, in the attacks.
 ## Sterlian government
 Some speculate that the Red Christmas attacks were perpetrated by a rogue faction within the Sterlian government and military, citing the unusual circumstances leading up to and immediately after the attacks.
+
+Some content of the [[Northwind Papers]]
 

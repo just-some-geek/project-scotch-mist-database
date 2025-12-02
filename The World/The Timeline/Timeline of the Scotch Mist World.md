@@ -2,11 +2,12 @@ The following page is a chronological timeline of major events in the Scotch Mis
 # Pax Sterlinica (1815-1914)
 ## War of the Great Coalition (1815)
 A
-# The Great War (1914-192X)
+# The Great War (1914-1928)
 >*Main Article: [[Great War]]*
 
-A
-# Post-War (192X-1940)
+On 22 July 1914, Archduke Fritz von Kanzler, heir to the throne of the [[Thalerland|Thalerreich]], would be shot dead in a drive-by shooting at a café by [[Kopeccya|Kopeccian]] nationalists. The succeeding diplomatic crisis would drag the Europan empires into the largest, bloodiest war the world has ever seen.
+# Post-War (1928-1940)
+The **Post-War** period is 
 ## Foundation of the Sterlian Commonwealth (1933)
 >*Main Article: [[Foundation of the Commonwealth]]*
 
