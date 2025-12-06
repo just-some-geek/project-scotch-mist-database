@@ -26,9 +26,9 @@ In the immediate wake of the attacks, the Kaigaishiman government ordered all go
 
 At 10:30 a.m., Governor [[Takatsugu Sasaki-Newman|Newman]] declared a state of emergency on Kaigaishima, ordering police units to begin patrols and enforce a curfew. In the same announcement, the governor publicly requested the help of the [[Sterlian Commonwealth Armed Forces|Sterlian military]] stationed in the [[Districts of Kaigaishima#East Region|East Region]] to assist in "returning security to Kaigaishima." The garrison would begin deployments in the afternoon, even without orders to do so from higher command.
 
-On December 26, the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]] would authorize the transfer of units from the frontline in Shenzhou in order to properly secure the island. Gov. Newman would later address the people of Kaigaishima in a [[Martial Law in Kaigaishima#Declaration|radio broadcast]] at 5:00 p.m., announcing that the island would go under [[Martial Law in Kaigaishima|martial law]] for an indefinite amount of time, starting at midnight on 1 January 1958.
+The following day, 26 December, the [[Ministry of Defence (Sterlian Commonwealth)|Ministry of Defence]] would authorize the transfer of units from the frontline in Shenzhou in order to properly secure the island. Gov. Newman would later address the people of Kaigaishima in a [[Martial Law in Kaigaishima#Declaration|radio broadcast]] at 5:00 p.m., announcing that the island would go under [[Martial Law in Kaigaishima|martial law]] for an indefinite amount of time, starting at midnight on 1 January 1958.
 ## Investigation
-
+Starting on 26 December, the Sterlian government would launch full-scale investigation of the attacks. 
 # Responsibility for the attack
 There is no consensus regrading which person or group(s) is responsible for the Red Christmas attacks, though many experts agree on at least one of three:
 ## Kaigaishiman terrorists
@@ -38,5 +38,5 @@ Internally, Sterlian security agencies believe that the Eikan military had some 
 ## Sterlian government
 Some speculate that the Red Christmas attacks were perpetrated by a rogue faction within the Sterlian government and military, citing the unusual circumstances leading up to and immediately after the attacks.
 
-Some content of the [[Northwind Papers]]
+Some of the content of the [[Northwind Papers]] point to a group within the government known as "The Cabal", 
 
