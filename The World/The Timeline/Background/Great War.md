@@ -17,13 +17,11 @@ A
 On 22 July 1914, Archduke Fritz von Kanzler, heir apparent of the [[Thalerland|Thalerreich]], was set to speak at a pro
 # Major campaigns of the war
 ## West Europa
-The West Europan front, known colloquially as the **Western Front**
+The West Europan front, known colloquially as the **Western Front**, saw fighting between 
 ## East Europa
 The East Europan front, commonly referred to as the **Eastern Front**, 
-## North Iffranika
-
-## Central and South Iiffranika
-
+## Iffranika
+The war in Iffranika 
 ## Shenzhou
 A
 # Aftermath
