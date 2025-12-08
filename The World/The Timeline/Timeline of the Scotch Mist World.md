@@ -6,18 +6,27 @@ On 22 July 1914, Archduke Fritz von Kanzler, heir to the throne of the [[Thalerl
 
 The fighting was concentrated in three main theaters: the Europan Front (split into the Western and Eastern Fronts), the Iffranikan Front (a continent-spanning conflict between Europan colonies), and the Ostasian Front (in Shenzhou and the Far Eastern Archipelagoes).
 
-The Treaty of 
+The Great War does not have a single conclusive date, since fighting would largely bleed into the Reclamation Wars. However, most sources cite 11 November 1928 as the "end of the war", being the date that the Continental Armistice ended fighting on the Western Front.
 # Post-War (1928-1940)
 The **Post-War** period is 
+## The Shenzhou War (1926-1958)
+>*Main Article: [[Shenzhou War]]*
+
+The Shenzhou Front of the Great War ended in 1921 with the collapse of the Shenzhou Kingdom. Partitioned between the Sterlians in the south and the Eikans in the north, the occupying powers would prop up a new and unstable Republic of Shenzhou.
+
+The Republic would fracture into two separate states: the Sterlian-backed, democratic [[South Shenzhou]] and the Eikan-backed, communist [[North Shenzhou]]. The two Shenzhou states would spend the 1930s fighting ever-escalating border conflicts and insurgencies, each trying to reunify the Shenzhou nation under their rule.
+
+In June 1943, with a blank check from the Eikan Empire, North Shenzhou would launch a full-scale invasion of South Shenzhou. The Commonwealth would immediately deploy in defense of the South, halting the communist advance and pushing them back to the border by December.
+
+For the next 15 years, the conflict would settle into a long stalemate along the rivers and mountains of central Shenzhou. Fighting on the frontlines would become sporadic, with focus shifting to fighting the communist insurgency in the South. By 1958, however, it seems that the North and the Eikans have grown bold enough to try their hand at invasion once more.
 ## Foundation of the Sterlian Commonwealth (1933)
 >*Main Article: [[Foundation of the Commonwealth]]*
 
 A
-## The Reclamation Wars
+## The Reclamation Wars (1928-1959)
 >*Main Article: [[Reclamation Wars]]*
 
 A
-
 # The Cold War (1940-1960)
 ## Sterlian Parliamentary Crisis (1953)
 >*Main Article: [[Parliamentary Crisis of 1953]]*
