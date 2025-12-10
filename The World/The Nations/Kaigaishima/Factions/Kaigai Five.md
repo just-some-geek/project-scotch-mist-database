@@ -15,6 +15,6 @@ Stephen Edwards was a senior marketing executive
 ## Adrian Wagner
 Guy in politics -> Adrian Wagner
 ## Raymond Chen
-Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the {*name*} triad which controlled 
+Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the Victory (勝) triad which controlled 
 
 oh and [[Olivia Northwind]].
