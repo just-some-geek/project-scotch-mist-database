@@ -7,14 +7,14 @@ An unreleased version of the [[Northwind Papers]] would have exposed the conspir
 #Factions #Tier-2 
 # Membership
 ## Robert Gilmoure
-Guy in the military -> [[Robert Gilmoure]]
+Rear Admiral Robert Charleston Gilmoure 1st Earl of Gilloshire, commonly known as Robbie, is a Sterlian-born Royal Navy officer and statesman.
 ## Andrea Byrd
-Girl in the military -> Andrea Byrd
+Chief Commandant Andrea Saoirse Byrd Director of the Women's Royal Naval Service (WINS), is a Sterlian-born Royal Navy officer.
 ## Stephen Edwards
-Stephen Edwards was a senior marketing executive 
+Stephen "Sonny" Edwards, Kaigaishima's Chief Secretary for Administration, often considered to be the spiritual successor to Governor Tatsuki-Newman.
 ## Adrian Wagner
-Guy in politics -> Adrian Wagner
+Adrian Rothschild Wagner, Chief Executive Officer for the Sterlian shipbuilding company Rothschild and Sons Ltd.
 ## Raymond Chen
-Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the Victory (勝) triad which controlled 
+Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the Victory (勝) Triad which controlled the Yilan district from 1946 - 1958.
 
 oh and [[Olivia Northwind]].
