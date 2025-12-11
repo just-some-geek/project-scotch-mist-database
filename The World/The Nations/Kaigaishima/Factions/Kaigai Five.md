@@ -16,5 +16,5 @@ Stephen "Sonny" Edwards, Kaigaishima's Chief Secretary for Administration, often
 Adrian Rothschild Wagner, Chief Executive Officer for the Sterlian shipbuilding company Rothschild and Sons Ltd.
 ## Raymond Chen
 Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the Victory (勝) Triad which controlled the Yilan district from 1946 - 1958.
-
-oh and [[Olivia Northwind]].
+## Olivia Northwind
+Stand-in for [[Nelson Charles Northwind]], [[Olivia Northwind]] is his daughter who takes control of all of his administrative duties as he is preoccupied with the Shenzhen War. Though not an active collaborator, she is used by the Kaigai Five to further their operation. 
