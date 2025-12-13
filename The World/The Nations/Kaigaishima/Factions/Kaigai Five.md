@@ -18,3 +18,14 @@ Guy in politics -> Adrian Wagner
 Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the Victory (勝) triad which controlled 
 
 oh and [[Olivia Northwind]].
+
+
+"The aim of propaganda is not to convince you that you're wrong. It's to make you doubt that you were ever right."
+
+"It's not about making you think you that we're right. It's about convincing you that everyone else does."
+
+"If only there was a way that we could know everything there is to know about our target audience. Where they live, where they work, who their friends and family are, who they voted for in the last 3 election cycles, what they're eating for dinner, that kind of stuff...
+
+(looks at THE INTERNET! written on the slide in 100px bold impact font)"
+
+"slopaganda"
