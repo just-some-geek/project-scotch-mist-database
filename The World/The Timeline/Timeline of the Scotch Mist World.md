@@ -43,4 +43,8 @@ A
 ## The Kaigaishiman Crisis (1957 - 1958)
 >*Main Article: [[Kaigaishiman Crisis]]*
 
-A
+The island of [[Kaigaishima]], the largest of the [[Chendai Archipelago]], was the capital of the Sterlian [[Far Eastern Territories]]. Its size strategic position along the major Far Eastern trade routes enabled the Commonwealth to project power into the region. The island would become an essential lifeline for Sterlian operations in the [[Shenzhou War]], serving as the last stopover before soldiers and supplies would reach the frontlines.
+
+However, tensions on the island would worsen as the war dragged on. By 1957, the population was generally discontent with the conduct of the war and the strict rationing implemented by the government. Organized crime syndicates and radical student groups would grow quickly in this period, destabilizing the already strained social fabric.
+
+By Christmas 1957, an [[Northwind Papers|exposé on corruption]] in the Sterlian government and military, as well as a [[Red Christmas|series of terrorist bombings]] would drive the Sterlian government to declare [[Martial Law in Kaigaishima|martial law]]. The situation on the island would devolve further over the next months, until an [[Operation Divine Wind|Eikan invasion]] would force an evacuation of the Kaigaishiman government in May 1958.
