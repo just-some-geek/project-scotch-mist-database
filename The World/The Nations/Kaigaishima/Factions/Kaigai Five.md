@@ -9,7 +9,7 @@ An unreleased version of the [[Northwind Papers]] would have exposed the conspir
 ## Robert Gilmoure
 Rear Admiral Robert Charleston Gilmoure 1st Earl of Gilloshire, commonly known as Robbie, is a Sterlian-born Royal Navy officer and statesman.
 ## Andrea Byrd
-Chief Commandant Andrea Saoirse Byrd, Director of the Women's Royal Naval Service (WINS), is a Sterlian-born Royal Navy officer.
+Chief Commandant Andrea Saoirse Byrd, Director of the Women's Imperial Naval Service (WINS), is a Sterlian-born Royal Navy officer.
 ## Stephen Edwards
 Stephen "Sonny" Edwards, Kaigaishima's Chief Secretary for Administration, often considered to be the spiritual successor to Governor Tatsuki-Newman.
 ## Adrian Wagner
