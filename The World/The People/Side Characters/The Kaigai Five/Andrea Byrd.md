@@ -1,17 +1,17 @@
 **Lorem ipsum**
 
->[!info] Name</br>
->![[concept_Wagner.png]]
-><center>Name in 1958</center>
+>[!info] Andrea Byrd</br>
+>![[concept_Byrd.png]]
+><center>Byrd in 1958</center>
 ><h6>Basic Information</h6>
-><b>Full Name:</b> Full Name </br>
-><b>Nationality:</b> Nationality </br>
-><b>Pronouns:</b> Pronouns  </br>
-><b>Age:</b> Age </br>
-><b>Height:</b> Height </br>
-><b>Hair:</b> Hair
+><b>Full Name:</b> Andrea Saorise Byrd </br>
+><b>Nationality:</b> Sterlian </br>
+><b>Pronouns:</b> she/her  </br>
+><b>Age:</b> 39 </br>
+><b>Height:</b> 5'0 </br>
+><b>Hair:</b> Brown
 
-**Lorem ipsum** blah blah
+**Andrea Saoirse Byrd**, is a Sterlian-born Royal Navy officer. She is the Chief Commandant / Director of the Women's Imperial Naval Service (WINS).
 
 #Tier-3 #Characters 
 

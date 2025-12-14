@@ -2,7 +2,7 @@
 
 >[!info] Robert Gilmoure</br>
 >![[concept_Gilmoure.png]]
-><center>Name in 1958</center>
+><center>Gilmoure in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Robert Charleston Gilmoure </br>
 ><b>Nationality:</b> Sterlian </br>

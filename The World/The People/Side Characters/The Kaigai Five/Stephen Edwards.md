@@ -11,7 +11,7 @@
 ><b>Height:</b> Height </br>
 ><b>Hair:</b> Hair
 
-**Lorem ipsum** blah blah
+**Stephen "Sonny" Edwards**, Kaigaishima's Chief Secretary for Administration, is often considered to be the spiritual successor to Governor Tatsuki-Newman.
 
 #Tier-3 #Characters 
 
