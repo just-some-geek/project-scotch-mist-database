@@ -74,6 +74,7 @@ Encompassing the [[Port of Kaigaishima]] and its neighboring industrial parks, a
 - 中和, *neutralization*
 - 
 ##### **Miyamura** 
+- 宮村
 - The great cranes of the [[Miyamura Aviation and Shipping Enterprises|M.A.S.E.]] complex tower over the sprawling dockyard facilities beneath. These district-sized shipyards responsible for the construction and repair of some of the largest vessels in the [[Sterlian Commonwealth Armed Forces#Royal Navy|Royal Navy]], working night and day to keep the fleet afloat.
 ##### **Vernon** 
 - Nicknamed the "Gateway to the East", the district is the primary port of entry into Kaigaishima. Those travelling to the island by sea are greeted upon their arrival by the [[Colossus of Kaigaishima]], a towering statue modeled after the first governor of Kaigaisihma, **Joseph Vernon**.
@@ -81,7 +82,7 @@ Encompassing the [[Port of Kaigaishima]] and its neighboring industrial parks, a
 - 
 - Named after Thom Yorke, frontman of Radiohead. It has the beginning of McCormick Avenue, which stretches across the entire Central Region. It breaches Lasky, St. Ignatius, Ajisaki, Tsuno, then St. Paul Miki.
 ##### **Xindian**
-- A
+- 新店A
 ## East Region
 The East Region is not under the direct control of the Kaigaishiman government, but rather the [[Sterlian Commonwealth Armed Forces]]. The area is the primary base of the SCAF in the Far East, hosting a large naval, ground, and air contingent, as well as the families of the servicemen. It also includes a Special Economic Zone, wherein foreign companies operate without local restrictions.
 ##### **Yamane** 
