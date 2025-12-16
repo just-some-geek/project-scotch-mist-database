@@ -7,7 +7,7 @@
 ><b>Full Name:</b> Adrian Rothschild Wanger </br>
 ><b>Nationality:</b> Sterlian </br>
 ><b>Pronouns:</b> he/him  </br>
-><b>Age:</b> 42 </br>
+><b>Age:</b> 34 </br>
 ><b>Height:</b> 5'8 </br>
 ><b>Hair:</b> Black
 

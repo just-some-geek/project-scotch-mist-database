@@ -7,7 +7,7 @@
 ><b>Full Name:</b> Andrea Saorise Byrd </br>
 ><b>Nationality:</b> Sterlian </br>
 ><b>Pronouns:</b> she/her  </br>
-><b>Age:</b> 39 </br>
+><b>Age:</b> 35 </br>
 ><b>Height:</b> 5'0 </br>
 ><b>Hair:</b> Brown
 

@@ -7,7 +7,7 @@
 ><b>Full Name:</b> Chen Wing-Hung (陳榮雄) </br>
 ><b>Nationality:</b> Shenzhen </br>
 ><b>Pronouns:</b> he/him  </br>
-><b>Age:</b> 38 </br>
+><b>Age:</b> 29 </br>
 ><b>Height:</b> 5'8 </br>
 ><b>Hair:</b> Black
 
