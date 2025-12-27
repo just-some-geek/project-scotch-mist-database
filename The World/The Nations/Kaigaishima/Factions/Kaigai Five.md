@@ -6,8 +6,9 @@ An unreleased version of the [[Northwind Papers]] would have exposed the conspir
 
 #Factions #Tier-2 
 # Membership
+While known as the "Kaigai Five", the exact number and composition of the group is still a subject of debate. As such, the list below reflects the most commonly accepted listing, as well as a few of the more credible suspects for the group's "sixth member".
 ## Robert Gilmoure
-Rear Admiral Robert Charleston Gilmoure 1st Earl of Gilloshire, commonly known as Robbie, is a Sterlian-born Royal Navy officer and statesman.
+Rear Admiral Robert Charleston Gilmoure, 1st Earl of Gilloshire, is a Sterlian-born Royal Navy officer and statesman. He was the 
 ## Andrea Byrd
 Chief Commandant Andrea Saoirse Byrd, Director of the Women's Imperial Naval Service (WINS), is a Sterlian-born Royal Navy officer.
 ## Stephen Edwards
@@ -20,14 +21,9 @@ Chen Wing-Hung (陳榮雄), a.k.a. "Raymond" Chen, was the leader of the Victory
 ## Olivia Northwind
 
 Stand-in for [[Nelson Charles Northwind]], [[Olivia Northwind]] is his daughter who takes control of all of his administrative duties as he is preoccupied with the Shenzhen War. Though not an active collaborator, she is used by the Kaigai Five to further their operation. 
+# Conspiracy
+## Background
+In the aftermath of the [[Parliamentary Crisis of 1953]], the Commonwealth's government was strongly divided between the reformist [[Labour Party]] and the conservative [[Nationalist Party]]. The Special Election of 1953 resulted in a Nationalist cabinet taking power in the federal government, but many colonial governments found themselves under Labour, Kaigaishima included.
 
 
-"The aim of propaganda is not to convince you that you're wrong. It's to make you doubt that you were ever right."
 
-"It's not about making you think you that we're right. It's about convincing you that everyone else does."
-
-"If only there was a way that we could know everything there is to know about our target audience. Where they live, where they work, who their friends and family are, who they voted for in the last 3 election cycles, what they're eating for dinner, that kind of stuff...
-
-(looks at THE INTERNET! written on the slide in 100px bold impact font)"
-
-"slopaganda"
