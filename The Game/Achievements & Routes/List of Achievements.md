@@ -17,7 +17,19 @@ These achievements can only be achieved by doing specific things as certain char
 |      | For King    | You have shown where your true allegiances lie: His Majesty's righteous Government. | Complete the ending "For King"    |
 |      | For Country | You have shown where your true allegiances lie: the Peoples of the Commonwealth.    | Complete the ending "For Country" |
 #### Basilio Liwanag
-| Icon | Name | Description | Requirements |
-| ---- | ---- | ----------- | ------------ |
-|      |      |             |              |
-|      |      |             |              |
+| Icon | Name | Description | Requirements           |
+| ---- | ---- | ----------- | ---------------------- |
+|      |      |             | Complete the ending "" |
+|      |      |             | Complete the ending "" |
+#### Yukio Yamada
+
+| Icon | Name | Description | Requirements           |
+| ---- | ---- | ----------- | ---------------------- |
+|      |      |             | Complete the ending "" |
+|      |      |             | Complete the ending "" |
+#### Li "Joseph" Zenghui
+
+| Icon | Name | Description | Requirements           |
+| ---- | ---- | ----------- | ---------------------- |
+|      |      |             | Complete the ending "" |
+|      |      |             | Complete the ending "" |

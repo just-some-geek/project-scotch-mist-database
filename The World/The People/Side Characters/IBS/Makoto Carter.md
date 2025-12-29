@@ -6,7 +6,7 @@
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Makoto Satoh Carter</br>
 ><b>Nationality:</b> Eikan </br>
-><b>Pronouns:</b> they/she  </br>
+><b>Pronouns:</b> she/her  </br>
 ><b>Age:</b> 19</br>
 ><b>Date of birth:</b> Unknown, 1938 </br>
 ><b>Height:</b> 5’4</br>
