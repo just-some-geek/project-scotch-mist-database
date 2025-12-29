@@ -23,13 +23,13 @@ These achievements can only be achieved by doing specific things as certain char
 |      |      |             | Complete the ending "" |
 #### Yukio Yamada
 
-| Icon | Name | Description | Requirements           |
-| ---- | ---- | ----------- | ---------------------- |
-|      |      |             | Complete the ending "" |
-|      |      |             | Complete the ending "" |
+| Icon | Name         | Description | Requirements           |
+| ---- | ------------ | ----------- | ---------------------- |
+|      | Displacement |             | Complete the ending "" |
+|      | Inertia      |             | Complete the ending "" |
 #### Li "Joseph" Zenghui
 
-| Icon | Name | Description | Requirements           |
-| ---- | ---- | ----------- | ---------------------- |
-|      |      |             | Complete the ending "" |
-|      |      |             | Complete the ending "" |
+| Icon | Name               | Description | Requirements           |
+| ---- | ------------------ | ----------- | ---------------------- |
+|      | Touch Me Not       |             | Complete the ending "" |
+|      | No Place Like Home |             | Complete the ending "" |
