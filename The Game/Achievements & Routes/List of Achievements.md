@@ -29,7 +29,7 @@ These achievements can only be achieved by doing specific things as certain char
 |      | The First Law    | An object in motion remains in motion, unless acted on by an unbalanced force. | Complete the ending "The First Law"    |
 #### Li "Joseph" Zenghui
 
-| Icon | Name               | Description                                         | Requirements                             |
-| ---- | ------------------ | --------------------------------------------------- | ---------------------------------------- |
-|      | Mi Último Adiós    | Farewell to all I love; to die is to rest.          | Complete the ending "Mi Último Adiós"    |
-|      | Mi Penúltimo Adiós | There can be no rest when there is work to be done. | Complete the ending "Mi Penúltimo Adiós" |
+| Icon | Name               | Description                                                | Requirements                             |
+| ---- | ------------------ | ---------------------------------------------------------- | ---------------------------------------- |
+|      | Mi Último Adiós    | Farewell to all I love; to die is to rest.                 | Complete the ending "Mi Último Adiós"    |
+|      | Mi Penúltimo Adiós | This is not your grave, but you are welcome to rest in it. | Complete the ending "Mi Penúltimo Adiós" |

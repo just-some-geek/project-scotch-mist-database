@@ -10,7 +10,7 @@ The Great War does not have a single conclusive date, since fighting would conti
 
 The war would result in the total collapse of the old world order, the overthrow of several imperial governments, the rise of radical ideologies, and the beginnings of a Cold War between the victorious [[Sterlian Commonwealth#History|Sterlian Empire]] and the regional and global powers emerging from the ashes.
 # Post-War (1928-1940)
-The **Post-War** period is 
+The **Post-War** period is remembered with two contrasting narratives: the prosperity of the reconstructed Sterlian Empire against the perpetual violence of its Reclamation Wars.
 ## The Shenzhou War (1926-1958)
 >*Main Article: [[Shenzhou War]]*
 
@@ -34,7 +34,7 @@ The campaign had two main objectives: integrating the newly-independent territor
 
 Under the immense strain of reconstruction and the global scope of the Reclamation Wars, the Sterlian Empire found itself unable to adapt to the post-war era. Its notoriously bureaucratic, centralized government struggled to respond promptly to unfolding crises all over the world, which was hurting Sterlian prestige and causing unsustainable losses. In response, the [[Sterlian Parliament]] would pass the [[Representation Act of 1933]] by a unanimous bipartisan vote.
 
-The Act 
+The Act would elevate the [[Dominions of the Sterlian Commonwealth|Dominions]] to equal status as [[Great Sterlia]], granting them seats in Parliament. In exchange, the [[Territories of the Sterlian Commonwealth|Territories]] would be administered as satellite states of the Dominions, and several government institutions and businesses would be nationalized at the federal level. This deal would allow the newly-restructured Commonwealth 
 # The Cold War (1940-1960)
 ## Sterlian Parliamentary Crisis (1953)
 >*Main Article: [[Parliamentary Crisis of 1953]]*
