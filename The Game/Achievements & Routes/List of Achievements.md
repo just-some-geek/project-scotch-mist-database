@@ -6,7 +6,7 @@ These achievements can be achieved by any character, but might require some setu
 | Icon | Name            | Description                                     | Requirements                                             |
 | ---- | --------------- | ----------------------------------------------- | -------------------------------------------------------- |
 |      | Tireless Worker | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases. |
-|      |                 |                                                 |                                                          |
+|      | Lest We Forget  |                                                 | Achieve all other advancements.                          |
 
 # Character-Specific
 These achievements can only be achieved by doing specific things as certain characters.
@@ -29,7 +29,7 @@ These achievements can only be achieved by doing specific things as certain char
 |      | The First Law    | An object in motion remains in motion, unless acted on by an unbalanced force. | Complete the ending "The First Law"    |
 #### Li "Joseph" Zenghui
 
-| Icon | Name               | Description                                                                        | Requirements                             |
-| ---- | ------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------- |
-|      | Mi Último Adiós    | Farewell to all I love; to die is to rest.                                         | Complete the ending "Mi Último Adiós"    |
-|      | Mi Penúltimo Adiós | Even if my country does seem to have forgotten me, I have always thought about it. | Complete the ending "Mi Penúltimo Adiós" |
+| Icon | Name               | Description                                         | Requirements                             |
+| ---- | ------------------ | --------------------------------------------------- | ---------------------------------------- |
+|      | Mi Último Adiós    | Farewell to all I love; to die is to rest.          | Complete the ending "Mi Último Adiós"    |
+|      | Mi Penúltimo Adiós | There can be no rest when there is work to be done. | Complete the ending "Mi Penúltimo Adiós" |
