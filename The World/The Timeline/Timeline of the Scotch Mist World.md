@@ -41,7 +41,9 @@ However, this arrangement would leave the remaining Territories under-represente
 ## Sterlian Parliamentary Crisis (1953)
 >*Main Article: [[Parliamentary Crisis of 1953]]*
 
-A
+Since the foundation of the Commonwealth, the Sterlian Parliament has been split between two rival parties: the left-leaning [[Labour Party]] and the right-wing [[Nationalist Party]], as well as their respective coalitions of smaller parties. Following the Federal Election of 1953, the two parties would end up in an electoral stalemate, gridlocking the government for the next few years.
+
+In 1957, Labour representatives attempted to break the deadlock by proposing an amendment to the Representation Act of 1933. By granting full electoral representation to the Territories, the party hoped to split the Nationalist coalition along regional and cultural lines. While many in the Nationalist coalition supported the amendment, the amendment failed to reach the 2/3rds majority needed to pass. Instead, Article 7 of the [[Sterlian Charter]] would be invoked by Labour, putting the decision on representation up to a referendum.
 ## The Kaigaishiman Crisis (1957 - 1958)
 >*Main Article: [[Kaigaishiman Crisis]]*
 
@@ -49,4 +51,4 @@ The island of [[Kaigaishima]], the largest of the [[Chendai Archipelago]], was t
 
 However, tensions on the island would worsen as the war dragged on. By 1957, the population was generally discontent with the conduct of the war and the strict rationing implemented by the government. Organized crime syndicates and radical student groups would grow quickly in this period, destabilizing the already strained social fabric.
 
-By Christmas 1957, an [[Northwind Papers|exposé on corruption]] in the Sterlian government and military, as well as a [[Red Christmas|series of terrorist bombings]] would drive the Sterlian government to declare [[Martial Law in Kaigaishima|martial law]]. The situation on the island would devolve further over the next months, until an [[Operation Divine Wind|Eikan invasion]] would force an evacuation of the Kaigaishiman government in May 1958.
+By Christmas 1957, an [[Northwind Papers|exposé on corruption]] in the Sterlian government and military, as well as a [[Red Christmas|series of terrorist bombings]], would drive the Sterlian government to declare [[Martial Law in Kaigaishima|martial law]]. The situation on the island would devolve further over the next months, until an [[Operation Divine Wind|Eikan invasion]] would force an evacuation of the Kaigaishiman government in May 1958.
