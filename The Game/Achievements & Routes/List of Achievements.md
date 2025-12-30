@@ -17,10 +17,10 @@ These achievements can only be achieved by doing specific things as certain char
 |      | For King    | You have shown where your true allegiances lie: His Majesty's righteous Government. | Complete the ending "For King"    |
 |      | For Country | You have shown where your true allegiances lie: the Peoples of the Commonwealth.    | Complete the ending "For Country" |
 #### Basilio Liwanag
-| Icon | Name       | Description | Requirements                     |
-| ---- | ---------- | ----------- | -------------------------------- |
-|      | Tadhana    |             | Complete the ending "Tadhana"    |
-|      | Man Of War |             | Complete the ending "Man Of War" |
+| Icon | Name       | Description           | Requirements                     |
+| ---- | ---------- | --------------------- | -------------------------------- |
+|      | Tadhana    | Hinahanap-hanap kita. | Complete the ending "Tadhana"    |
+|      | Man Of War | Dressed for the kill. | Complete the ending "Man Of War" |
 #### Yukio Yamada
 
 | Icon | Name             | Description                                                                    | Requirements                           |
