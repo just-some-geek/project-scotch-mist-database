@@ -36,7 +36,7 @@ ___
 -  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
 -  She is an alcoholic, yet has no remorse with being one, frequents the [[Wildflour (bar)|Wildflour]].
 -  Very insecure about herself, often believes she’s “not enough”.
--  Can barely pass the Bechdel Test.
+-  Can pass the Bechdel Test.
 -  Named Olivia after the Fear and Hunger character of the same name.
   
 ### Opinions 
