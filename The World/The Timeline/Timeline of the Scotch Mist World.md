@@ -34,7 +34,9 @@ The campaign had two main objectives: integrating the newly-independent territor
 
 Under the immense strain of reconstruction and the global scope of the Reclamation Wars, the Sterlian Empire found itself unable to adapt to the post-war era. Its notoriously bureaucratic, centralized government struggled to respond promptly to unfolding crises all over the world, which was hurting Sterlian prestige and causing unsustainable losses. In response, the [[Sterlian Parliament]] would pass the [[Representation Act of 1933]] by a unanimous bipartisan vote.
 
-The Act would elevate the [[Dominions of the Sterlian Commonwealth|Dominions]] to equal status as [[Great Sterlia]], granting them seats in Parliament. In exchange, the [[Territories of the Sterlian Commonwealth|Territories]] would be administered as satellite states of the Dominions, and several government institutions and businesses would be nationalized at the federal level. This deal would allow the newly-restructured Commonwealth 
+The Act would elevate the [[Dominions of the Sterlian Commonwealth|Dominions]] to equal status as [[Great Sterlia]], granting them seats in Parliament. In exchange, the [[Territories of the Sterlian Commonwealth|Territories]] would be administered as satellite states of the Dominions, and several government institutions and businesses would be nationalized at the federal level. This deal would allow the newly-restructured Commonwealth to reduce its bureaucratic bloat, adopt local power structures, and govern more efficiently overall.
+
+However, this arrangement would leave the remaining Territories under-represented in the government, leading to unrest in the population. This, along with the deterioration of the coalition that passed the Act and military failures in the Reclamation Wars, would set into motion the events leading up to the 1953 Sterlian Parliamentary Crisis.
 # The Cold War (1940-1960)
 ## Sterlian Parliamentary Crisis (1953)
 >*Main Article: [[Parliamentary Crisis of 1953]]*
