@@ -17,19 +17,19 @@ These achievements can only be achieved by doing specific things as certain char
 |      | For King    | You have shown where your true allegiances lie: His Majesty's righteous Government. | Complete the ending "For King"    |
 |      | For Country | You have shown where your true allegiances lie: the Peoples of the Commonwealth.    | Complete the ending "For Country" |
 #### Basilio Liwanag
-| Icon | Name | Description | Requirements           |
-| ---- | ---- | ----------- | ---------------------- |
-|      |      |             | Complete the ending "" |
-|      |      |             | Complete the ending "" |
+| Icon | Name       | Description | Requirements                     |
+| ---- | ---------- | ----------- | -------------------------------- |
+|      | Tadhana    |             | Complete the ending "Tadhana"    |
+|      | Man Of War |             | Complete the ending "Man Of War" |
 #### Yukio Yamada
 
-| Icon | Name         | Description | Requirements           |
-| ---- | ------------ | ----------- | ---------------------- |
-|      | Displacement |             | Complete the ending "" |
-|      | Inertia      |             | Complete the ending "" |
+| Icon | Name             | Description                                                                   | Requirements                           |
+| ---- | ---------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
+|      | Perpetual Motion | The cycle continues.                                                          | Complete the ending "Perpetual Motion" |
+|      | The First Law    | An object in motion remains in motion, unless acted on by an unbalanced force | Complete the ending ""                 |
 #### Li "Joseph" Zenghui
 
-| Icon | Name               | Description | Requirements           |
-| ---- | ------------------ | ----------- | ---------------------- |
-|      | Touch Me Not       |             | Complete the ending "" |
-|      | No Place Like Home |             | Complete the ending "" |
+| Icon | Name               | Description                                | Requirements                             |
+| ---- | ------------------ | ------------------------------------------ | ---------------------------------------- |
+|      | Mi Último Adiós    | Farewell to all I love; to die is to rest. | Complete the ending "Mi Último Adiós"    |
+|      | Mi Penúltimo Adiós |                                            | Complete the ending "Mi Penúltimo Adiós" |
