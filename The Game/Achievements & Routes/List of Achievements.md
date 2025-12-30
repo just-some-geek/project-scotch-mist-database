@@ -23,10 +23,10 @@ These achievements can only be achieved by doing specific things as certain char
 |      | Man Of War |             | Complete the ending "Man Of War" |
 #### Yukio Yamada
 
-| Icon | Name             | Description                                                                   | Requirements                           |
-| ---- | ---------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-|      | Perpetual Motion | The cycle continues.                                                          | Complete the ending "Perpetual Motion" |
-|      | The First Law    | An object in motion remains in motion, unless acted on by an unbalanced force | Complete the ending ""                 |
+| Icon | Name             | Description                                                                    | Requirements                           |
+| ---- | ---------------- | ------------------------------------------------------------------------------ | -------------------------------------- |
+|      | Perpetual Motion | The cycle continues.                                                           | Complete the ending "Perpetual Motion" |
+|      | The First Law    | An object in motion remains in motion, unless acted on by an unbalanced force. | Complete the ending "The First Law"    |
 #### Li "Joseph" Zenghui
 
 | Icon | Name               | Description                                | Requirements                             |
