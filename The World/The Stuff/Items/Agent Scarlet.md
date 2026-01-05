@@ -31,7 +31,7 @@ The use of Agent Scarlet in the Reclamation Wars was largely kept secret, due to
 # Use in the Shenzhou War
 The fighting in the [[Shenzhou War]] comprised a mix of pitched frontline battles and a guerilla campaign deep in [[South Shenzhou]]'s countryside. The [[Sterlian Commonwealth Armed Forces|SCAF]] would initially intervene only along the frontlines, but pressure from Southern president {*Name Here*} would push the Sterlians to assist in the anti-insurgency campaign.
 
-Starting in 1949, the Royal Air Force would begin spraying Agent Scarlet over much of the South Shenzhen countryside as part of Operation Ploughshare. As chemical warfare was still banned, the material for Ploughshare would be smuggled into the country as fertilizers or food products through civilian routes and deployed by retrofitted crop dusters along standardized bombing routes.
+Starting in 1949, the Royal Air Force would begin spraying Agent Scarlet over much of the South Shenzhen countryside as part of [[Operation Ploughshare]]. As chemical warfare was still banned, the material for Ploughshare would be smuggled into the country as fertilizers or food products through civilian routes and deployed by retrofitted crop dusters along standardized bombing routes.
 
 In early November 1957, one of the Ploughshare shipments would be intercepted by Secretary [[Olivia Northwind]], leading to the exposure of the operation in the [[Northwind Papers]]. Operation Ploughshare would be terminated soon after, not due to the public outcry, but rather the [[Fall of Kaigaishima]] to Eikan forces.
 # Effects and Impact
