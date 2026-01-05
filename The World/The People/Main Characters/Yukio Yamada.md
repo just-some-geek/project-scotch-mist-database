@@ -56,7 +56,7 @@ Themselves - “I’m unsure, have you ever been unsure before? There’s a lot 
 ### Character Story
 ___ 
 
-Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways, materially had issues that he could not live with. Its rampant nationalism and racism was apparent, its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
+Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways, materially had issues that he could not live with. Its rampant nationalism and racism was apparent, and its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
   
 So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as [[The Isabelines]].  
   
