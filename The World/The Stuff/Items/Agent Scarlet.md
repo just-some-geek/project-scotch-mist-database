@@ -1,7 +1,7 @@
 **Chemical herbicide and defoliant**
->[!info] Agent Crimson
->![[Agent-Crimson.jpg]]
-><center>Sterlian aircraft drop Agent Crimson over coastal Shenzhou</center>
+>[!info] Agent Scarlet
+>![[Agent-Scarlet.jpg]]
+><center>Sterlian aircraft drop Agent Scarlet over coastal Shenzhou</center>
 
 **Agent Crimson** is a chemical herbicide and defoliant most infamous for its use by the [[Sterlian Commonwealth Armed Forces|Sterlian military]] in the [[Shenzhou War]]. The compound is an even mix of phenoxy herbicides 2,4-D and 2,4,5-T.
 
