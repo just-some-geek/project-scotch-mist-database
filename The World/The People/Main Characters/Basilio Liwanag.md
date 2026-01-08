@@ -73,7 +73,9 @@ With this newfound popularity, The Kingfisher expands its operations including c
   
 During this period of Martial Law, Basilio and those close to him spend their time evading capture from the police and the government. As students have been especially targeted for "investigation" due to the string of protests that have started around Paul Miki University. All the while he, including Yukio and the others use their best efforts to keep The Kingfisher running and distributing, exposing the government for their capture and torture of political enemies and civilians. They end up collaborating with certain institutions they can trust to distribute their leaflets, including but not limited to [[Chorizo Joe's Karinderia]], Wildflour, and the [[Paul Miki Parish]]. 
 
-This continues until the situation escalates after the [[Paul Miki University Massacre]], which triggers riots across the entire island as well as the Eikan military's [[Operation Divine Wind]]. His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup, however at any point Basilio might be caught and conscripted into the [[Shenzhou War]] which would be his alternative ending. Whether or not the Sterlians manage to push back the Eikan advance will be determined by other factors that Basilio may or may not influence.
+This continues until the situation escalates after the [[Paul Miki University Massacre]], which triggers riots across the entire island as well as the Eikan military's [[Operation Divine Wind]]. His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup.
+
+In Basilio's alternative ending, he will escape to [[Great Sterlia]] after being offered a scholarship at [[St. Ignatius University]]'s campus in Avonforde. This is due to his fear of returning home in shame without achieving the thing he set out to do which was further his education on his own, so his pride makes him continue this path elsewhere. Mimicking the beginning of Josephs story somehow.
 
 ### Quotes
 ---
