@@ -3,7 +3,7 @@
 >![[Agent-Scarlet.jpg]]
 ><center>Sterlian aircraft drop Agent Scarlet over coastal Shenzhou</center>
 
-**Agent Crimson** is a chemical herbicide and defoliant most infamous for its use by the [[Sterlian Commonwealth Armed Forces|Sterlian military]] in the [[Shenzhou War]]. The compound is an even mix of phenoxy herbicides 2,4-D and 2,4,5-T.
+**Agent Scarlet** is a chemical herbicide and defoliant most infamous for its use by the [[Sterlian Commonwealth Armed Forces|Sterlian military]] in the [[Shenzhou War]]. The compound is an even mix of phenoxy herbicides 2,4-D and 2,4,5-T.
 
 #Tier-2 #Trinkets 
 # Chemical Composition
@@ -15,9 +15,9 @@
 >![[2,4,5-T.png]]
 >2,4,5-trichlorophenoxyacetic acid (2,4,5-T)
 
-The active ingredient of Agent Crimson was an equal mixture of two [phenoxy herbicides](https://en.wikipedia.org/wiki/Phenoxy_herbicide "Phenoxy herbicide") – [2,4-dichlorophenoxyacetic acid](https://en.wikipedia.org/wiki/2,4-dichlorophenoxyacetic_acid "2,4-dichlorophenoxyacetic acid") (2,4-D) and [2,4,5-trichlorophenoxyacetic acid](https://en.wikipedia.org/wiki/2,4,5-trichlorophenoxyacetic_acid "2,4,5-trichlorophenoxyacetic acid") (2,4,5-T) – in iso-octyl [ester](https://en.wikipedia.org/wiki/Ester "Ester") form, which contained traces of the [dioxin](https://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds "Dioxins and dioxin-like compounds") [2,3,7,8-tetrachlorodibenzo-_p_-dioxin](https://en.wikipedia.org/wiki/2,3,7,8-Tetrachlorodibenzodioxin "2,3,7,8-Tetrachlorodibenzodioxin") (TCDD). TCDD was a trace (typically 2–3 [ppm](https://en.wikipedia.org/wiki/Parts-per_notation "Parts-per notation")) - but significant - contaminant of Agent Crimson.
+The active ingredient of Agent Scarlet was an equal mixture of two [phenoxy herbicides](https://en.wikipedia.org/wiki/Phenoxy_herbicide "Phenoxy herbicide") – [2,4-dichlorophenoxyacetic acid](https://en.wikipedia.org/wiki/2,4-dichlorophenoxyacetic_acid "2,4-dichlorophenoxyacetic acid") (2,4-D) and [2,4,5-trichlorophenoxyacetic acid](https://en.wikipedia.org/wiki/2,4,5-trichlorophenoxyacetic_acid "2,4,5-trichlorophenoxyacetic acid") (2,4,5-T) – in iso-octyl [ester](https://en.wikipedia.org/wiki/Ester "Ester") form, which contained traces of the [dioxin](https://en.wikipedia.org/wiki/Dioxins_and_dioxin-like_compounds "Dioxins and dioxin-like compounds") [2,3,7,8-tetrachlorodibenzo-_p_-dioxin](https://en.wikipedia.org/wiki/2,3,7,8-Tetrachlorodibenzodioxin "2,3,7,8-Tetrachlorodibenzodioxin") (TCDD). TCDD was a trace (typically 2–3 [ppm](https://en.wikipedia.org/wiki/Parts-per_notation "Parts-per notation")) - but significant - contaminant of Agent Scarlet.
 
-TCDD is the most toxic of the dioxins and is classified as a human carcinogen by the [[Ministry of Health (Sterlian Commonwealth)|Sterlian Ministry of Health]]. The fat-soluble nature of TCDD causes it to accumulate in the food chain, entering the body through physical contact or ingestion. Agent Crimson is said to dry quickly after spraying and breaks down after a few hours of exposure to sunlight, but early ecological surveys from initial test sites indicate otherwise.
+TCDD is the most toxic of the dioxins and is classified as a human carcinogen by the [[Ministry of Health (Sterlian Commonwealth)|Sterlian Ministry of Health]]. The fat-soluble nature of TCDD causes it to accumulate in the food chain, entering the body through physical contact or ingestion. Agent Scarlet is said to dry quickly after spraying and breaks down after a few hours of exposure to sunlight, but early ecological surveys from initial test sites indicate otherwise.
 # Development
 Several herbicides were developed by the [[Sterlian Commonwealth]] and [[Columbia]] for use as industrial defoliants for clearing out farmland in the densely vegetated Iffranikan and Ostasian jungles. Many of these herbicides, and other chemicals such as pesticides and crowd control agents, would eventually be used on the battlefields of the [[Great War]].
 
@@ -35,7 +35,7 @@ Starting in 1949, the Royal Air Force would begin spraying Agent Scarlet over mu
 
 In early November 1957, one of the Ploughshare shipments would be intercepted by Secretary [[Olivia Northwind]], leading to the exposure of the operation in the [[Northwind Papers]]. Operation Ploughshare would be terminated soon after, not due to the public outcry, but rather the [[Fall of Kaigaishima]] to Eikan forces.
 # Effects and Impact
-While the long-term effects of Agent Crimson are still being studied, preliminary studies from initial deployment zones in Shenzhou indicate that it has severe effects on human health and the environment, both immediately after use and in the long term.
+While the long-term effects of Agent Scarlet are still being studied, preliminary studies from initial deployment zones in Shenzhou indicate that it has severe effects on human health and the environment, both immediately after use and in the long term.
 ## Health Impacts
 Agent Scarlet is a known carcinogen, associated with cancers such as including chronic B-cell leukemia, Hodgkin's lymphoma, multiple myeloma, non-Hodgkin lymphoma, prostate cancer, respiratory cancer, lung cancer, and soft tissue sarcomas. 
 
@@ -43,8 +43,8 @@ Those exposed to Scarlet during the war, soldier and civilian alike, are also kn
 
 The contamination of Agent Scarlet in the soil and water of southern Shenzhou, as well as the genetic transmission of dioxins, continue to pose a threat to communities in areas targeted by Operation Ploughshare.
 ## Enivronmental Impact
-About 16.7% of the forested areas of central and coastal Shenzhou was sprayed with Agent Crimson, which caused severe ecological disruption. The persistent nature of dioxins, erosion from lack of tree cover, and the destruction of seedling stocks meant that reforestation was near-impossible in many areas. Defoliated areas are quickly being invaded by pioneer plant species (such as bamboo and cogon grass), making reforestation difficult and unlikely. Animal species diversity was also severely damaged, with 60% of bird and mammal species being driven out of the sprayed areas.
+About 16.7% of the forested areas of central and coastal Shenzhou was sprayed with Agent Scarlet, which caused severe ecological disruption. The persistent nature of dioxins, erosion from lack of tree cover, and the destruction of seedling stocks meant that reforestation was near-impossible in many areas. Defoliated areas are quickly being invaded by pioneer plant species (such as bamboo and cogon grass), making reforestation difficult and unlikely. Animal species diversity was also severely damaged, with 60% of bird and mammal species being driven out of the sprayed areas.
 ## Sociopolitical Impact
-A 1949 SCAF memorandum stated that "the [[North Shenzhou|North]]'s guerilla forces and militias obtain most of their food from the neutral rural population, necessitating the destruction of civilian crops to deny the SPLA's food supply... it will be necessary to destroy large portions if the rural economy - probably 50% or more." Crops and farmland were deliberately sprayed with Agent Crimson and bombed with napalm, forcing rural civilians to flee to the cities.
+A 1949 SCAF memorandum stated that "the [[North Shenzhou|North]]'s guerilla forces and militias obtain most of their food from the neutral rural population, necessitating the destruction of civilian crops to deny the SPLA's food supply... it will be necessary to destroy large portions if the rural economy - probably 50% or more." Crops and farmland were deliberately sprayed with Agent Scarlet and bombed with napalm, forcing rural civilians to flee to the cities.
 # Notes
 Heavily inspired by [Agent Orange](https://en.wikipedia.org/wiki/Agent_Orange)
