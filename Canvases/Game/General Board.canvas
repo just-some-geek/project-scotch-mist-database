@@ -8,7 +8,6 @@
 		{"id":"fad4893d61a817aa","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/the_wind_rises_poster.jpg","x":100,"y":360,"width":270,"height":400},
 		{"id":"b841df663aa739be","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/THC.png","x":412,"y":360,"width":617,"height":340},
 		{"id":"55174c6329e94ec9","type":"text","text":"## Movies / Shows","x":-526,"y":-180,"width":250,"height":60,"color":"1"},
-		{"id":"34841e00d07a8c52","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/fnh2.png","x":1040,"y":360,"width":399,"height":317},
 		{"id":"7d6b78069b557474","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/high_and_low.jpg","x":-526,"y":801,"width":283,"height":425},
 		{"id":"d2924ef2deda10da","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/the_wind_rises.png","x":-220,"y":801,"width":542,"height":425},
 		{"id":"7837bff504e87b99","type":"text","text":"## History","x":1040,"y":730,"width":250,"height":60,"color":"1"},
@@ -27,7 +26,8 @@
 		{"id":"446b0ae87f9e4190","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/bugonia.png","x":2206,"y":-63,"width":623,"height":935},
 		{"id":"53cb16f4f7277572","type":"text","text":"## Marmatakis Designed Posters","x":1480,"y":-180,"width":400,"height":60,"color":"1"},
 		{"id":"c582c72e5b402941","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/TKOASD2.png","x":2206,"y":974,"width":685,"height":978},
-		{"id":"873f402ee8935289","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/imagery of crisis.png","x":2891,"y":-63,"width":660,"height":935}
+		{"id":"873f402ee8935289","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/imagery of crisis.png","x":2891,"y":-63,"width":660,"height":935},
+		{"id":"34841e00d07a8c52","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/fnh2.png","x":360,"y":1983,"width":504,"height":400}
 	],
 	"edges":[]
 }
