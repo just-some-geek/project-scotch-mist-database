@@ -5,21 +5,23 @@ These achievements can be achieved by any character, but might require some setu
 #### Time-based
 Unlock automatically while playing through the game.
 
-| Icon | Name                   | Description      | Requirements                                      |
-| ---- | ---------------------- | ---------------- | ------------------------------------------------- |
-|      | Welcome to Kaigaishima | Enjoy your stay. | Make it through Immigrations at the Port.         |
-|      |                        |                  | Watch a fireworks display at the Summer Festival. |
-|      | Poppy Day              | Lest we forget.  | Attend a Memorial Day service.                    |
+| Icon | Name                   | Description         | Requirements                                      |
+| ---- | ---------------------- | ------------------- | ------------------------------------------------- |
+|      | Welcome to Kaigaishima | Enjoy your stay.    | Make it through Immigrations at the Port.         |
+|      |                        |                     | Watch a fireworks display at the Summer Festival. |
+|      | Poppy Day              | Lest we forget.     | Attend a Memorial Day service.                    |
+|      | Proclamation 1081      | Do you remember...  | Listen to the Declaration of Martial Law.         |
+|      | Auld Lang Syne         | We'll meet again... | Evacuate from Kaigaishima.                        |
 #### Location-based
 Unlock when visiting a location for the first time.
 
-| Icon | Name               | Description | Requirements                             |
-| ---- | ------------------ | ----------- | ---------------------------------------- |
-|      | Western Wanderer   |             | Visit every district in the West Region. |
-|      | Eastern Explorer   |             | Visit every district in the East Region. |
-|      | Southern Sightseer |             | Visit                                    |
-|      | Northern Navigator |             |                                          |
-|      | City Crawler       |             |                                          |
+| Icon | Name               | Description | Requirements                                |
+| ---- | ------------------ | ----------- | ------------------------------------------- |
+|      | Western Wanderer   |             | Visit every district in the West Region.    |
+|      | Eastern Explorer   |             | Visit every district in the East Region.    |
+|      | Southern Sightseer |             | Visit every district in the South Region.   |
+|      | Northern Navigator |             | Visit every district in the North Region.   |
+|      | City Crawler       |             | Visit every district in the Central Region. |
 
 
 | Icon | Name            | Description                                     | Requirements                                                                |
