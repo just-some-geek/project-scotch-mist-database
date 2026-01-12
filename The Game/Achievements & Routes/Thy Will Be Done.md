@@ -5,8 +5,14 @@
 A few conditions must be met to ensure the 
 
 1) Complete all character stories.
-2) Artemis Taylor must be alive at the time of Joseph's execution.
-3) Admiral Northwind dies on Red Christmas
+2) On the date of Joseph's execution:
+	1) [[Artemis Ellery Taylor]] must be alive
+	2) [[Nelson Charles Northwind]] must be dead
+	3) [[Damian Lim]] must be dead
+3) Must have max bond level with:
+	1) [[Rev. Thomas McKenzie]]
+	2) [[Yukio Yamada]]
+	3) [[Olivia Northwind]]
 # Guide
 
 ## Complete all character stories
