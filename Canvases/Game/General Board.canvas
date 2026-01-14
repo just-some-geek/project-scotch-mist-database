@@ -27,7 +27,8 @@
 		{"id":"53cb16f4f7277572","type":"text","text":"## Marmatakis Designed Posters","x":1480,"y":-180,"width":400,"height":60,"color":"1"},
 		{"id":"c582c72e5b402941","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/TKOASD2.png","x":2206,"y":974,"width":685,"height":978},
 		{"id":"873f402ee8935289","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/imagery of crisis.png","x":2891,"y":-63,"width":660,"height":935},
-		{"id":"34841e00d07a8c52","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/fnh2.png","x":360,"y":1983,"width":504,"height":400}
+		{"id":"34841e00d07a8c52","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/fnh2.png","x":360,"y":1983,"width":504,"height":400},
+		{"id":"c7a59956dd2d9eea","type":"file","file":"PSM-DB/Images & Videos/Canvas/General Board/disco elysium.jpg","x":-525,"y":2440,"width":1389,"height":796}
 	],
 	"edges":[]
 }
