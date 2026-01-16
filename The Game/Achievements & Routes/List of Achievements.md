@@ -24,13 +24,13 @@ Unlock when visiting a location for the first time.
 |      | City Crawler       |             | Visit every district in the Central Region. |
 
 
-| Icon | Name            | Description                                     | Requirements                                                                |
-| ---- | --------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
-|      | Tireless Worker | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                    |
-|      | Lest We Forget  |                                                 | Achieve all other advancements.                                             |
-|      | Init at Lamig   | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm |
-|      | Pasalubong      | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                            |
-|      |                 |                                                 |                                                                             |
+| Icon | Name             | Description                                     | Requirements                                                                |
+| ---- | ---------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
+|      | Tireless Worker  | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                    |
+|      | Lest We Forget   |                                                 | Achieve all other advancements.                                             |
+|      | Init at Lamig    | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm |
+|      | Pasalubong       | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                            |
+|      | Day at the Races | Take the money and run!                         | Bet on a horse at a race at the Albertine Valley Country Club.              |
 
 # Character-Specific
 These achievements can only be achieved by doing specific things as certain characters.
