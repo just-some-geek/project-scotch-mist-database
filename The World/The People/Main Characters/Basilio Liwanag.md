@@ -32,17 +32,6 @@ Now while he had the opportunity to study in any school in the country due to hi
 
 It was lucky that he managed to land in Kaigaishima, probably the best place to learn different viewpoints, due to the island's diverse population.
 
-### Personality / Tidbits 
-___
-
--  He is not passionate about politics.
--  He can articulate his political opinion extremely well.
--  Too honest for his own good.
--  Eager to make friends and is quite sociable, despite seeming shy.
--  Often bikes to places.
--  He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
--  Named after the El Filibusterismo character of the same name.
-
 ### Opinions 
 ___
 
@@ -76,6 +65,22 @@ During this period of Martial Law, Basilio and those close to him spend their ti
 This continues until the situation escalates after the [[Paul Miki University Massacre]], which triggers riots across the entire island as well as the Eikan military's [[Operation Divine Wind]]. His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup.
 
 In Basilio's alternative ending, he will escape to [[Great Sterlia]] after being offered a scholarship at [[St. Ignatius University]]'s campus in Avonforde. This is due to his fear of returning home in shame without achieving the thing he set out to do which was further his education on his own, so his pride makes him continue this path elsewhere. Mimicking the beginning of Josephs story somehow.
+
+### Principles and Philosophies
+---
+
+
+
+### Personality / Tidbits 
+___
+
+-  He is not passionate about politics.
+-  He can articulate his political opinion extremely well.
+-  Too honest for his own good.
+-  Eager to make friends and is quite sociable, despite seeming shy.
+-  Often bikes to places.
+-  He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
+-  Named after the El Filibusterismo character of the same name.
 
 ### Quotes
 ---

@@ -33,16 +33,6 @@ After a well spent 10 years he’s learnt a lot on his travels, be it biology, p
   
 His ideas can be seen as radical by some, but needless to say he is confident in what he believes in.  
   
-### Personality / Tidbits 
-___
-  
--  Named after a member of the band Omnipotent Youth Society
--  Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
--  Despite being a very intelligent educated man, he struggles to take advantage of his strengths in his ventures at first.
--  Initially bad at it, over the course of the story learns to play the "game of politics" to a scary degree.
--  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
--  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
-  
 ### Opinions 
 ---
   
@@ -73,6 +63,21 @@ After the printing and publication of his first novel, he was arrested by the po
 The final scene to be played, is a funeral scene held somewhere far away, with a man reading out the 5th letter in his honour. 
 
 However, an ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. The canonicity of this ending is left up to interpretation. 
+
+### Principles and Philosophies
+---
+
+Lorem Ipsum
+
+### Personality / Tidbits 
+___
+  
+-  Named after a member of the band Omnipotent Youth Society
+-  Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
+-  Despite being a very intelligent educated man, he struggles to take advantage of his strengths in his ventures at first.
+-  Initially bad at it, over the course of the story learns to play the "game of politics" to a scary degree.
+-  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
+-  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
 
 ### Quotes
 ---
