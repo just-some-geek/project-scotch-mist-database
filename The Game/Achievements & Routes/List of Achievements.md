@@ -13,22 +13,32 @@ Unlock automatically while playing through the game.
 #### Location-based
 Unlock when visiting a location for the first time.
 
-| Icon | Name               | Description | Requirements                             |
-| ---- | ------------------ | ----------- | ---------------------------------------- |
-|      | Western Wanderer   |             | Visit every district in the West Region. |
-|      | Eastern Explorer   |             | Visit every district in the East Region. |
-|      | Southern Sightseer |             | Visit                                    |
-|      | Northern Navigator |             |                                          |
-|      | City Crawler       |             |                                          |
+| Icon | Name               | Description | Requirements                                |
+| ---- | ------------------ | ----------- | ------------------------------------------- |
+|      | Western Wanderer   |             | Visit every district in the West Region.    |
+|      | Eastern Explorer   |             | Visit every district in the East Region.    |
+|      | Southern Sightseer |             | Visit every district in the South Region.   |
+|      | Northern Navigator |             | Visit every district in the North Region.   |
+|      | City Crawler       |             | Visit every district in the Central Region. |
+|      |                    |             |                                             |
 
+#### System-based
+Unlock during encounters of The System
 
-| Icon | Name            | Description                                     | Requirements                                                                |
-| ---- | --------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
-|      | Tireless Worker | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                    |
-|      | Lest We Forget  |                                                 | Achieve all other advancements.                                             |
-|      | Init at Lamig   | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm |
-|      | Pasalubong      | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                            |
-|      |                 |                                                 |                                                                             |
+| Icon | Name                      | Description | Requirements                                               |
+| ---- | ------------------------- | ----------- | ---------------------------------------------------------- |
+|      |                           |             |                                                            |
+|      |                           |             |                                                            |
+|      | Fake It Till You Make It. |             | Succeed an skill overcharge with a +50% chance of failure. |
+#### Miscellaneous
+
+| Icon | Name            | Description                                     | Requirements                                                                 |
+| ---- | --------------- | ----------------------------------------------- | ---------------------------------------------------------------------------- |
+|      | Tireless Worker | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                     |
+|      | Lest We Forget  |                                                 | Achieve all other advancements.                                              |
+|      | Init at Lamig   | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm. |
+|      | Pasalubong      | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                             |
+|      |                 |                                                 |                                                                              |
 
 # Character-Specific
 These achievements can only be achieved by doing specific things as certain characters.
