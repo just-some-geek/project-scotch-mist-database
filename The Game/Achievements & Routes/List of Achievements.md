@@ -27,8 +27,8 @@ Unlock during encounters of The System
 
 | Icon | Name                      | Description | Requirements                                               |
 | ---- | ------------------------- | ----------- | ---------------------------------------------------------- |
-|      |                           |             |                                                            |
-|      |                           |             |                                                            |
+|      | Lorem ipsum.              |             |                                                            |
+|      | Lorem ipsum.              |             |                                                            |
 |      | Fake It Till You Make It. |             | Succeed an skill overcharge with a +50% chance of failure. |
 #### Miscellaneous
 
@@ -38,7 +38,7 @@ Unlock during encounters of The System
 |      | Lest We Forget  |                                                 | Achieve all other advancements.                                              |
 |      | Init at Lamig   | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm. |
 |      | Pasalubong      | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                             |
-|      |                 |                                                 |                                                                              |
+|      | Lorem ipsum.    |                                                 |                                                                              |
 
 # Character-Specific
 These achievements can only be achieved by doing specific things as certain characters.
