@@ -25,3 +25,7 @@ The most difficult condition that must be met is the last one: "Artemis Taylor i
 There is one final thing that must be done to unlock Joseph's extended campaign.
 
 During the cutscene of Joseph's execution, while the firing squad is counting down, press any button. Joseph will turn his head to face the camera as he is shot.
+
+He then is woken up by a revolutionary cell hiding within [[Hoshiyama Nature Reserve]].
+
+From here you experience the last 2 - 3 months of the game, hiding from authorities and eventually having to leave the island again, though hopefully not for long.
