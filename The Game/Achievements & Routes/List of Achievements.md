@@ -13,14 +13,14 @@ Unlock automatically while playing through the game.
 #### Location-based
 Unlock when visiting a location for the first time.
 
-| Icon | Name               | Description | Requirements                                |
-| ---- | ------------------ | ----------- | ------------------------------------------- |
-|      | Western Wanderer   |             | Visit every district in the West Region.    |
-|      | Eastern Explorer   |             | Visit every district in the East Region.    |
-|      | Southern Sightseer |             | Visit every district in the South Region.   |
-|      | Northern Navigator |             | Visit every district in the North Region.   |
-|      | City Crawler       |             | Visit every district in the Central Region. |
-|      |                    |             |                                             |
+| Icon | Name                    | Description | Requirements                                |
+| ---- | ----------------------- | ----------- | ------------------------------------------- |
+|      | Western Wanderer        |             | Visit every district in the West Region.    |
+|      | Eastern Explorer        |             | Visit every district in the East Region.    |
+|      | Southern Sightseer      |             | Visit every district in the South Region.   |
+|      | Northern Navigator      |             | Visit every district in the North Region.   |
+|      | City Crawler            |             | Visit every district in the Central Region. |
+|      | Chasing Starry Mountain |             | Visit the Hoshiyama Nature Reserve.         |
 
 #### System-based
 Unlock during encounters of The System
