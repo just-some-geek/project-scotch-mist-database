@@ -73,12 +73,12 @@ It all comes to a head when on the 12th of April, a [[Paul Miki University Massa
 
 Faced with a tough decision, Yukio can either decide to flee to the Isabelines on his own per Basilio's suggestion, or stay with Father McKenzie and/or Artemis to aid the island.
 
-### Principles and Philosophies
+### Principles, Philosophy and Personality
 ---
 
 Lorem Ipsum
 
-### Personality / Tidbits 
+### Tidbits 
 ___
 
 -  Initially named Leo Detahito, changed for aesthetics sake.
