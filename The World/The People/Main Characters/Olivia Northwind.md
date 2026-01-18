@@ -66,17 +66,16 @@ It all comes to a head when multiple students get shot during the [[Paul Miki Un
 
 Her final decision is to either stay behind in Southern Shenzhou to aid refugees, or fight for social reform back in the capitol of the Commonwealth.
 
-### Principles and Philosophies
+### Principles, Philosophy and Personality
 ---
 
-Lorem Ipsum
+Very insecure about herself, often believes she’s “not enough”.
 
-### Personality / Tidbits 
+### Tidbits 
 ___
 
 -  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
 -  She is an alcoholic, yet has no remorse with being one, frequents the [[Wildflour (bar)|Wildflour]].
--  Very insecure about herself, often believes she’s “not enough”.
 -  Can pass the Bechdel Test.
 -  Named Olivia after the Fear and Hunger character of the same name.
 
