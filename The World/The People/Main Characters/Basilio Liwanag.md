@@ -69,7 +69,13 @@ In Basilio's alternative ending, he will escape to [[Great Sterlia]] after being
 ### Principles and Philosophies
 ---
 
+Basilio can be described as a person who's very stuck to their principles, a person who's more for the individual than the community. Not to say that he isn't willing to help the people around him, but most of his actions are driven by something personal. Rarely will he set aside his beliefs for other people, he could be called selfish in a way. There are some exceptions to this though, he will set aside his own code in life threatening situations, whether that be his own life or others. He will also set aside his own code slightly in the means of pursuing his own goals, if it gets what he wants. Not to say that his goal is to harm others or is necessarily evil though, he has a strong moral compass. 
 
+What are his goals? Well when it pertains to his stay in Kaigaishima he wants to prove himself. As stated in his character story, he believes that all of his success in his life was because of his privilege and upbringing. He wants to try and survive and exist in a vacuum, away from the security of his family's support structure. Not that he resents them, but because he wants to be more self sufficient. This goal may cause him to push himself away from other people and reject help from outside parties. Very similar to the ideas of "the hustle" and "the grind" though those terms wouldn't exist for a while. 
+
+When it comes to social settings, he is very eager to get into in conversation with people, especially when it comes to hot topics. While he claims to not be particularly passionate about politics, he has a well articulated opinion for most things. If he doesn't, then he'll form one on the spot and engage people with it immediately. He loves analysis, debate and dissection, to the point where he might play devils advocate just to keep the ball of the discussion rolling. For things he truly believes in though, he might be a bit too blunt and honest when expressing it. He may or may not care about the other person's feelings, but he doesn't sugar coat his words out of purely habit.
+
+Additionally, Basilio doesn't really have the social imagination to see how his own life can pertain or be a part of greater history. He's quite stuck in his own head and lacks awareness as to how the topics he discusses real people in their day to day, using "the big picture" too much. There are a lot of ideas in his head but not a lot of ability to translate them into something applicable in real life, nor the care to try.
 
 ### Personality / Tidbits 
 ___
