@@ -85,7 +85,7 @@ Self Introduction:
 “It’s a pleasure to meet you, my name is Li Zenghui. Although I’ve taken the name Joseph for now. Do you have business you wish to discuss?”  
   
 On Faith:  
-“I have a lot of faith in God, who else am I supposed to put my faith in, people? I bet you'll find more inspiration from [[Rev. Thomas McKenzie|that priest]].”  
+“I have a lot of faith in God, who else am I supposed to put my faith in, people? I bet you'll find more inspiration from [[Rev. Thomas McKenzie|that priest]], because when I talk to him it seems as if Heaven is lower than it seems to be.”  
   
 On Home:  
 “I have a lot of love for this island, because I owe much to it. My life, my upbringing, my education, my beliefs. So I will offer it my time, effort and happiness, until my people are happy too.”  
