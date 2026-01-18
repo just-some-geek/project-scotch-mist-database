@@ -30,15 +30,6 @@ Yukio Yamada is an illegal immigrant from [[Eikan Empire|Eiko]] who finds himsel
 Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university, [[Paul Miki University|PMU]], granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name is currently unknown.
   
 Electrical engineering seemed difficult, but he had experience with fixing radio and other appliances in his community.  
-
-### Personality / Tidbits 
-___
-
--  Initially named Leo Detahito, changed for aesthetics sake.
--  Very shy despite seeming approachable.
--  When in a new situation, can take a while to adjust as their mind is defensive and prioritizes survival.
--  Very inconspicuous and can blend in a crowd really well.
--  Light on their feet and very dexterous.
   
 ### Opinions
 ___
@@ -81,6 +72,20 @@ Due to both the [[Northwind Papers]], the delay of the Referendum results as wel
 It all comes to a head when on the 12th of April, a [[Paul Miki University Massacre|particularly unruly protest]] was cracked down on by police / military forces. Multiple students were shot and / or killed. This can include Artemis depending on the player's actions. This event sparks much outrage across the entire island as multiple institutional buildings are attacked by rioters, as well as the [[Operation Divine Wind|Eikan military arriving]] to help "liberate the island" after waiting for the opportunity to do so. All the while Yukio has yet to find his lost friend.
 
 Faced with a tough decision, Yukio can either decide to flee to the Isabelines on his own per Basilio's suggestion, or stay with Father McKenzie and/or Artemis to aid the island.
+
+### Principles and Philosophies
+---
+
+Lorem Ipsum
+
+### Personality / Tidbits 
+___
+
+-  Initially named Leo Detahito, changed for aesthetics sake.
+-  Very shy despite seeming approachable.
+-  When in a new situation, can take a while to adjust as their mind is defensive and prioritizes survival.
+-  Very inconspicuous and can blend in a crowd really well.
+-  Light on their feet and very dexterous.
 
 ### Quotes
 ___

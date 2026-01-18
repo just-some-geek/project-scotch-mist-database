@@ -22,8 +22,30 @@ Unlock when visiting a location for the first time.
 |      | Southern Sightseer |             | Visit every district in the South Region.   |
 |      | Northern Navigator |             | Visit every district in the North Region.   |
 |      | City Crawler       |             | Visit every district in the Central Region. |
+=======
+| Icon | Name                   | Description          | Requirements                                      |
+| ---- | ---------------------- | -------------------- | ------------------------------------------------- |
+|      | Welcome to Kaigaishima | Enjoy your stay.     | Make it through Immigrations at the Port.         |
+|      | Once In A Lifetime.    | Same as it ever was. | Watch a fireworks display at the Summer Festival. |
+|      | Poppy Day              | Lest we forget.      | Attend a Memorial Day service.                    |
+#### Location-based
+Unlock when visiting a location for the first time.
 
+| Icon | Name                    | Description | Requirements                                |
+| ---- | ----------------------- | ----------- | ------------------------------------------- |
+|      | You Move A Lot, Huh?    |             | Visit every district in the island.         |
+|      | Western Wanderer        |             | Visit every district in the West Region.    |
+|      | Eastern Explorer        |             | Visit every district in the East Region.    |
+|      | Southern Sightseer      |             | Visit every district in the South Region.   |
+|      | Northern Navigator      |             | Visit every district in the North Region.   |
+|      | City Crawler            |             | Visit every district in the Central Region. |
+|      | Chasing Starry Mountain |             | Visit the Hoshiyama Nature Reserve.         |
+>>>>>>> origin/main
 
+#### System-based
+Unlock during encounters of The System
+
+<<<<<<< HEAD
 | Icon | Name             | Description                                     | Requirements                                                                |
 | ---- | ---------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
 |      | Tireless Worker  | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                    |
@@ -31,6 +53,22 @@ Unlock when visiting a location for the first time.
 |      | Init at Lamig    | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm |
 |      | Pasalubong       | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                            |
 |      | Day at the Races | Take the money and run!                         | Bet on a horse at a race at the Albertine Valley Country Club.              |
+=======
+| Icon | Name                      | Description | Requirements                                               |
+| ---- | ------------------------- | ----------- | ---------------------------------------------------------- |
+|      | Lorem ipsum.              |             |                                                            |
+|      | Lorem ipsum.              |             |                                                            |
+|      | Fake It Till You Make It. |             | Succeed an skill overcharge with a +50% chance of failure. |
+#### Miscellaneous
+
+| Icon | Name            | Description                                     | Requirements                                                                 |
+| ---- | --------------- | ----------------------------------------------- | ---------------------------------------------------------------------------- |
+|      | Tireless Worker | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                     |
+|      | Lest We Forget  |                                                 | Achieve all other advancements.                                              |
+|      | Init at Lamig   | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm. |
+|      | Pasalubong      | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                             |
+|      | Lorem ipsum.    |                                                 |                                                                              |
+>>>>>>> origin/main
 
 # Character-Specific
 These achievements can only be achieved by doing specific things as certain characters.

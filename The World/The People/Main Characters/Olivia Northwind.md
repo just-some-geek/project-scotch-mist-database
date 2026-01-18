@@ -30,15 +30,6 @@ Throughout her career she has been hit with an unfortunate combination of misogy
 
 She herself requested to be transferred to Kaigaishima to prove herself to her peers in an unfamiliar environment. Kaigaishima has been known to be a delicate situation by The Commonwealth for a long time. She believes that if she could bring stability to the island, she’ll be able to show to her co-workers that she is capable.  
   
-### Personality / Tidbits 
-___
-
--  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
--  She is an alcoholic, yet has no remorse with being one, frequents the [[Wildflour (bar)|Wildflour]].
--  Very insecure about herself, often believes she’s “not enough”.
--  Can pass the Bechdel Test.
--  Named Olivia after the Fear and Hunger character of the same name.
-  
 ### Opinions 
 ___ 
 
@@ -74,6 +65,20 @@ As a response, the government outside of her knowledge and authority declares Ma
 It all comes to a head when multiple students get shot during the [[Paul Miki University Massacre]], as well as Joseph's execution happening on the same day. Both shots are heard around the island and send the general populace into a frenzy, causing riots in the South and West regions. As if that wasn't enough the Eikans see this as an opportunity to launch an attack on the island in order to turn the tides of the [[Shenzhou War]]. The situation now has reached unimaginable levels of fucked, and Olivia is now scrambling her things preparing to flee the island as she recognizes that it's frankly hopeless. However in one last act for the island and it's people, she heads to Fort Valkyrie to negotiate with the Eikan army to hold fire while civilians evacuate. 
 
 Her final decision is to either stay behind in Southern Shenzhou to aid refugees, or fight for social reform back in the capitol of the Commonwealth.
+
+### Principles and Philosophies
+---
+
+Lorem Ipsum
+
+### Personality / Tidbits 
+___
+
+-  She has a problem with cigarettes and repeatedly promises to quit, yet never does.  
+-  She is an alcoholic, yet has no remorse with being one, frequents the [[Wildflour (bar)|Wildflour]].
+-  Very insecure about herself, often believes she’s “not enough”.
+-  Can pass the Bechdel Test.
+-  Named Olivia after the Fear and Hunger character of the same name.
 
 ### Quotes
 ___
