@@ -66,7 +66,7 @@ This continues until the situation escalates after the [[Paul Miki University Ma
 
 In Basilio's alternative ending, he will escape to [[Great Sterlia]] after being offered a scholarship at [[St. Ignatius University]]'s campus in Avonforde. This is due to his fear of returning home in shame without achieving the thing he set out to do which was further his education on his own, so his pride makes him continue this path elsewhere. Mimicking the beginning of Josephs story somehow.
 
-### Principles and Philosophies
+### Principles, Philosophy and Personality
 ---
 
 Basilio can be described as a person who's very stuck to their principles, a person who's more for the individual than the community. Not to say that he isn't willing to help the people around him, but most of his actions are driven by something personal. Rarely will he set aside his beliefs for other people, he could be called selfish in a way. There are some exceptions to this though, he will set aside his own code in life threatening situations, whether that be his own life or others. He will also set aside his own code slightly in the means of pursuing his own goals, if it gets what he wants. Not to say that his goal is to harm others or is necessarily evil though, he has a strong moral compass. 
@@ -75,15 +75,13 @@ What are his goals? Well when it pertains to his stay in Kaigaishima he wants to
 
 When it comes to social settings, he is very eager to get into in conversation with people, especially when it comes to hot topics. While he claims to not be particularly passionate about politics, he has a well articulated opinion for most things. If he doesn't, then he'll form one on the spot and engage people with it immediately. He loves analysis, debate and dissection, to the point where he might play devil's advocate just to keep the ball of the discussion rolling. For things he truly believes in though, he might be a bit too blunt and honest when expressing it. He may or may not care about the other person's feelings, but he doesn't sugar coat his words out of purely habit.
 
+He wants to make friends, and does so to varying degrees of success. Not that Basilio is shy either, he just kind of stumbles his way into friendships, no grace whatsoever.
+
 Additionally, Basilio doesn't really have the social imagination to see how his own life can pertain or be a part of greater history. He's quite stuck in his own head and lacks awareness as to how the topics he discusses real people in their day to day, using "the big picture" too much. There are a lot of ideas in his head but not a lot of ability to translate them into something applicable in real life, nor the care to try.
 
-### Personality / Tidbits 
+### Tidbits 
 ___
 
--  He is not passionate about politics.
--  He can articulate his political opinion extremely well.
--  Too honest for his own good.
--  Eager to make friends and is quite sociable, despite seeming shy.
 -  Often bikes to places.
 -  He is a great basketball player relative to his height and era, doesn’t mean anything he just knows how to play.
 -  Named after the El Filibusterismo character of the same name.
