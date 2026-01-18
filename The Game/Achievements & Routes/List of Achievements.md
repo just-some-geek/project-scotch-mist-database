@@ -15,6 +15,7 @@ Unlock when visiting a location for the first time.
 
 | Icon | Name                    | Description | Requirements                                |
 | ---- | ----------------------- | ----------- | ------------------------------------------- |
+|      | You Move A Lot, Huh?    |             | Visit every district in the island.         |
 |      | Western Wanderer        |             | Visit every district in the West Region.    |
 |      | Eastern Explorer        |             | Visit every district in the East Region.    |
 |      | Southern Sightseer      |             | Visit every district in the South Region.   |
