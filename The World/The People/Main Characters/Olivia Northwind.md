@@ -99,3 +99,6 @@ On Columbia:
   
 On Joseph:  
 “He’s… earned my respect. I didn’t trust him at first but he’s shown time and time again that he is a capable man. I don’t know how he manages to keep going, would you believe me if I told you he played this ball game with Shenzhen kids in his spare time? The gall to be so carefree at a time like this. I've read [[Chasing Starry Mountain (1954)|his novel]] though, compelling read. Heard he's writing [[Crossing The River (1958)|a second one]]...”
+
+On The Kingfisher: 
+"It's always nice seeing the younger people, well people younger than me it's not like we're a generation apart, use their talents for something useful. We're part of the same generation I think. Now that I think about it I am shockingly young for someone in my position. I'm barely half a decade removed from college, what do you mean I'm Secretary to the Commander-in-Chief? Well, he is my father after all..."

@@ -109,4 +109,4 @@ On PMU:
 “It’s great! It was scary at first but the campus is really pretty and I’m learning a lot. I just hope they don't, you know. Find out... which they never will! That's the point of lying!”
 
 On National Pride:
-“It's a common sentiment where I'm from. Eikans should honor their nation for our empire is holy, the emperor holy. If you go against the nation, you go against your fellow man. I'm not here to talk about religion but I don't think the nation works for fellow men.”
+“It's a common sentiment where I'm from. Eikans should honour their nation for our empire is holy, the emperor holy. If you go against the nation, you go against your fellow man. I'm not here to talk about religion but I don't think the nation works for fellow men.”

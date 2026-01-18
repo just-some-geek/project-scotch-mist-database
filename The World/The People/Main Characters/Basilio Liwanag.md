@@ -109,3 +109,6 @@ On Relationships:
 On Proximity:  
 “The reason why friendships are born is because of closeness, but that doesn’t mean the two parties are actually friends. If they were truly friends, it would extend beyond the environment they’re forced to be in. Are you only friends because you’re co-workers, neighbours, classmates? Or is there something more?”
 
+On Alcohol:
+"It's alright."
+
