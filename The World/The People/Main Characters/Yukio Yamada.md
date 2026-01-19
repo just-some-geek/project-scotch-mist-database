@@ -76,7 +76,7 @@ Faced with a tough decision, Yukio can either decide to flee to the Isabelines o
 ### Principles, Philosophy and Personality
 ---
 
-Lorem Ipsum
+To say that Yukio is lost would be an adequate way to describe his being, as he is not lost only physically but mentally as well. He's never 
 
 ### Tidbits 
 ___
