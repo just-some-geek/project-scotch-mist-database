@@ -90,7 +90,7 @@
 		{"id":"8aac556fe29ffa20","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mopsa-the-fairy-by-jean-ingelow-1920-9.jpg!Large.jpg","x":-524,"y":-515,"width":295,"height":400},
 		{"id":"5660103daf8b9761","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg","x":-840,"y":-1320,"width":326,"height":408},
 		{"id":"0534cd9d3b80343b","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/G5D8I5naQAAIt0E.jpg","x":1080,"y":-2700,"width":266,"height":340},
-		{"id":"7789e877dc0c0734","x":1040,"y":-2320,"width":306,"height":306,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/emma veil.jpg"}
+		{"id":"7789e877dc0c0734","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/emma veil.jpg","x":1040,"y":-2320,"width":306,"height":306}
 	],
 	"edges":[]
 }
