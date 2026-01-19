@@ -23,11 +23,6 @@ Unlock when visiting a location for the first time.
 |      | Northern Navigator |             | Visit every district in the North Region.   |
 |      | City Crawler       |             | Visit every district in the Central Region. |
 
-| Icon | Name                   | Description          | Requirements                                      |
-| ---- | ---------------------- | -------------------- | ------------------------------------------------- |
-|      | Welcome to Kaigaishima | Enjoy your stay.     | Make it through Immigrations at the Port.         |
-|      | Once In A Lifetime.    | Same as it ever was. | Watch a fireworks display at the Summer Festival. |
-|      | Poppy Day              | Lest we forget.      | Attend a Memorial Day service.                    |
 #### Location-based
 Unlock when visiting a location for the first time.
 
