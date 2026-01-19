@@ -19,7 +19,7 @@ Though Sterlia, Eiko, and Shenzhou were all involved in the fighting in the Far 
 
 During the middle years of the war, the upper and port-facing sections of the fort would be refurbished with larger-caliber guns and anti-aircraft emplacements. Most notable among these was the casemate installation at **Battery 1**, which housed dual-mounted 20" naval cannons originally built for the scrapped super-dreadnought HMS Valkyrie.
 
-The proliferation of civilian radios during the war prompted the [[Ministry of Public Enlightenment and Propaganda|Ministry of Public Affairs]] to construct a broadcast tower within the fort to facilitate radio and television broadcasts.
+The proliferation of civilian radios during the war prompted the [[Ministry of Public Affairs|Ministry of Public Affairs]] to construct a broadcast tower within the fort to facilitate radio and television broadcasts.
 ## Conversion to IBS Facility
 Following the end of the Great War in 1928, the Kaigaishiman colonial government acquired the nearby island of Higashijima (lit. *East Island*) from Shenzhou. The island, now Kaigaishima's [[Districts of Kaigaishima#East Region|East Region]], was converted into a major military installation, leaving facilities on the island proper open for new residents.
 
