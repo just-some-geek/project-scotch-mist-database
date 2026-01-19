@@ -63,7 +63,6 @@
 		{"id":"1087b4b320115504","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mahito_gumgoatt.jpg","x":2280,"y":-1678,"width":306,"height":400},
 		{"id":"451ebbbb2e122848","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/la_solaridad.jpg","x":720,"y":-1340,"width":220,"height":296},
 		{"id":"5361a6a8c7c22c37","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/cardinal_jaimesin.webp","x":3840,"y":-1300,"width":263,"height":362},
-		{"id":"06239e2ba5d64172","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jonathan_L_seagull.jpg","x":1080,"y":-2700,"width":261,"height":340},
 		{"id":"3c599849725fbc1f","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/blue_period1.jpg","x":-840,"y":527,"width":281,"height":400},
 		{"id":"74c7eac9b52f6c55","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jericho_rosales.webp","x":1020,"y":-1660,"width":265,"height":400},
 		{"id":"7fbc1328880f90c9","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/jacob_wysocki.webp","x":2288,"y":541,"width":255,"height":400},
@@ -88,9 +87,10 @@
 		{"id":"74cae16b1897310e","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/edi_gathegi2.webp","x":4149,"y":-108,"width":331,"height":478},
 		{"id":"99c5d74a345442ec","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/rush_hour.png","x":3848,"y":-108,"width":261,"height":384},
 		{"id":"eeca5d82e4a177a6","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/TSHD.jpg","x":3848,"y":1012,"width":387,"height":400},
-		{"id":"0534cd9d3b80343b","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/G5D8I5naQAAIt0E.jpg","x":1028,"y":-2320,"width":313,"height":400},
 		{"id":"8aac556fe29ffa20","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/mopsa-the-fairy-by-jean-ingelow-1920-9.jpg!Large.jpg","x":-524,"y":-515,"width":295,"height":400},
-		{"id":"5660103daf8b9761","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg","x":-840,"y":-1320,"width":326,"height":408}
+		{"id":"5660103daf8b9761","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/basilio_deer.jpg","x":-840,"y":-1320,"width":326,"height":408},
+		{"id":"0534cd9d3b80343b","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/G5D8I5naQAAIt0E.jpg","x":1080,"y":-2700,"width":266,"height":340},
+		{"id":"7789e877dc0c0734","x":1040,"y":-2320,"width":306,"height":306,"type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/emma veil.jpg"}
 	],
 	"edges":[]
 }
