@@ -76,7 +76,9 @@ Faced with a tough decision, Yukio can either decide to flee to the Isabelines o
 ### Principles, Philosophy and Personality
 ---
 
-To say that Yukio is lost would be an adequate way to describe his being, as he is not lost only physically but mentally as well. He's never 
+To say that Yukio is lost would be an adequate way to describe his being, as he is not lost only physically but mentally as well. Even though the journey has just begun, he is constantly restless, constantly changing, constantly in motion. Since Yukio was a child he felt like he didn't really connect with the culture of the Eikan empire. It was a culture that had a lot of emphasis on family ties, respect and honour, as well as diligence and obedience. Now while he never saw these traits as inherently negative, in fact he quite liked them, he saw these aspects of Eikan culture be weaponized to keep people in line. So much so that he was pressured by his family to enlist in the military, something that broke the camels back for him. 
+
+
 
 ### Tidbits 
 ___

@@ -67,15 +67,15 @@ However, an ending can be achieved by manipulating people on the inside of the S
 ### Principles, Philosophy and Personality
 ---
 
-Lorem Ipsum
+Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
 
+Despite being a very intelligent educated man, he struggles to take advantage of his strengths in his ventures at first.
+
+Initially mediocre at it, over the course of the story learns to play the "game of politics" to a scary degree, because he is very willing to compromise himself for progress.
 ### Tidbits 
 ___
   
 -  Named after a member of the band Omnipotent Youth Society
--  Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
--  Despite being a very intelligent educated man, he struggles to take advantage of his strengths in his ventures at first.
--  Initially bad at it, over the course of the story learns to play the "game of politics" to a scary degree.
 -  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
 -  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
 
