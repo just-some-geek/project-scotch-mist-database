@@ -22,7 +22,7 @@ Unlock when visiting a location for the first time.
 |      | Southern Sightseer |             | Visit every district in the South Region.   |
 |      | Northern Navigator |             | Visit every district in the North Region.   |
 |      | City Crawler       |             | Visit every district in the Central Region. |
-=======
+
 | Icon | Name                   | Description          | Requirements                                      |
 | ---- | ---------------------- | -------------------- | ------------------------------------------------- |
 |      | Welcome to Kaigaishima | Enjoy your stay.     | Make it through Immigrations at the Port.         |
@@ -40,12 +40,11 @@ Unlock when visiting a location for the first time.
 |      | Northern Navigator      |             | Visit every district in the North Region.   |
 |      | City Crawler            |             | Visit every district in the Central Region. |
 |      | Chasing Starry Mountain |             | Visit the Hoshiyama Nature Reserve.         |
->>>>>>> origin/main
+
 
 #### System-based
 Unlock during encounters of The System
 
-<<<<<<< HEAD
 | Icon | Name             | Description                                     | Requirements                                                                |
 | ---- | ---------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
 |      | Tireless Worker  | Spend a day straight working at part-time jobs. | Work at any part-time job for 6 consecutive time phases.                    |
@@ -53,7 +52,7 @@ Unlock during encounters of The System
 |      | Init at Lamig    | Nagmumukhang tanga, pero masarap pala.          | Drink coffee/tea during a heat wave **or** eat ice cream during a snowstorm |
 |      | Pasalubong       | Bring home some happiness.                      | Buy take-out from Chorizo Joe's.                                            |
 |      | Day at the Races | Take the money and run!                         | Bet on a horse at a race at the Albertine Valley Country Club.              |
-=======
+
 | Icon | Name                      | Description | Requirements                                               |
 | ---- | ------------------------- | ----------- | ---------------------------------------------------------- |
 |      | Lorem ipsum.              |             |                                                            |
