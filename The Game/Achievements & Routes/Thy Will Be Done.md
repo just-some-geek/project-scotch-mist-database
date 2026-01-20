@@ -19,7 +19,10 @@ A few conditions must be met to ensure the
 At the start of the campaign, the game checks to see if you have at least one ending achievement from all characters (including Joseph).
 ## Saving Artemis Taylor
 The most difficult condition that must be met is the last one: "Artemis Taylor is alive at the time of Joseph's execution."
-
+## Killing Admiral Northwind
+Lorem ipsum.
+## Killing Damian Lim
+Convince Damian Lim to let you take refuge in the Wildflour
 
 # Secret Event
 There is one final thing that must be done to unlock Joseph's extended campaign.
