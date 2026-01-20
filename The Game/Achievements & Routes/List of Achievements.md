@@ -12,16 +12,6 @@ Unlock automatically while playing through the game.
 |      | Poppy Day              | Lest we forget.      | Attend a Memorial Day service.                    |
 |      | Proclamation 1081      | Do you remember...   | Listen to the Declaration of Martial Law.         |
 |      | Auld Lang Syne         | We'll meet again...  | Evacuate from Kaigaishima.                        |
-#### Location-based
-Unlock when visiting a location for the first time.
-
-| Icon | Name               | Description | Requirements                                |
-| ---- | ------------------ | ----------- | ------------------------------------------- |
-|      | Western Wanderer   |             | Visit every district in the West Region.    |
-|      | Eastern Explorer   |             | Visit every district in the East Region.    |
-|      | Southern Sightseer |             | Visit every district in the South Region.   |
-|      | Northern Navigator |             | Visit every district in the North Region.   |
-|      | City Crawler       |             | Visit every district in the Central Region. |
 
 #### Location-based
 Unlock when visiting a location for the first time.
