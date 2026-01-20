@@ -78,14 +78,15 @@ Faced with a tough decision, Yukio can either decide to flee to the Isabelines o
 
 To say that Yukio is lost would be an adequate way to describe his being, as he is not lost only physically but mentally as well. Even though the journey has just begun, he is constantly restless, constantly changing, constantly in motion. Since Yukio was a child he felt like he didn't really connect with the culture of the Eikan empire. It was a culture that had a lot of emphasis on family ties, respect and honour, as well as diligence and obedience. Now while he never saw these traits as inherently negative, in fact he quite liked them, he saw these aspects of Eikan culture be weaponized to keep people in line. Didn't help that he was better at the Sterlian language than Eikan, creating an even bigger disconnect between him and the culture. At some point, he was pressured by his family to enlist in the military, something that broke the camel's back for him. So, with a friend they decided to leave to the one place he felt like he could find belonging more, Kaigaishima.
 
-Kaigaishima to him was this beacon of hope, he heard stories about it early on 
+Kaigaishima to him was this beacon of hope, he heard stories about it early on in his life and the idea of a culturally diverse place where people of different ethnicities united under a common sense of home was very appealing to him. This naïve idea maintained till he arrived at the island. However even here he felt lost, as you should given you're a fish out of water, far far away from anything familiar. His response to this environment as well as the general modus operandi he's carried post-escape was that of defence and survival. Yukio often puts his guard up constantly, even with those he makes friends with due to this instinct for survival he's quickly developed. This subconscious drive to survive has developed in a lot of ways, such as his ability to blend into a crowd and remain inconspicuous, helped by his agility and light feet. 
+
+When it comes to his thoughts and ideas, he certainly has a lot of them, but he struggles to articulate them to other people. Not that he lacks the words too but he lacks the confidence, as he grew up in an environment that didn't normally allow him to speak his mind much. So he often gets lost in his own thoughts. 
 
 ### Tidbits 
 ___
 
 -  Initially named Leo Detahito, changed for aesthetics sake.
 -  Very shy despite seeming approachable.
--  When in a new situation, can take a while to adjust as their mind is defensive and prioritizes survival.
 -  Very inconspicuous and can blend in a crowd really well.
 -  Light on their feet and very dexterous.
 
