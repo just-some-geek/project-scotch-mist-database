@@ -58,11 +58,12 @@ These achievements can only be achieved by doing specific things as certain char
 |      | White Christmas      | Our boys are coming home.              | Order the evacuation of Kaigaishima.       |
 |      | Home by Christmas    | I'm dreaming of a white Christmas...   | Evacuate all possible Sterlian holdouts.   |
 #### Basilio Liwanag
-| Icon | Name          | Description                                 | Requirements                                                                |
-| ---- | ------------- | ------------------------------------------- | --------------------------------------------------------------------------- |
-|      | Tadhana       | In pursuit of the untarnished truth.        | Complete the ending "Tadhana"                                               |
-|      | Balikbayan    | Another Sabeliño coming home for Christmas. | Complete the ending "Balikbayan"                                            |
-|      | Tsismoso      | Remember to turn in your drafts on time.    | Join [[The Kingfisher]] team as Basilio                                     |
+| Icon | Name         | Description                                 | Requirements                            |
+| ---- | ------------ | ------------------------------------------- | --------------------------------------- |
+|      | Tadhana      | In pursuit of the untarnished truth.        | Complete the ending "Tadhana"           |
+|      | Balikbayan   | Another Sabeliño coming home for Christmas. | Complete the ending "Balikbayan"        |
+|      | Tsismoso     | Remember to turn in your drafts on time.    | Join [[The Kingfisher]] team as Basilio |
+|      | Ikaw at Ikaw | Is this what it feels like?                 | Find romance as Basilio                 |
 
 #### Yukio Yamada
 
@@ -78,6 +79,7 @@ These achievements can only be achieved by doing specific things as certain char
 | Icon | Name                 | Description                                                | Requirements                          |
 | ---- | -------------------- | ---------------------------------------------------------- | ------------------------------------- |
 |      | Mi Último Adiós      | Farewell to all I love; to die is to rest.                 | Complete the ending "Mi Último Adiós" |
-|      | A Wolf At The Door   | I'll never see them again if I squeal to the cops.         | Condemn Damian Lim to death.          |
+|      | A Wolf At The Door   | Born and raised for the job, someone always dies.          | Condemn Damian Lim to death.          |
 |      | [[Thy Will Be Done]] | This is not your grave, but you are welcome to rest in it. | Survive your own execution.           |
+|      | Yet Again            | Speak, don't confide.                                      | Meet Olivia again, after your death.  |
 |      | Sunrise              | Today is the first of the rest of your days.               | Complete the ending "Sunrise"         |
