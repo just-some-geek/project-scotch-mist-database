@@ -10,6 +10,7 @@ Unlock automatically while playing through the game.
 |      | Welcome to Kaigaishima | Enjoy your stay.     | Make it through Immigrations at the Port.         |
 |      | Once In A Lifetime     | Same as it ever was. | Watch a fireworks display at the Summer Festival. |
 |      | Poppy Day              | Lest we forget.      | Attend a Memorial Day service.                    |
+|      | Red Christmas          | Tis the season       | Be informed of the Christmas Day attacks.         |
 |      | Proclamation 1081      | Do you remember...   | Listen to the Declaration of Martial Law.         |
 |      | Auld Lang Syne         | We'll meet again...  | Evacuate from Kaigaishima.                        |
 
@@ -25,6 +26,7 @@ Unlock when visiting a location for the first time.
 |      | Northern Navigator      |             | Visit every district in the North Region.   |
 |      | City Crawler            |             | Visit every district in the Central Region. |
 |      | Chasing Starry Mountain |             | Visit the Hoshiyama Nature Reserve.         |
+|      | Lux In Domino           |             | Visit S.I.U. for the first time.            |
 
 
 #### System-based
@@ -56,24 +58,28 @@ These achievements can only be achieved by doing specific things as certain char
 |      | White Christmas      | Our boys are coming home.              | Order the evacuation of Kaigaishima.       |
 |      | Home by Christmas    | I'm dreaming of a white Christmas...   | Evacuate all possible Sterlian holdouts.   |
 #### Basilio Liwanag
-| Icon | Name          | Description                                 | Requirements                                                                |
-| ---- | ------------- | ------------------------------------------- | --------------------------------------------------------------------------- |
-|      | Tadhana       | In pursuit of the untarnished truth.        | Complete the ending "Tadhana"                                               |
-|      | Balikbayan    | Another Sabeliño coming home for Christmas. | Complete the ending "Balikbayan"                                            |
-|      | Tsismoso      | Remember to turn in your drafts on time.    | Join [[The Kingfisher]] team as Basilio                                     |
+| Icon | Name         | Description                                 | Requirements                            |
+| ---- | ------------ | ------------------------------------------- | --------------------------------------- |
+|      | Tadhana      | In pursuit of the untarnished truth.        | Complete the ending "Tadhana"           |
+|      | Balikbayan   | Another Sabeliño coming home for Christmas. | Complete the ending "Balikbayan"        |
+|      | Tsismoso     | Remember to turn in your drafts on time.    | Join [[The Kingfisher]] team as Basilio |
+|      | Ikaw at Ikaw | Is this what it feels like?                 | Find romance as Basilio                 |
 
 #### Yukio Yamada
 
-| Icon | Name             | Description                                                                    | Requirements                            |
-| ---- | ---------------- | ------------------------------------------------------------------------------ | --------------------------------------- |
-|      | Perpetual Motion | The cycle continues.                                                           | Complete the ending "Perpetual Motion"  |
-|      | The First Law    | An object in motion remains in motion, unless acted on by an unbalanced force. | Complete the ending "The First Law"     |
-|      | Paper Grassbird  | One sheet, folded beyond recognition.                                          | Join [[The Kingfisher]] as Yukio        |
-|      | Truth to Power   | Time shall reveal all truths.                                                  | Gather evidence against the conspiracy. |
+| Icon | Name                     | Description                                                                    | Requirements                                       |
+| ---- | ------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------- |
+|      | Perpetual Motion         | The cycle continues.                                                           | Complete the ending "Perpetual Motion"             |
+|      | The First Law            | An object in motion remains in motion, unless acted on by an unbalanced force. | Complete the ending "The First Law"                |
+|      | Paper Grassbird          | One sheet, folded beyond recognition.                                          | Join [[The Kingfisher]] as Yukio                   |
+|      | Truth to Power           | Time shall reveal all truths.                                                  | Gather evidence against the conspiracy.            |
+|      | Farewell<br>Transmission | All at once, start to be.                                                      | Message [[Makoto Carter]] for yet another goodbye. |
 #### Li "Joseph" Zenghui
 
 | Icon | Name                 | Description                                                | Requirements                          |
 | ---- | -------------------- | ---------------------------------------------------------- | ------------------------------------- |
 |      | Mi Último Adiós      | Farewell to all I love; to die is to rest.                 | Complete the ending "Mi Último Adiós" |
+|      | A Wolf At The Door   | Born and raised for the job, someone always dies.          | Condemn Damian Lim to death.          |
 |      | [[Thy Will Be Done]] | This is not your grave, but you are welcome to rest in it. | Survive your own execution.           |
+|      | Yet Again            | Speak, don't confide.                                      | Meet Olivia again, after your death.  |
 |      | Sunrise              | Today is the first of the rest of your days.               | Complete the ending "Sunrise"         |

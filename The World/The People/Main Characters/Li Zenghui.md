@@ -77,6 +77,7 @@ ___
   
 -  Named after a member of the band Omnipotent Youth Society
 -  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
+-  Personality inspired by Marty Supreme.
 -  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
 
 ### Quotes
@@ -91,7 +92,7 @@ On Home:
 “I have a lot of love for this island, because I owe much to it. My life, my upbringing, my education, my beliefs. So I will offer it my time, effort and happiness, until my people are happy too.”  
   
 On Politics:  
-“As much as I would love to discuss this with you. Let’s not, at least not here. As the saying goes, these walls have eyes and ears. They have mouths too, and they’re quite the gossipers.”
+“As much as I would love to discuss this with you. Let’s not, at least not here. As the saying goes, these walls have eyes and ears. They have mouths too, and they’re quite the gossips.”
 
 On the Sterlian Language: 
 "I am quite good in many languages, it's just that this one is the one that seems to get my point across best to these people."
