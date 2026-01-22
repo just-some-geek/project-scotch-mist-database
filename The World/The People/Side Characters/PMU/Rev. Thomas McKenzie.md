@@ -24,7 +24,7 @@ Residing parish priest of the [[Paul Miki Parish]] and professor for Paul Miki U
 ___
 
 -  Inspired by Cardinal Sin and Nicanor Austriaco
--  His favourite non-Gospel book of the bible is Exodus
+-  His favorite non-Gospel book of the bible is Exodus
 -  
 
 ### Quotes
