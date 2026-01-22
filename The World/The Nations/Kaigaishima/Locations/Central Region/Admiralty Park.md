@@ -4,8 +4,13 @@
 ><h6>Basic Information</h6>
 >
 
-**Admiralty Park**, also known as the **Kaigai Admiralty**, is the headquarters of the [[Sterlian Commonwealth Armed Forces]] in the Far East. Located in [[Districts of Kaigaishima#**Henshaw**|Henshaw, Kaigaishima]], the sprawling complex  houses hundreds of offices, dozens of meeting halls, and planning rooms where the actions of entire armies are orchestrated.
+**Admiralty Park**, also known as the **Kaigai Admiralty**, is the headquarters of the [[Sterlian Commonwealth Armed Forces]] in the Far East. Located in [[Districts of Kaigaishima#**Henshaw**|Henshaw, Kaigaishima]], the sprawling complex houses hundreds of offices, dozens of meeting halls, and planning rooms where the actions of entire armies are orchestrated.
 
 #Tier-1 #Locations 
 # History
 The
+
+## The War Room
+Olivia passes by the war room every day on the way to her office
+
+there's a 2-story map along one wall of the war room with the frontlines in shenzhou marked in a red marker. as the kaigaishiman crisis worsens, the red line slowly moves farther south towards kaigaishima
