@@ -94,7 +94,7 @@ ___
 ___
 
 Self Introduction:  
-“My name’s Yukio. Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  
+“My name’s Yukio! Oh, you don’t need to shake my hand, there’s no need to be so formal. Who are you?”  
   
 On Stress:  
 “People are so angry nowadays, all caught up in their routines and things. I just wish people would make some time, take it easy. Not all the time, just sometimes.”  
