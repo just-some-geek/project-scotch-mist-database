@@ -65,12 +65,11 @@ The final scene to be played, is a funeral scene held somewhere far away, with a
 ### Thy Will Be Done to Sunrise
 ___
 
-An ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. In actuality, Li Zenghui is meant to die as his death is necessary to unlock a better future for every other main character. However, if the player choses to alter fate drastically, they can prevent Joseph's death with the following actions.
+An ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad, but not intentionally. Zenghui fakes his own death and the eulogy is instead delivered by him. In actuality, Li Zenghui is meant to die as his death is necessary to unlock a better future for every other main character. However, if the player choses to alter fate drastically, they can prevent Joseph's death with the following actions as described in the article [[Thy Will Be Done]].
 
-
+After successfully triggering all of the conditions to unknowingly saving 
 
 ### Principles, Philosophy and Personality
----
 
 Joseph is a man driven by his ambition and ego, two qualities that hide his fears quite well. Over his years in the Western Continent he's not only amassed knowledge in academic topics but also a  in navigating social situations and manipulating people to get what he wants. Often times he's come into roadblocks in his life, specifically people, who need a little persuasion. He's not amazing at it, but he's got enough charisma to make it work. The more he works through the systems of Kaigaishima's government though, he learns to adapt his tendencies and tactics to fit "the game of politics". Sadly he's very willing to compromise his own code and morals to progress his goals. 
 
