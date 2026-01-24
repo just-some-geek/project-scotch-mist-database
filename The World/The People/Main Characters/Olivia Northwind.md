@@ -64,7 +64,7 @@ As a response, the government outside of her knowledge and authority declares Ma
 
 It all comes to a head when multiple students get shot during the [[Paul Miki University Massacre]], as well as Joseph's execution happening on the same day. Both shots are heard around the island and send the general populace into a frenzy, causing riots in the South and West regions. As if that wasn't enough the Eikans see this as an opportunity to launch an attack on the island in order to turn the tides of the [[Shenzhou War]]. The situation now has reached unimaginable levels of fucked, and Olivia is now scrambling her things preparing to flee the island as she recognizes that it's frankly hopeless. However in one last act for the island and it's people, she heads to Fort Valkyrie to negotiate with the Eikan army to hold fire while civilians evacuate. 
 
-Her final decision is to either stay behind in Southern Shenzhou to aid refugees, or fight for social reform back in the capitol of the Commonwealth.
+Her final path split is to either stay behind in Southern Shenzhou to aid refugees (thought not really of her own volition), or fight for social reform back in the capitol of the Commonwealth.
 
 ### Principles, Philosophy and Personality
 ---

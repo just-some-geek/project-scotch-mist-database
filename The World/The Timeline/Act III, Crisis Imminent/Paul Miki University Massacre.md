@@ -16,10 +16,8 @@ The massacre is cited as one of the direct causes of the [[Fall of Kaigaishima]]
 #Tier-1 #Events
 # Background
 >*Main Article: [[Kaigaishiman Crisis]]*
-
-The students of Paul Miki University are known to be very politically active, taking charge in organizing demonstrations and protests against government activity.
 ## 1957 draft riots
-As the [[Shenzhou War]] escalated throughout 1957, the Sterlian government would drop numerous draft exemptions. 
+As the [[Shenzhou War]] escalated throughout 1957, the Sterlian government would drop numerous draft exemptions, including the one meant for university students. The students of Paul Miki University are known to be very politically active, taking charge in organizing demonstrations and protests against government activity, so naturally they started to do so for this issue. 
 
 ## Increasing discontent
 On 1 January 1958, Governor [[Takatsugu Sasaki-Newman|Newman]] banned all public gatherings and demonstrations as part of the [[Martial Law in Kaigaishima#Declaration|Declaration of Martial Law]]. This effectively ended the use of rallies and protests in Kaigaishima, and dissent would increasingly be expressed through underground methods going forward.
@@ -30,7 +28,7 @@ As the war situation in Shenzhou continued to deteriorate, the Sterlian governme
 ## Lead-up to the march
 In late March 1958, pamphlets would begin circulating declaring that a public demonstration would be held on 9 April, "to bring an end to the senseless war in Shenzhou and the tyrannical government which demands that we fight it." The identity of the group publishing and circulating these pamphlets remains unknown, but some speculate that [[The Kingfisher]]'s staff was involved.
 
-Additional pamphlets would detail 
+Additional pamphlets would detail location, specific timing and planning of the march.
 # Timeline of Events
 A
 # Aftermath
