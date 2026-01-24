@@ -64,6 +64,11 @@ The final scene to be played, is a funeral scene held somewhere far away, with a
 
 However, an ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. The canonicity of this ending is left up to interpretation. 
 
+### Thy Will Be Done
+___
+
+
+
 ### Principles, Philosophy and Personality
 ---
 
