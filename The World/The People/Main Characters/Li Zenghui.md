@@ -62,10 +62,10 @@ After the printing and publication of his first novel, he was arrested by the po
 
 The final scene to be played, is a funeral scene held somewhere far away, with a man reading out the 5th letter in his honor. 
 
-However, an ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. The canonicity of this ending is left up to interpretation. 
-
-### Thy Will Be Done
+### Thy Will Be Done to Sunrise
 ___
+
+An ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. In actuality, Li Zenghui is meant to die as his death is necessary to unlock a better future for every other main character. However, if the player choses to alter fate drastically, they can prevent Joseph's death with the following actions.
 
 
 
@@ -77,6 +77,9 @@ Joseph is a man driven by his ambition and ego, two qualities that hide his fear
 Due to all of his achievements abroad, a growing sense of guilt was placed in his heart. Joseph did leave his home island of Kaigaishima to pursue greatness and self improvement, which he had successfully achieved, but what are these blessings if they couldn't be shared with those responsible for this journey in the first place. After a decade abroad, he had gotten very homesick, even disconnected from the culture of the people he once was. He would return home to make things right, and hopefully mend his relationship with if not his family, but his broader home community. Many fond words and nostalgic descriptions were penned of his home, especially the districts of Taishan and Yilan. 
 
 Although he never doubted himself nor his achievements, being confident even in his plan to establish Yilan Senior High School and hopefully later down the road a university in the Southern Region, he loathed and feared his death and future legacy. A lot of his actions, while steered by right intentions, were fueled by this intense want to be remembered and this fear of being forgotten. This is the reason for all the letters and books he wrote, as he wanted to leave behind physical artifacts to ensure to future generations that he was in fact alive.  He even considered naming the high school after himself, but that was too narcissistic even for him. 
+
+All of these factors have put a lot of metaphorical weight on his shoulders, his circumstance, acquired set of skills and network are quite strange, so he sees himself as uniquely equipped to go back and help his community. It's almost developed into this savior complex, in the idea that only he could do this, or at least be the one to lead it. 
+
 ### Tidbits 
 ___
   
