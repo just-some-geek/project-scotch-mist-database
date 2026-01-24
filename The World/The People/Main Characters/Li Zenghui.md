@@ -60,18 +60,18 @@ However things change when a few days after [[Northwind Papers|an exposé]] is r
 
 After the printing and publication of his first novel, he was arrested by the police for supposedly orchestrating Red Christmas as well as inciting revolution via his writings. He is imprisoned for a month before finally being executed on the 9th of April. Leaving his final words in a 5th and final letter that was hidden within his shoe before his execution, as he gave instructions to The Kingfisher as to what they should do during if he were to ever die. 
 
-The final scene to be played, is a funeral scene held somewhere far away, with a man reading out the 5th letter in his honour. 
+The final scene to be played, is a funeral scene held somewhere far away, with a man reading out the 5th letter in his honor. 
 
 However, an ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad. Zenghui fakes his own death and the eulogy is instead delivered by him. The canonicity of this ending is left up to interpretation. 
 
 ### Principles, Philosophy and Personality
 ---
 
-Prideful and feels secure about his legacy, yet is terrified of death, despite of what he might tell you.
+Joseph is a man driven by his ambition and ego, two qualities that hide his fears quite well. Over his years in the Western Continent he's not only amassed knowledge in academic topics but also a  in navigating social situations and manipulating people to get what he wants. Often times he's come into roadblocks in his life, specifically people, who need a little persuasion. He's not amazing at it, but he's got enough charisma to make it work. The more he works through the systems of Kaigaishima's government though, he learns to adapt his tendencies and tactics to fit "the game of politics". Sadly he's very willing to compromise his own code and morals to progress his goals. 
 
-Despite being a very intelligent educated man, he struggles to take advantage of his strengths in his ventures at first.
+Due to all of his achievements abroad, a growing sense of guilt was placed in his heart. Joseph did leave his home island of Kaigaishima to pursue greatness and self improvement, which he had successfully achieved, but what are these blessings if they couldn't be shared with those responsible for this journey in the first place. After a decade abroad, he had gotten very homesick, even disconnected from the culture of the people he once was. He would return home to make things right, and hopefully mend his relationship with if not his family, but his broader home community. Many fond words and nostalgic descriptions were penned of his home, especially the districts of Taishan and Yilan. 
 
-Initially mediocre at it, over the course of the story learns to play the "game of politics" to a scary degree, because he is very willing to compromise himself for progress.
+Although he never doubted himself nor his achievements, being confident even in his plan to establish Yilan Senior High School and hopefully later down the road a university in the Southern Region, he loathed and feared his death and future legacy. A lot of his actions, while steered by right intentions, were fueled by this intense want to be remembered and this fear of being forgotten. This is the reason for all the letters and books he wrote, as he wanted to leave behind physical artifacts to ensure to future generations that he was in fact alive.  He even considered naming the high school after himself, but that was too narcissistic even for him. 
 ### Tidbits 
 ___
   
