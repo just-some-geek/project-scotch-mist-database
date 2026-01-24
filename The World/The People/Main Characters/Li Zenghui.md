@@ -58,33 +58,49 @@ This in turn gains him notoriety with many organizations within the island which
   
 However things change when a few days after [[Northwind Papers|an exposé]] is released about corruption within the Admiralty, [[Red Christmas|a terrorist attack]] hits the admiralty's office. This causes progress on his proposed high school to come to a halt as the government declares [[Martial Law in Kaigaishima|Martial Law in Kaigaishima]] starting on the 1st of January 1958. During this time he is put under increasing levels of suspicion from the Commonwealth as he continues to publish more of his writings via the Kingfisher, eventually culminating in two novels and 4 additional letters to be released weekly after a date they forgot to set. 
 
-After the printing and publication of his first novel, he was arrested by the police for supposedly orchestrating Red Christmas as well as inciting revolution via his writings. He is imprisoned for a month before finally being executed on the 9th of April. Leaving his final words in a 5th and final letter that was hidden within his shoe before his execution, as he gave instructions to The Kingfisher as to what they should do during if he were to ever die. 
+After the printing and publication of his first novel, he was arrested by the police for supposedly orchestrating Red Christmas as well as inciting revolution via his writings. He is imprisoned for a month before finally being executed on the 9th of April. Leaving his final words in a final letter that was hidden within his shoe before his execution, as he gave instructions to The Kingfisher as to what they should do during if he were to ever die. 
 
-The final scene to be played, is a funeral scene held somewhere far away, with a man reading out the 5th letter in his honor. 
+The final scene to be played, is a funeral scene held somewhere far away, with a man reading out that letter in his honour. 
 
 ### Thy Will Be Done to Sunrise
 ___
+An ending can be achieved by manipulating the situation to get people to save you, but not intentionally. Zenghui fakes his own death and the eulogy is instead delivered by him. In actuality, Li Zenghui is meant to die as his death is necessary to unlock a better future for every other main character. However, if the player choses to alter fate drastically, they can prevent Joseph's death with the following actions as described in the article [[Thy Will Be Done]].
 
-An ending can be achieved by manipulating people on the inside of the Sterlian army to get your men on the firing squad, but not intentionally. Zenghui fakes his own death and the eulogy is instead delivered by him. In actuality, Li Zenghui is meant to die as his death is necessary to unlock a better future for every other main character. However, if the player choses to alter fate drastically, they can prevent Joseph's death with the following actions as described in the article [[Thy Will Be Done]].
+After successfully triggering all of the conditions to unknowingly save his own life, Joseph wakes up in a bunker in the heart of [[Hoshiyama Nature Reserve]]. It is revealed that the people in the firing squad who shot him were people who have read his writings and supporters of him. Two intentionally aimed for non vital parts of his body such and the rest shot blanks. Then after Joseph passed away from the shock, they carried his body away which the Sterlian higher-ups assumed would be taken care of so they just let them be. He was then dragged to the bunker which was occupied by a not yet to be named resistance group against the Commonwealth, however they state that they were formed post Red-Christmas so they couldn't have been responsible. 
 
-After successfully triggering all of the conditions to unknowingly saving 
+Waking up on the 12th of April, Joseph was informed that his death, along with a [[Paul Miki University Massacre|a separate incident]], had caused mass protests and riot across the Southern and West regions of Kaigaishima. Given such an untenable situation, the resistance group says that Joseph has until the 6th of May to get his affairs in order from then he is told to join them in fleeing the island. May 6th being the date as it's when their correspondent from [[Kopeccya]] will be arriving with their boat out of there. Now despite wanting to stay, after hearing about a possible Eikan intervention, Joseph felt that the groups plan was the best.
+
+Given the deadline now, Joseph decides to do the one thing he can do in this situation, write. He decides to pen 5 additional letters, all addressed to a specific party he felt needed closure. The Kingfisher, Benjamin Harper, his family, Father Thomas McKenzie, and Olivia Northwind being the last one. The contents of each letter would vary but all of them would give the parties confirmation that Joseph was indeed alive. 
+
+To the Kingfishers, he would leave them instructions to publish his 2nd novel, where the manuscript is as well as additional notes and pages he would like to be added. 
+
+To Benjamin Harper, he would leave him (and SIU) permission to write his memoir / autobiography as well as handle any media or material pertaining to him. He trusts his professor and mentor with his legacy. 
+
+To his family, he would leave a copy of his first novel, a message of apology as well as the rest of the money in his [[Kaigai Banking Corporation]] account. 
+
+To Father Thomas McKenzie, he asks for forgiveness for his sins. 
+
+To Olivia, he also asks for forgiveness. An apology for the grief he's causing her as well as the way he admittedly used her to get what he wanted, although it was for good intentions. 
+
+He would spend the next month slithering his way around the island, delivering these letters in secret and evading Sterlian capture. After this he will leave with the resistance group to a remote location somewhere in Kopeccya. In where he watches the sun rise on the blinding white plains. 
 
 ### Principles, Philosophy and Personality
+___
 
 Joseph is a man driven by his ambition and ego, two qualities that hide his fears quite well. Over his years in the Western Continent he's not only amassed knowledge in academic topics but also a  in navigating social situations and manipulating people to get what he wants. Often times he's come into roadblocks in his life, specifically people, who need a little persuasion. He's not amazing at it, but he's got enough charisma to make it work. The more he works through the systems of Kaigaishima's government though, he learns to adapt his tendencies and tactics to fit "the game of politics". Sadly he's very willing to compromise his own code and morals to progress his goals. 
 
 Due to all of his achievements abroad, a growing sense of guilt was placed in his heart. Joseph did leave his home island of Kaigaishima to pursue greatness and self improvement, which he had successfully achieved, but what are these blessings if they couldn't be shared with those responsible for this journey in the first place. After a decade abroad, he had gotten very homesick, even disconnected from the culture of the people he once was. He would return home to make things right, and hopefully mend his relationship with if not his family, but his broader home community. Many fond words and nostalgic descriptions were penned of his home, especially the districts of Taishan and Yilan. 
 
-Although he never doubted himself nor his achievements, being confident even in his plan to establish Yilan Senior High School and hopefully later down the road a university in the Southern Region, he loathed and feared his death and future legacy. A lot of his actions, while steered by right intentions, were fueled by this intense want to be remembered and this fear of being forgotten. This is the reason for all the letters and books he wrote, as he wanted to leave behind physical artifacts to ensure to future generations that he was in fact alive.  He even considered naming the high school after himself, but that was too narcissistic even for him. 
+Although he never doubted himself nor his achievements, being confident even in his plan to establish Yilan Senior High School and hopefully later down the road a university in the Southern Region, he loathed and feared his death and future legacy. A lot of his actions, while steered by right intentions, were fuelled by this intense want to be remembered and this fear of being forgotten. This is the reason for all the letters and books he wrote, as he wanted to leave behind physical artifacts to ensure to future generations that he was in fact alive.  He even considered naming the high school after himself, but that was too narcissistic even for him. 
 
-All of these factors have put a lot of metaphorical weight on his shoulders, his circumstance, acquired set of skills and network are quite strange, so he sees himself as uniquely equipped to go back and help his community. It's almost developed into this savior complex, in the idea that only he could do this, or at least be the one to lead it. 
+All of these factors have put a lot of metaphorical weight on his shoulders, his circumstance, acquired set of skills and network are quite strange, so he sees himself as uniquely equipped to go back and help his community. It's almost developed into this saviour complex, in the idea that only he could do this, or at least be the one to lead it. 
 
 ### Tidbits 
 ___
   
 -  Named after a member of the band Omnipotent Youth Society
 -  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
--  Personality inspired by Marty Supreme.
+-  Personality partially inspired by Marty Supreme.
 -  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
 
 ### Quotes
@@ -115,7 +131,7 @@ On What Comes After:
 
 ### Works and Writing
 ---
-> *Main Articles : [[Li's Leaving Letters (1958)]], [[Chasing Starry Mountain (1954)]], [[Crossing The River (1958)]]*
+> *Main Articles : [[Li's Leaving Letters (1958)]], [[Chasing Starry Mountain (1954)]], [[Kaigai River Crossing (1958)]]*
 
 ### Execution
 ---
