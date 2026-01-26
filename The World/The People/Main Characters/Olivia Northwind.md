@@ -69,7 +69,7 @@ Her final decision is to either stay behind in Southern Shenzhou to aid refugees
 ### Principles, Philosophy and Personality
 ---
 
-Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. 
+Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. If nothing but for her belief that she can be an upstanding, contributing member of the Sterlian Government. It was her undying love and compassion for the people of the Commonwealth that led her to take the SCSE's in the first place. 
 
 Very insecure about herself, often believes she’s “not enough”.
 
