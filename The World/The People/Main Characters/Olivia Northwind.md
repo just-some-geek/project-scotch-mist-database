@@ -41,7 +41,7 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 
 [[Yukio Yamada]] - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
 
-[[Li Zenghui]] - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
+[[Li Zenghui]] - “Far too weird for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
 ### Character Story
 ___
@@ -68,6 +68,8 @@ Her final decision is to either stay behind in Southern Shenzhou to aid refugees
 
 ### Principles, Philosophy and Personality
 ---
+
+Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. 
 
 Very insecure about herself, often believes she’s “not enough”.
 
