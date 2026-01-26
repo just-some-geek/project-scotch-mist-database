@@ -1,7 +1,7 @@
 **Sterlian government official**
 
 >[!info] Olivia Northwind</br>
->![[concept_Olivia.png]]
+>![[portrait_olivia.jpg]]
 ><center>Olivia in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Olivia Armitage Northwind</br>

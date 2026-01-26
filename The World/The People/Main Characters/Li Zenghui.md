@@ -1,7 +1,7 @@
 **Kaigaishiman nationalist, doctor, and writer**
 
 >[!info] Li Zenghui</br><center>李增辉</center>
->![[concept_Zenghui.png]]
+>![[portrait_joseph.jpg]]
 ><center>Zenghui in 1952</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Li Zenghui</br>
