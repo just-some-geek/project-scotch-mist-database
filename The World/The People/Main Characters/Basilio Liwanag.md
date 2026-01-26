@@ -112,3 +112,5 @@ On Proximity:
 On Alcohol:
 "It's alright."
 
+During Cold Weather: 
+"Now this is what I came for, much more enjoyable than the heating plate known as my hometown."
