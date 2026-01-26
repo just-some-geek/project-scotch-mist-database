@@ -3,7 +3,7 @@
 >*The native form of this personal name is Yamada Yukio. This article uses Western naming order when mentioning individuals.*
 
 >[!info] Yukio Yamada</br><center>行雄 山田</center>
->![[concept_Yukio.png]]
+>![[portrait_yukio.jpg]]
 ><center>Yamada in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Yukio Yamada</br>

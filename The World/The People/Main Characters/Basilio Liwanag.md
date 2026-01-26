@@ -1,7 +1,7 @@
 **Isabelino scholar and writer**
 
 >[!info] Basilio Liwanag</br>
->![[concept_Basilio.png]]
+>![[portrait_basilio.jpg]]
 ><center>Basilio in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Basilio Soriano Liwanag</br>
@@ -112,3 +112,5 @@ On Proximity:
 On Alcohol:
 "It's alright."
 
+During Cold Weather: 
+"Now this is what I came for, much more enjoyable than the heating plate known as my hometown."

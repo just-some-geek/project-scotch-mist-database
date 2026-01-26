@@ -1,7 +1,7 @@
 **Kaigaishiman nationalist, doctor, and writer**
 
 >[!info] Li Zenghui</br><center>李增辉</center>
->![[concept_Zenghui.png]]
+>![[portrait_joseph.jpg]]
 ><center>Zenghui in 1952</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Li Zenghui</br>
@@ -42,7 +42,7 @@ Himself - “No one else seems to agree with my ideas, I’ve got a lot of work 
 
 [[Basilio Liwanag]] - “He reminds me of myself sometimes, just a bit younger. Surprisingly athletic too.”
 
-[[Olivia Northwind]] - “My most important priority is to get her to understand me. If I can get through to her, real change can begin.”
+[[Olivia Northwind]] - “My most important priority is to get her to understand me. If I can get through to her, maybe real change can begin.”
   
 [[Yukio Yamada]]  - “I’m incredibly impressed with how he’s managed to get here. How he’s living requires an amount of forward thinking that’s very rare.”
 

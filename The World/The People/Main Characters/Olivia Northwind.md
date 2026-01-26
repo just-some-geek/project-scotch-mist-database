@@ -1,7 +1,7 @@
 **Sterlian government official**
 
 >[!info] Olivia Northwind</br>
->![[concept_Olivia.png]]
+>![[portrait_olivia.jpg]]
 ><center>Olivia in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Olivia Armitage Northwind</br>
@@ -41,7 +41,7 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 
 [[Yukio Yamada]] - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
 
-[[Li Zenghui]] - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
+[[Li Zenghui]] - “Far too weird for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
 ### Character Story
 ___
@@ -68,6 +68,8 @@ Her final path split is to either stay behind in Southern Shenzhou to aid refuge
 
 ### Principles, Philosophy and Personality
 ---
+
+Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. If nothing but for her belief that she can be an upstanding, contributing member of the Sterlian Government. It was her undying love and compassion for the people of the Commonwealth that led her to take the SCSE's in the first place. 
 
 Very insecure about herself, often believes she’s “not enough”.
 
