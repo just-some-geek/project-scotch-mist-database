@@ -1,3 +1,9 @@
+**The relationship between Olivia Northwind and Li Zenghui**
+
+This page describes the dynamic and relationship between the characters [[Olivia Northwind]] and [[Li Zenghui]]. 
+
+#General  #Tier-2
+
 > Drafted thoughts and slightly sober introspection on the dynamic between these two.
 
  *"How'd it get so scandalous?"*
