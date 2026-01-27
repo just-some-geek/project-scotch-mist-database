@@ -1,3 +1,5 @@
+**An island nation south of Kaigaishima**
+
 A tropical archipelago in the South Eastern Seas named after Queen Isabella of Dinerio. Over the last 500 years it’s passed through the hands of many colonizers, including Dinerio, Sterlia, and Columbia, only gaining its independence 70 years ago after a bloody guerilla war and a tenuous partnership with the Columbias.
 
   

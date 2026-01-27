@@ -1,7 +1,7 @@
 **Sterlian government official**
 
 >[!info] Olivia Northwind</br>
->![[concept_Olivia.png]]
+>![[portrait_olivia.jpg]]
 ><center>Olivia in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Olivia Armitage Northwind</br>
@@ -41,7 +41,7 @@ Herself - “I can handle things just fine, yet these fucks won’t believe me. 
 
 [[Yukio Yamada]] - “I can’t stand to look that boy in the face, you just feel sad for someone sometimes you know?”
 
-[[Li Zenghui]] - “Far too radical for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
+[[Li Zenghui]] - “Far too weird for my taste, he’s going to be knee deep in matters he doesn’t want to be involved in. I respect the gall on that man though.”    
 
 ### Character Story
 ___
@@ -60,14 +60,16 @@ Olivia takes it upon herself to bring these secrets to light, and spends some ti
 
 The story successfully released on the 19th of December to the public reaction she was hoping for, rage and anger, however on Christmas a week later terrorists attacks hits her dad's office as well as other locations. She personally was late to work due to either sending off her dad who was returning to the frontlines that day, or "spending the night" with Joseph, however she could've been injured or even killed in these attacks, known as [[Red Christmas]].
 
-As a response, the government outside of her knowledge and authority declares Martial Law to be implemented on the dawn of the '58. Subsequently Olivia loses a significant amount of power to a group of army officials taking collective control over the island. What's worse is that they frame and blame Joseph as the mastermind behind Red Christmas citing "revolutionary literary works", and have had lined him up for the death penalty. Now Olivia knows Joseph would never orchestrate such an event, but now she has to spend this time hiding her actions and fighting for Joseph's innocence in court. All the while she uses her already built up connections to continue exposing Sterlian atrocities. 
+As a response, the government outside of her knowledge and authority declares Martial Law to be implemented on the dawn of the '58. Subsequently Olivia loses a significant amount of power to a group of army officials taking collective control over the island. What's worse is that they frame and blame Joseph as the mastermind behind Red Christmas citing "revolutionary literary works", and have had lined him up for the death penalty. Now Olivia knows Joseph would never orchestrate such an event, but now she has to spend this time hiding her actions and fighting for Joseph's innocence. All the while she uses her already built up connections to continue exposing Sterlian atrocities. 
 
 It all comes to a head when multiple students get shot during the [[Paul Miki University Massacre]], as well as Joseph's execution happening on the same day. Both shots are heard around the island and send the general populace into a frenzy, causing riots in the South and West regions. As if that wasn't enough the Eikans see this as an opportunity to launch an attack on the island in order to turn the tides of the [[Shenzhou War]]. The situation now has reached unimaginable levels of fucked, and Olivia is now scrambling her things preparing to flee the island as she recognizes that it's frankly hopeless. However in one last act for the island and it's people, she heads to Fort Valkyrie to negotiate with the Eikan army to hold fire while civilians evacuate. 
 
-Her final decision is to either stay behind in Southern Shenzhou to aid refugees, or fight for social reform back in the capitol of the Commonwealth.
+Her final path split is to either stay behind in Southern Shenzhou to aid refugees (thought not really of her own volition), or fight for social reform back in the capitol of the Commonwealth.
 
 ### Principles, Philosophy and Personality
 ---
+
+Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. If nothing but for her belief that she can be an upstanding, contributing member of the Sterlian Government. It was her undying love and compassion for the people of the Commonwealth that led her to take the SCSE's in the first place. 
 
 Very insecure about herself, often believes she’s “not enough”.
 
@@ -98,7 +100,7 @@ On Columbia:
 "I'm not fucking scared of them, or their silly [[Office of Special and Strategic Services (Columbia)|OSSS]]."
   
 On Joseph:  
-“He’s… earned my respect. I didn’t trust him at first but he’s shown time and time again that he is a capable man. I don’t know how he manages to keep going, would you believe me if I told you he played this ball game with Shenzhen kids in his spare time? The gall to be so carefree at a time like this. I've read [[Chasing Starry Mountain (1954)|his novel]] though, compelling read. Heard he's writing [[Crossing The River (1958)|a second one]]...”
+“He’s… earned my respect. I didn’t trust him at first but he’s shown time and time again that he is a capable man. I don’t know how he manages to keep going, would you believe me if I told you he played this ball game with Shenzhen kids in his spare time? The gall to be so carefree at a time like this. I've read [[Chasing Starry Mountain (1954)|his novel]] though, compelling read. Heard he's writing [[Kaigai River Crossing (1958)|a second one]]...”
 
 On The Kingfisher: 
 "It's always nice seeing the younger people, well people younger than me it's not like we're a generation apart, use their talents for something useful. We're part of the same generation I think. Now that I think about it I am shockingly young for someone in my position. I'm barely half a decade removed from college, what do you mean I'm Secretary to the Commander-in-Chief? Well, he is my father after all..."
