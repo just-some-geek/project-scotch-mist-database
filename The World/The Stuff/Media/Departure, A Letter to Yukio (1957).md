@@ -1,6 +1,7 @@
 **A letter addressed to Yukio Yamada from Makoto Satoh Carter
 
 **Departure** is a letter written by [[Makoto Carter|Makoto Satoh]] early 1957, addressed to now [[Yukio Yamada]]. Detailing their motive and reasoning for fleeing the Eikan Empire as an explanation for Yukio.
+
 Written in Sterlian possibly as a way to evade getting caught.
 
 #Tier-2 #Media
