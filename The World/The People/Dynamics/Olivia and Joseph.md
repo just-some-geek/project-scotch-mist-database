@@ -4,10 +4,9 @@ This page describes the dynamic and relationship between the characters [[Olivia
 
 #General  #Tier-2
 
-> Drafted thoughts and slightly sober introspection on the dynamic between these two.
+Joseph and Olivia's relationship could often be mistaken for that of an on and off, will they won't they couple. However it could not be that in the slightest as it was never on in the first place. Initially it was born out of dependence, almost parasitical in nature. Both parties approached each other not with the intention of forming something of substance or meaning, but with the intention of using the other for personal advancement and gain. Yet the more they use each other, the more they unwillingly learn more of each others circumstance and being, gaining a deeper understanding with each passing day.
 
- *"How'd it get so scandalous?"*
- \- From Redbone because this part is so hot lowkey
+To the point where by the time Joseph is accused or orchestrating [[Red Christmas]], they realize their dependence on each other, not just politically but emotionally as well. They will never find romance as Joseph is fated to die in almost every outcome, but in the extremely rare chance that he does survive, there will always be an evergreen boundary that will prevent them from seeing other as more. 
 
 *Influences:*
 - The essence of veil or the complex relationship between Emma and Aleksander.
