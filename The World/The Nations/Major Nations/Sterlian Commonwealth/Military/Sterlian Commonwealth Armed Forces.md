@@ -1,12 +1,12 @@
 **Unified military forces of the Sterlian Commonwealth**
 
-The **Sterlian Commonwealth Armed Forces**, abbreviated as **SCAF**, are the unified military forces responsible for the defense of the [[Sterlian Commonwealth]], its [[Dominions of the Sterlian Commonwealth|Dominions]], and the [[Territories of the Sterlian Commonwealth|Territories]]. They also promote the Commonwealth's wider interests, supporting international peacekeeping efforts and humanitarian aid.
+The **Sterlian Commonwealth Armed Forces**, abbreviated as **SCAF**, are the unified military forces responsible for the defense of the [[Sterlian Commonwealth]], its [[Dominions of the Sterlian Commonwealth|Dominions]], and the outlying [[Territories of the Sterlian Commonwealth|Territories]]. They also promote the Commonwealth's wider interests, supporting international peacekeeping efforts and humanitarian aid.
 
 Since the formation of the Kingdom of Sterlia (later succeeded by the Sterlian Empire), the Sterlian Armed Forces have seen action in most major wars involving the Great Powers, including the Seven Years' War, the Bonapartic Wars, the Azovian Intervention, and the [[Great War]]. Following the [[Foundation of the Commonwealth|foundation of the Commonwealth]] in 1933, the disparate military forces of the Sterlian Empire's many constituent nations were federalized and unified into the SCAF. 
 
 The SCAF consist of the Royal Navy, the largest blue-water navy in the world; the Sterlian Army, the Commonwealth's principal land warfare branch; and the Royal Air Force, the most technologically sophisticated air force in the world. SCAF operations are supported by other agencies under the Ministry of Defence, including the Reserves, the Royal Auxiliary, the Constabulary, and others.
 
-King Arthur III, sovereign of the Sterlian Commonwealth, is the commander-in-chief and Head of the Armed Forces, with officers and personnel swearing allegiance to him. Long-standing convention, however, has vested *de facto* power in the Prime Minister and the Minister of Defence, who make key decisions on the use of the armed forces.
+[[King Arthur III]], sovereign of the Sterlian Commonwealth, is the commander-in-chief and Head of the Armed Forces, with officers and personnel swearing allegiance to him. Long-standing convention, however, has vested *de facto* power in the Prime Minister and the Minister of Defence, who make key decisions on the use of the armed forces.
 
 Since the outbreak of the Great War in 1914, elements of the SCAF have been deployed in combat near continuously to conflict zones around the world, most notably in **Iffranika** and the **Far East** as part of the [[Reclamation Wars]].
 
