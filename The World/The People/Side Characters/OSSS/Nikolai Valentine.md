@@ -29,6 +29,8 @@ ___
 -  He is a Columbian citizen but is [[Livron|half-Livronnaise]], and claims to be the rightful heir to the Livronnaise throne despite Livron not having a monarchy.
 -  Claims that he is the descendant of the last Livronnaise king.
 -  May or may not have tuberculosis.
+### Alter Ego - Joe Rogan Host
+___
 
 ### Quotes 
 ___
