@@ -18,7 +18,7 @@
 ### Dev Notes
 ---
 
-Though the OSS has far more competent (or at least more focused) agents in the region, by some twist of fate Mr. Valentine was the one sent in to “cover up” Harland’s “screwups”. In practice, his hilarious hijinks are likely doing more to hurt Columbian interests than advance them.
+Though the OSS has far more competent (or at least more focused) agents in the region, by some twist of fate Mr. Valentine was the one sent in to “cover up” Harland’s “screwups”. In practice, his hilarious hijinks are likely doing more to hurt Columbian interests than advance them. 
 
 ### Personality / Tidbits
 ___
