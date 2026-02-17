@@ -33,12 +33,17 @@ ___
 ___
 - OSSS Whistleblower
 - Frequently spoils future events in the game, albeit in a comedic manner 
-- 
+- Orders are to undermine the reputation of foreign nations by revealing critical information, though he may modify some information
+- As a midnight hour entertainment host, nobody consciously believes his outrageous claims
+- Sterlian propaganda knows no bounds
 ### Quotes 
 ___
 
 On Cover Names : 
 “What even is the point of a pseudonym? Surely no one will recognize your name there. Ah, cLassic OS3 and their rules...”
+
+On IBS-4 : 
+“Oh, yeah, the Japanese have been wanting to get this place for months! If I were them, I'd shoot up a few students like we did back in Livron!”
 
 On The Potentiality of his Cover being blown : 
 “You never know who you might run into… I would rather not let mY identity be known in unfamiliar territoRY. *ahem*”
