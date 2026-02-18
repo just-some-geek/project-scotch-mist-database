@@ -1,6 +1,6 @@
 **Island **
 
-**Capital**: The City, The Arthurian Estuary
+**Capital**: Avonforde, The Arthurian Estuary
 
 #Tier-5 #Geography 
 
