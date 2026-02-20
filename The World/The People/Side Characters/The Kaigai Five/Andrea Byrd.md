@@ -1,4 +1,4 @@
-**Lorem ipsum**
+**Sterlian Royal Navy Officer**
 
 >[!info] Andrea Byrd</br>
 >![[concept_Byrd.png]]

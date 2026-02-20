@@ -1,4 +1,4 @@
-**Lorem ipsum**
+**CEO of Rothschild and Sons Ltd.**
 
 >[!info] Adrian Wagner</br>
 >![[concept_Wagner.png]]

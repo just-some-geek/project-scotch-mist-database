@@ -1,4 +1,4 @@
-**Lorem ipsum**
+**Head of the Victory Triad**
 
 >[!info] "Raymond" Chen</br>
 >![[concept_Chen.png]]

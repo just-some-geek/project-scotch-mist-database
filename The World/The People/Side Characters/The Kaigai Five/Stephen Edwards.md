@@ -1,4 +1,4 @@
-**Lorem ipsum**
+**Kaigaishima's Chief Secretary for Administration**
 
 >[!info] Stephen Edwards</br>
 >![[concept_Edwards.png]]
