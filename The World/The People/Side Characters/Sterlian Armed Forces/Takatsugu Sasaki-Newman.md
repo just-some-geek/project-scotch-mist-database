@@ -1,4 +1,4 @@
-**Lorem ipsum**
+**Govenor of Kaigaishima**
 
 >[!info] Governor Newman</br>
 >![[concept_Sasaki-Newman.png]]
