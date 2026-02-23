@@ -8,7 +8,7 @@
 ><b>Location:</b> Kaigaishima, Sterlian Far Eastern Territory</br>
 ><b>Result:</b> Eikan capture and occupation of Kaigaishima</br>
 
-**Operation Divine Wind** (Eikan: 神風作戦, *Kamikaze Sasuken*) was the [[Eikan Empire|Eikan]] invasion and occupation of [[Kaigaishima]] as part of their [[The Spring Offensive (1958)|1958 Spring Offensive]]. Following the fall of [[Chendai]] on the Shenzhen mainland, a section of the Eikan military would be diverted to secure the rest of the [[Chendai Archipelago]], up to and including the nominally neutral territory of [[Sterlian Commonwealth|Sterlian]]-controlled Kaigaishima.
+**Operation Divine Wind** (Eikan: 神風作戦, *Kamikaze Sasuken*) was the [[Eikan Empire|Eikan]] invasion and occupation of [[Kaigaishima]] as part of their [[March to the Sea]]. Following the fall of [[Chendai]] on the Shenzhen mainland, a section of the Eikan military would be diverted to secure the rest of the [[Chendai Archipelago]], up to and including the nominally neutral territory of [[Sterlian Commonwealth|Sterlian]]-controlled Kaigaishima.
 
 Eikan forces made landfall on Kaigaishima in the early morning of 9 April 1958, though preliminary air strikes and sabotage operations were conducted throughout the previous night. After a few weeks of stiff resistance, Sterlian officer [[Olivia Northwind]] would negotiate a [[Operation White Christmas|Sterlian withdrawal]] on 29 April, and Kaigaishima would officially be surrendered to the Eikan Empire on 6 May.
 
