@@ -1,4 +1,4 @@
-**Lorem ipsum**
+**Sterlian Royal Navy Officer**
 
 >[!info] Robert Gilmoure</br>
 >![[concept_Gilmoure.png]]
