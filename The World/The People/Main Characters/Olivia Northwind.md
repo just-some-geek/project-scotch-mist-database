@@ -69,9 +69,11 @@ Her final path split is to either stay behind in Southern Shenzhou to aid refuge
 ### Principles, Philosophy and Personality
 ---
 
-Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. If nothing but for her belief that she can be an upstanding, contributing member of the Sterlian Government. It was her undying love and compassion for the people of the Commonwealth that led her to take the SCSE's in the first place. 
+Olivia is a fighter, all her life she's had to fight. Fight to rank number one in the SCSE's, fight for her position in government, and fight for the respect she believes she deserves. If nothing but for her belief that she can be an upstanding, contributing member of the Sterlian Government. It was her undying love and compassion for the people of the Commonwealth that led her to take the SCSE's in the first place. This commitment to the Commonwealth has put her in a tough spot mentally as she equates her self-worth to whatever success and opportunity she finds in her workplace. Caring too much for her work, to the point where she forgets to take care of herself. It doesn't help that she's been pushing through sexism for most of her professional life, as well as claims of nepotism which she can't even fully deny. 
 
-Very insecure about herself, often believes she’s “not enough”.
+This unhealthy relationship with her work has caused her to develop many insecurities, regarding her work ethic, ability to maintain worthwhile relationships with others, as well as impostor syndrome. To cope with these struggles, she turns to cigarettes and alcohol, the former she resents and the latter she indulges in.
+
+
 
 ### Tidbits 
 ___
