@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"5397c3ba00e1e5ea","type":"text","text":"","x":-1117,"y":-747,"width":250,"height":60},
 		{"id":"8e7e088c20e05af9","type":"file","file":"PSM-DB/The World/The People/Main Characters/Yukio Yamada.md","x":-1760,"y":-2800,"width":900,"height":960},
 		{"id":"e1a61a2ccabb6953","type":"text","text":"### Yukio Design Inspiration","x":-840,"y":-2800,"width":632,"height":60},
 		{"id":"00cf3de2f8510928","type":"file","file":"PSM-DB/Images & Videos/Canvas/Character Art/osamu_dazaiBSD.jpg","x":-840,"y":-2700,"width":520,"height":260},
