@@ -35,6 +35,6 @@ Written in Sterlian possibly as a way to evade getting caught.
 	I know I can't be there with you right now, and I can't control what decision you make.
 	But I trust that you'll make the right decision.
 	
-	Stat safe Yukio, please.
+	Stay safe Yukio, please.
 	
 	Makoto
