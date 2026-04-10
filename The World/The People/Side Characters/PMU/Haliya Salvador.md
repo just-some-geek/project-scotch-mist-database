@@ -15,7 +15,7 @@
 
 As of 1957, she is pursuing a degree at [[Paul Miki University]].
 
-#Tier-2 #Characters 
+#Tier-5 #Characters 
 
 ### Dev Notes
 ---
