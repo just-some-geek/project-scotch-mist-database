@@ -1,6 +1,6 @@
-**Alliance of syndicalist nations**
+**Alliance of left-aligned nations**
 
-The **Syndicalist International**, or simply **The International**, is an alliance of syndicalist nations 
+The **Red International**, or simply **The International**, is an alliance of socialist, syndicalist, and communist nations 
 
 ---
 A
