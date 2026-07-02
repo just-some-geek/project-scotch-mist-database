@@ -2,7 +2,7 @@ The following page is a chronological timeline of major events in the Scotch Mis
 # The Great War (1914-1928)
 >*Main Article: [[Great War]]*
 
-On 22 July 1914, Archduke Fritz von Kanzler, heir to the throne of the [[Thalerland|Thalerreich]], would be shot dead in a drive-by shooting at a café by [[Kopeccya|Kopeccian]] nationalists. The succeeding diplomatic crisis would drag the Europan empires into the largest, bloodiest war the world has ever seen. 
+On 22 July 1914, Archduke Fritz von Kanzler, heir to the throne of the [[Thalerland|Thalerreich]], would be shot dead in a drive-by shooting at a café by [[PSM-DB/The World/The Nations/Minor Nations/Europa/Kopeccya|Kopeccian]] nationalists. The succeeding diplomatic crisis would drag the Europan empires into the largest, bloodiest war the world has ever seen. 
 
 The fighting was concentrated in three main theaters: the Europan Front (split into the Western and Eastern Fronts), the Iffranikan Front (a continent-spanning conflict between Europan colonies), and the Ostasian Front (in Shenzhou and the Far Eastern Archipelagoes).
 
@@ -28,7 +28,7 @@ The Great War would cause most of the Great Powers to collapse economically and 
 
 In response, the Sterlian Empire would declare a "War on Anarchy" and launch a campaign of interventions all over the world to put down the revolutions and reintegrate the colonies into the Europan sphere of influence. This campaign would come to be known as the Reclamation Wars.
 
-The campaign had two main objectives: integrating the newly-independent territories into the Sterlian economic and political sphere of influence, and containing the spread of communist revolutionary movements from the Europan mainland ([[Livron]], [[Sequino]], [[Thalerland]], and [[Kopeccya]]) and other regional powers ([[Eikan Empire|Eiko]] and [[North Shenzhou]]).
+The campaign had two main objectives: integrating the newly-independent territories into the Sterlian economic and political sphere of influence, and containing the spread of communist revolutionary movements from the Europan mainland ([[Livron]], [[Sequino]], [[Thalerland]], and [[PSM-DB/The World/The Nations/Minor Nations/Europa/Kopeccya]]) and other regional powers ([[Eikan Empire|Eiko]] and [[North Shenzhou]]).
 ## Foundation of the Sterlian Commonwealth (1933)
 >*Main Article: [[Foundation of the Commonwealth]]*
 
