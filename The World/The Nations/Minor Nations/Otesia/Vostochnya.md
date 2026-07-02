@@ -1,6 +1,6 @@
 >[!info] Vostochnya</br>
 >
->![[Flag_Vostochnya(TEMPORARY).png]]
+>![[flag_Vostochnya.svg]]
 ><h6>Basic Information</h6>
 ><b>Official Name:</b> Far Eastern Soviet Socialist Republic (Дальневосточная Советская Социалистическая Республика)</br>
 ><b>Common Name:</b> Vostochnya, Vostochny SSR (ДССР)</br>
@@ -12,7 +12,7 @@
 
 **Vostochnya**, officially the **Far Eastern Soviet Socialist Republic**, is a communist nation located in the northeast of [[Otesia]]. It borders the {Pacific} Ocean to the east, the Arctic Sea to the north, the {Siberian Anarchy} to the west, and {Mongolia}, [[North Shenzhou]], and the [[Eikan Empire]] along its southern border.
 
-The Republic formed during the collapse of the [[Kopeccya|Kopechian Empire]] during the October Revolution after a mutiny in the {Pacific} Fleet. With support from the Eikan Empire, the Red Army would defend the six eastern oblasts until the end of the Kopechian Civil War in 1933. The nation would see significant economic development post-war, growing close ties with the Eikan Empire.
+The Republic formed during the collapse of the [[Kopeccya|Kopechian Empire]] during the October Revolution after a mutiny in the {Pacific} Fleet. With support from the Eikan Empire, the Red Army defended the six eastern oblasts until the end of the Kopechian Civil War in 1933. The nation saw significant economic development post-war, strengthening its ties with the Eikan Empire.
 
 As of 1957, it is a full member of both the [[Otesian Co-Prosperity Sphere]] and [[The Internationale]].
 
