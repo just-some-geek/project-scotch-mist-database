@@ -14,4 +14,16 @@ Presentation
 	- As she's speaking, information cards start filling the bottom card tray
 - More mechanics are introduces as the conversation progresses
 	- Question and answer toggle
-	- 
+- Timeline
+	- Office
+	- Uni
+	- House
+	- Independence Movement HQ
+	- Independence Movement Other HQ
+	- Body Found
+	- 2 Crime Scenes
+	- Arrest Triads
+	- Interrogate Triads
+	- Figure out It wasn't the triads
+	- Report Info
+	- Get Killed
