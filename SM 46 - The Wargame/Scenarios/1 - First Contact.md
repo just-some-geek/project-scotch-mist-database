@@ -1,6 +1,6 @@
 
 **Combat Scenario I**
-## First Into The Fire  
+## First Contact 
 The Invasion of South Shenzhou
 20 June 1946
 {*Tianjin*} Province, South Shenzhou

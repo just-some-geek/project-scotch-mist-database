@@ -1,8 +1,8 @@
 
 **Combat Scenario II**
 ## Second Steppe
-The Great Steppe Offensive
-18 October 1947
+The Tugrik Border War
+18 October 1946
 {*Ulaanbataar*}, Tugrikia
 
 ---

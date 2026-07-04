@@ -1,10 +1,11 @@
-The Sterlian Commonwealth
+The Sterlian Commonwealth is the world's singular military and economic superpower. Risen from the ashes of the Sterlian Empire, the union controls a third of the world's land and almost half of its population. Together, its member states have created a military capable of defending the Commonwealth's interests in any corner of the globe, at any time. 
 
+At least in theory. In practice, the Commonwealth's military is a disjointed, bureaucratic mess - too large and expensive, while simultaneously overstretched and undersupplied. Sterlia's rivals are all aware of this weakness, and are waiting for the right time to take advantage of it. 
 #### **_Lessons of the Great War_**
 25 years on, the shell-shocked memories of the Great War still haunt the Commonwealth’s military. While each of the member states have taken its lessons to heart in a different way, all can agree on one thing: Never again must so many die for so little.
 
 - All Sterlian units are 20% smaller than foreign equivalents.
-    
+
 # Sterlian Expeditionary Force (SEF)
 The Sterlian Expeditionary Force is the professional arm of the SCAF,
 #### **_Bullets Over Bodies_**
