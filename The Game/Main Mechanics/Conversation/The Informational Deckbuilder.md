@@ -40,7 +40,7 @@ The System uses six statistics, each representing a different characteristic imp
 
 | Stat | Name        | Represents                                                         | Effects                                                                                           |
 | ---- | ----------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| WIS  | Wisdom      | Theoretical knowledge, creative thinking, and out-of-the-box ideas | Overglorified XP bar<br>Cosmetically affects vocabulary of player character                       |
+| WIS  | Wisdom      | Theoretical knowledge, creative thinking, and out-of-the-box ideas | Overglorified XP bar<br>Cosmetically affects vocabulary of player character (except for Joseph's) |
 | CHA  | Charisma    | Charm, subtlety, and duplicitous action                            | Lowers suspicion<br>In SM specifically, charisma is increased by pursuing the romantic questlines |
 | PER  | Perception  | Situational awareness, empathy, and intuition                      | Increases ability to connect information/catch lies                                               |
 | PRO  | Proficiency | Technical skill, practical applications, and reflexes              | Makes non-deckbuilder activities easier                                                           |
