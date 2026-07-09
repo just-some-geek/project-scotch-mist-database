@@ -3,7 +3,7 @@
 ## Forth, Into The Fray
 Battle of the {*Beijing*} Perimeter
 20 June 1946
-{*Tianjin*} Province, South Shenzhou
+{*Henan*} Province, South Shenzhou
 
 ---
 ## Briefing:

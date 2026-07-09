@@ -1,44 +1,33 @@
 Theatre-Level Tactical Tabletop Wargaming
+# Synopsis
 
-Vision:
+**Sunset In The East** is a table-top "wargame-by-mail" set in a diesel-punk world, which covers the events of the Shenzhou Civil War, an early Cold War-era proxy conflict between the Sterlian Commonwealth and the Eikan Empire.
 
-Sterlian Sunset (name tentative) is a table-top war game simulating the events of the Shenzhou War. The game combines tactical-level action with strategic-level planning, ala X-COM.
+The core gameplay loop switches between regiment-scale tactical battles and strategic-level management, in a similar manner to the X-COM games. Players must balance the resource demands of the war, the political machinations of Parliament, and the diplomatic web in order to lead their country to victory.
+# Expanding on the Synopsis: The Vision
+## Wargame-by-mail
+Players do not directly command units in SM46. Rather, orders and reports are relayed to and from the battlefield through radio and telegraph lines, which may lead to complications
+## Hidden (but Determinate) Information
+Players are generally not given precise information, to better reflect communications issues of the time and to add an extra layer of challenge to the game. For example, in tactical battles players are given estimates for the disposition of units. At the strategic level, meanwhile, the political and diplomatic system do not provide exact values for modifiers on rolls.
+## X-COM-style Gameplay
+The game switches between 
+#### Emergent Gameplay
+A
+#### Resource Management
+A
+#### War as Simulation
+SM46 is a simulator first and a game second. This framing puts a focus on realism over balance, while still remaining fun (but not necessarily fair).
+- No meta-currencies (i.e. Command/Action/Skill Points)
+- Lack of "aura" abilities (No arbitrary AoE buffs or debuffs)
+- Focus on authenticity/realism (morale, fatigue, weather, etc.)
+## Political and Diplomatic Systems
+As the strategic layer of the 
+# Design Tenets
+## 1. The War Consumes All
+## 2. Communication is Key
+## 3. Success Demands Sacrifice
+## 4. 
+## 5. 
+# Scenarios
 
-The game includes a robust political system reflecting popular and political support for the war effort, which in turn affects how players
-
-Scenarios
-
-First Into The Fire (The Invasion of South Shenzhou, 20 June 1950)
-
-The opening hours of the Shenzhou War.
-
-Factions: North Shenzhou (Attacking) v. South Shenzhou (Defending)  
-- Limited (covert) aerial support from Eikan Empire and Sterlian Commonwealth
-
-- - -
-
-(The Steppe Campaign, 1951)
-
-Mobile warfare across the endless expanse of the Ostesian Steppe.
-
-- - -
-
-A Day Which Will Live In Infamy (The Five Cities Campaign, 1952)
-
-The beginning of the Eikan intervention in Shenzhou.
-
-- - -
-
-The Inland Sea Campaign, 1953
-
-Island-hopping,
-
-- - -
-
-The Long March (The Winter Offensive, Winter 1957)
-
-Communist forces strike southwards along the eastern coast.
-
-- - -
-
-Sunset In The East (The Fall of Chendai/Kaigaishima, Spring/Summer 1958)
+The game features 10 scenarios

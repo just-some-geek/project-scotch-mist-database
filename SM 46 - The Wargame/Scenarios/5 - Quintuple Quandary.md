@@ -3,7 +3,7 @@
 ## Quintuple Quandary
 The Five Cities Campaign
 20 June 1946
-{*Tianjin*} Province, South Shenzhou
+{*Jiangsu*} Province, South Shenzhou
 
 ---
 ## Briefing:
