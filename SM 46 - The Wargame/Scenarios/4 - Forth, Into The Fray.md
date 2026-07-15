@@ -2,7 +2,7 @@
 **Combat Scenario IV**
 ## Forth, Into The Fray
 Battle of the {*Beijing*} Perimeter
-20 June 1946
+20 June 1948
 {*Henan*} Province, South Shenzhou
 
 ---

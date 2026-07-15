@@ -1,13 +1,15 @@
 # 1.0 | Introduction
 
-*Sunset In The East* is a simulation of the Shenzhou Civil War from 1946 to early 1958. *SITE* 
+*Sunset In The East* is a simulation of the Shenzhou Civil War from 1946 to 1958. *SITE* was designed first and foremost as a world-building aid, providing the writing team with data on an entirely fictional conflict. While they probably could have written a history of the Shenzhou War without having to go through the trouble of developing a wargame, the team believes that whatever narrative emerges from the decisions of real players is far more interesting. 
 
-*Sunset In The East* is a game designed for two teams of between two to five players. For maximum efficiency, it is recommended that, on each side, one player is assigned to handle Politics and Diplomacy, one player to command the Air Forces, and all remaining players to command the Land and Sea Forces (again, *per side*).
+Much inspiration has been taken from the perennial wargame *The Campaign For North Africa: The Desert War: 1940-43*. One might even go as far as to say that this is a clone of *CNA*, with most of the logistics components heavily abstracted or removed outright. To that, we have to say, yeah. While *CNA* provides a wonderful base from which to start, we would like to actually finish this campaign within our lifespans.
 
-Each hex on the Strategic Map represents approximately 10 kilometers, and each Strategic Game-Turn represents 1 week of real-world time. During Tactical Battles, hexes represent 1 kilometer, and each Tactical Game-Turn represents 6 hours of real-world time. Refer to Rule 5.1 for more information on the differences between Strategic and Tactical-level gameplay.
+*Sunset In The East* is a game designed for two teams of between two to five players, plus as many arbiters as is needed to keep the game running smoothly. It is recommended that the teams assign at least one player to run the Political and Diplomatic systems, one to the Air Force, and the remainder to the Land and Naval Forces. The use of computers and/or calculators is recommended, but not necessary. Much of *SITE* was written with the assumption that players would enjoy being immersed in the paper bureaucracy of mid-20th century industrial warfare.
 
+Each hex on the Strategic Map represents approximately 50 kilometers, and each Strategic Game-Turn represents 1 week of real-world time. During Tactical Battles, hexes represent 1 kilometer, and each Tactical Game-Turn represents 6 hours of real-world time. Refer to Rule 5.1 for more information on the differences between Strategic and Tactical-level gameplay. Units in *SITE* range in size from companies (100 soldiers) to divisions (15 000 soldiers).
 # 2.0 | How to Play the Game
 **Commentary:**
+This section serves as a guide to 
 
 **Cases:**
 2.1 | *Organization of the Rules*
@@ -74,6 +76,8 @@ The rules of *Sunset in the East* have been written with the assumption that the
 
 4.2 | *Counters*
 	For ease of recognition, all units are represented in the game using a modified form of NATO APP-6 (NATO Joint Military Symbology). Those unfamiliar with the system should refer to Rule 4.22 and Appendix Alpha (NATO APP-6 Explained) for reference. Those who are familiar with the system may also refer to Rule 4.22 and Appendix Alpha for above reasons.
+	.
+	There are only a few counters in play at any one time on the Strategic Map. 
 	.
 	4.21 | *Sample Unit Counters*
 	.

@@ -2,9 +2,10 @@
 **Combat Scenario VI**
 ## The People's War  
 The {*Tet*} Offensive
-Spring 1957
+Spring 1955
 South Shenzhou
 
 ---
 ## Briefing:
-Good evening, Commander. We’ve got a crisis on our hands.
+Spring 1955. Three and a half years since the ceasefire.
+

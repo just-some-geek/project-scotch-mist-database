@@ -2,7 +2,7 @@
 **Combat Scenario V**
 ## Quintuple Quandary
 The Five Cities Campaign
-20 June 1946
+20 June 1950
 {*Jiangsu*} Province, South Shenzhou
 
 ---
