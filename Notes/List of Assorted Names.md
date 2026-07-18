@@ -12,7 +12,7 @@ Qingtian (清天, pinyin: *qing1 tian1*; Wade-Giles: *Ch'ing-T'ian*) - Clear Sky
 Diaogou dao (钓钩岛, pinyin: *diao4 gou1 dao3*; Wade-Giles: *Tiao-kou-tao*) - Fishhook Island
 	- That weird fishhook island in the middle of the Inland Sea of Shenzhou
 
-Neizhonghai (内场格) - inner central sea
+Neizhong hai (内场格) - inner central sea
 	- Formal name for the Inland Sea, which connects the major cities of South Shenzhou
 
 Changge (场格, pinyin: *chang3 ge1*; Wade-Giles: *Ch'ang-ko*) - Market Square
