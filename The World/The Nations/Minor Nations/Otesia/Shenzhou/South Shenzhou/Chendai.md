@@ -4,7 +4,7 @@
 ><center>caption</center>
 ><h6>Basic Information</h6>
 
-**Chendai** (kanji, lit. *translation*) is a major coastal city in [[South Shenzhou]]. It is the largest port city in [[Shenzhou]],
+**Chendai** (陈埭, pinyin: *chen2dai4*) is a major coastal city in [[South Shenzhou]]. It is the largest port city in [[Shenzhou]],
 
 The city is the name-giver for the nearby [[Chendai Archipelago]], 
 

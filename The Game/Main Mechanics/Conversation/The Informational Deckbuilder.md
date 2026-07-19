@@ -21,26 +21,31 @@ All obtained information cards can be accessed at any time through the menu.
 # Engaging in Conversation
 Certain story-important dialogue throughout the game will be represented by **Conversation Encounters**. These are puzzle like scenarios 
 
-Information cards carry a certain point value that contributes to the score, but repeated use reduces its effectiveness for the rest of the conversation.
-# Stats, Skills, and Overcharge
+## Step 1: Select Information
+A
+
+Information that has been learned, but not yet confirmed, appears penciled-in on the information card.
+## Step 2: Questions and Statements
+
+**Questions** are used to learn new information
+
+**Statements** are used to confirm information you learned from a different source.
+# Intuition
+INTUITION is the game's main way to assist players in piecing together the story. Think of it like aim assist, but for the deckbuilder mechanic.
+
+When certain conditions are 
+# Stats and Overcharge
 ## Stats
 The System uses six statistics, each representing a different characteristic important in conversations. In general, these are used to give the last push you need to push you message past the finish line.
 
-| Stat | Name        | Represents                                                         |
-| ---- | ----------- | ------------------------------------------------------------------ |
-| WIS  | Wisdom      | Theoretical knowledge, creative thinking, and out-of-the-box ideas |
-| CHA  | Charisma    | Charm, subtlety, and duplicitous action                            |
-| PER  | Perception  | Situational awareness, empathy, and intuition                      |
-| PRO  | Proficiency | Technical skill, practical applications, and reflexes              |
-| RES  | Resolve     | Physical presence, mental fortitude, and sheer aura                |
-| COM  | Composure   | Professionalism, courage, and commitment to the bit                |
-Of these six statistics, WIS, CHA, PER, and PRO are actively us
-
-RES and COM are passive statistics that represent a character's 
-## Skills
-**Skills** are how the active statistics are used in an encounter. 
-## Overcharge
-A
+| Stat | Name        | Represents                                                         | Effects                                                                                           |
+| ---- | ----------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| WIS  | Wisdom      | Theoretical knowledge, creative thinking, and out-of-the-box ideas | Overglorified XP bar<br>Cosmetically affects vocabulary of player character (except for Joseph's) |
+| CHA  | Charisma    | Charm, subtlety, and duplicitous action                            | Lowers suspicion<br>In SM specifically, charisma is increased by pursuing the romantic questlines |
+| PER  | Perception  | Situational awareness, empathy, and intuition                      | Increases ability to connect information/catch lies                                               |
+| PRO  | Proficiency | Technical skill, practical applications, and reflexes              | Makes non-deckbuilder activities easier                                                           |
+| RES  | Resolve     | Physical presence, mental fortitude, and sheer aura                | Affects the person you're talking to                                                              |
+| COM  | Composure   | Professionalism, courage, and commitment to the bit                | Increases the turn limit for conversations                                                        |
 # Stress and Biases
 **Biases** are modifiers representing a character's personality, making them more receptive or resistant to certain styles of communication. 
 

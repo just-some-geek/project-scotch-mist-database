@@ -85,7 +85,7 @@ The population of Kaigaishima is predominantly of Shenzhou descent (, with a sig
 ---
 *Main Article: Culture of Kaigaishima*
 
-Kaigaishiman culture is characterized by a hybrid of East and West. Traditional [[Culture of Shenzhou|Shenzhen]] and [[Culture of the Eikan Empire|Eikan]] values emphasizing higher education, spirituality, and the nuclear family are blended with [[Culture of the Sterlian Commonwealth|Sterlian]] ideals of individual liberties and the rule of law. The island's colonial history and strategic location, combined with immigration from the [[Far Eastern Territories]], has resulted in a distinct local identity.
+Kaigaishiman culture is characterized by a hybrid of East and West. Traditional [[Culture of South Shenzhou|Shenzhen]] and [[Culture of the Eikan Empire|Eikan]] values emphasizing higher education, spirituality, and the nuclear family are blended with [[Culture of the Sterlian Commonwealth|Sterlian]] ideals of individual liberties and the rule of law. The island's colonial history and strategic location, combined with immigration from the [[Far Eastern Territories]], has resulted in a distinct local identity.
 #### Cuisine
 
 Kaigaishiman cuisine is a fusion of the cuisines of its population groups.
