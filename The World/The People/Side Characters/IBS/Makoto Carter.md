@@ -1,4 +1,4 @@
-**Repairman, intern and resident of Fort Valkyrie**
+		**Repairman, intern and resident of Fort Valkyrie**
 
 >[!info] Makoto Carter</br>
 >![[concept_Makoto.png]]
