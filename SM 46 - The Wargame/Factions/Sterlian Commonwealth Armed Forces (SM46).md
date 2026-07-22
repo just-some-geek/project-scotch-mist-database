@@ -1,8 +1,8 @@
 The Sterlian Commonwealth is the world's singular military and economic superpower. Risen from the ashes of the Sterlian Empire, the union controls a third of the world's land and almost half of its population. Together, its member states have created a military capable of defending the Commonwealth's interests in any corner of the globe, at any time. 
 
-At least in theory. In practice, the Commonwealth's military is a disjointed, bureaucratic mess - too large and expensive, while simultaneously overstretched and undersupplied. Sterlia's rivals are all aware of this weakness, and are waiting for the right time to take advantage of it. 
+...At least in theory. In practice, the SCAF is a disjointed, bureaucratic mess - far too large and expensive to maintain while simultaneously overstretched and undersupplied, and all tied up in the politicking and red tape of a globe-spanning empire. Sterlia's rivals are all aware of this weakness, and are waiting for the right time to take advantage of it.
 #### **_Lessons of the Great War_**
-25 years on, the shell-shocked memories of the Great War still haunt the Commonwealth’s military. While each of the member states have taken its lessons to heart in a different way, all can agree on one thing: Never again must so many die for so little.
+25 years on, the shell-shock of the Great War still haunt the Commonwealth’s military. While each of the member states have taken its lessons to heart in a different way, all can agree on one thing: Never again must so many die for so little.
 
 - All Sterlian units are 20% smaller than foreign equivalents.
 
@@ -34,11 +34,11 @@ The Volunteer Legion is formed from defecting soldiers, citizen refugees, and pr
 - 
 ## Espusian Federation Far Eastern Army (EFFEA)
 ---
-While the Espusian Federation primarily helped the Commonwealth's war effort through economic aid and lend-leased equipment, a number of 
+The EFFEA was a group of Espusian volunteers fighting for the Commonwealth.
 
 - A
-## Territorial Defense Force
+## Territorial Defense Forces
 ---
-The many Territories of the Sterlian Commonwealth
+Per the Representation Act of 1933, each Territory within the Commonwealth is required to raise their own local militia to assist in the defense of the whole. These units are rarely deployed beyond the region they were raised in, and are better used as a manpower pool than a proper military.
 
 - A
