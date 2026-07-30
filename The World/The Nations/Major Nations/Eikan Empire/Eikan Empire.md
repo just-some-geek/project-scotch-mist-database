@@ -27,7 +27,7 @@ A
 - Political and social changes
 - Rise of imperialism and the military
 - Economic modernization and labor unrest
-- The Eikan Revolution
+- [[The Eikan Revolution]]
 
 ### Geography and Climate
 ---

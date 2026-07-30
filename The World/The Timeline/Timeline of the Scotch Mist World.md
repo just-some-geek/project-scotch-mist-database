@@ -21,14 +21,14 @@ The Republic would fracture into two separate states: the Sterlian-backed, democ
 In June 1943, with a blank check from the Eikan Empire, North Shenzhou would launch a full-scale invasion of South Shenzhou. The Commonwealth would immediately deploy in defense of the South, halting the communist advance and pushing them back to the border by December.
 
 For the next 15 years, the conflict would settle into a long stalemate along the rivers and mountains of central Shenzhou. Fighting on the frontlines would become sporadic, with focus shifting to fighting the communist insurgency in the South. By 1957, however, the North and its Eikan allies would restart the ground war to capitalize on waning Sterlian support.
-## The Reclamation Wars (1928-1959)
->*Main Article: [[Reclamation Wars]]*
+## The World Revolution (1928-1959)
+>*Main Article: [[World Revolution]]*
 
 The Great War would cause most of the Great Powers to collapse economically and politically. Without support from the homeland, colonial governments of their overseas empires were powerless to stop the storm of revolutions that would sweep the world in the 1920s and 30s. Many of these revolutionary states would lean on the anti-imperialist and communist movements, which threatened to destabilize the recovering Sterlian Empire's economic hegemony.
 
 In response, the Sterlian Empire would declare a "War on Anarchy" and launch a campaign of interventions all over the world to put down the revolutions and reintegrate the colonies into the Europan sphere of influence. This campaign would come to be known as the Reclamation Wars.
 
-The campaign had two main objectives: integrating the newly-independent territories into the Sterlian economic and political sphere of influence, and containing the spread of communist revolutionary movements from the Europan mainland ([[Livron]], [[Sequino]], [[Thalerland]], and [[PSM-DB/The World/The Nations/Minor Nations/Europa/Kopeccya]]) and other regional powers ([[Eikan Empire|Eiko]] and [[North Shenzhou]]).
+The campaign had two main objectives: integrating the newly-independent territories into the Sterlian economic and political sphere of influence, and containing the spread of communist revolutionary movements from the Europan mainland ([[Livron]], [[Sequino]], [[Thalerland]], and [[Kopeccya]]) and other regional powers ([[Eikan Empire|Eiko]] and [[North Shenzhou]]).
 ## Foundation of the Sterlian Commonwealth (1933)
 >*Main Article: [[Foundation of the Commonwealth]]*
 

@@ -8,7 +8,7 @@ The SCAF consist of the Royal Navy, the largest blue-water navy in the world; th
 
 [[King Arthur III]], sovereign of the Sterlian Commonwealth, is the commander-in-chief and Head of the Armed Forces, with officers and personnel swearing allegiance to him. Long-standing convention, however, has vested *de facto* power in the Prime Minister and the Minister of Defence, who make key decisions on the use of the armed forces.
 
-Since the outbreak of the Great War in 1914, elements of the SCAF have been deployed in combat near continuously to conflict zones around the world, most notably in **Iffranika** and the **Far East** as part of the [[Reclamation Wars]].
+Since the outbreak of the Great War in 1914, elements of the SCAF have been deployed in combat near continuously to conflict zones around the world, most notably in **Iffranika** and the **Far East** as part of the [[World Revolution]].
 
 #Tier-2 #Factions 
 
@@ -21,7 +21,7 @@ The 19th century saw the expansion of the Empire's holdings in Iffranika and Ost
 #### The Great War
 In the early 20th century, the Sterlian Empire was engaged in an arms race with the rest of the Continental powers. 
 
-#### The [[Reclamation Wars]]
+#### The [[World Revolution]]
 In the aftermath of the Great War, the remnants of the Sterlian Empire's military forces were scattered across the world. 
 
 ### Branches

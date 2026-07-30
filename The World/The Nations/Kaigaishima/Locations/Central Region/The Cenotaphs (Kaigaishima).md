@@ -9,7 +9,7 @@
 ><b>Designed by:</b> Edward Lutjens</br>
 ><h6>WE WILL REMEMBER THEM</h6>
 
-**The Cenotaphs of Kaigaishima** is a war memorial in [[Districts of Kaigaishima#**Muramatsu**|Muramatsu, Kaigaishima]] honoring the soldiers of the Sterlian Empire (and later the Commonwealth) who fought in the [[Great War]] and the succeeding [[Reclamation Wars]]. The site is a to-scale replica of the Cenotaph Memorial in Avonforde, [[Great Sterlia]]. It consists of seven columns made from Portland stone arranged in a semicircle and a wall of names immediately behind them.
+**The Cenotaphs of Kaigaishima** is a war memorial in [[Districts of Kaigaishima#**Muramatsu**|Muramatsu, Kaigaishima]] honoring the soldiers of the Sterlian Empire (and later the Commonwealth) who fought in the [[Great War]] and the succeeding [[World Revolution]]. The site is a to-scale replica of the Cenotaph Memorial in Avonforde, [[Great Sterlia]]. It consists of seven columns made from Portland stone arranged in a semicircle and a wall of names immediately behind them.
 
 #Tier-4 #Locations 
 # History
@@ -38,4 +38,4 @@ Each pillar is inscribed with a line from the poem "A".
 > *And at its setting*
 > *We will remember them*
 ## Wall of the Fallen
-Surrounding the Cenotaphs is a semi-circle of concrete walls inscribed with the names of soldiers killed in the Shenzhou campaign of the Great War and soldiers from the Far Eastern Territories who died in other campaigns. A second wall was constructed at the outbreak of the Shenzhou War, officially to commemorate the fallen in the Reclamation Wars.
+Surrounding the Cenotaphs is a semi-circle of concrete walls inscribed with the names of soldiers killed in the Shenzhou campaign of the Great War and soldiers from the Far Eastern Territories who died in other campaigns. A second wall was constructed at the outbreak of the Shenzhou War, officially to commemorate the fallen in the Reclamation.

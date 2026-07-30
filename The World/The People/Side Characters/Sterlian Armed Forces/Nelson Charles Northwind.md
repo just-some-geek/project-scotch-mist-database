@@ -13,7 +13,7 @@
 
 **Nelson Charles Northwind**, OSE, (born 30 April 1887) is the father of [[Olivia Northwind]], an Admiral of the Royal Navy and the primary commander of the [[Sterlian Commonwealth Armed Forces]] in the Far East. 
 
-A renowned veteran of the [[Great War]], he was proactive in pushing for military reforms that held the Empire, and later the [[Sterlian Commonwealth]], together during the [[Reclamation Wars]]. He enjoys his sparse days off at the [[Albertine Valley Country Club]], drinking at the bar and betting on horse races.
+A renowned veteran of the [[Great War]], he was proactive in pushing for military reforms that held the Empire, and later the [[Sterlian Commonwealth]], together during the [[World Revolution]]. He enjoys his sparse days off at the [[Albertine Valley Country Club]], drinking at the bar and betting on horse races.
 
 #Tier-2 #Characters 
 ### Dev Notes

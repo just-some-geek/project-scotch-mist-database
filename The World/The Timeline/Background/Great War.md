@@ -7,7 +7,7 @@ The conflict saw fighting to some extent on all continents, but mainly in [[Euro
 
 The Great war is most notable for the widespread adoption of modern weapons technology, including machine guns, tanks, and aircraft. It was characterized by a mix of static "trench warfare" (most notably on the West Europan and South Otesian fronts) and unconventional and maneuver warfare (in Mesoterrania, Iffranika, and other colonial fronts).
 
-The War is generally accepted to have ended on [[Remembrance Day|11 November 1928]], with the signing of the Continental Armistice and the end of hostilities on the Europan continent. However, sporadic fighting would continue after the Armistice in other fronts, much of which bled over into the [[Reclamation Wars]].
+The War is generally accepted to have ended on [[Remembrance Day|11 November 1928]], with the signing of the Continental Armistice and the end of hostilities on the Europan continent. However, sporadic fighting would continue after the Armistice in other fronts, much of which bled over into the [[World Revolution]].
 
 #Tier-2 #Events 
 # Background
