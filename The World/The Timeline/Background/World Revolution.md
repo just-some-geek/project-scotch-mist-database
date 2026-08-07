@@ -8,6 +8,7 @@
 ><b>Location:</b>  Worldwide</br>
 ><b>Caused by:</b></br>
 > - The Great War</br>
+> - The Eikan Revolution</br>
 > - The Livronnaise Revolution</br>
 ><b>Goals:</b></br>
 > - World communism</br>
@@ -42,20 +43,43 @@
 > - Formation of the Co-Prosperity Sphere</br>
 > - Formation of the Europan Pakt</br>
 
-The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
+The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa, South Vespusia, and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
 
 A
 
 #Tier-3 #Events 
 # Background
 
-# List of conflicts
-## Kopechian Civil War (1926)
+# Timeline
+## 1921
+- August 7: The **Kingdom of Shenzhou** surrenders, ending the Otesian theatre of the Great War. The nation is occupied by the Sterlian Empire and Eikan Empire, but the monarchy remains in *de jure* control.
+## 1924
+- April 20: A military junta in (*Eikan Empire Capital*) overthrows Emperor (*Taisho?*) and his government. A small group of Imperial loyalists defend the Imperial Palace and the Diet Building during a 11-day siege, but *de facto* control is handed to the coupsters.
+- May 1: The **Eikan Revolution** begins. Socialist militias relieve the siege of the Imperial Palace and establish a socialist republic with the Emperor as its head.
+- 
+- October 10: The **Li Dynasty** in Shenzhou is overthrown after a mutiny in *(City Name)* sparks a wider revolution.
+## 1925
+## 1926
+## 1927
+## 1928
+- November 9: The **Livronnaise Revolution** begins with the **Mutiny of the Fourth Army**.
+- November 11: The [[Great War]] ends with the signing of the Continental Armistice.
+## 1929
+## 1930
+- July XX: An Nationalist-led coup in [[Dinerio]] fails to overthrow the Republican government, plunging the kingdom into civil war.
+## 1931
+## 1932
+## 1933
+- June 10: The [[Sterlian Commonwealth]] is established with the passage of the [[Representation Act of 1933]].
+# Livronnaise Revolution (1929)
+## Mutiny of the Fourth Army
+On 9 November 1928, two days before the signing of the Continental Armistice, 
+## The Lumiens Commune
 
-## Révolution Livronnaise (1929)
-In late 1928, several divisions of the [[Livron|Armeé Livronnaise]] would 
-## Dineric Civil War (1936)
-The [[Dinerio|Kingdom of Dinerio]] was in the process of minor democratic reforms before the outbreak of the Great War. However, this process was hamstrung by the 
+# Dineric Civil War (1930)
+The [[Dinerio|Kingdom of Dinerio]] was in the process of minor democratic reforms before the outbreak of the Great War. However, this process was hamstrung by the military junta
+
+In July 1936, a portion of the *Ejército de Iffranika*, led by General *(Francisco Franco)*, 
 # Outcomes
-
-
+## Rise of the Internationale
+A
