@@ -42,8 +42,9 @@
 > - Formation of the Co-Prosperity Sphere</br>
 > - Formation of the Europan Pakt</br>
 
-The **World Revolution** was a wave of protests and revolutions from 1924 to 1933
+The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
 
+A
 
 #Tier-3 #Events 
 # Background
@@ -55,4 +56,6 @@ The **World Revolution** was a wave of protests and revolutions from 1924 to 193
 In late 1928, several divisions of the [[Livron|Armeé Livronnaise]] would 
 ## Dineric Civil War (1936)
 The [[Dinerio|Kingdom of Dinerio]] was in the process of minor democratic reforms before the outbreak of the Great War. However, this process was hamstrung by the 
+# Outcomes
+
 
