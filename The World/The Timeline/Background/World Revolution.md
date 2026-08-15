@@ -45,7 +45,7 @@
 
 The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa, South Vespusia, and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
 
-A
+Beginning with [[The Eikan Revolution]] in 1924, the 
 
 #Tier-3 #Events 
 # Background
@@ -54,7 +54,7 @@ A
 ## 1921
 - August 7: The **Kingdom of Shenzhou** surrenders, ending the Otesian theatre of the Great War. The nation is occupied by the Sterlian Empire and Eikan Empire, but the monarchy remains in *de jure* control.
 ## 1924
-- April 20: A military junta in (*Eikan Empire Capital*) overthrows Emperor (*Taisho?*) and his government. A small group of Imperial loyalists defend the Imperial Palace and the Diet Building during a 11-day siege, but *de facto* control of the nation is handed to the coupsters.
+- April 20: A military junta in (*Eikan Empire Capital*) overthrows Emperor (*Taisho?*) and his government.
 - May 1: The **Eikan Revolution** begins. Socialist militias relieve the siege of the Imperial Palace and establish a socialist republic with the Emperor as its head.
 - 
 - October 10: The **Li Dynasty** in Shenzhou is overthrown after a mutiny in *(City Name)* sparks a wider revolution.
@@ -64,6 +64,7 @@ A
 ## 1927
 ## 1928
 - May 14: The (*Bolsheviks*) begin their evacuation to [[Vostochnya]] along the Trans-(Siberian) Railway during the **Great (*Siberian*) Ice March**.
+- October 29: The High Seas Fleet mutinies at their berth in (*Kiel*), Thalerland, starting the **November Revolution**.
 - November 9: The **Livronnaise Revolution** begins with the **Mutiny of the Fourth Army**.
 - November 11: The [[Great War]] ends with the signing of the Continental Armistice.
 ## 1929
@@ -73,11 +74,26 @@ A
 ## 1932
 ## 1933
 - June 10: The [[Sterlian Commonwealth]] is established with the passage of the [[Representation Act of 1933]].
-# The Eikan Revolution (1924)
+- November 1: Livronnaise troops fail to suppress pro-independence protests in (*Algeria*), which escalates into the **Safari War**.
+# Eikan Revolution (1924)
 > *Main Article: [[The Eikan Revolution]]*
 
+On 20 April 1924, a column of troops from the Imperial Eikan Army stormed the Imperial Diet.
+# Fall of the Thalerian Empire (1928)
+> *Main Article: Fall of the Thalerian Empire*
+## November Revolution
+On 29 October 1928, a mutiny broke out among the sailors of the High Seas Fleet, which had been stuck in the ports of (*Kiel*) and Friedrichshaven since the Battle of the Twin Straights in 1922. Believing the war to be nearing its end, the sailors refused orders to sail out. Several hundred mutineers were arrested, 
+
+Workers of the nearby dockyards and factories march on the naval stations in protest, resulting in the deaths of 10 protesters.
+
+The uprising quickly spread to the rest of the coastal and western cities, with the military administration being replaced by workers' and soldiers' councils formed by Thalerland's main left-wing parties, the (*SPT*) and (*USPT*).
+## Kaufmann Putsch
+In response to the socialist revolution, a group of non-socialist politicians, industry executives, and 
+
+Led by Maximillian Kaufmann, the president of (*Kruppstahl*), the group 
+## Thalerian Civil War
 A
-# Livronnaise Revolution (1929)
+# Livronnaise Revolution (1928-29)
 > *Main Article: The Livronnaise Revolution*
 ## Mutiny of the Fourth Army
 On 9 November 1928, two days before the signing of the Continental Armistice, 
