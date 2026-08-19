@@ -45,11 +45,12 @@
 
 The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa, South Vespusia, and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
 
-Beginning with [[The Eikan Revolution]] in 1924, the 
+Beginning with [[Eikan Revolution]] in 1924, the 
 
 #Tier-3 #Events 
 # Background
-
+## The Great War
+In
 # Timeline
 ## 1921
 - August 7: The **Kingdom of Shenzhou** surrenders, ending the Otesian theatre of the Great War. The nation is occupied by the Sterlian Empire and Eikan Empire, but the monarchy remains in *de jure* control.
@@ -76,7 +77,7 @@ Beginning with [[The Eikan Revolution]] in 1924, the
 - June 10: The [[Sterlian Commonwealth]] is established with the passage of the [[Representation Act of 1933]].
 - November 1: Livronnaise troops fail to suppress pro-independence protests in (*Algeria*), which escalates into the **Safari War**.
 # Eikan Revolution (1924)
-> *Main Article: [[The Eikan Revolution]]*
+> *Main Article: [[Eikan Revolution]]*
 
 On 20 April 1924, a column of troops from the Imperial Eikan Army stormed the Imperial Diet.
 # Fall of the Thalerian Empire (1928)

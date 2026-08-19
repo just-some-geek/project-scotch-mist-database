@@ -17,13 +17,20 @@ The years before the Great War were defined by the formation of several alliance
 On 22 July 1914, Archduke Fritz von Kanzler, heir apparent of the [[Schillerland|Schillerreich]], was assassinated while at a café in Välden by members of the Black Hand terrorist group. von Kanzler was seated at one of the outdoor tables with his wife, Sophie, when a black open-top car approached the cafe. The passengers fired 17 shots at the couple from semi-automatic pistols before driving off. Sophie was killed instantly by a shot to the head, but von Kanzler survived several shots to the chest and abdomen. Both would be rushed to the nearby Välden Medical Institute, where they were pronounced dead on arrival.
 
 The Thalerian government would send an ultimatum to [[Dinaravia]], whom they accused of harboring the Black Hand. Thalerland demanded several concessions from Dinaravia, including 
+# Timeline
+## First phase of the war (1914-1918)
+A
+## The Intrawar period (1918-1921)
+A
+## Second phase of the war (1921-1928)
+A
 # Major campaigns of the war
 ## West Europa
 The West Europan front, known colloquially as the **Western Front**, saw fighting between 
 ## East Europa
 The East Europan front, commonly referred to as the **Eastern Front**, 
 
-Hostilities on the Eastern Front came to an end in 192X, after 
+Hostilities on the Eastern Front came to an end in 192X, after the collapse of the [[Kopeccya|Kopechian Empire]] and the signing of the **Treaty of Brest-Litovsk**. 
 ## Iffranika
 The war in Iffranika 
 ## Shenzhou

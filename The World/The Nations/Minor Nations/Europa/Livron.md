@@ -1,6 +1,6 @@
 **Country in Western Europa**
 
-The Republic of **Livron** is a nation in western Europa, 
+The Republic of **Livron** is a nation in western [[Europa]], 
 
 #Tier-5 #Geography 
 
