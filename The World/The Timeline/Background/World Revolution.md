@@ -45,12 +45,14 @@
 
 The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa, South Vespusia, and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
 
-Beginning with [[Eikan Revolution]] in 1924, the 
+The [[Great War]] mobilized millions of soldiers from across several global empires, reshaped political structures, and drove extreme social turmoil. From the turmoil, many outright revolutions broke out, massive strikes occurred, soldiers mutinied, and globe-spanning empires collapsed. A military coup in the [[Eikan Empire]] escalates into the [[Eikan Revolution]]. Mutinies in [[Dinerio]], [[Kopechia]], [[Livron]], and [[Thalerland]] sparked revolutions in their own respective nations. Mass strikes and mutinies caused the fall of the monarchies in [[Shenzhou]] and [[Schillerland]].
+
+Scholars agree that the World Revolution ended around June 1933, after the official formation of the [[Sterlian Commonwealth]] and [[The Internationale]]. Several conflicts of the World Revolution continued past this date, most notably the [[Shenzhou War]] and the **Safari War**, but the rivalry between the two blocs marks the beginning of the **Cold War**.
 
 #Tier-3 #Events 
 # Background
 ## The Great War
-In
+The long years of the Great War
 # Timeline
 ## 1921
 - August 7: The **Kingdom of Shenzhou** surrenders, ending the Otesian theatre of the Great War. The nation is occupied by the Sterlian Empire and Eikan Empire, but the monarchy remains in *de jure* control.
@@ -70,7 +72,7 @@ In
 - November 11: The [[Great War]] ends with the signing of the Continental Armistice.
 ## 1929
 ## 1930
-- July XX: An Nationalist-led coup in [[Dinerio]] fails to overthrow the Republican government, plunging the kingdom into civil war.
+- July 7: An Nationalist-led coup in [[Dinerio]] fails to overthrow the Republican government, plunging the kingdom into civil war.
 ## 1931
 ## 1932
 ## 1933
@@ -79,7 +81,13 @@ In
 # Eikan Revolution (1924)
 > *Main Article: [[Eikan Revolution]]*
 
+The fighting in Shenzhou during the Great War took a great toll on the resources of the Eikan Empire. 
+
 On 20 April 1924, a column of troops from the Imperial Eikan Army stormed the Imperial Diet.
+
+By May 1st, a militia composed of students and workers in *Miyako-cho*
+
+The siege of the Imperial Palace was relieved at around 3 p.m. on May 1st.
 # Fall of the Thalerian Empire (1928)
 > *Main Article: Fall of the Thalerian Empire*
 ## November Revolution
@@ -93,7 +101,9 @@ In response to the socialist revolution, a group of non-socialist politicians, i
 
 Led by Maximillian Kaufmann, the president of (*Kruppstahl*), the group 
 ## Thalerian Civil War
-A
+After the failure of the Kaufmann Putsch, the socialist government decided to consolidate their power base
+
+smth smth the Freikorps vs. the Volksarmee
 # Livronnaise Revolution (1928-29)
 > *Main Article: The Livronnaise Revolution*
 ## Mutiny of the Fourth Army
@@ -105,7 +115,7 @@ On 9 November 1928, two days before the signing of the Continental Armistice,
 
 The [[Dinerio|Kingdom of Dinerio]] was in the process of minor democratic reforms before the outbreak of the Great War. However, this process was hamstrung by the military junta
 
-In July 1936, a portion of the *Ejército de Iffranika*, led by General *(Francisco Franco)*, 
+In July 1936, a portion of the *Ejército de Iffranika*, led by General Francisco Batallones, 
 # Outcomes
 ## Rise of the Internationale
 A

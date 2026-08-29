@@ -30,7 +30,7 @@ The West Europan front, known colloquially as the **Western Front**, saw fightin
 ## East Europa
 The East Europan front, commonly referred to as the **Eastern Front**, 
 
-Hostilities on the Eastern Front came to an end in 192X, after the collapse of the [[Kopeccya|Kopechian Empire]] and the signing of the **Treaty of Brest-Litovsk**. 
+Hostilities on the Eastern Front came to an end in 192X, after the collapse of the [[Kopechia|Kopechian Empire]] and the signing of the **Treaty of Brest-Litovsk**. 
 ## Iffranika
 The war in Iffranika 
 ## Shenzhou

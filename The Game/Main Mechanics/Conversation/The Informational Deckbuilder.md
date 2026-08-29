@@ -55,4 +55,4 @@ A comprehensive list of Biases can be found [[List of Modifiers in the Informati
 
 ### Ending the Conversation
 ---
-A
+At the end of a Conversation Scenario, 

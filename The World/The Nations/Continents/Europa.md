@@ -15,7 +15,7 @@ This list includes all internationally recognized countries whose territory fall
 | [[Dinerio]]                | Dinhiero (ESP/PRT) | Casagua   | Internationale |
 | [[Drachmos]]               | Drachma (GRC)      |           | Non-Aligned    |
 | [[Guilden]]                | Guilder (NLD)      |           | Entente        |
-| [[Kopeccya]]               | Kopec (RUS)        |           | Entente        |
+| [[Kopechia]]               | Kopec (RUS)        |           | Entente        |
 | [[Kronland]]               | Kroner (NOR)       |           | Non-Aligned    |
 | [[Latsonia]]               | Lat (LVA)          |           | Internationale |
 | [[Levgar]]                 | Lev (BGR)          |           | Internationale |
