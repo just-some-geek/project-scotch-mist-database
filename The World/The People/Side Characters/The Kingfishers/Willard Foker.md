@@ -8,6 +8,7 @@
 ><b>Nationality:</b> Sterlian-Kaigaishiman </br>
 ><b>Pronouns:</b> he/him  </br>
 ><b>Age:</b> 20 </br>
+><b>Date of birth:</b> April 10 </br>
 ><b>Height:</b> 5'7 </br>
 ><b>Hair:</b> Dirty-blonde
 
