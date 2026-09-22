@@ -25,7 +25,7 @@ ___
 With no place to call their own, hope draws them here.
 College is a great place to reinvent yourself…  
 
-Yukio Yamada is an illegal immigrant from [[Eikan Empire|Eiko]] who finds himself on a cargo ship en route to [[Kaigaishima]]. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
+Yukio Yamada is an illegal immigrant from [[Eikan Empire|the Eikan Empire]] born in [[North Shenzhou]] who finds himself on a cargo ship en route to [[Kaigaishima]]. He had grown tired of his nation's rampant xenophobia and imperialism, so he decided to take himself elsewhere. Somewhere he could feel safer.  
 
 Luckily for him, he managed to nab the documents necessary to apply for scholarship in the island’s 2nd best university, [[Paul Miki University|PMU]], granting him a free dormitory to live in. Granted he’d then have to attend classes and not fail, but he believes he could survive. These documents came from his friend, his real name is currently unknown.
   
@@ -47,9 +47,9 @@ Themselves - “I’m unsure, have you ever been unsure before? There’s a lot 
 ### Character Story
 ___ 
 
-Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways, materially had issues that he could not live with. Its rampant nationalism and racism was apparent, and its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  
-  
-So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as [[The Isabelines]].  
+Yukio never really had a terrible childhood, but there were many compounding things in life that never sat right with him. The nation he lived in, Eiko, while prospering in many ways, materially had issues that he could not live with. From his perspective he saw how the nation operated outside of the isolationist bubble of the mainland. Before he was born the Eikan Empire expanded into Northern Shenzhou and after the dust settled his father and mother decided to move to a newly developing city, bringing their repair shop business with them.
+
+Its rampant nationalism and racism was apparent, and its strict hold on tradition and family made it hard for young people to just be. After he caught wind of the nation's plans to start a war of conquest, it was the straw that broke the camel's back for him.  So he decided to flee the country, something that for some reason he was quite confident in. He plotted his course to Kaigaishima, an island that he felt was reachable due to it being a trade hub between Eiko and the Commonwealth. He felt a lot safer there, however he also knew that there was a chance that the island would be included in Eiko’s war, so Kaigaishima could also be used as a jumping off point to other countries such as [[The Isabelines]].  
   
 The plan was to hide themselves in an empty wooden crate that had holes in them and ship himself on his way to Kaigaishima. He had also obtained documents through undisclosed sources that made him a scholar to the University of Paul Miki. This allowed him a safe place to live for the foreseeable years, as well as an education to give him job opportunities down the line. Granted he’d have to succeed in class, but the degree was for electrical engineering, something he felt confident in as he was his community's handyman for electrical appliances. 
 
