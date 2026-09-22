@@ -5,7 +5,7 @@
 ><center>Makoto in 1958</center>
 ><h6>Basic Information</h6>
 ><b>Full Name:</b> Makoto Satoh Carter</br>
-><b>Nationality:</b> Eikan </br>
+><b>Nationality:</b> Eikan-Shenzhan </br>
 ><b>Pronouns:</b> she/her  </br>
 ><b>Age:</b> 21</br>
 ><b>Date of birth:</b> Unknown, 1938 </br>
