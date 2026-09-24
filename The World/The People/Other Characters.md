@@ -21,7 +21,7 @@ Caroline Shelby - Student at [[St. Ignatius University]], first year art major.
   
 Dong Yaqian - Shipyard worker at [[Miyamura Aviation and Shipping Enterprises]], he enjoys football.  
 Huang Xiaocheng - Doctor who practices in Yilan, his clinic is famous among the community.  
-Lu Yuhan - Student at SIU, psychology major, she likes to garden.  
+Lu Yuhan - Student at PMU, psychology major, she likes to garden.  
 Lin Zhen - Well known butcher in Taishan, known as The Queen of Limbs.  
 Wang Haoyu - Businessman.
   
