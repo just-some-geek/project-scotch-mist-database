@@ -13,7 +13,7 @@
 
 **Haliya Salvador** (born 9 August, 1936) is a student at [[Paul Miki University]]. 
 
-As of 1957, she is pursuing a degree at [[Paul Miki University]].
+As of 1957, she is pursuing a computer science degree and is a member of the [[Kaigaishima University Student's Union (KUSU)]]. 
 
 #Tier-5 #Characters 
 

@@ -18,3 +18,5 @@ ___
 -  [[Basilio Liwanag]]
 -  [[Yukio Yamada]]
 -  [[Artemis Ellery Taylor]]
+-  [[Haliya Salvador]]
+-  [[Hikaru Takahata]]
