@@ -14,7 +14,7 @@
 
 **Artemis Ellery Taylor** (born 23 July 1934) is a [[Sterlian Commonwealth|Sterlian]] chess prodigy, political activist, and student at [[Paul Miki University]]. Her **FICA** rating of 2263, achieved in March 1956, is one of the highest ever achieved by a female player until it was surpassed in the mid 1960s.
 
-As of 1957, she is pursuing a degree at [[Paul Miki University]].
+As of 1957, she is pursuing a Sterlian Literature degree at [[Paul Miki University]] and is an active member of the [[Kaigaishima University Student's Union (KUSU)]].
 
 #Tier-2 #Characters 
 
