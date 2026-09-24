@@ -1,4 +1,4 @@
-**Sterlian chess prodigy**
+**PMU Student**
 
 >[!info] Haliya "Lia" Salvador</br>
 ><center>Salvador in 1958</center>
