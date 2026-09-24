@@ -1,6 +1,6 @@
 **Student-run newspaper group**
 
-**The Kingfisher** is a student-run newspaper operating out of [[St. Ignatius University]].
+**The Kingfisher** is a student-run newspaper operating under the [[Kaigaishima University Student's Union (KUSU)]] out of [[St. Ignatius University]].
 
 #Tier-1 #Factions 
 
