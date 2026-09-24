@@ -66,7 +66,7 @@ Basilio and those close to him spend their time evading capture from the police 
 
 This continues until the situation escalates after the [[Paul Miki University Massacre]], which triggers riots across the entire island as well as the Eikan military's [[Operation Divine Wind]]. His story ends with him escaping the island with The Kingfishers on a fishing boat back to Isabela to recoup.
 
-In Basilio's alternative ending, he will escape to [[Great Sterlia]] after being offered a scholarship at [[St. Ignatius University]]'s campus in Avonforde. This is due to his fear of returning home in shame without achieving the thing he set out to do which was further his education on his own, so his pride makes him continue this path elsewhere, mimicking the beginning of Joseph's story somehow.
+In Basilio's alternative ending, he will escape to [[Great Sterlia]] after being offered an opportunity to transfer to [[St. Ignatius University]]'s campus in Avonforde. This is due to his fear of returning home in shame without achieving the thing he set out to do which was further his education on his own, so his pride makes him continue this path elsewhere, mimicking the beginning of Joseph's story somehow.
 
 ### Principles, Philosophy and Personality
 ---
