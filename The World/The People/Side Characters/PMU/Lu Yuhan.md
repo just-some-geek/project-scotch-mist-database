@@ -11,7 +11,7 @@
 ><b>Height:</b> 5'6 </br>
 ><b>Hair:</b> Black
 
-**Lu Yuhan** (born September 15, 1936) is a psychology major at **
+**Lu Yuhan** (born September 15, 1936) is a psychology major at [[Paul Miki University]] and the current president of the [[Kaigaishima University Student's Union (KUSU)]]
 
 #Tier-2 #Characters 
 ___
