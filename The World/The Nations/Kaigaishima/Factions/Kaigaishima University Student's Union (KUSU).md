@@ -18,9 +18,7 @@ On the 25th of October, a [[Olivia Northwind|whistle blower]] contacts KUSU via 
 
 The information is shown to be valid and The Kingfisher starts establishing contacts with an [[Eleanor Carter|IBS insider]] as well as multiple local business and shop keeps in preparation for the expose titled the [[Northwind Papers]]. The papers are successfully released on the 19th of December, public reaction is justifiably intense. However on Christmas day four coordinated bombings across the island of Kaigaishima, perpetrated by an "unknown terrorist organization". Four locations were hit, all of which were government-operated or affiliated, known as [[Red Christmas]].
 
-Following these attacks [[Martial Law in Kaigaishima|martial law]] is declared on Kaigaishima subsequently postponing the referendum vote indefinitely
-
-
+Following these attacks [[Martial Law in Kaigaishima|martial law]] is declared on Kaigaishima subsequently postponing the referendum vote indefinitely.
 
 ### Martial Law and the Kaigaishiman Underground
 ___
