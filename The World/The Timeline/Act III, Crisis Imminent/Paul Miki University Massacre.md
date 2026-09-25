@@ -6,7 +6,7 @@
 ><h6>Basic Information</h6>
 ><b>Date:</b> 9 April 1958</br>
 ><b>Location:</b> Paul Miki University, St. Paul, Kaigaishima</br>
-><b>Result:</b></br>- 4 students shot dead</br>- 17 students injured</br>- Public hostility to government forces</br>
+><b>Result:</b></br>- 5 students shot dead</br>- 46 students injured</br>- Public hostility to government forces</br>
 ><b>Perpetrators:</b> SCAF Military Police
 
 The **Paul Miki University Massacre** was a mass shooting of students of [[Paul Miki University|PMU]] on 9 April 1958 by soldiers of the [[Sterlian Commonwealth Armed Forces]]. The shooting happened when an anti-war and anti-corruption demonstration turned violent, resulting in the deaths of 4 students and severe injuries for 17 others.
@@ -33,6 +33,6 @@ Additional pamphlets would detail location, specific timing and planning of the 
 A
 # Aftermath
 ## Casualties
-The massacre resulted in the deaths of four students: **Hayato Greenwoode** (age XX), **Ichiko Michel** (age XX), **Nicole Montemayor** (age XX), and an [[Artemis Ellery Taylor|unidentified fourth student]]. A further 17 sustained varying degrees of injury, being shot non-fatally, injured during their escape, or otherwise physically hurt as a result of the shootings.
+The massacre resulted in the deaths of 53 people including 5 students: **Hayato Greenwoode** (age XX), **Ichiko Michel** (age XX), **Nicole Montemayor** (age XX), **[[Hikaru Takahata]]** (age 23) and an [[Artemis Ellery Taylor|unidentified fifth student]]. A further 46 students sustained varying degrees of injury, being shot non-fatally, injured during their escape, or otherwise physically hurt as a result of the shootings.
 ## Public Reaction
 A
