@@ -1,4 +1,4 @@
-**Student-activism organization**
+**Student-activism turned organization turned youth wing of the Kaigaishiman Underground**
 
 **KUSU** is an joint student council and activist organization from [[St. Ignatius University]] and [[Paul Miki University]]. It is later known as the **Kaigaishiman Student Underground**. By 1957 it holds approximately 120 members with 60 members per university. 
 
@@ -23,8 +23,9 @@ Their duties include recruitment, mass protests and demonstrations against the c
 
 On 6 February, in defiance of the ban against public demonstrations by governor [[Takatsugu Sasaki-Newman]], the students of PMU would hold a rally on-campus to protest the results of the [[Representation Referendum of 1958]]. The rally was coordinated through The Kingfisher. Government forces were quick to crack down on the demonstration, dispersing the students with tear gas and baton charges.
 
-In late March 1958, pamphlets would begin circulating declaring that a public demonstration would be held on 9 April, "to bring an end to the senseless war in Shenzhou and the tyrannical government which demands that we fight it." The identity of the group publishing and circulating these pamphlets remains unknown, but some speculate that Kingfisher staff was involved. On the 9th of April the outside of PMU on McCormick Avenue is flooded with upwards of 10 thousand people with the rally starting at 9:30 AM in the morning. It lasted till 4:37 PM in the evening, ending due to gunshots being fired on the crowd.
+In late March 1958, pamphlets would begin circulating declaring that a public demonstration would be held on 9 April, "to bring an end to the senseless war in Shenzhou and the tyrannical government which demands that we fight it." The identity of the group publishing and circulating these pamphlets remains unknown, but some speculate that Kingfisher staff was involved. On the 9th of April the outside of PMU on McCormick Avenue is flooded with upwards of 10 thousand people with the rally starting at 9:30 AM in the morning. It lasted till 4:37 PM in the evening, ending due to gunshots being fired on the crowd, resulting in 31 deaths and 261 injured. The [[Paul Miki University Massacre]] sparked outrage from the KU, KSU and the general public, causing a widespread outbreak of riots across the island. Both KU and the KSU repurpose university halls as makeshift clinics for the wounded.
 
+In late-April KU is informed by the Northwind Paper whistle blower, Olivia Northwind that there is a planned [[Operation Divine Wind|invasion of Kaigaishima]] alongside a [[Operation White Christmas|mass evacuation of Sterlian officials]], indicating an abandonment of Kaigaishima. KU, while most opting to stay behind, organizes a mass evacuation of Kaigaishiman citizens and the KSU. 
 
 ### Notable Members 
 ___
