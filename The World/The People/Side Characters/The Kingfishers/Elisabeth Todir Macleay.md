@@ -11,14 +11,14 @@
 ><b>Height:</b> 5'5 </br>
 ><b>Hair:</b> Brown-red
 
-**Elisabeth Todir Macleay**, known by her pen name **Robert Fischer**, is the editor-in-chief of [[The Kingfisher]]. Operating out of [[St. Ignatius University]], she founded The Kingfisher after the death of a student.
+**Elisabeth Todir Macleay**, known by her pen name **Robert Fischer**, is the head SIU Council Member of KUSU and the editor-in-chief of [[The Kingfisher]]. Operating out of [[St. Ignatius University]], she founded The Kingfisher after the death of a student.
 
 #Tier-2 #Characters 
 
 ### Dev Notes
 ---
 
-Elisabeth is a hardworking student born and raised in Kaigaishima, who is currently pursuing a degree in St. Ignatius University. She began the Kingfisher because she was dissatisfied with how the media covered the death of a student. Ignoring the seemingly apparent prejudice, motive and background of the killer. She has managed to keep the identities of the group a secret despite The Kingfisher's increasing popularity.
+Elisabeth is a hardworking student born and raised in Kaigaishima, who is currently pursuing a degree in St. Ignatius University. She began the Kingfisher because she was dissatisfied with how the media covered the death of a student, ignoring the seemingly apparent prejudice, motive and background of the killer. She brought it up with [[Lu Yuhan]] to start a newspaper for the [[Kaigaishima University Student's Union (KUSU)]]. She has managed to keep the identities of the group a secret despite The Kingfisher's increasing popularity.
 
 ### Personality / Tidbits 
 ___

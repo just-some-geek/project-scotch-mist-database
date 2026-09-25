@@ -4,11 +4,11 @@
 >(photos here)
 >Clockwise from top left:
 ><h6>Basic Information</h6>
-><b>Date:</b> 1924 - 1933</br>
+><b>Date:</b> 1921 - 1933</br>
 ><b>Location:</b>  Worldwide</br>
 ><b>Caused by:</b></br>
 > - The Great War</br>
-> - The Eikan Revolution</br>
+> - The Eastern Revolutions</br>
 > - The Livronnaise Revolution</br>
 ><b>Goals:</b></br>
 > - World communism</br>
@@ -43,7 +43,7 @@
 > - Formation of the Co-Prosperity Sphere</br>
 > - Formation of the Europan Pakt</br>
 
-The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from April 1924 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa, South Vespusia, and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
+The **World Revolution** was a global revolutionary wave spurred by the aftermath of the [[Great War]] that spanned almost a decade, from August 1921 to June 1933. The uprisings were mostly socialist or anti-colonial in nature. Most failed to establish lasting socialist or independent states, with the exception of those in Europa, South Vespusia, and East Otesia. These revolutions had a lasting effect on global politics, with the collapse of several Great Powers and the rise of [[The Internationale]] and the [[Sterlian Commonwealth]].
 
 The [[Great War]] mobilized millions of soldiers from across several global empires, reshaped political structures, and drove extreme social turmoil. From the turmoil, many outright revolutions broke out, massive strikes occurred, soldiers mutinied, and globe-spanning empires collapsed. A military coup in the [[Eikan Empire]] escalates into the [[Eikan Revolution]]. Mutinies in [[Dinerio]], [[Kopechia]], [[Livron]], and [[Thalerland]] sparked revolutions in their own respective nations. Mass strikes and mutinies caused the fall of the monarchies in [[Shenzhou]] and [[Schillerland]].
 
@@ -55,12 +55,12 @@ Scholars agree that the World Revolution ended around June 1933, after the offic
 The long years of the Great War
 # Timeline
 ## 1921
-- August 7: The **Kingdom of Shenzhou** surrenders, ending the Otesian theatre of the Great War. The nation is occupied by the Sterlian Empire and Eikan Empire, but the monarchy remains in *de jure* control.
+- August 7: The **Kingdom of Shenzhou** falls into civil war after a mutiny in *(City Name)* sparks a wider revolution. The **Li Dynasty** remains in control of many inland cities, though the revolutionaries, with assistance from the Entente, seize much of the coastline.
 ## 1924
 - April 20: A military junta in (*Eikan Empire Capital*) overthrows Emperor (*Taisho?*) and his government.
 - May 1: The **Eikan Revolution** begins. Socialist militias relieve the siege of the Imperial Palace and establish a socialist republic with the Emperor as its head.
 - 
-- October 10: The **Li Dynasty** in Shenzhou is overthrown after a mutiny in *(City Name)* sparks a wider revolution.
+- October 10: The **Shenzhou** surrenders, ending the Otesian theatre of the Great War. The nation is occupied by the Sterlian Empire and Eikan Empire, but the monarchy remains in *de jure* control.
 ## 1925
 ## 1926
 - November 7: Sailors aboard the Kopechian ship *Avrora* lead a revolt in (*Petrograd*), sparking the **October Revolution**.

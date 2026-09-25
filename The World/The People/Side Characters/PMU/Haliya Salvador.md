@@ -13,7 +13,7 @@
 
 **Haliya Salvador** (born 9 August, 1936) is a student at [[Paul Miki University]]. 
 
-As of 1957, she is pursuing a degree at [[Paul Miki University]].
+As of 1957, she is pursuing a computer science degree and is a member of the [[Kaigaishima University Student's Union (KUSU)]]. 
 
 #Tier-5 #Characters 
 
@@ -31,7 +31,6 @@ As she grew older, Haliya chose to focus more on practical fields, particularly 
 Over time, however, her perspective changed. She began to see similarities between computing and the creative disciplines she valued. This realization led her to explore ways to bridge her passions, integrating patterns from music and other creative metrics into her work. Her early work was experimental and did not always align with established approaches, but it showed a distinct and original way of thinking.
 
 No one believed her at first, but with the eventual developments of computer programming, she eventually attracted attention beyond her immediate environment. A group of researchers from Kaigaishima took interest in her work and offered her a working scholarship at Paul Miki University. There, she saw an opportunity to pursue both her technical abilities and creative interests without having to choose between them.
-
 
 ### Personality
 ___

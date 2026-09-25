@@ -34,7 +34,7 @@ Operation Rainfall comprised the air campaign against Sterlian assets and milita
 
 Incidentally, the execution of Rainfall coincided with the arrival of Royal Navy [[Task Force Z]] to Kaigaishima, resulting in the latter also being attacked and sunk.
 ## Phase 3: Tsunami
-Operation Tidal Wave was the 
+Operation Tidal Wave was the final phase of Divine Wind, 
 # Occupation
 In the hours following the evacuation of the Kaigaishiman government, Eikan forces would quickly disarm the remaining Sterlian forces and occupy roadblocks and 
 # Notes
