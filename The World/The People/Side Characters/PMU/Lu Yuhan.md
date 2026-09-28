@@ -14,4 +14,17 @@
 **Lu Yuhan** (born September 15, 1936) is a psychology major at [[Paul Miki University]] and the Head PMU Council Member of the [[Kaigaishima University Student's Union (KUSU)]]
 
 #Tier-2 #Characters 
+
+### Dev Notes
+---
+
+
+
+### Personality / Tidbits 
 ___
+
+  
+### Quotes
+---
+Self-Introduction:
+  
