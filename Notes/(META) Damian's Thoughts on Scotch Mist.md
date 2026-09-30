@@ -11,3 +11,9 @@ A couple of reasons why I wanted to write a story like this can be listed into s
 - I wanted to write something that gave me a bit of hope, in contrast to the despair you feel about the world nowadays
 - I wanted to include a bunch of references to Filipino history (Martial Law, Jose Rizal, etc.) but not have it set in the Philippines
 - I just think it's fun and fulfilling to do
+  
+I often find myself asking, what does Scotch Mist mean? What does it mean to me. A year ago in my journal I wrote down a couple of statements that would define SM. So I figured I'd redo them here. And try and boil down SM into like, three Thesis Statements.
+
+"Meaningful liberation requires education, reflection, communication and action."
+"Meaningful liberation can't be done alone, it needs as much collaboration from everywhere and everyone."
+"Maintaining humanity, empathy and hope is the most revolutionary thing you can do."
