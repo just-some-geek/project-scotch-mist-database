@@ -17,3 +17,5 @@ I often find myself asking, what does Scotch Mist mean? What does it mean to me.
 "Meaningful liberation requires education, reflection, communication and action."
 "Meaningful liberation can't be done alone, it needs as much collaboration from everywhere and everyone."
 "Maintaining humanity, empathy and hope is the most revolutionary thing you can do."
+
+The framing of this game is a Historian researching the Kaigaishiman crisis and the beginning menu is him choosing one of the main characters' documents to research. The end of the game is that it's revealed that the historian is living in a free Kaigaishima. 
