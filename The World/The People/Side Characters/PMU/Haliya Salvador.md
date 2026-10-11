@@ -32,7 +32,6 @@ Over time, however, her perspective changed. She began to see similarities betwe
 
 No one believed her at first, but with the eventual developments of computer programming, she eventually attracted attention beyond her immediate environment. A group of researchers from Kaigaishima took interest in her work and offered her a working scholarship at Paul Miki University. There, she saw an opportunity to pursue both her technical abilities and creative interests without having to choose between them.
 
-
 ### Personality
 ___
 

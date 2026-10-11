@@ -11,7 +11,7 @@
 ><b>Height:</b> 5'5 </br>
 ><b>Hair:</b> Brown-red
 
-**Elisabeth Todir Macleay**, known by her pen name **Robert Fischer**, is the editor-in-chief of [[The Kingfisher]]. Operating out of [[St. Ignatius University]], she founded The Kingfisher after the death of a student.
+**Elisabeth Todir Macleay**, known by her pen name **Robert Fischer**, is the head SIU Council Member of KUSU and the editor-in-chief of [[The Kingfisher]]. Operating out of [[St. Ignatius University]], she founded The Kingfisher after the death of a student.
 
 #Tier-2 #Characters 
 
