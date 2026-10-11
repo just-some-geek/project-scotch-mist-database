@@ -9,7 +9,7 @@
 ><b>Age:</b> 23 </br>
 ><b>Date of birth:</b> August 9, 1936 </br>
 ><b>Height:</b> 5'1 </br>
-><b>Hair:</b> Black
+><b>Hair:</b> Dark Brown
 
 **Haliya Salvador** (born 9 August, 1936) is a student at [[Paul Miki University]]. 
 
