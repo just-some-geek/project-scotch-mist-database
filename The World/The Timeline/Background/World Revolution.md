@@ -71,10 +71,12 @@ The long years of the Great War
 - November 9: The **Livronnaise Revolution** begins with the **Mutiny of the Fourth Army**.
 - November 11: The [[Great War]] ends with the signing of the Continental Armistice.
 ## 1929
+- Generally independence things happening here
 ## 1930
-- July 7: An Nationalist-led coup in [[Dinerio]] fails to overthrow the Republican government, plunging the kingdom into civil war.
+- July 7: A Nationalist-led coup in [[Dinerio]] fails to overthrow the Republican government, plunging the kingdom into civil war.
 ## 1931
 ## 1932
+- The formation of the **Internationale**
 ## 1933
 - June 10: The [[Sterlian Commonwealth]] is established with the passage of the [[Representation Act of 1933]].
 - November 1: Livronnaise troops fail to suppress pro-independence protests in (*Algeria*), which escalates into the **Safari War**.
