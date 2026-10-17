@@ -97,7 +97,7 @@ On 29 October 1928, a mutiny broke out among the sailors of the High Seas Fleet,
 
 Workers of the nearby dockyards and factories march on the naval stations in protest, resulting in the deaths of 10 protesters.
 
-The uprising quickly spread to the rest of the coastal and western cities, with the military administration being replaced by workers' and soldiers' councils formed by Thalerland's main left-wing parties, the (*SPT*) and (*USPT*).
+The uprising quickly spread to the rest of the coastal and western cities, with the military administration being replaced by workers' and soldiers' councils formed by the *Sozialistische Partei von Thalerland* (SPT) and *Konföderation der Arbeiterräte von Thalerland* (KAT).
 ## Kaufmann Putsch
 In response to the socialist revolution, a group of non-socialist politicians, industry executives, and 
 
