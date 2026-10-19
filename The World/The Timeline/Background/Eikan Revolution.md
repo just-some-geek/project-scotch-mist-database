@@ -4,4 +4,4 @@
 >Part of the [[World Revolution]]
 >(photos here)
 
-A
+The **Eikan Revolution** (20 April - 6 May 1933) was a socialist-led counter-coup launched in response

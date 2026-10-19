@@ -18,7 +18,7 @@
 ### Dev Notes
 ---
 
-Maya Foker is a politically active student studying at [[St. Ignatius University]], who is brought onto the Kingfisher by her friend [[Elisabeth Todir Macleay]].
+Maya Foker is a politically active student pursuing a political science degree at [[St. Ignatius University]], who is brought onto the Kingfisher by her friend [[Elisabeth Todir Macleay]].
 
 ### Personality / Tidbits
 ___
