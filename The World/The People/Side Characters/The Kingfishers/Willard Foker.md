@@ -19,7 +19,7 @@
 ### Dev Notes
 ---
 
-Willard is a student pursuing a degree at [[St. Ignatius University]], who is wrapped up in The Kingfisher's business at the suggestion of his sister Maya, given his photography skills. 
+Willard is a student pursuing a mass communications degree at [[St. Ignatius University]], who is wrapped up in The Kingfisher's business at the suggestion of his sister Maya, given his photography skills. 
 
 ### Personality / Tidbits
 ___ 
