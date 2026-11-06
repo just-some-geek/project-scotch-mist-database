@@ -1,6 +1,6 @@
 **Political association of Sterlian nation-states**
 >[!info] Commonwealth of Sterlian Realms
->![[sterliaFlag.png]]Flag of the Sterlian Commonwealth
+>![[flag_SterlianCommonwealth.svg]]Flag of the Sterlian Commonwealth
 ><h6>Basic Information</h6> 
 ><b>Capital:</b> The City, Great Sterlia
 ></br><b>Working Language:</b> Sterlian
