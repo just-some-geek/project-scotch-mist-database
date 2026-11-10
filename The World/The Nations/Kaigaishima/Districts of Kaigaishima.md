@@ -107,7 +107,7 @@ The East Region is not under the direct control of the Kaigaishiman government, 
 -  Named after Jeff Buckley.
 - 
 ## South Region
-The South Region is the oldest populated region of Kaigaishima, 
+The South Region is the oldest populated region of Kaigaishima, home to around 55% of the territory's population. 
 ##### **Neihu** 
 - 內湖, *inner lake*
 - A
@@ -122,7 +122,7 @@ The South Region is the oldest populated region of Kaigaishima,
 - The district is towered over by the **Valkyrie Peak**, a large hill offering views of Kaigaishima Harbor and the South, West, and Central regions. Informal housing runs up the slopes until culminating in [[Fort Valkyrie]], a walled-in star fortress housing the headquarters of the [[Imperial Broadcasting Service|Imperial Broadcasting Service Eastern Division]].
 ##### **Wanhua** 
 - 艋舺, *outrigger canoe*
-- 
+- Home to the brand-new [[Saint Florence Hospital]] and 
 ##### **Xinyi**
 - 信義, *righteous faith* 
 - The southernmost district of the island is known for the **South Point Lighthouse**, a historic landmark that has guided ships into Kaigaishima's harbors for 200 years. Nowadays, the lighthouse barely peeks over the scrapyard settlements of Shenzhen refugees.
