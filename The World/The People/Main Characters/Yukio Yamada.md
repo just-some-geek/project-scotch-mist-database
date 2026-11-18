@@ -85,6 +85,7 @@ ___
 -  Very shy despite seeming approachable.
 -  Very inconspicuous and can blend in a crowd really well.
 -  Light on their feet and very dexterous.
+-  Design based off of Sayo Kurokawa
 
 ### Quotes
 ___
