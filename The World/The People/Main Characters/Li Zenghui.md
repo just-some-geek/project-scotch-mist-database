@@ -7,8 +7,8 @@
 ><b>Full Name:</b> Li Zenghui</br>
 ><b>Nationality:</b> Kaigaishiman</br>
 ><b>Pronouns:</b> he/him</br>
-><b>Age:</b> 29</br>
-><b>Date of birth:</b> June 19, 1929 </br>
+><b>Age:</b> 34</br>
+><b>Date of birth:</b> June 19, 1924 </br>
   <b>Date of death:</b> April 9, 1958 </br>
 ><b>Height:</b> 5’9</br>
 ><b>Hair:</b> Black
