@@ -101,6 +101,7 @@ ___
 -  Named after a member of the band Omnipotent Youth Society
 -  Blatantly inspired by José Rizal and his character Crisostomo Ibarra, additionally inspired by Jerrold Tarog's depiction of Manuel L. Quezon.
 -  Personality partially inspired by Marty Supreme.
+-  Design based off of Tony Leung Chiu Wai
 -  Lives at No. 2, Red Naxela Terrace in the [[Districts of Kaigaishima#**Taishan**|Taishan]] district.
 
 ### Quotes

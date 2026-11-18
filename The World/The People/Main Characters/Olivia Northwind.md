@@ -82,6 +82,7 @@ ___
 -  She is an alcoholic, yet has no remorse with being one, frequents the [[Wildflour (bar)|Wildflour]].
 -  Can pass the Bechdel Test.
 -  Named Olivia after the Fear and Hunger character of the same name.
+-  Design based after Audrey Hepburn and Emma from Veil 
 
 ### Quotes
 ___
